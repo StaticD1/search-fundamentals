@@ -1,0 +1,3690 @@
+<!DOCTYPE html><html lang="ru"><head><link rel="preconnect" href="https://fonts.gstatic.com"/><title>Футбольный клуб «РОСТОВ» - Главная</title><meta charSet="utf-8"/><meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width"/><meta content="telephone=no" name="format-detection"/><meta name="HandheldFriendly" content="true"/><meta name="mobile-web-app-capable" content="yes"/><link rel="image_src" href="https://fc-rostov.ru/imgs/meta.png"/><meta property="og:image" content="https://fc-rostov.ru/imgs/meta.png"/><meta property="og:url" content="https://fc-rostov.ru"/><meta property="og:title" content="Футбольный клуб «РОСТОВ» - Главная"/><meta name="mrc__share_title" content="Футбольный клуб «РОСТОВ» - Главная"/><meta property="og:image:type" content="image/png"/><meta property="og:type" content="website"/><meta property="og:description" content="Российский футбольный клуб из Ростова-на-Дону. Основан 10 мая 1930 года. Наивысшим достижением в чемпионате России для клуба является 2 место, на котором клуб расположился в чемпионате 2015/16 годов. "/><meta name="description" content="Российский футбольный клуб из Ростова-на-Дону. Основан 10 мая 1930 года. Наивысшим достижением в чемпионате России для клуба является 2 место, на котором клуб расположился в чемпионате 2015/16 годов. "/><meta name="mrc__share_description" content="Российский футбольный клуб из Ростова-на-Дону. Основан 10 мая 1930 года. Наивысшим достижением в чемпионате России для клуба является 2 место, на котором клуб расположился в чемпионате 2015/16 годов. "/><meta name="theme-color" content="#1C3C87"/><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/><link rel="apple-touch-icon" sizes="180x180" href="/imgs/favicon/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="/imgs/favicon/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="/imgs/favicon/favicon-16x16.png"/><link rel="manifest" href="/imgs/favicon/site.webmanifest"/><link rel="mask-icon" href="/imgs/favicon/safari-pinned-tab.svg" color="#5bbad5"/><meta name="msapplication-TileColor" content="#1c3c87"/><meta property="og:image:type" content="image/jpeg"/><meta name="next-head-count" content="26"/><link rel="stylesheet" href="/css/animate.min.css"/><link rel="stylesheet" type="text/css" charSet="UTF-8" href="/css/slick.min.css"/><link rel="stylesheet" type="text/css" href="/css/slick-theme.min.css"/><link rel="stylesheet" type="text/css" href="/css/bootstrap-grid-only.css"/><meta name="mailru-domain" content="mP9eclLnqtjw9kQt"/><script>
+
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js', 'ym');
+
+    ym(75726199, 'init', {webvisor:true, clickmap:true, accurateTrackBounce:true, trackLinks:true});
+</script><link rel="preload" href="/_next/static/css/21ffde4acf120d23.css" as="style"/><link rel="stylesheet" href="/_next/static/css/21ffde4acf120d23.css" data-n-g=""/><link rel="preload" href="/_next/static/css/ae4ed9c503fd1e33.css" as="style"/><link rel="stylesheet" href="/_next/static/css/ae4ed9c503fd1e33.css" data-n-p=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-5cd94c89d3acac5f.js"></script><script src="/_next/static/chunks/webpack-ffe14805007463eb.js" defer=""></script><script src="/_next/static/chunks/framework-c13c72150141a0c9.js" defer=""></script><script src="/_next/static/chunks/main-32bb7d509cf99c2f.js" defer=""></script><script src="/_next/static/chunks/pages/_app-11ace58c58cfdfaf.js" defer=""></script><script src="/_next/static/chunks/cb1608f2-a5d47b04e68c87be.js" defer=""></script><script src="/_next/static/chunks/a9a7754c-440452d03efadabf.js" defer=""></script><script src="/_next/static/chunks/1609-db107211a934de3a.js" defer=""></script><script src="/_next/static/chunks/6066-b3e7e3263c1ba3b1.js" defer=""></script><script src="/_next/static/chunks/8113-37ad6c8eb8db3920.js" defer=""></script><script src="/_next/static/chunks/4803-629a0718afc8216a.js" defer=""></script><script src="/_next/static/chunks/8213-4acaf3803b049dc3.js" defer=""></script><script src="/_next/static/chunks/7894-63074be937f26726.js" defer=""></script><script src="/_next/static/chunks/1529-4e055b07699eaa6a.js" defer=""></script><script src="/_next/static/chunks/1116-0bf9ed414e70e94d.js" defer=""></script><script src="/_next/static/chunks/9763-56703aee6d69e684.js" defer=""></script><script src="/_next/static/chunks/1365-4ad0b17270c2b657.js" defer=""></script><script src="/_next/static/chunks/pages/%5Blocale%5D-81d55e15c4977d00.js" defer=""></script><script src="/_next/static/EFdupKw5AtXIkUKjinAAG/_buildManifest.js" defer=""></script><script src="/_next/static/EFdupKw5AtXIkUKjinAAG/_ssgManifest.js" defer=""></script><script src="/_next/static/EFdupKw5AtXIkUKjinAAG/_middlewareManifest.js" defer=""></script><style id="jss-server-side">.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiSvgIcon-colorPrimary {
+  color: #1C3C87;
+}
+.MuiSvgIcon-colorSecondary {
+  color: #FFED13;
+}
+.MuiSvgIcon-colorAction {
+  color: rgba(0, 0, 0, 0.54);
+}
+.MuiSvgIcon-colorError {
+  color: #ff0000;
+}
+.MuiSvgIcon-colorDisabled {
+  color: rgba(0, 0, 0, 0.26);
+}
+.MuiSvgIcon-fontSizeInherit {
+  font-size: inherit;
+}
+.MuiSvgIcon-fontSizeSmall {
+  font-size: 1.25rem;
+}
+.MuiSvgIcon-fontSizeLarge {
+  font-size: 2.1875rem;
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiButtonBase-root::-moz-focus-inner {
+  border-style: none;
+}
+.MuiButtonBase-root.Mui-disabled {
+  cursor: default;
+  pointer-events: none;
+}
+@media print {
+  .MuiButtonBase-root {
+    color-adjust: exact;
+  }
+}
+
+  .jss9 {  }
+  .jss11 {  }
+  .jss12 {
+    text-align: right;
+    padding-left: 24px;
+  }
+  .jss25 {  }
+  .jss26 {  }
+  .jss27 {
+    text-align: right;
+  }
+  .jss36 {  }
+  .jss45 {  }
+  .jss46 {  }
+  .jss47 {  }
+  .jss48 {  }
+  .jss49 {  }
+  .jss50 {  }
+  .jss51 {  }
+  .jss52 {  }
+  .jss53 {  }
+  .jss54 {  }
+  .jss55 {  }
+  .jss56 {  }
+  .jss57 {  }
+  .jss58 {  }
+  .jss59 {  }
+  .jss65 {
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+  .jss74 {  }
+  .jss135 {  }
+  .jss136 {
+    padding-top: 16px;
+  }
+  .jss140 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .jss141 {  }
+  .jss142 {  }
+  .jss143 {  }
+  .jss144 {
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .jss145 {
+    padding-left: 0;
+  }
+  .jss153 {
+    padding-top: 40px;
+    padding-left: 0;
+  }
+  .jss161 {
+    padding-top: 16px;
+    padding-left: 0;
+  }
+  .jss163 {  }
+  .jss164 {  }
+  .jss165 {
+    padding-top: 8px;
+    padding-bottom: 24px;
+  }
+  .jss166 {
+    padding-bottom: 16px;
+  }
+  .jss179 {
+    padding-bottom: 24px;
+  }
+  .jss180 {
+    padding-top: 24px;
+  }
+  .jss181 {  }
+  .jss182 {  }
+  .jss190 {
+    padding-top: 24px;
+  }
+  .jss191 {  }
+  .jss192 {  }
+  .jss193 {
+    padding-top: 24px;
+  }
+  .jss203 {  }
+  .jss204 {
+    padding-bottom: 24px;
+  }
+  .jss205 {  }
+  .jss206 {  }
+  .jss207 {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .jss208 {  }
+  .jss209 {  }
+  .jss216 {  }
+  .jss217 {  }
+  .jss218 {  }
+  .jss219 {  }
+  .jss220 {  }
+  .jss221 {  }
+  .jss222 {  }
+  .jss223 {  }
+  .jss224 {  }
+  .jss225 {  }
+  .jss226 {  }
+  .jss227 {  }
+  .jss228 {  }
+  .jss229 {  }
+  .jss230 {  }
+  .jss231 {  }
+  .jss233 {
+    padding-bottom: 16px;
+  }
+  .jss234 {  }
+  .MuiButton-root {
+    color: rgba(0, 0, 0, 0.87);
+    height: 44px;
+    padding: 6px 16px;
+    font-size: 16px;
+    min-width: 64px;
+    box-sizing: border-box;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-family: 'Exo 2', 'sans-serif';
+    font-weight: 600;
+    line-height: 1;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+  .MuiButton-root:hover {
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .MuiButton-root.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-root:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-root:hover.Mui-disabled {
+    background-color: transparent;
+  }
+  .MuiButton-label {
+    width: 100%;
+    display: inherit;
+    align-items: inherit;
+    justify-content: inherit;
+  }
+  .MuiButton-text {
+    color: #778AB7;
+    height: auto;
+    padding: 4px 10px;
+    font-size: 16px;
+    min-width: 10px;
+    font-weight: 300;
+    text-transform: inherit;
+    text-decoration: inherit;
+  }
+  .MuiButton-text:hover {
+    color: #1C3C87;
+    background: transparent;
+  }
+  .MuiButton-text [class*='general_icons']  {
+    font-size: 1.5em;
+  }
+  .MuiButton-textPrimary {
+    color: #1C3C87;
+  }
+  .MuiButton-textPrimary:hover {
+    background-color: rgba(28, 60, 135, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-textSecondary {
+    color: #FFED13;
+  }
+  .MuiButton-textSecondary:hover {
+    background-color: rgba(255, 237, 19, 0.04);
+  }
+@media (hover: none) {
+  .MuiButton-textSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlined {
+    border: 1px solid rgba(0, 0, 0, 0.23);
+    padding: 5px 15px;
+  }
+  .MuiButton-outlined.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-outlinedPrimary {
+    color: #1C3C87;
+    border: 1px solid rgba(28, 60, 135, 0.5);
+  }
+  .MuiButton-outlinedPrimary:hover {
+    color: #3F60AF;
+    border: 1px solid #3F60AF;
+    box-shadow: none;
+    background-color: rgba(19, 42, 94,0);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedPrimary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-outlinedSecondary {
+    color: #FFED13;
+    border: 1px solid rgba(255, 237, 19, 0.5);
+  }
+  .MuiButton-outlinedSecondary:hover {
+    border: 1px solid #FFED13;
+    background-color: rgba(255, 237, 19, 0.04);
+  }
+  .MuiButton-outlinedSecondary.Mui-disabled {
+    border: 1px solid rgba(0, 0, 0, 0.26);
+  }
+@media (hover: none) {
+  .MuiButton-outlinedSecondary:hover {
+    background-color: transparent;
+  }
+}
+  .MuiButton-contained {
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: none!important;
+    background-color: #e0e0e0;
+  }
+  .MuiButton-contained:hover {
+    color: #FFED13;
+    box-shadow: none;
+    background-color: #d5d5d5;
+  }
+  .MuiButton-contained.Mui-focusVisible {
+    box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained:active {
+    box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+  }
+  .MuiButton-contained.Mui-disabled {
+    color: rgba(0, 0, 0, 0.26);
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+@media (hover: none) {
+  .MuiButton-contained:hover {
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+  }
+}
+  .MuiButton-contained:hover.Mui-disabled {
+    background-color: rgba(0, 0, 0, 0.12);
+  }
+  .MuiButton-containedPrimary {
+    color: #fff;
+    background-color: #1C3C87;
+  }
+  .MuiButton-containedPrimary:hover {
+    background-color: rgb(19, 42, 94);
+  }
+@media (hover: none) {
+  .MuiButton-containedPrimary:hover {
+    background-color: #1C3C87;
+  }
+}
+  .MuiButton-containedSecondary {
+    color: #1C3C87;
+    background-color: #FFED13;
+  }
+  .MuiButton-containedSecondary:hover {
+    color: #1C3C87;
+    box-shadow: none;
+    background-color: rgb(178, 165, 13);
+  }
+@media (hover: none) {
+  .MuiButton-containedSecondary:hover {
+    background-color: #FFED13;
+  }
+}
+  .MuiButton-disableElevation {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:hover {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-focusVisible {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation:active {
+    box-shadow: none;
+  }
+  .MuiButton-disableElevation.Mui-disabled {
+    box-shadow: none;
+  }
+  .MuiButton-colorInherit {
+    color: inherit;
+    border-color: currentColor;
+  }
+  .MuiButton-textSizeSmall {
+    padding: 4px 5px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-textSizeLarge {
+    padding: 8px 11px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-outlinedSizeSmall {
+    padding: 3px 9px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-outlinedSizeLarge {
+    padding: 7px 21px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-containedSizeSmall {
+    padding: 4px 10px;
+    font-size: 0.8125rem;
+  }
+  .MuiButton-containedSizeLarge {
+    padding: 8px 22px;
+    font-size: 0.9375rem;
+  }
+  .MuiButton-sizeSmall {
+    height: 40px;
+    padding: 3px;
+    min-width: 40px;
+    border-color: #C3D3E6;
+  }
+  .MuiButton-fullWidth {
+    width: 100%;
+    text-align: center;
+  }
+  .MuiButton-startIcon {
+    display: inherit;
+    margin-left: -4px;
+    margin-right: 8px;
+  }
+  .MuiButton-startIcon.MuiButton-iconSizeSmall {
+    margin-left: -2px;
+  }
+  .MuiButton-endIcon {
+    display: inherit;
+    margin-left: 8px;
+    margin-right: -4px;
+  }
+  .MuiButton-endIcon.MuiButton-iconSizeSmall {
+    margin-right: -2px;
+  }
+  .MuiButton-iconSizeSmall > *:first-child {
+    font-size: 18px;
+  }
+  .MuiButton-iconSizeMedium > *:first-child {
+    font-size: 20px;
+  }
+  .MuiButton-iconSizeLarge > *:first-child {
+    font-size: 22px;
+  }
+  .MuiContainer-root {
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+@media (min-width:600px) {
+  .MuiContainer-root {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+  .MuiContainer-disableGutters {
+    padding-left: 0;
+    padding-right: 0;
+  }
+@media (min-width:600px) {
+  .MuiContainer-fixed {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-fixed {
+    max-width: 960px;
+  }
+}
+@media (min-width:1220px) {
+  .MuiContainer-fixed {
+    max-width: 1220px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-fixed {
+    max-width: 1920px;
+  }
+}
+@media (min-width:0px) {
+  .MuiContainer-maxWidthXs {
+    max-width: 444px;
+  }
+}
+@media (min-width:600px) {
+  .MuiContainer-maxWidthSm {
+    max-width: 600px;
+  }
+}
+@media (min-width:960px) {
+  .MuiContainer-maxWidthMd {
+    max-width: 960px;
+  }
+}
+@media (min-width:1220px) {
+  .MuiContainer-maxWidthLg {
+    max-width: 1220px;
+  }
+}
+@media (min-width:1920px) {
+  .MuiContainer-maxWidthXl {
+    max-width: 1920px;
+  }
+}
+  html {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
+  strong, b {
+    font-weight: 700;
+  }
+  body {
+    color: rgba(0, 0, 0, 0.87);
+    margin: 0;
+    font-size: 0.875rem;
+    font-family: 'Exo 2', 'sans-serif';
+    font-weight: 400;
+    line-height: 1.43;
+    background-color: #fff;
+  }
+@media print {
+  body {
+    background-color: #fff;
+  }
+}
+  body::backdrop {
+    background-color: #fff;
+  }
+  .MuiDrawer-root {
+    z-index: 10;
+  }
+  .MuiDrawer-docked {
+    flex: 0 0 auto;
+  }
+  .MuiDrawer-paper {
+    top: 0;
+    flex: 1 0 auto;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    outline: 0;
+    z-index: 1200;
+    position: fixed;
+    max-width: 510px;
+    overflow-y: auto;
+    flex-direction: column;
+    background-color: #081E51;
+    -webkit-overflow-scrolling: touch;
+  }
+  .MuiDrawer-paperAnchorLeft {
+    left: 0;
+    right: auto;
+  }
+  .MuiDrawer-paperAnchorRight {
+    left: auto;
+    right: 0;
+  }
+  .MuiDrawer-paperAnchorTop {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: auto;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorBottom {
+    top: auto;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: auto;
+    max-height: 100%;
+  }
+  .MuiDrawer-paperAnchorDockedLeft {
+    border-right: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedTop {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedRight {
+    border-left: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiDrawer-paperAnchorDockedBottom {
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .MuiGrid-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+  }
+  .MuiGrid-item {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  .MuiGrid-zeroMinWidth {
+    min-width: 0;
+  }
+  .MuiGrid-direction-xs-column {
+    flex-direction: column;
+  }
+  .MuiGrid-direction-xs-column-reverse {
+    flex-direction: column-reverse;
+  }
+  .MuiGrid-direction-xs-row-reverse {
+    flex-direction: row-reverse;
+  }
+  .MuiGrid-wrap-xs-nowrap {
+    flex-wrap: nowrap;
+  }
+  .MuiGrid-wrap-xs-wrap-reverse {
+    flex-wrap: wrap-reverse;
+  }
+  .MuiGrid-align-items-xs-center {
+    align-items: center;
+  }
+  .MuiGrid-align-items-xs-flex-start {
+    align-items: flex-start;
+  }
+  .MuiGrid-align-items-xs-flex-end {
+    align-items: flex-end;
+  }
+  .MuiGrid-align-items-xs-baseline {
+    align-items: baseline;
+  }
+  .MuiGrid-align-content-xs-center {
+    align-content: center;
+  }
+  .MuiGrid-align-content-xs-flex-start {
+    align-content: flex-start;
+  }
+  .MuiGrid-align-content-xs-flex-end {
+    align-content: flex-end;
+  }
+  .MuiGrid-align-content-xs-space-between {
+    align-content: space-between;
+  }
+  .MuiGrid-align-content-xs-space-around {
+    align-content: space-around;
+  }
+  .MuiGrid-justify-content-xs-center {
+    justify-content: center;
+  }
+  .MuiGrid-justify-content-xs-flex-end {
+    justify-content: flex-end;
+  }
+  .MuiGrid-justify-content-xs-space-between {
+    justify-content: space-between;
+  }
+  .MuiGrid-justify-content-xs-space-around {
+    justify-content: space-around;
+  }
+  .MuiGrid-justify-content-xs-space-evenly {
+    justify-content: space-evenly;
+  }
+  .MuiGrid-spacing-xs-1 {
+    width: calc(100% + 8px);
+    margin: -4px;
+  }
+  .MuiGrid-spacing-xs-1 > .MuiGrid-item {
+    padding: 4px;
+  }
+  .MuiGrid-spacing-xs-2 {
+    width: calc(100% + 16px);
+    margin: -8px;
+  }
+  .MuiGrid-spacing-xs-2 > .MuiGrid-item {
+    padding: 8px;
+  }
+  .MuiGrid-spacing-xs-3 {
+    width: calc(100% + 24px);
+    margin: -12px;
+  }
+  .MuiGrid-spacing-xs-3 > .MuiGrid-item {
+    padding: 12px;
+  }
+  .MuiGrid-spacing-xs-4 {
+    width: calc(100% + 32px);
+    margin: -16px;
+  }
+  .MuiGrid-spacing-xs-4 > .MuiGrid-item {
+    padding: 16px;
+  }
+  .MuiGrid-spacing-xs-5 {
+    width: calc(100% + 40px);
+    margin: -20px;
+  }
+  .MuiGrid-spacing-xs-5 > .MuiGrid-item {
+    padding: 20px;
+  }
+  .MuiGrid-spacing-xs-6 {
+    width: calc(100% + 48px);
+    margin: -24px;
+  }
+  .MuiGrid-spacing-xs-6 > .MuiGrid-item {
+    padding: 24px;
+  }
+  .MuiGrid-spacing-xs-7 {
+    width: calc(100% + 56px);
+    margin: -28px;
+  }
+  .MuiGrid-spacing-xs-7 > .MuiGrid-item {
+    padding: 28px;
+  }
+  .MuiGrid-spacing-xs-8 {
+    width: calc(100% + 64px);
+    margin: -32px;
+  }
+  .MuiGrid-spacing-xs-8 > .MuiGrid-item {
+    padding: 32px;
+  }
+  .MuiGrid-spacing-xs-9 {
+    width: calc(100% + 72px);
+    margin: -36px;
+  }
+  .MuiGrid-spacing-xs-9 > .MuiGrid-item {
+    padding: 36px;
+  }
+  .MuiGrid-spacing-xs-10 {
+    width: calc(100% + 80px);
+    margin: -40px;
+  }
+  .MuiGrid-spacing-xs-10 > .MuiGrid-item {
+    padding: 40px;
+  }
+  .MuiGrid-grid-xs-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xs-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xs-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xs-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xs-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xs-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xs-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xs-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xs-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xs-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xs-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xs-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xs-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xs-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+@media (min-width:600px) {
+  .MuiGrid-grid-sm-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-sm-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-sm-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-sm-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-sm-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-sm-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-sm-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-sm-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-sm-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-sm-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-sm-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-sm-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-sm-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-sm-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:960px) {
+  .MuiGrid-grid-md-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-md-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-md-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-md-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-md-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-md-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-md-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-md-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-md-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-md-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-md-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-md-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-md-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-md-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1220px) {
+  .MuiGrid-grid-lg-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-lg-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-lg-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-lg-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-lg-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-lg-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-lg-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-lg-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-lg-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-lg-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-lg-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-lg-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-lg-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-lg-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+@media (min-width:1920px) {
+  .MuiGrid-grid-xl-auto {
+    flex-grow: 0;
+    max-width: none;
+    flex-basis: auto;
+  }
+  .MuiGrid-grid-xl-true {
+    flex-grow: 1;
+    max-width: 100%;
+    flex-basis: 0;
+  }
+  .MuiGrid-grid-xl-1 {
+    flex-grow: 0;
+    max-width: 8.333333%;
+    flex-basis: 8.333333%;
+  }
+  .MuiGrid-grid-xl-2 {
+    flex-grow: 0;
+    max-width: 16.666667%;
+    flex-basis: 16.666667%;
+  }
+  .MuiGrid-grid-xl-3 {
+    flex-grow: 0;
+    max-width: 25%;
+    flex-basis: 25%;
+  }
+  .MuiGrid-grid-xl-4 {
+    flex-grow: 0;
+    max-width: 33.333333%;
+    flex-basis: 33.333333%;
+  }
+  .MuiGrid-grid-xl-5 {
+    flex-grow: 0;
+    max-width: 41.666667%;
+    flex-basis: 41.666667%;
+  }
+  .MuiGrid-grid-xl-6 {
+    flex-grow: 0;
+    max-width: 50%;
+    flex-basis: 50%;
+  }
+  .MuiGrid-grid-xl-7 {
+    flex-grow: 0;
+    max-width: 58.333333%;
+    flex-basis: 58.333333%;
+  }
+  .MuiGrid-grid-xl-8 {
+    flex-grow: 0;
+    max-width: 66.666667%;
+    flex-basis: 66.666667%;
+  }
+  .MuiGrid-grid-xl-9 {
+    flex-grow: 0;
+    max-width: 75%;
+    flex-basis: 75%;
+  }
+  .MuiGrid-grid-xl-10 {
+    flex-grow: 0;
+    max-width: 83.333333%;
+    flex-basis: 83.333333%;
+  }
+  .MuiGrid-grid-xl-11 {
+    flex-grow: 0;
+    max-width: 91.666667%;
+    flex-basis: 91.666667%;
+  }
+  .MuiGrid-grid-xl-12 {
+    flex-grow: 0;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+}
+  .jss194 {
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    background-color: #E4ECF7;
+  }
+  .jss195 {
+    color: #1C3C87;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss195 {
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+  .jss196 {
+    max-width: 100%;
+  }
+  .jss197 {
+    left: 50%;
+    z-index: 2;
+    position: absolute;
+    max-width: 100%;
+    transform: translateX(-50%);
+  }
+  .jss197:hover {
+    opacity: 0;
+  }
+  .jss198 {
+    height: 100px;
+    position: relative;
+  }
+  .jss198 img {
+    max-width: 100%;
+  }
+  .jss199 {
+    height: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  .jss199 img {
+    max-width: auto;
+    max-height: 40px;
+  }
+  .jss200 {
+    position: relative;
+  }
+  .jss200:before {
+    top: 50%;
+    right: 0;
+    width: 2px;
+    height: 68px;
+    content: '';
+    position: absolute;
+    transform: translateY(-50%);
+    border-right: 2px dotted #C3D3E6;
+  }
+  .jss200:last-child::before {
+    content: none;
+  }
+  .jss201 {
+    filter: grayscale(1) invert(23%) sepia(47%) saturate(450%) hue-rotate(165deg) brightness(72%) contrast(100%);
+    height: 100%;
+    opacity: 0.85;
+    padding: 5px;
+    position: relative;
+    min-height: 150px;
+    padding-left: 30px;
+    border-radius: 16px;
+    padding-right: 30px;
+  }
+  .jss201:hover {
+    filter: none;
+    opacity: 1;
+    background-color: #fff;
+  }
+  .jss201 a {
+    width: 100%;
+    display: inline-block;
+  }
+  .jss201 img {
+    max-width: 100%;
+  }
+@media (max-width:959.95px) {
+  .jss201 {
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+  .jss202 {
+    align-items: stretch;
+    align-content: stretch;
+  }
+  .jss202.type6 .item {
+    width: 16%;
+    text-align: center;
+  }
+  .jss202.type5 .item {
+    width: 20%;
+    text-align: center;
+  }
+  .jss202.type4 .item {
+    width: 25%;
+    text-align: center;
+  }
+  .jss202.type1 .item {
+    width: 100%;
+    text-align: center;
+  }
+  .jss202.type1 .item::before {
+    content: none;
+  }
+  .jss106 {
+    transition-duration: 0.35s;
+  }
+  .jss106:hover {
+    box-shadow: 0px 8px 15px rgba(81, 113, 188, 0.2);
+  }
+  .jss106:hover .arrow {
+    color: #1C3C87;
+  }
+  .jss106:hover .img {
+    transform: scale(1.1);
+  }
+  .jss107 {
+    top: 15px;
+    left: 15px;
+    color: #fff;
+    cursor: pointer;
+    position: absolute;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+  }
+  .jss107 .btn {
+    padding: 5px;
+    margin-right: 10px;
+    background-color: #FFE93F;
+  }
+  .jss108 {
+    overflow: visible;
+    max-width: 100%;
+    background: url("/imgs/bg_auth.png") no-repeat center top #1C3C87;
+    min-height: 100vh;
+    background-size: cover;
+  }
+  .jss109 {
+    color: #5C5C5C;
+    margin: 0 auto;
+    padding: 45px;
+    font-size: 14px;
+    max-width: 460px;
+    background: #fff;
+    border-radius: 16px;
+    margin-bottom: 25px;
+  }
+  .jss109 a {
+    color: #1C3C87;
+  }
+@media (max-width:959.95px) {
+  .jss109 {
+    padding: 20px;
+  }
+}
+  .jss110 {
+    border: none;
+  }
+  .jss111 {
+    color: #1C3C87;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss111 {
+    font-size: 24px;
+  }
+}
+  .jss112 {
+    color: #1C3C87;
+    font-size: 25px;
+    text-align: left;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss112 {
+    font-size: 20px;
+  }
+}
+  .jss113 {
+    color: #5C5C5C;
+    font-size: 25px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss113 {
+    font-size: 20px;
+  }
+}
+  .jss114 {
+    color: #5C5C5C;
+    font-size: 16px;
+    font-weight: 500;
+  }
+@media (max-width:959.95px) {
+  .jss114 {
+    font-size: 14px;
+  }
+}
+  .jss115 {
+    border: 8px solid #000000;
+    display: inline-block;
+    position: relative;
+    max-width: 100%;
+    border-radius: 20px;
+  }
+  .jss116 {
+    user-select: none;
+  }
+  .jss116 .title {
+    color: rgba(159, 173, 205, 1);
+    font-size: 22px;
+    padding-bottom: 0;
+  }
+@media (max-width:599.95px) {
+  .jss116 .title {
+    font-size: 16px;
+  }
+}
+  .jss117 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+  .jss117 img {
+    max-width: 100%;
+    text-align: center;
+  }
+@media (max-width:599.95px) {
+  .jss117 {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+  }
+}
+  .jss118 {
+    color: rgba(28, 60, 135, 1);
+    width: 100%;
+    display: block;
+    font-size: 28px;
+    font-width: 900;
+    align-items: center;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+  }
+@media (max-width:599.95px) {
+  .jss118 {
+    font-size: 22px;
+  }
+}
+  .jss119 {
+    color: #1C3C87;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  .jss120 {
+    color: #778AB7;
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss120 {
+    font-size: 14px;
+  }
+}
+  .jss121 a {
+    color: #707070;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: underline;
+  }
+  .jss122 {
+    color: #1C3C87;
+    font-size: 25px;
+    font-weight: 600;
+    margin-left: 20px;
+    padding-top: 5px;
+    text-transform: uppercase;
+  }
+@media (max-width:599.95px) {
+  .jss122 {
+    font-size: 25px;
+    margin-left: 0;
+  }
+}
+  .jss123 {
+    border: 1px solid #C3D3E6;
+    height: 100%;
+    padding: 25px;
+    overflow: hidden;
+    margin-left: 20px;
+    border-radius: 16px;
+  }
+@media (max-width:959.95px) {
+  .jss123 {
+    padding: 15px;
+    margin-left: 0;
+  }
+}
+  .jss124 {
+    width: 100%;
+    padding: 0;
+    list-style: none;
+    font-weight: 500;
+    border-bottom: 1px solid #C3D3E6;
+    text-transform: uppercase;
+  }
+  .jss124 li {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-bottom: -1px;
+  }
+  .jss124 a {
+    color: #778AB7;
+    padding: 5px 0px;
+    font-size: 15px;
+    text-decoration: none;
+  }
+  .jss124 li:first-child {
+    padding-left: 0;
+  }
+  .jss124 li:first-child a {
+    padding-left: 0;
+  }
+  .jss124 li.active a {
+    color: #1C3C87;
+    border-bottom: 2px solid #1C3C87;
+  }
+  .jss125 {
+    width: 100%;
+    height: 7px;
+    background: url('/imgs/line.png') repeat-x center left transparent;
+  }
+  .jss126 {
+    width: 100%;
+    padding-top: 25px;
+    margin-bottom: 0px!important;
+  }
+  .jss126 label {
+    color: #A3A3A3;
+    font-size: 16px;
+    transform: none!important;
+    font-weight: 500;
+  }
+  .jss127 span {
+    line-height: 1.1;
+  }
+  .jss128 {
+    margin-left: 0;
+    user-select: none;
+    margin-right: 0;
+    margin-bottom: 20px;
+    --ReactInputVerificationCode-itemWidth: 3rem;
+    --ReactInputVerificationCode-itemHeight: 3.5rem;
+    --ReactInputVerificationCode-itemSpacing: 1rem;
+  }
+  .jss128 .ReactInputVerificationCode__item {
+    color: #1c3c87;
+    background: #D8E0EA;
+    box-shadow: none;
+  }
+  .jss128 .ReactInputVerificationCode__item.is-active {
+    color: #fff;
+    background: rgba(28, 60, 135,1);
+    box-shadow: none;
+  }
+  .jss129 {
+    color: #666666;
+    font-size: 17px;
+    text-align: justify;
+    font-weight: 400;
+  }
+  .jss129 .line {
+    width: 100%;
+    height: 7px;
+    background: url('/imgs/line.png') repeat-x center left transparent;
+  }
+  .jss129 img {
+    max-width: 100%;
+  }
+  .jss129 .border {
+    border: 1px solid #1C3C87;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 16px;
+  }
+  .jss129 .text-center {
+    text-align: center;
+  }
+  .jss129 .text-left {
+    text-align: left;
+  }
+  .jss129 .text-right {
+    text-align: right;
+  }
+  .jss129 b {
+    color: #1C3C87;
+    font-weight: 600;
+  }
+  .jss129 h2 {
+    color: #1C3C87;
+    max-width: 950px;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+  }
+  .jss129 h3 {
+    color: #1C3C87;
+    max-width: 950px;
+    margin-top: 10px;
+    text-align: left;
+    font-weight: 600;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+  }
+  .jss129 h4 {
+    color: #1C3C87;
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+    text-transform: uppercase;
+  }
+  .jss129 h5 {
+    font-size: 18px;
+    text-align: left;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding-bottom: 0;
+    text-transform: uppercase;
+  }
+  .jss129 a {
+    color: #2F80ED;
+    font-weight: 600;
+    text-decoration: underline;
+  }
+  .jss129 small {
+    display: inline-block;
+    font-size: 14px;
+    line-height: 1.2!important;
+  }
+  .jss129 .button {
+    color: #fff;
+    display: inline-block;
+    padding: 15px;
+    background: #1C3C87;
+    margin-top: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  .jss129 .accordion {
+    color: #666;
+    border: 1px solid #C3D3E6;
+    padding: 30px;
+    margin-top: 30px;
+    font-weight: 400;
+    padding-left: 50px;
+    border-radius: 16px;
+    margin-bottom: 30px;
+  }
+  .jss129 .tables {
+    color: #666;
+    border: 1px solid #C3D3E6;
+    padding: 15px;
+    margin-top: 15px;
+    font-weight: 400;
+    border-radius: 16px;
+    margin-bottom: 15px;
+  }
+  .jss129 table th {
+    padding: 15px;
+    border-bottom: 1px solid #C3D3E6;
+    text-transform: uppercase;
+    vertical-align: top;
+  }
+  .jss129 table td {
+    padding: 15px;
+    border-bottom: 1px solid #C3D3E6;
+    vertical-align: top;
+  }
+  .jss129 table tr:last-child td {
+    border-bottom: none;
+  }
+  .jss129 .buble {
+    width: 100%;
+    border: 2px solid #E4ECF7;
+    position: relative;
+    border-radius: 100%;
+    padding-bottom: 100%;
+  }
+  .jss129 .flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .jss129 .text-decoration-none {
+    text-decoration: none;
+    background-color: #E4ECF7;
+  }
+  .jss129 .bg-blue {
+    background-color: #E4ECF7;
+  }
+  .jss129 .py-1 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+  .jss129 .py-2 {
+    padding-top: 2em;
+    padding-bottom: 2em;
+  }
+  .jss129 .px-1 {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  .jss129 .my-1 {
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  .jss129 .px-2 {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+  .jss129 .pt-2 {
+    padding-top: 2em;
+  }
+  .jss129 .panels {
+    margin: 10px;
+    padding: 25px 15px;
+    text-align: center;
+    border-radius: 12px;
+    background-color: #fff;
+  }
+@media (max-width:1219.95px) {
+  .jss129 .panels {
+    margin: 15px 0px;
+  }
+}
+  .jss129 .panels hr {
+    margin-top: 15px;
+  }
+  .jss129 .panels .name {
+    color: #1C3C87;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .jss129 .panels .ver {
+    color: rgba(119, 138, 183, 1);
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.1;
+    padding-top: 15px;
+  }
+  .jss129 .panels .size {
+    color: rgba(92, 92, 92, 1);
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 5px;
+  }
+  .jss129 .panels .link {
+    color: #1C3C87;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 5px;
+    text-decoration: underline;
+  }
+  .jss129 .panels .price {
+    color: #1C3C87;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .jss129 .panels .desc-price {
+    color: rgba(119, 138, 183, 1);
+    font-size: 18px;
+    font-weight: 600;
+    padding-top: 10px;
+  }
+  .jss129 .panels .desc {
+    color: rgba(92, 92, 92, 1);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.2;
+  }
+@media (max-width:959.95px) {
+  .jss129 .panels .desc {
+    font-size: 12px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss129 .panels .price {
+    font-size: 25px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss129 .panels .size {
+    font-size: 16px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .panels .size {
+    font-size: 18px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss129 .panels .ver {
+    font-size: 14px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .panels .ver {
+    font-size: 14px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss129 .panels .name {
+    font-size: 16px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .panels .name {
+    font-size: 16px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .pt-2 {
+    padding-top: 1em;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .px-2 {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .accordion-xs {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+@media (min-width:600px) {
+  .jss129 .visible-xs {
+    display: none;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .hidden-xs {
+    display: none;
+  }
+}
+  .jss129 .flex .col {
+    flex: 1 1 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .jss129 .flex .col:first-child {
+    padding-left: 0;
+  }
+  .jss129 .flex .col:last-child {
+    padding-right: 0;
+  }
+@media (max-width:959.95px) {
+  .jss129 .buble {
+    width: 95%;
+    margin: 10px auto;
+    padding-bottom: 95%;
+  }
+}
+  .jss129 .buble>div {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    position: absolute;
+    align-items: center;
+    align-content: center;
+    justify-align: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .jss129 .buble .name {
+    color: #1C3C87;
+    font-size: 38px;
+    font-weight: 600;
+    word-spacing: nowrap;
+  }
+  .jss129 .buble .small {
+    color: #5C5C5C;
+    padding: 0px 10px;
+    font-size: 16px;
+    font-weight: 600;
+  }
+@media (max-width:959.95px) {
+  .jss129 .buble .small {
+    font-size: 16px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .buble .small {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1;
+  }
+}
+@media (max-width:959.95px) {
+  .jss129 .buble .name {
+    font-size: 30px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss129 .buble .name {
+    font-size: 18px;
+  }
+}
+  .jss129 .accordion h3 {
+    margin-bottom: 10px;
+    padding-bottom: 0;
+  }
+  .jss129 .button:hover {
+    color: #FFED13;
+    background: rgb(19, 42, 94);
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  }
+  .jss129 h3.text-center {
+    max-width: 100%;
+    text-align: center;
+  }
+  .jss129 h2.text-center {
+    max-width: 100%;
+    text-align: center;
+  }
+  .jss130 {
+    color: #666666;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .jss130.block {
+    font-size: 15px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  .jss130 b {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+  }
+  .jss130.block b {
+    font-size: 20px;
+  }
+  .jss131 {
+    color: #666;
+    font-size: 16px;
+    margin-top: 10px;
+    font-weight: 400;
+    padding-top: 30px;
+    border-bottom: 1px solid #C3D3E6;
+    padding-bottom: 40px;
+  }
+  .jss131:last-child {
+    border-bottom: none;
+  }
+  .jss131 img {
+    max-width: 100%;
+    margin-top: 10px;
+  }
+  .jss131.sponsor_grid1 {
+    border: 1px solid #C3D3E6;
+    margin: 0;
+    padding: 60px;
+    border-radius: 16px;
+    margin-bottom: 30px;
+  }
+@media (max-width:959.95px) {
+  .jss131.sponsor_grid1 {
+    padding: 25px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss131.sponsor_grid1 {
+    padding: 15px;
+  }
+}
+  .jss132 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .jss133 {
+    color: #2F80ED;
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight: 500;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-decoration: underline;
+  }
+@media (max-width:599.95px) {
+  .jss133 {
+    text-align: left!important;
+  }
+}
+  .jss134 {
+    overflow: visible!important;
+  }
+  .jss137 {
+    top: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    z-index: 2;
+    position: absolute;
+    user-select: none;
+    border-radius: 16px;
+  }
+  .jss137 img {
+    margin: 0;
+    display: block;
+    max-width: 100%;
+    transform: translateZ(0);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 16px;
+  }
+  .jss137 a, .jss137 div, .jss137 a:active, .jss137 a:focus, .jss137 a:focused {
+    border: none!important;
+    background: transparent!important;
+    box-shadow: none!important;
+    user-select: none!important;
+    text-decoration: none!important;
+  }
+  .jss137 .slick-slider {
+    height: 100%;
+  }
+  .jss137 .slick-list {
+    height: 100%!important;
+  }
+   .jss137 .slick-track {
+    height: 100%!important;
+    transform: translateZ(0) scale(1.0, 1.0);
+    will-change: transform;
+    backface-visibility: hidden;
+  }
+  .jss137 .slick-track .slick-slide {
+    height: 100%!important;
+  }
+@media (max-width:959.95px) {
+  .jss137 {
+    text-align: center;
+  }
+}
+  .jss137 .slick-track .slick-slide>div {
+    height: 100%!important;
+  }
+  .jss137 .slick-track .slick-slide>div>a {
+    width: 100%;
+    height: 100%!important;
+    display: block;
+  }
+   .jss137 .slick-track img {
+    transform: translateZ(0) scale(1.0, 1.0);
+    backface-visibility: hidden;
+  }
+  .jss138 {
+    color: #79674B;
+    font-size: 25px;
+    font-weight: 500;
+  }
+@media (max-width:959.95px) {
+  .jss138 {
+    font-size: 18px;
+  }
+}
+  .jss139 {
+    width: 100%;
+    margin: 0;
+    display: block;
+    padding: 0;
+  }
+  .jss139 .md {
+    width: 100%;
+  }
+  .jss139 .lg {
+    width: 100%;
+  }
+@media (max-width:696.95px) {
+  .jss139 .lg {
+    display: none;
+  }
+}
+@media (min-width:697px) {
+  .jss139 .md {
+    display: none;
+  }
+}
+  .jss1 {
+    padding: 0;
+  }
+  .jss2 {
+    padding: 0;
+  }
+  .jss3 {
+    width: 100%;
+    display: block;
+    padding: 10px 7px;
+    z-index: 100;
+    overflow: hidden;
+    position: relative;
+    background: #E4ECF7;
+  }
+  .jss3 img {
+    margin: 0;
+    display: block;
+    padding: 0;
+  }
+  .jss4 {
+    background: #ccc;
+  }
+  .jss5 {
+    color: #1C3C87;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1;
+  }
+  .jss6 {
+    color: #778AB7;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1;
+  }
+  .jss7 {
+    color: #889AC1;
+    width: 100%;
+    height: 35px;
+    z-index: 1;
+    font-size: 16px;
+    background: #F4F7FB;
+    font-weight: 500;
+    line-height: 1;
+  }
+  .jss7 img {
+    margin-right: 15px;
+  }
+  .jss7 a {
+    color: inherit;
+    text-decoration: inherit;
+  }
+@media (max-width:959.95px) {
+  .jss7 {
+    display: none;
+    font-size: 14px;
+  }
+}
+  .jss8 {
+    margin: 0;
+    padding: 0;
+    min-width: 35px;
+  }
+  .jss10 {
+    margin: 5px;
+    padding: 0;
+    min-width: 0;
+  }
+  .jss10.V1 {
+    color: #fff!important;
+    width: 25px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: 25px;
+    background-color: #889AC1;
+  }
+  .jss10.V2 {
+    color: #1C3C87!important;
+    width: 35px;
+    height: 35px;
+    font-size: 20px;
+    border-radius: 35px;
+    background-color: #fff;
+  }
+  .jss10.V3 {
+    color: #06153A!important;
+    width: 35px;
+    height: 35px;
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 35px;
+    background-color: #889AC1;
+  }
+  .jss10.V3:hover {
+    background-color: #fff;
+  }
+  .jss10.V2:hover {
+    background-color: #fff;
+  }
+@media (max-width:959.95px) {
+  .jss10.V2 {
+    width: 20px;
+    height: 20px;
+    font-size: 11px;
+  }
+}
+  .jss10.V1:hover {
+    background-color: #889AC1;
+  }
+@media (max-width:959.95px) {
+  .jss10.V1 {
+    width: 20px;
+    height: 20px;
+    font-size: 12px;
+  }
+}
+  .jss28 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+  }
+  .jss28 a {
+    text-decoration: none;
+  }
+@media (max-width:959.95px) {
+  .jss28 {
+    padding-top: 15px;
+    padding-bottom: 0;
+  }
+}
+  .jss29 {
+    text-decoration: none;
+  }
+  .jss30 {
+    width: 110px;
+    padding-right: 30px;
+  }
+@media (max-width:959.95px) {
+  .jss30 {
+    max-width: 100px;
+  }
+}
+  .jss31 {
+    color: #1C3C87;
+    font-size: 22px;
+    font-weight: 700;
+    padding-top: 10px;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss31 {
+    font-size: 18px;
+  }
+}
+  .jss32 {
+    color: #A0A0A0;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss32 {
+    font-size: 14px;
+  }
+}
+  .jss33 {
+    text-align: right;
+  }
+  .jss34 {
+    padding: 15px;
+    position: relative;
+  }
+  .jss34::before {
+    top: 50%;
+    left: 0;
+    width: 1px;
+    height: 30px;
+    content: '';
+    display: block;
+    position: absolute;
+    transform: translateY(-50%);
+    border-left: 2px dotted #D5E3F2;
+  }
+@media (max-width:959.95px) {
+  .jss34 {
+    padding: 10px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+  .jss34:first-child::before {
+    content: none;
+  }
+  .jss35 img {
+    display: block;
+    max-width: 100%;
+    max-height: 40px;
+  }
+  .jss37 {
+    top: 0;
+    width: 100%;
+    height: 55px;
+    padding: 0;
+    z-index: 100;
+    position: relative;
+    background-color: #1C3C87;
+  }
+  .jss37.fixed {
+    top: 0;
+    position: fixed;
+    box-shadow: 0px 8px 10px rgba(11,23,51,0.2);
+  }
+@media (max-width:959.95px) {
+  .jss37 {
+    display: none;
+    position: relative;
+  }
+}
+  .jss38 {
+    height: 55px;
+  }
+@media (max-width:959.95px) {
+  .jss38 {
+    display: none;
+  }
+}
+  .jss39 a, .jss39 .a {
+    color: #fff;
+    display: block;
+    padding: 10px;
+    position: relative;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+@media (max-width:1219.95px) {
+  .jss39 a, .jss39 .a {
+    font-size: 14px;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss39 a, .jss39 .a {
+    font-size: 12px;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss39 a, .jss39 .a {
+    font-size: 11px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+  .jss40 {
+    width: 0;
+    display: block;
+    opacity: 1;
+    padding: 0;
+    z-index: 22;
+    padding-top: 4px;
+    transition-duration: 0.2s;
+    transition-timing-function: ease-out;
+  }
+  .jss40 img {
+    width: 80px;
+    position: absolute;
+    margin-top: -98px;
+    margin-bottom: -29px;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+  }
+  .jss40.show {
+    width: 75px;
+    opacity: 1;
+    margin-top: -9px;
+    margin-right: 20px;
+  }
+  .jss40.show img {
+    width: 70px;
+    margin-top: 0;
+    margin-left: 5px;
+  }
+  .jss41 {
+    height: 55px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+  }
+  .jss41 .sub {
+    display: none;
+    position: absolute;
+    min-width: 260px;
+  }
+  .jss41:hover {
+    background: #0A2974;
+  }
+  .jss41:hover a, .jss41:hover .a {
+    color: #FFED13;
+  }
+  .jss41:hover .sub {
+    display: block;
+    z-index: 2;
+    background: #0A2974;
+    margin-top: 0;
+    border-radius: 0px 0px 16px 16px;
+  }
+  .jss41:hover .sub ul {
+    padding: 0;
+    list-style: none;
+  }
+  .jss41:hover .sub ul li {
+    line-height: 1.1;
+    padding-left: 10px;
+    padding-right: 20px;
+    transition-duration: 0.3s;
+  }
+  .jss41:hover .sub ul li a {
+    color: #fff;
+  }
+  .jss41:hover .sub ul li a:hover {
+    color: #FFED13;
+  }
+  .jss41:hover .sub ul li:hover {
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .jss42 {
+    height: 40px;
+    box-shadow: 0px 5px 10px rgba(0,0,0,0.4);
+    margin-top: 4px;
+    background-color: #fff;
+  }
+  .jss43 {
+    color: #1C3C87;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .jss44 {
+    left: 30px;
+    color: #1C3C87!important;
+    bottom: 30px;
+    height: 50px;
+    display: block;
+    z-index: 1002;
+    position: fixed;
+    background: #FAFBFD!important;
+    font-weight: 400;
+    padding-bottom: 15px;
+  }
+  .jss44 :hover {
+    background: #FAFBFD;
+  }
+  .jss13 {
+    top: 0;
+    width: 100%;
+    height: 60px;
+    display: none;
+    padding: 0;
+    z-index: 100;
+    position: fixed;
+    background-color: #1C3C87;
+  }
+  .jss13 img {
+    display: inline-block;
+  }
+@media (max-width:959.95px) {
+  .jss13 {
+    display: block;
+    position: relative;
+  }
+}
+  .jss14 {
+    height: 60px;
+    display: none;
+  }
+  .jss15 {
+    color: #FFED13;
+    font-size: 40px;
+  }
+  .jss16 {
+    color: #FFED13;
+  }
+  .jss17 {
+    color: #FFED13;
+  }
+  .jss17 a {
+    color: #fff;
+    display: block;
+    padding: 10px;
+    position: relative;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+@media (max-width:1219.95px) {
+  .jss17 a {
+    font-size: 14px;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss17 a {
+    font-size: 12px;
+    padding-left: 7px;
+    padding-right: 7px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss17 a {
+    font-size: 11px;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+  .jss18 {
+    width: 0;
+    display: block;
+  }
+  .jss18 img {
+    width: 0;
+  }
+  .jss19 {
+    height: 57px;
+    text-align: center;
+    background-color: #1C3C87;
+  }
+  .jss20 {
+    position: relative;
+    font-weight: 600;
+    padding-top: 10px;
+    user-select: none;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+  }
+  .jss20 .sub {
+    height: auto;
+    overflow: hidden;
+    position: relative;
+    transition-duration: 0.5s;
+  }
+  .jss20 a, .jss20 .a {
+    color: #FFED13;
+    cursor: pointer;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  .jss20 .sub.hidden {
+    height: 0;
+    display: none;
+  }
+  .jss20 .sub a {
+    color: #778AB7;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  .jss20 .sub ul {
+    list-style: none;
+    padding-left: 20px;
+  }
+  .jss20 .sub li {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .jss21 {
+    top: 6px;
+    position: relative;
+  }
+  .jss22 {
+    width: 100%;
+    padding-bottom: 40px;
+    background-color: #06153A;
+  }
+  .jss23 {
+    margin: 0px auto;
+    max-width: 300px;
+  }
+  .jss23 hr {
+    width: 100%;
+    border: 1px solid #0B2562;
+  }
+  .jss24 {
+    color: #778AB7;
+    font-size: 15;
+    text-align: center;
+    font-weight: 500;
+    padding-bottom: 10px;
+  }
+  .jss60 {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    padding: 0;
+    z-index: 10000;
+    position: fixed;
+  }
+  .jss61 {
+    width: 100%;
+    cursor: pointer;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(0,0,0,0.82);
+  }
+  .jss62 {
+    height: 100%;
+  }
+  .jss62 iframe {
+    display: block;
+    position: relative;
+    max-width: 90%;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+    max-height: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .jss63 {
+    top: 20px;
+    color: #fff;
+    right: 20px;
+    position: absolute;
+  }
+  .jss63:hover {
+    color: #FFED13;
+  }
+  .jss64 {
+    font-size: 35px;
+  }
+  .jss210 {
+    padding: 0;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    background-color: #1C3C87;
+  }
+@media (max-width:959.95px) {
+  .jss210 {
+    text-align: center;
+  }
+}
+  .jss211 {
+    color: #FFED13;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss211 {
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+  }
+}
+  .jss212 {
+    color: #fff;
+    font-size: 14px;
+    max-width: 170px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+  }
+  .jss212 a {
+    color: inherit;
+    white-space: nowrap;
+    padding-left: 7px;
+    text-transform: none;
+    text-decoration: none;
+  }
+@media (max-width:959.95px) {
+  .jss212 {
+    max-width: none;
+  }
+}
+  .jss213 {
+    display: inline-block;
+    border-radius: 8px;
+    background-color: #F4F7FB;
+  }
+  .jss213:hover {
+    background-color: #F4F7FB;
+  }
+  .jss214 {
+    border-bottom: 2px dotted rgba(255,255,255,0.5);
+  }
+@media (max-width:959.95px) {
+  .jss214 {
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+  }
+}
+  .jss215 {
+    padding-bottom: 15px;
+  }
+  .jss232 {
+    color: #fff;
+    padding: 0;
+    font-size: 12px;
+    text-align: center;
+    font-weight: 300;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    text-transform: uppercase;
+    background-color: #152E6A;
+  }
+@media (max-width:959.95px) {
+  .jss232 {
+    text-align: justify;
+  }
+}
+@media (max-width:599.95px) {
+  .jss232 {
+    font-size: 10px;
+  }
+}
+  .MuiSkeleton-root {
+    height: 1.2em;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.11);
+  }
+  .MuiSkeleton-text {
+    height: auto;
+    transform: scale(1, 0.60);
+    margin-top: 0;
+    border-radius: 4px;
+    margin-bottom: 0;
+    transform-origin: 0 60%;
+  }
+  .MuiSkeleton-text:empty:before {
+    content: "\00a0";
+  }
+  .MuiSkeleton-circle {
+    border-radius: 50%;
+  }
+  .MuiSkeleton-pulse {
+    opacity: 0.3;
+    animation: MuiSkeleton-keyframes-pulse 1.5s ease-in-out 0.5s infinite;
+    background: url('/imgs/subtract.png') no-repeat center, linear-gradient(180deg, #D8E0EA 0%, #D8E0EA 100%) ;
+    border-radius: 16px;
+    background-size: 30%, auto, auto;
+  }
+@keyframes MuiSkeleton-keyframes-pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.4;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+  .MuiSkeleton-wave {
+    opacity: 0.8;
+    overflow: hidden;
+    position: relative;
+    background: url('/imgs/subtract.png') no-repeat center, url(/imgs/index-rostov-tv-bg.png) repeat center, linear-gradient(180deg, #1C3C87 0%, #0D2B73 100%) ;
+    border-radius: 16px;
+    background-size: 30%, auto, auto;
+  }
+  .MuiSkeleton-wave::after {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+    position: absolute;
+    animation: MuiSkeleton-keyframes-wave 1.6s linear 0.5s infinite;
+    transform: translateX(-100%);
+    background: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.04), transparent);
+  }
+@keyframes MuiSkeleton-keyframes-wave {
+  0% {
+    transform: translateX(-100%);
+  }
+  60% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+  .MuiSkeleton-withChildren > * {
+    visibility: hidden;
+  }
+  .MuiSkeleton-fitContent {
+    max-width: fit-content;
+  }
+  .MuiSkeleton-heightAuto {
+    height: auto;
+  }
+  .jss75 {
+    border: 1px solid #D5E3F2;
+    height: 100%;
+    margin-left: 15px;
+    border-radius: 16px;
+    padding-bottom: 15px;
+    background-color: #fff;
+  }
+  .jss75 img {
+    display: inline-block;
+  }
+@media (max-width:959.95px) {
+  .jss75 {
+    margin-left: 0;
+  }
+}
+  .jss76 .slick-current {
+    flex: 0 1 auto;
+    color: #1C3C87;
+    width: 70px;
+    border: 4px solid #fff;
+    height: 75px!important;
+    padding: 5px;
+    position: relative;
+    font-size: 30px;
+    transform: translate(0, -10px);
+    margin-top: 0;
+    font-weight: 700;
+    padding-left: 10px;
+    border-radius: 16px;
+    margin-bottom: 0;
+    padding-right: 10px;
+    background-color: #FFED13;
+  }
+@media (max-width:599.95px) {
+  .jss76 .slick-current {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 0;
+  }
+}
+  .jss76 .slick-current small {
+    top: -5px;
+  }
+  .jss77 {
+    height: 54px;
+    position: relative;
+    background: #1C3C87;
+    max-height: 54px;
+    border-radius: 16px 16px 0px 0px;
+  }
+  .jss78 {
+    width: 100%;
+    margin-bottom: 0px!important;
+  }
+  .jss79 {
+    flex: 1 1 auto;
+    cursor: pointer;
+    outline: none!important;
+    position: relative;
+    margin-top: 0;
+    text-align: center;
+    user-select: none;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+@media (max-width:599.95px) {
+  .jss79 {
+    font-size: 16px;
+    margin-top: -5px;
+  }
+}
+  .jss80 {
+    width: 100%;
+    position: relative;
+    transform: translateZ(0);
+    margin-top: 8px;
+    margin-bottom: -7px;
+    backface-visibility: hidden;
+    transition-property: transform;
+  }
+  .jss81 {
+    width: 100%;
+    position: relative;
+    font-size: 70%;
+    transform: translateZ(0);
+    margin-top: -6px;
+    line-height: 1;
+    text-transform: lowercase;
+    backface-visibility: hidden;
+    transition-property: transform;
+  }
+  .jss82 {
+    font-size: 14px;
+    font-weight: 600;
+    border-bottom: 1px solid #E4ECF7;
+    padding-bottom: 4px;
+    text-transform: uppercase;
+  }
+  .jss83 {
+    color: #A0A0A0;
+    height: auto;
+    padding: 5px;
+    font-size: 14px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  .jss83.active {
+    color: #1C3C87;
+  }
+  .jss84 {
+    text-align: center;
+  }
+  .jss85 {
+    font-size: 11px;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .jss86 {
+    color: #1C3C87;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .jss87 {
+    color: #BEBEBE;
+    font-size: 35px;
+    transform: translate3d(0,0,0);
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: -5px;
+    text-transform: uppercase;
+  }
+  .jss88 {
+    color: #666;
+    font-size: 32px;
+    transform: translate3d(0,0,0);
+    text-align: center;
+    font-weight: 700;
+    white-space: nowrap;
+    text-transform: uppercase;
+  }
+  .jss89 {
+    color: #707070;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2;
+    padding-top: 5px;
+    padding-bottom: 2px;
+  }
+  .jss90 {
+    color: #5C5C5C;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+  .jss91 {
+    top: -12px;
+    left: 0;
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    font-size: 70px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+  .jss92 {
+    color: #fff;
+    height: 100%;
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.2;
+    text-transform: uppercase;
+  }
+  .jss92:before {
+    top: 50%;
+    left: 20%;
+    width: 60%;
+    height: 2px;
+    content: '';
+    display: block;
+    z-index: 100;
+    position: absolute;
+    background: #163273;
+    margin-top: -5px;
+  }
+  .jss92 img {
+    display: block;
+  }
+  .jss93 {
+    color: #707070;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  .jss94 {
+    color: #707070;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 500;
+    padding-bottom: 0;
+  }
+  .jss95 {
+    color: #555555;
+    border: 2px solid #0092F2;
+    padding: 0;
+    font-size: 14px;
+    min-width: 62px;
+    transform: skew(-13deg, 0);
+    text-align: left;
+    font-weight: 600;
+    line-height: 1.3;
+    text-transform: uppercase;
+    background-color: #fff;
+  }
+@media (max-width:599.95px) {
+  .jss95 {
+    min-width: 50px;
+  }
+}
+  .jss95 b {
+    color: #fff;
+    height: 22px;
+    margin: -1px;
+    display: inline-block;
+    padding: 2px 5px;
+    margin-right: 0;
+    background-color: #0092F2;
+  }
+  .jss95 i {
+    display: inline-block;
+    transform: skew(13deg, 0);
+    font-style: normal;
+  }
+  .jss96 {
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+  }
+  .jss97 {
+    transition-delay: 0.3s;
+    transition-duration: 0.3s;
+  }
+  .jss99 {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    user-select: none;
+  }
+  .jss99 div {
+    outline: none;
+  }
+  .jss100 {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-y: visible;
+    align-items: center;
+    padding-top: 0;
+    flex-direction: row;
+  }
+  .jss101 {
+    color: #fff;
+    cursor: pointer;
+    height: 55px;
+    outline: none;
+    position: relative;
+    font-size: 22px;
+    user-drag: none;
+    app-region: none;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1;
+    user-select: none;
+    will-change: transform;
+    transition-duration: 0.3s;
+  }
+  .jss102 {
+    color: #1C3C87;
+    display: inline-block;
+    position: relative;
+    transform: scale(1.4);
+  }
+  .jss103 {
+    top: 0;
+    left: 50%;
+    color: #1C3C87;
+    border: 4px solid #fff;
+    height: 75px;
+    position: absolute;
+    transform: translateX(-50%);
+    margin-top: -9px;
+    padding-top: 5px;
+    border-radius: 16px;
+    background-color: #FFED13;
+  }
+  .jss104 {
+    color: #555555;
+    border: 1px solid #DA001B;
+    padding: 0;
+    font-size: 14px;
+    min-width: 62px;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1.3;
+    border-radius: 5px;
+    text-transform: uppercase;
+    background-color: #DA001B;
+  }
+@media (max-width:599.95px) {
+  .jss104 {
+    min-width: 50px;
+  }
+}
+  .jss104 b {
+    color: #fff;
+    height: 22px;
+    margin: -1px;
+    display: inline-block;
+    padding: 2px 5px;
+    margin-right: 0;
+  }
+  .jss104 i {
+    display: inline-block;
+    font-style: normal;
+  }
+  .jss105 {
+    color: #DA001B;
+    width: 44px;
+    display: inline-block;
+    background: #fff;
+    text-align: center;
+    margin-right: 1px;
+    border-radius: 3px;
+  }
+  .jss146 {
+    color: #707070;
+    border-bottom: 1px solid #707070;
+    text-transform: uppercase;
+  }
+  .jss147 {
+    padding: 3px 8px;
+  }
+@media (max-width:1219.95px) {
+  .jss147 {
+    padding: 5px;
+    font-size: 14px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss147 {
+    padding: 5px;
+    font-size: 13px;
+  }
+}
+  .jss148 {
+    color: #1c3c87;
+    border: none;
+    padding: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+@media (max-width:1219.95px) {
+  .jss148 {
+    padding: 5px;
+    font-size: 15px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss148 {
+    padding: 5px;
+    font-size: 13px;
+  }
+}
+  .jss149:hover {
+    background: rgba(28,60,135,0.1);
+  }
+  .jss150 {
+    border-radius: 8px;
+  }
+  .jss150 td {
+    overflow: hidden;
+    background-color: #FFED13;
+  }
+  .jss150 td:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+  }
+  .jss150 td:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }
+  .jss151 {
+    position: relative;
+    margin-bottom: -4px;
+  }
+  .jss152 {
+    width: 100%;
+  }
+  .jss162 img {
+    display: block;
+    border-radius: 6px;
+  }
+  .jss167 {
+    color: #fff;
+    padding: 30px;
+    overflow: hidden;
+    position: relative;
+    background: url(/imgs/index-rostov-tv-bg.png) repeat center,linear-gradient(180deg, #1C3C87 0%, #0D2B73 100%) ;
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+@media (max-width:959.95px) {
+  .jss167 {
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+}
+  .jss168 {
+    color: #FFED13;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  .jss169 {
+    font-size: 22px;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .jss170 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.3;
+    padding-left: 20px;
+  }
+@media (max-width:959.95px) {
+  .jss170 {
+    padding-top: 0;
+    padding-left: 0;
+  }
+}
+@media (max-width:599.95px) {
+  .jss170 {
+    padding-top: 5px;
+    padding-left: 0;
+  }
+}
+  .jss171 {
+    top: 50%;
+    left: 50%;
+    color: #FFED13;
+    opacity: 0.8;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    border-radius: 16px;
+    background-color: #000;
+    transition-duration: 0.35s;
+  }
+  .jss171.small {
+    width: 40px;
+    height: 40px;
+    margin: 0;
+    display: none;
+    padding: 0;
+    font-size: 14px;
+    line-height: 50px;
+  }
+  .jss171:hover {
+    color: #FFED13;
+    background-color: #000;
+  }
+@media (max-width:959.95px) {
+  .jss171 {
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+  }
+  .jss171.small {
+    width: 25px;
+    height: 25px;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    line-height: 25px;
+  }
+}
+  .jss172 {
+    cursor: pointer;
+  }
+  .jss172:hover {
+    background-color: rgba(255,255,255,0.1);
+  }
+  .jss172:hover img {
+    opacity: 1;
+  }
+  .jss173 {
+    color: #FFEA00;
+  }
+  .jss173 img {
+    opacity: 1!important;
+  }
+  .jss173 .small {
+    display: flex!important;
+  }
+  .jss174 {
+    height: 75px;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    background-color: #000;
+  }
+  .jss174 img {
+    top: 50%;
+    display: block;
+    opacity: 0.7;
+    position: relative;
+    transform: translateY(-50%);
+  }
+@media (max-width:959.95px) {
+  .jss174 {
+    height: 130px;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss174 {
+    height: 100px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss174 img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (max-width:599.95px) {
+  .jss174 img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+  .jss175 {
+    overflow: hidden;
+    position: relative;
+    border-radius: 16px;
+  }
+  .jss175 img {
+    width: 74%;
+    overflow: hidden;
+    border-radius: 16px;
+  }
+  .jss175 iframe {
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    overflow: hidden;
+    position: absolute;
+    border-radius: 16px;
+  }
+  .jss176 {
+    border-right: 2px solid #3052A2;
+    margin-right: 15px;
+    padding-right: 30px;
+  }
+@media (max-width:959.95px) {
+  .jss176 {
+    border-right: none;
+    margin-right: 0;
+    padding-right: 0;
+  }
+}
+  .jss177 {
+    color: #fff;
+    opacity: 0.4;
+    font-size: 15px;
+    font-weight: 500;
+    padding-top: 5px;
+  }
+  .jss178 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    padding-top: 20px;
+  }
+  .jss183 {
+    border: 1px solid #C3D3E6;
+    cursor: pointer;
+    height: 100%;
+    padding: 10px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 16px;
+    transition-duration: 0.5s;
+  }
+@media (max-width:599.95px) {
+  .jss183 {
+    padding: 8px;
+  }
+}
+  .jss183:hover {
+    transform: scale(1.05);
+  }
+  .jss184 {
+    color: #1C3C87;
+    font-size: 30px;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-transform: uppercase;
+  }
+@media (max-width:599.95px) {
+  .jss184 {
+    font-size: 20px;
+  }
+}
+  .jss185 a {
+    color: #707070;
+    font-size: 14px;
+    font-weight: 400;
+  }
+  .jss186 {
+    height: auto;
+    margin: 0px auto;
+    position: relative;
+    max-width: 228px;
+    text-align: center;
+    padding-bottom: 10px;
+  }
+  .jss186 img {
+    max-width: 100%;
+  }
+@media (max-width:599.95px) {
+  .jss186 {
+    padding-bottom: 5px;
+  }
+}
+  .jss187 {
+    color: #94A6D1;
+    font-size: 120%;
+    margin-left: 10px;
+    transition-duration: 0.5s;
+  }
+  .jss188 {
+    color: #707070;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+@media (max-width:599.95px) {
+  .jss188 {
+    font-size: 14px;
+  }
+}
+  .jss189 {
+    color: #1C3C87;
+    width: 100%;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 600;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+@media (max-width:599.95px) {
+  .jss189 {
+    font-size: 16px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}
+  .jss66 {
+    flex: 1 1 auto;
+    height: 100%;
+    overflow: hidden;
+    border-radius: 16px;
+  }
+  .jss66 .carousel-slider {
+    overflow: hidden;
+    border-radius: 16px;
+  }
+  .jss66 .control-dots {
+    width: 100%;
+    margin: 0;
+    display: flex;
+  }
+@media (max-width:599.95px) {
+  .jss66 {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}
+  .jss66 .slider-wrapper {
+    overflow: hidden;
+    border-radius: 16px;
+  }
+  .jss66 .carousel, .jss66 .slider-wrapper, .jss66 .slider {
+    height: 100%;
+  }
+  .jss66 .thumbs {
+    padding-left: 0;
+  }
+  .jss66 .carousel .thumb {
+    border: 2px solid transparent;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  .jss66 .control-arrow {
+    opacity: 0.9;
+  }
+  .jss66 .thumb {
+    padding: 0px!important;
+  }
+  .jss66 .thumb img {
+    padding: 0px!important;
+    visibility: visible;
+  }
+  .jss66 .carousel-slider .control-arrow:hover {
+    background: rgba(0,0,0,0);
+  }
+  .jss66 .control-next:before {
+    width: 45px;
+    border: none!important;
+    height: 45px;
+    opacity: 0;
+    background: url('/imgs/icon/icon-slider.svg') no-repeat center rgba(0,0,0,0.6);
+    border-radius: 8px;
+    transition-duration: 0.30s;
+  }
+  .jss66 .control-prev:before {
+    width: 45px;
+    border: none!important;
+    height: 45px;
+    opacity: 0;
+    transform: rotate(-180deg);
+    background: url('/imgs/icon/icon-slider.svg') no-repeat center rgba(0,0,0,0.6);
+    border-radius: 8px;
+    transition-duration: 0.30s;
+  }
+  .jss66 .thumbs-wrapper .control-arrow {
+    transform: translateY(-50%);
+    margin-top: 0;
+  }
+  .jss66 .carousel .thumbs-wrapper {
+    margin: 0;
+  }
+@media (max-width:959.95px) {
+  .jss66 {
+    padding: 0;
+    min-height: none;
+    margin-left: -15px;
+    margin-right: -15px;
+    border-radius: 0;
+    padding-bottom: 0;
+  }
+  .jss66 .carousel.carousel-slider {
+    border-radius: 0;
+  }
+  .jss66 .carousel .slider-wrapper {
+    border-radius: 0;
+  }
+  .jss66 .carousel .control-dots {
+    bottom: 0;
+  }
+}
+  .jss66 .thumbs-wrapper .control-arrow:before {
+    width: 25px;
+    height: 35px;
+  }
+  .jss66 .carousel .thumb.selected {
+    border: 2px solid #1C3C87;
+  }
+  .jss66:hover .control-next:before {
+    opacity: 1;
+  }
+  .jss66:hover .control-prev:before {
+    opacity: 1;
+  }
+  .jss67 {
+    color: #fff;
+    bottom: 7%;
+    padding: 15px;
+    position: absolute;
+    font-size: 32px;
+    text-align: left;
+    font-weight: 700;
+    line-height: 1.1;
+    text-shadow: 0px 15px 15px rgba(0,0,0,0.5);
+    padding-left: 30px;
+    padding-right: 30px;
+    text-transform: uppercase;
+  }
+  .jss67 a {
+    color: inherit;
+    text-decoration: none;
+  }
+@media (max-width:1219.95px) {
+  .jss67 {
+    font-size: 23px;
+  }
+}
+@media (max-width:959.95px) {
+  .jss67 {
+    font-size: 20px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss67 {
+    font-size: 16px;
+  }
+}
+  .jss68 {
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transform: translate3d(0,0,0);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 50.06%, rgba(0, 0, 0, 0.7) 100%);
+    will-change: translate;
+  }
+  .jss69 {
+    background: none;
+  }
+  .jss70 {
+    width: 100%;
+    height: 100%;
+    max-height: 480px;
+  }
+  .jss71 {
+    top: 0;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    transform: translate3d(0,0,0);
+    will-change: translate;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .jss72 {
+    visibility: hidden;
+  }
+  .jss73 {
+    flex: 1 1 auto;
+    cursor: pointer;
+    height: 4px;
+    margin: 0;
+    background: #1C3C87;
+    list-style: none;
+    margin-bottom: 0;
+  }
+  .jss73:focus {
+    outline: none;
+  }
+  .jss154 {
+    color: #1C3C87;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+@media (max-width:959.95px) {
+  .jss154 {
+    font-size: 28px;
+  }
+}
+@media (max-width:599.95px) {
+  .jss154 {
+    font-size: 17px;
+  }
+}
+  .jss155 {
+    color: #A3A3A3;
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 15px;
+  }
+@media (max-width:599.95px) {
+  .jss155 {
+    font-size: 15px;
+  }
+}
+  .jss156 {
+    position: relative;
+    padding-right: 20px;
+  }
+  .jss157 {
+    left: 0;
+    color: #FFED13;
+    width: 48px;
+    border: 4px solid #fff;
+    bottom: -4px;
+    height: 48px;
+    position: absolute;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 40px;
+    margin-left: -4px;
+    border-radius: 16px;
+    background-color: #1C3C87;
+  }
+  .jss158 {
+    color: #555;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+@media (max-width:599.95px) {
+  .jss158 {
+    font-size: 22px;
+  }
+}
+  .jss159 {
+    position: relative;
+  }
+  .jss160 {
+    overflow: hidden;
+    position: relative;
+    max-width: 120px;
+    background: #1c3c85;
+    margin-top: 10px;
+    max-height: 160px;
+    margin-left: 8px;
+    border-radius: 16px;
+  }
+@media (max-width:959.95px) {
+  .jss160 {
+    max-width: 200px;
+    max-height: 240px;
+    margin-right: 20px;
+  }
+}
+@media (max-width:459.95px) {
+  .jss160 {
+    max-width: 100px;
+    max-height: 140px;
+  }
+}
+  .jss160 img {
+    top: 0;
+    left: 50%;
+    width: 200px;
+    display: block;
+    position: relative;
+    transform: translateX(-50%);
+  }
+@media (max-width:959.95px) {
+  .jss160 img {
+    width: 400px;
+  }
+}
+@media (max-width:459.95px) {
+  .jss160 img {
+    width: 180px;
+  }
+}</style></head><body class="lang-ru animate__animated fadeIn"><noscript><div><img src="https://mc.yandex.ru/watch/75726199" style="position:absolute; left:-9999px;" alt="" /></div></noscript><div id="__next"><div><div class="MuiContainer-root jss1"><div class="MuiBox-root jss9 jss7"><div class="MuiContainer-root MuiContainer-maxWidthLg" style="height:100%"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-align-content-xs-center MuiGrid-justify-content-xs-space-between" style="height:100%"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto MuiGrid-grid-md-auto MuiGrid-grid-lg-4"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center MuiGrid-align-content-xs-center"><div class="MuiGrid-root MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center"><div class="MuiGrid-root MuiGrid-item"><a href="mailto:info@fc-rostov.ru"><svg aria-hidden="true" focusable="false" data-prefix="far" data-icon="envelope" class="svg-inline--fa fa-envelope " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path></svg>  </a></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto MuiGrid-grid-md-auto MuiGrid-grid-lg-4"></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-auto MuiGrid-grid-md-auto MuiGrid-grid-lg-3"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-flex-end"><div class="MuiGrid-root MuiGrid-item"><a href="https://apps.apple.com/us/app/%D1%84%D0%BA-%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2/id1618236857" target="_blank"><img style="margin-right:7px;height:22px" src="/imgs/icon/ios.svg" alt="iOS"/></a></div><div class="MuiGrid-root MuiGrid-item"><a href="https://apps.apple.com/us/app/%D1%84%D0%BA-%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2/id1618236857" target="_blank">iOS</a></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss11" style="margin-right:5px;margin-left:5px"> </div></div><div class="MuiGrid-root MuiGrid-item"><a href="/ru/fans/app"><img style="margin-right:7px;height:22px" src="/imgs/icon/android.svg" alt="Android"/></a></div><div class="MuiGrid-root MuiGrid-item"><a href="/ru/fans/app">Android</a></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss12"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center"><div class="MuiGrid-root MuiGrid-item"><img width="18" style="margin-right:5px" height="18" src="/imgs/icon/login.svg" alt="Вход"/></div><div class="MuiGrid-root MuiGrid-item"><a href="/ru/auth">Войти</a></div></div></div></div></div></div></div></div></div><div class="MuiBox-root jss25 jss14"></div><div class="MuiBox-root jss26 jss13" style="display:block"><div class="MuiContainer-root MuiContainer-maxWidthLg" style="min-height:100%"><div class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center MuiGrid-align-content-xs-center MuiGrid-justify-content-xs-space-between" style="height:60px"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"><button class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" type="button"><span class="MuiButton-label"><svg class="MuiSvgIcon-root jss15" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path></svg></span></button></div><div class="MuiGrid-root MuiGrid-item"><a href="/"><img width="50" style="padding-top:3px" src="/imgs/logo.svg" alt="Футбольный клуб «РОСТОВ»"/></a></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2"><div class="MuiBox-root jss27"><a href="/ru/auth"><img width="25" style="margin-right:5px" height="30" src="/imgs/icon/signin.svg" alt="Вход"/></a></div></div></div></div></div><div class="MuiBox-root jss36 jss28"><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-align-content-xs-center MuiGrid-justify-content-xs-space-between" style="height:100%"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6"><div class="MuiGrid-root jss33 MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center"></div></div></div></div></div><div><button class="MuiButtonBase-root MuiButton-root MuiButton-contained jss44 animate__animated animate__bounceOutDown MuiButton-containedPrimary" tabindex="0" type="button"><span class="MuiButton-label"><div class="MuiBox-root jss45"><svg class="MuiSvgIcon-root jss43" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14l-6-6z"></path></svg></div><div class="MuiBox-root jss46">ВВЕРХ</div></span></button><div class="MuiBox-root jss47 jss37 relative"><div class="MuiContainer-root MuiContainer-maxWidthLg" style="height:100%"><div class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between" style="height:100%"><div class="MuiGrid-root MuiGrid-item"><nav class="jss39"><div class="MuiGrid-root MuiGrid-container MuiGrid-wrap-xs-nowrap MuiGrid-align-items-xs-flex-start MuiGrid-align-content-xs-flex-start"><div class="MuiGrid-root jss40 hide MuiGrid-item"><a href="/ru"><img width="75" src="/imgs/logo.svg" alt=""/></a></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><a target="_self" href="/ru/news">НОВОСТИ</a></div></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss48 a">КЛУБ</div></div></div><div class="MuiBox-root jss49 sub"><ul><li><a target="_self" href="/ru/club/about">О клубе</a></li><li><a target="_self" href="/ru/club/manual-main">Руководство</a></li><li><a target="_self" href="/ru/club/sponsor">Спонсоры и Партнёры</a></li><li><a target="_self" href="/ru/club/medicine">Медицина</a></li><li><a target="_self" href="/ru/club/contacts">Контакты</a></li></ul></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss50 a">КОМАНДА</div></div></div><div class="MuiBox-root jss51 sub"><ul><li><a target="_self" href="/ru/team/team-main">Основной состав</a></li><li><a href="/ru/team/team-two">Ростов-2 состав</a></li><li><a target="_self" href="/ru/team/team-youth">Молодёжный состав</a></li><li><a target="_self" href="/ru/team/team-female">Женский состав</a></li><li><a target="_self" href="/ru/team/team-youth-female">Женский молодежный состав</a></li></ul></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss52 a">МАТЧИ</div></div></div><div class="MuiBox-root jss53 sub"><ul><li><a target="_self" href="/ru/matches/calendar">Календарь матчей</a></li><li><a target="_self" href="/ru/matches/tournament-tables">Турнирные таблицы</a></li></ul></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss54 a">БИЛЕТЫ</div></div></div><div class="MuiBox-root jss55 sub"><ul><li><a target="_blank" href="https://tickets.fc-rostov.ru/">Купить билет</a></li><li><a target="_self" href="/ru/tickets/buy-subscription">Купить абонемент</a></li><li><a target="_self" href="/ru/tickets/Cashier-opening-hours">График работы касс</a></li><li><a target="_self" href="/ru/tickets/sales">VIP, Skybox и корпоративные продажи</a></li><li><a target="_self" href="/ru/tickets/discounts">Скидки</a></li></ul></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><a target="_blank" href="https://store.fc-rostov.ru">МАГАЗИН</a></div></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss56 a">БОЛЕЛЬЩИКАМ</div></div></div><div class="MuiBox-root jss57 sub"><ul><li><a target="_self" href="/ru/fans/photo">Фото</a></li><li><a target="_self" href="/ru/fans/rostov-tv">Rostov TV</a></li><li><a target="_self" href="/ru/fans/rules-behavior">Правила поведения</a></li><li><a target="_self" href="/ru/fans/places-mgn">Места для МГН</a></li></ul></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><a target="_self" href="/ru/academia">АКАДЕМИЯ</a></div></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss58 a">СТАДИОНЫ</div></div></div><div class="MuiBox-root jss59 sub"><ul><li><a target="_self" href="/ru/stadium/rostov-arena">РОСТОВ АРЕНА</a></li></ul></div></div><div class="MuiGrid-root jss41 MuiGrid-item"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center" style="height:55px"><div class="MuiGrid-root MuiGrid-item"><a target="_self" href="/ru/fan-club">Клуб болельщиков</a></div></div></div></div></nav></div><div class="MuiGrid-root MuiGrid-item"></div></div></div></div></div></div><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="MuiBox-root jss65"><div class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8"><div class="MuiBox-root jss74" style="height:100%"><div class="carousel-root jss66"><div class="carousel carousel-slider" style="width:100%"><ul class="control-dots"><li class="jss73" style="background:#FFED13" aria-label="slide item 1"></li><li class="jss73" value="1" aria-label="slide item 2"></li><li class="jss73" value="2" aria-label="slide item 3"></li><li class="jss73" value="3" aria-label="slide item 4"></li><li class="jss73" value="4" aria-label="slide item 5"></li><li class="jss73" value="5" aria-label="slide item 6"></li><li class="jss73" value="6" aria-label="slide item 7"></li><li class="jss73" value="7" aria-label="slide item 8"></li></ul><button type="button" aria-label="previous slide / item" class="control-arrow control-prev"></button><div class="slider-wrapper axis-horizontal"><ul class="slider animated" style="-webkit-transform:translate3d(-100%,0,0);-ms-transform:translate3d(-100%,0,0);-o-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0);-webkit-transition-duration:350ms;-moz-transition-duration:350ms;-o-transition-duration:350ms;transition-duration:350ms;-ms-transition-duration:350ms"><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/2097" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2022/07/04/bd4625dc19c6a28efb3ee95a2e4b2b147e65aeff.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2022/07/04/bd4625dc19c6a28efb3ee95a2e4b2b147e65aeff.jpg" alt=""/><div class="jss68 jss69"><p class="jss67"></p></div></div></span></a></li><li class="slide selected previous"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/3453" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2025/12/06/9c215dddce62a623dc8e9f3c694c2558a48c4e13.jpeg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2025/12/06/9c215dddce62a623dc8e9f3c694c2558a48c4e13.jpeg" alt="Джонатан Альба продлил контракт с «Ростовом»"/><div class="jss68"><p class="jss67">Джонатан Альба продлил контракт с «Ростовом»</p></div></div></span></a></li><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/3445" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2025/11/20/147ed1cb65e9e5b1bcc50d47fc47b7bc22c4d32b.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2025/11/20/147ed1cb65e9e5b1bcc50d47fc47b7bc22c4d32b.jpg" alt="📰 Вниманию представителей СМИ!"/><div class="jss68"><p class="jss67">📰 Вниманию представителей СМИ!</p></div></div></span></a></li><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/3440" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2025/11/08/0e2b331aa4b4dd511f00774040e9ec7bc9078899.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2025/11/08/0e2b331aa4b4dd511f00774040e9ec7bc9078899.jpg" alt="ФК «Ростов» и «Атлантис-Пак» возобновляют сотрудничество"/><div class="jss68"><p class="jss67">ФК «Ростов» и «Атлантис-Пак» возобновляют сотрудничество</p></div></div></span></a></li><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/3434" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2025/10/22/58bda14554242449883993533f52dfbd8fe1caa6.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2025/10/22/58bda14554242449883993533f52dfbd8fe1caa6.jpg" alt="Губернатор Ростовской области Юрий Борисович Слюсарь посетил предыгровую тренировку нашей команды"/><div class="jss68"><p class="jss67">Губернатор Ростовской области Юрий Борисович Слюсарь посетил предыгровую тренировку нашей команды</p></div></div></span></a></li><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/3432" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2025/10/20/d2ad822acff21d5de56032c572586c55f11d7869.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2025/10/20/d2ad822acff21d5de56032c572586c55f11d7869.jpg" alt="Тимур Сулейманов: «Попал в ту команду, в которую хотел»"/><div class="jss68"><p class="jss67">Тимур Сулейманов: «Попал в ту команду, в которую хотел»</p></div></div></span></a></li><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/3425" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2025/09/29/e818d490a78829e3ef3442cdb842f1b175a2826c.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2025/09/29/e818d490a78829e3ef3442cdb842f1b175a2826c.jpg" alt="Хорен Байрамян достиг отметки в 250 матчей за «Ростов»"/><div class="jss68"><p class="jss67">Хорен Байрамян достиг отметки в 250 матчей за «Ростов»</p></div></div></span></a></li><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/2180" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2022/08/25/244840c81072114fcf5e0138dd0077481370ff9a.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2022/08/25/244840c81072114fcf5e0138dd0077481370ff9a.jpg" alt=""/><div class="jss68 jss69"><p class="jss67"></p></div></div></span></a></li><li class="slide"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/2097" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2022/07/04/bd4625dc19c6a28efb3ee95a2e4b2b147e65aeff.jpg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2022/07/04/bd4625dc19c6a28efb3ee95a2e4b2b147e65aeff.jpg" alt=""/><div class="jss68 jss69"><p class="jss67"></p></div></div></span></a></li><li class="slide selected previous"><a class="MuiButtonBase-root MuiButton-root MuiButton-text" tabindex="0" aria-disabled="false" href="/news/3453" target="_self" style="padding:0;margin:0;width:100%;height:100%"><span class="MuiButton-label"><div class="jss70"><div class="jss71" style="background-image:url(https://fc-rostov.ru/endpoint/media/2025/12/06/9c215dddce62a623dc8e9f3c694c2558a48c4e13.jpeg)"></div><img class="jss72" src="https://fc-rostov.ru/endpoint/media/2025/12/06/9c215dddce62a623dc8e9f3c694c2558a48c4e13.jpeg" alt="Джонатан Альба продлил контракт с «Ростовом»"/><div class="jss68"><p class="jss67">Джонатан Альба продлил контракт с «Ростовом»</p></div></div></span></a></li></ul></div><button type="button" aria-label="next slide / item" class="control-arrow control-next"></button></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4"><div class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-wrap-xs-nowrap MuiGrid-justify-content-xs-space-between" style="height:100%"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiBox-root jss135 jss75"><span class="MuiSkeleton-root MuiSkeleton-rect MuiSkeleton-wave" style="width:100%;height:100%"></span></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"></div></div></div><div class="MuiBox-root jss136"></div><div class="MuiBox-root jss140"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8"><div class="MuiBox-root jss141"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss142 jss111">Новости</div></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss143 jss119"><a href="/ru/news">Все новости</a></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-justify-content-xs-center"></div><div class="MuiBox-root jss144"><button class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-fullWidth" tabindex="0" type="button"><span class="MuiButton-label">Все новости</span></button></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4"><div class="MuiBox-root jss145"><span class="MuiSkeleton-root MuiSkeleton-rect MuiSkeleton-wave" style="width:100%;height:500px"></span></div><div class="MuiBox-root jss153"></div><div class="MuiBox-root jss161"><div class="MuiBox-root jss163 jss123" style="padding:0"><div class="MuiBox-root jss164 jss162"><a style="width:100%;overflow:hidden;text-align:center" href="https://atoms.ru/?erid=LjN8KYa9s" target="_blank"><img src="/imgs/atoms.gif" alt="ATOMS"/></a></div></div></div></div></div></div></div><div class="MuiBox-root jss165"><div class="MuiGrid-root MuiGrid-container"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiBox-root jss166"><div class="MuiContainer-root MuiContainer-maxWidthLg" style="margin:0 auto"></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"></div></div></div><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="MuiBox-root jss179"><div class="MuiGrid-root MuiGrid-container"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiBox-root jss180"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss181 jss111">Фото</div></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss182 jss121"><a href="/ru/fans/photo">Все альбомы</a></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center"></div></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiBox-root jss190"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss191 jss111">Магазин</div></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss192 jss121"><a target="_blank" title="Перейти в магазин" href="https://shop.fc-rostov.ru/">Перейти в магазин</a></div></div></div></div><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-4 MuiGrid-justify-content-xs-center"></div></div></div></div></div></div></div></div><div class="MuiBox-root jss193"><div class="MuiGrid-root MuiGrid-container"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"><div class="MuiBox-root jss203"><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="MuiBox-root jss204"><div class="MuiGrid-root MuiGrid-container"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12"></div></div></div></div><div class="MuiBox-root jss205 jss194"><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="MuiBox-root jss206"><div class="MuiBox-root jss207"><div class="MuiBox-root jss208 jss111">спонсоры и партнеры</div></div><div class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1"></div></div><div class="MuiBox-root jss209" style="display:none"></div></div></div></div></div></div></div><div class="MuiContainer-root jss210" itemscope="" itemType="http://schema.org/Organization"><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="MuiGrid-root MuiGrid-container MuiGrid-justify-content-xs-space-between"><div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3"><div class="MuiGrid-root MuiGrid-container MuiGrid-direction-xs-column MuiGrid-justify-content-xs-space-between" style="height:100%"><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss216"><img width="120" itemProp="logo" height="119" src="/imgs/logo.svg" alt="Футбольный клуб «РОСТОВ»"/></div><div class="MuiBox-root jss217" style="display:none" itemProp="name">Футбольный клуб «РОСТОВ»</div><div class="MuiBox-root jss218 jss211">#МыРостов</div><div class="MuiBox-root jss219 jss212"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" class="svg-inline--fa fa-envelope " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg> <a itemProp="email" href="mailto:info@fc-rostov.ru">info@fc-rostov.ru</a></div><div class="MuiBox-root jss220 jss212 jss214" itemProp="address">344029<br/>РОСТОВ-НА-ДОНУ, УЛ.ШОЛОХОВА, 31Е</div><div class="MuiBox-root jss221 jss212 jss214">ФК «РОСТОВ»,2021. ВСЕ ПРАВА ЗАЩИЩЕНЫ.</div><div class="MuiBox-root jss222 jss212">Разработка и поддержка</div><div class="MuiBox-root jss223"><a href="https://atoms.ru/" target="_blank"><img width="90" src="/imgs/atoms.svg" alt="ATOMS"/></a></div><div class="MuiBox-root jss224 jss212">Техническая поддержка</div><div class="MuiBox-root jss225 jss212" style="white-space:nowrap"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" class="svg-inline--fa fa-envelope " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg> <a href="mailto:support@fc-rostov1930.ru">support@fc-rostov1930.ru</a></div><div class="MuiBox-root jss226 jss212" style="padding-bottom:0">Почта редакции</div><div class="MuiBox-root jss227 jss212" style="white-space:nowrap;padding-top:0"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="envelope" class="svg-inline--fa fa-envelope " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z"></path></svg> <a href="mailto:press@fc-rostov.ru">press@fc-rostov.ru</a></div><div class="MuiBox-root jss228 jss212" style="padding-bottom:0">Телефон редакции</div><div class="MuiBox-root jss229 jss212" style="white-space:nowrap;padding-top:0"><svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone" class="svg-inline--fa fa-phone " role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M493.4 24.6l-104-24c-11.3-2.6-22.9 3.3-27.5 13.9l-48 112c-4.2 9.8-1.4 21.3 6.9 28l60.6 49.6c-36 76.7-98.9 140.5-177.2 177.2l-49.6-60.6c-6.8-8.3-18.2-11.1-28-6.9l-112 48C3.9 366.5-2 378.1.6 389.4l24 104C27.1 504.2 36.7 512 48 512c256.1 0 464-207.5 464-464 0-11.2-7.7-20.9-18.6-23.4z"></path></svg><a itemProp="telephone" href="tel:88004444461">88004444461</a></div><div class="MuiBox-root jss230 jss212" style="white-space:nowrap;padding-top:20px"><div class="MuiGrid-root MuiGrid-container MuiGrid-align-items-xs-center MuiGrid-justify-content-xs-center"><div class="MuiGrid-root MuiGrid-item"><a href="https://apps.apple.com/us/app/%D1%84%D0%BA-%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2/id1618236857" target="_blank"><img style="margin-right:7px;height:22px" src="/imgs/icon/ios.svg" alt="iOS"/></a></div><div class="MuiGrid-root MuiGrid-item"><a style="color:#fff" href="https://apps.apple.com/us/app/%D1%84%D0%BA-%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2/id1618236857" target="_blank">iOS</a></div><div class="MuiGrid-root MuiGrid-item"><div class="MuiBox-root jss231" style="margin-right:5px;margin-left:5px"> </div></div><div class="MuiGrid-root MuiGrid-item"><a href="/ru/fans/app"><img style="margin-right:7px;height:22px" src="/imgs/icon/android.svg" alt="Android"/></a></div><div class="MuiGrid-root MuiGrid-item"><a style="color:#fff" href="/ru/fans/app">Android</a></div></div></div></div></div></div></div></div></div><div class="MuiContainer-root jss232"><div class="MuiContainer-root MuiContainer-maxWidthLg"><div class="MuiBox-root jss233">Сетевое издание</div><div class="MuiBox-root jss234">Учредитель</div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"slides":[{"id":927,"url":"/news/3453","title":"Джонатан Альба продлил контракт с «Ростовом»","target":"_self","created_at":"2025-12-06T16:18:35.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2025/12/06/9c215dddce62a623dc8e9f3c694c2558a48c4e13.jpeg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/927.jpeg"},{"id":926,"url":"/news/3445","title":"📰 Вниманию представителей СМИ!","target":"_self","created_at":"2025-11-20T12:21:39.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2025/11/20/147ed1cb65e9e5b1bcc50d47fc47b7bc22c4d32b.jpg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/926.jpg"},{"id":925,"url":"/news/3440","title":"ФК «Ростов» и «Атлантис-Пак» возобновляют сотрудничество","target":"_self","created_at":"2025-11-08T16:12:31.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2025/11/08/0e2b331aa4b4dd511f00774040e9ec7bc9078899.jpg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/925.jpg"},{"id":924,"url":"/news/3434","title":"Губернатор Ростовской области Юрий Борисович Слюсарь посетил предыгровую тренировку нашей команды","target":"_self","created_at":"2025-10-23T12:27:23.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2025/10/22/58bda14554242449883993533f52dfbd8fe1caa6.jpg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/924.jpg"},{"id":923,"url":"/news/3432","title":"Тимур Сулейманов: «Попал в ту команду, в которую хотел»","target":"_self","created_at":"2025-10-21T08:22:12.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2025/10/20/d2ad822acff21d5de56032c572586c55f11d7869.jpg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/923.jpg"},{"id":920,"url":"/news/3425","title":"Хорен Байрамян достиг отметки в 250 матчей за «Ростов»","target":"_self","created_at":"2025-09-29T10:54:31.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2025/09/29/e818d490a78829e3ef3442cdb842f1b175a2826c.jpg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/920.jpg"},{"id":837,"url":"/news/2180","title":"","target":"_self","created_at":"2022-08-25T14:32:27.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2022/08/25/244840c81072114fcf5e0138dd0077481370ff9a.jpg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/837.jpg"},{"id":809,"url":"/news/2097","title":"","target":"_self","created_at":"2022-07-04T12:33:53.000000Z","src_link":"https://fc-rostov.ru/endpoint/media/2022/07/04/bd4625dc19c6a28efb3ee95a2e4b2b147e65aeff.jpg","middle_src_link":"https://fc-rostov.ru/endpoint/media/slider/middle/809.jpg"}],"lastMatch":{"id":846,"goal_a":2,"goal_b":0,"match_start_at":"2026-02-07T09:00:00.000000Z","possible_match_date":false,"possible_match_time":true,"ticket_start":false,"temperature":null,"visitors":null,"home":false,"game":null,"win":null,"draw":null,"lose":null,"anons":"","match_event_published":false,"match_event_sounded":false,"review_href":null,"is_ticket_enable":false,"match_month":"февраль 2026","stadium":null,"match_status":{"id":2,"name":"Окончен","key":"end"},"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":196,"name":"Циндао","full_name":"Циндао","key":null,"gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":119,"name":"Циндао","full_name":"Циндао","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/175.png","primary_src":"https://fc-rostov.ru/endpoint/media/2026/01/17/bae9b02d08681cdd409df4d5ab15b481e2a99051.png"}},"weather":null,"season":{"id":17,"name":"2025/26","key":null,"start_at":"2025-06-22T21:00:00.000000Z","end_at":"2026-05-31T21:00:00.000000Z"},"tournament":{"id":5,"name":"Контрольные матчи","full_name":"Контрольные матчи","key":null},"tour":null,"group":null,"fonbet_current":null,"betcity_current":null},"futureMatch":[{"id":813,"goal_a":0,"goal_b":0,"match_start_at":"2026-02-28T09:00:00.000000Z","possible_match_date":true,"possible_match_time":true,"ticket_start":false,"temperature":null,"visitors":null,"home":false,"game":null,"win":null,"draw":null,"lose":null,"anons":"","match_event_published":true,"match_event_sounded":false,"review_href":null,"is_ticket_enable":false,"match_month":"февраль 2026","stat_team_a":[{"id":3388,"date_at":"2025-10-25T21:00:00.000000Z","goal_a":1,"goal_b":0,"team_a":{"id":31,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":8,"name":"Краснодар","full_name":"ФК \"Краснодар\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/35.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/krasnodar.png"}},"team_b":{"id":36,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":9,"name":"Рубин","full_name":"ФК \"Рубин\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/40.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rubin.png"}},"state":"win"},{"id":3397,"date_at":"2025-11-01T21:00:00.000000Z","goal_a":2,"goal_b":1,"team_a":{"id":31,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":8,"name":"Краснодар","full_name":"ФК \"Краснодар\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/35.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/krasnodar.png"}},"team_b":{"id":11,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":3,"name":"Спартак","full_name":"ФК \"Спартак\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/14.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/spartak.png"}},"state":"win"},{"id":3404,"date_at":"2025-11-08T21:00:00.000000Z","goal_a":1,"goal_b":1,"team_a":{"id":87,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":38,"name":"Балтика","full_name":"ФК \"Балтика\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/87.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/04/24/bf06b64f1908e7ed006189a0812fea4b74428240.png"}},"team_b":{"id":31,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":8,"name":"Краснодар","full_name":"ФК \"Краснодар\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/35.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/krasnodar.png"}},"state":"draw"},{"id":3413,"date_at":"2025-11-22T21:00:00.000000Z","goal_a":1,"goal_b":1,"team_a":{"id":26,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":7,"name":"Локомотив","full_name":"ФК \"Локомотив\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/30.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/lokomotiv.png"}},"team_b":{"id":31,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":8,"name":"Краснодар","full_name":"ФК \"Краснодар\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/35.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/krasnodar.png"}},"state":"draw"},{"id":3417,"date_at":"2025-11-28T21:00:00.000000Z","goal_a":5,"goal_b":0,"team_a":{"id":31,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":8,"name":"Краснодар","full_name":"ФК \"Краснодар\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/35.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/krasnodar.png"}},"team_b":{"id":95,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":45,"name":"Крылья Советов","full_name":"ФК \"Крылья Советов\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/97.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/07/07/bbfd14c9a4931e637ebb6e6097871384482fe598.png"}},"state":"win"}],"stat_team_b":[{"id":3383,"date_at":"2025-10-24T21:00:00.000000Z","goal_a":1,"goal_b":1,"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":150,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":78,"name":"Динамо (Махачкала)","full_name":"Динамо (Махачкала)","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/133.png","primary_src":"https://fc-rostov.ru/endpoint/media/2023/06/16/5fda1329f34edff1b3f9d5db5f828f0c0e8fd4ce.png"}},"state":"draw"},{"id":3393,"date_at":"2025-10-31T21:00:00.000000Z","goal_a":0,"goal_b":1,"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":184,"name":"Основной","full_name":"ФК \"Акрон\"","key":null,"gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":108,"name":"Акрон","full_name":"ФК \"Акрон\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/164.png","primary_src":"https://fc-rostov.ru/endpoint/media/2024/07/23/bf60563aac245fa0e5dce41b28e46332d7f260c6.png"}},"state":"lost"},{"id":3400,"date_at":"2025-11-07T21:00:00.000000Z","goal_a":0,"goal_b":1,"team_a":{"id":24,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":6,"name":"Сочи","full_name":"ФК \"Сочи\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/25.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/sochi.png"}},"team_b":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"state":"win"},{"id":3410,"date_at":"2025-11-22T21:00:00.000000Z","goal_a":2,"goal_b":0,"team_a":{"id":95,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":45,"name":"Крылья Советов","full_name":"ФК \"Крылья Советов\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/97.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/07/07/bbfd14c9a4931e637ebb6e6097871384482fe598.png"}},"team_b":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"state":"lost"},{"id":3418,"date_at":"2025-11-29T21:00:00.000000Z","goal_a":1,"goal_b":3,"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":26,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":7,"name":"Локомотив","full_name":"ФК \"Локомотив\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/30.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/lokomotiv.png"}},"state":"lost"}],"stadium":null,"match_status":null,"team_a":{"id":31,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":8,"name":"Краснодар","full_name":"ФК \"Краснодар\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/35.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/krasnodar.png"}},"team_b":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"weather":null,"season":{"id":17,"name":"2025/26","key":null,"start_at":"2025-06-22T21:00:00.000000Z","end_at":"2026-05-31T21:00:00.000000Z"},"tournament":{"id":12,"name":"МИР РПЛ","full_name":"МИР Российская Премьер-Лига","key":"1"},"tour":{"id":19,"name":"19-й тур","key":null},"group":null,"fonbet_current":null,"betcity_current":null},{"id":814,"goal_a":0,"goal_b":0,"match_start_at":"2026-03-06T09:00:00.000000Z","possible_match_date":true,"possible_match_time":true,"ticket_start":false,"temperature":null,"visitors":null,"home":true,"game":null,"win":null,"draw":null,"lose":null,"anons":"","match_event_published":false,"match_event_sounded":false,"review_href":null,"is_ticket_enable":false,"match_month":"март 2026","stat_team_a":[{"id":3383,"date_at":"2025-10-24T21:00:00.000000Z","goal_a":1,"goal_b":1,"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":150,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":78,"name":"Динамо (Махачкала)","full_name":"Динамо (Махачкала)","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/133.png","primary_src":"https://fc-rostov.ru/endpoint/media/2023/06/16/5fda1329f34edff1b3f9d5db5f828f0c0e8fd4ce.png"}},"state":"draw"},{"id":3393,"date_at":"2025-10-31T21:00:00.000000Z","goal_a":0,"goal_b":1,"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":184,"name":"Основной","full_name":"ФК \"Акрон\"","key":null,"gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":108,"name":"Акрон","full_name":"ФК \"Акрон\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/164.png","primary_src":"https://fc-rostov.ru/endpoint/media/2024/07/23/bf60563aac245fa0e5dce41b28e46332d7f260c6.png"}},"state":"lost"},{"id":3400,"date_at":"2025-11-07T21:00:00.000000Z","goal_a":0,"goal_b":1,"team_a":{"id":24,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":6,"name":"Сочи","full_name":"ФК \"Сочи\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/25.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/sochi.png"}},"team_b":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"state":"win"},{"id":3410,"date_at":"2025-11-22T21:00:00.000000Z","goal_a":2,"goal_b":0,"team_a":{"id":95,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":45,"name":"Крылья Советов","full_name":"ФК \"Крылья Советов\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/97.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/07/07/bbfd14c9a4931e637ebb6e6097871384482fe598.png"}},"team_b":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"state":"lost"},{"id":3418,"date_at":"2025-11-29T21:00:00.000000Z","goal_a":1,"goal_b":3,"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":26,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":7,"name":"Локомотив","full_name":"ФК \"Локомотив\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/30.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/lokomotiv.png"}},"state":"lost"}],"stat_team_b":[{"id":3380,"date_at":"2025-10-18T21:00:00.000000Z","goal_a":0,"goal_b":3,"team_a":{"id":36,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":9,"name":"Рубин","full_name":"ФК \"Рубин\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/40.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rubin.png"}},"team_b":{"id":87,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":38,"name":"Балтика","full_name":"ФК \"Балтика\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/87.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/04/24/bf06b64f1908e7ed006189a0812fea4b74428240.png"}},"state":"win"},{"id":3386,"date_at":"2025-10-25T21:00:00.000000Z","goal_a":0,"goal_b":0,"team_a":{"id":93,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":44,"name":"Пари НН","full_name":"ФК \"Пари НН\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/96.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/07/07/13d992294b04ea685fa7823333824be41df29ddb.png"}},"team_b":{"id":87,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":38,"name":"Балтика","full_name":"ФК \"Балтика\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/87.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/04/24/bf06b64f1908e7ed006189a0812fea4b74428240.png"}},"state":"draw"},{"id":3396,"date_at":"2025-11-01T21:00:00.000000Z","goal_a":2,"goal_b":0,"team_a":{"id":87,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":38,"name":"Балтика","full_name":"ФК \"Балтика\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/87.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/04/24/bf06b64f1908e7ed006189a0812fea4b74428240.png"}},"team_b":{"id":41,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":10,"name":"Ахмат","full_name":"РФК \"Ахмат\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/42.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/akhmat.png"}},"state":"win"},{"id":3404,"date_at":"2025-11-08T21:00:00.000000Z","goal_a":1,"goal_b":1,"team_a":{"id":87,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":38,"name":"Балтика","full_name":"ФК \"Балтика\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/87.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/04/24/bf06b64f1908e7ed006189a0812fea4b74428240.png"}},"team_b":{"id":31,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":8,"name":"Краснодар","full_name":"ФК \"Краснодар\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/35.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/krasnodar.png"}},"state":"draw"},{"id":3407,"date_at":"2025-11-21T21:00:00.000000Z","goal_a":0,"goal_b":0,"team_a":{"id":69,"name":"Основной","full_name":"Основной состав","key":"","gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":22,"name":"Оренбург","full_name":"ФК \"Оренбург\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/69.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/orenburg.png"}},"team_b":{"id":87,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":38,"name":"Балтика","full_name":"ФК \"Балтика\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/87.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/04/24/bf06b64f1908e7ed006189a0812fea4b74428240.png"}},"state":"draw"}],"stadium":{"id":17,"name":"\"Ростов Арена\"","key":null,"city":{"id":1,"name":"Ростов-на-Дону"}},"match_status":null,"team_a":{"id":1,"name":"Основной","full_name":"Основной состав","key":"team-main","gender":"male","short_name":"","anons_at":null,"anons":"","club":{"id":1,"name":"Ростов","full_name":"ФК \"Ростов\"","our":true,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/3.png","primary_src":"https://fc-rostov.ru/endpoint/media/club/rostov.png"}},"team_b":{"id":87,"name":"Основной","full_name":"Основной состав","key":null,"gender":"male","short_name":"","anons_at":null,"anons":null,"club":{"id":38,"name":"Балтика","full_name":"ФК \"Балтика\"","our":false,"thumb_primary_src":"https://fc-rostov.ru/endpoint/media/club_media/thumb/87.png","primary_src":"https://fc-rostov.ru/endpoint/media/2021/04/24/bf06b64f1908e7ed006189a0812fea4b74428240.png"}},"weather":null,"season":{"id":17,"name":"2025/26","key":null,"start_at":"2025-06-22T21:00:00.000000Z","end_at":"2026-05-31T21:00:00.000000Z"},"tournament":{"id":12,"name":"МИР РПЛ","full_name":"МИР Российская Премьер-Лига","key":"1"},"tour":{"id":20,"name":"20-й тур","key":null},"group":null,"fonbet_current":null,"betcity_current":null}],"menu":[{"slug":"news","title":"НОВОСТИ","parent":null,"url":null,"target":"_self","action":null,"submenu":[]},{"slug":"club","title":"КЛУБ","parent":null,"url":null,"target":"_self","action":null,"submenu":[{"slug":"about","title":"О клубе","parent":"club","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"manual-main","title":"Руководство","parent":"club","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"sponsor","title":"Спонсоры и Партнёры","parent":"club","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"medicine","title":"Медицина","parent":"club","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"contacts","title":"Контакты","parent":"club","url":null,"target":"_self","action":null,"submenu":[]}]},{"slug":"team","title":"КОМАНДА","parent":null,"url":null,"target":"_self","action":null,"submenu":[{"slug":"team-main","title":"Основной состав","parent":"team","url":null,"target":"_self","action":null,"submenu":[{"slug":"team-main-player","title":"Игроки","parent":"team-main","url":null,"target":"_self","action":"player","submenu":[]},{"slug":"team-main-coach","title":"Тренерский штаб","parent":"team-main","url":null,"target":"_self","action":"coach","submenu":[]},{"slug":"team-main-staff","title":"Персонал","parent":"team-main","url":null,"target":"_self","action":"staff","submenu":[]},{"slug":"team-main-rent","title":"Игроки в аренде","parent":"team-main","url":null,"target":"_self","action":"rent_player","submenu":[]},{"slug":"team-main-bombardier","title":"Бомбардиры","parent":"team-main","url":null,"target":"_self","action":"bombardier","submenu":[]}]},{"slug":"team-two","title":"Ростов-2 состав","parent":"team","url":null,"target":null,"action":null,"submenu":[{"slug":"team-two-player","title":"Игроки","parent":"team-two","url":null,"target":null,"action":"player","submenu":[]},{"slug":"team-two-coach","title":"Тренерский штаб","parent":"team-two","url":null,"target":null,"action":"coach","submenu":[]},{"slug":"team-two-staff","title":"Персонал","parent":"team-two","url":null,"target":null,"action":"staff","submenu":[]}]},{"slug":"team-youth","title":"Молодёжный состав","parent":"team","url":null,"target":"_self","action":null,"submenu":[{"slug":"team-youth-player","title":"Игроки","parent":"team-youth","url":null,"target":"_self","action":"player","submenu":[]},{"slug":"team-youth-coach","title":"Тренерский штаб","parent":"team-youth","url":null,"target":"_self","action":"coach","submenu":[]},{"slug":"team-youth-staff","title":"Персонал","parent":"team-youth","url":null,"target":"_self","action":"staff","submenu":[]},{"slug":"team-youth-bombardier","title":"Бомбардиры","parent":"team-youth","url":null,"target":"_self","action":"bombardier","submenu":[]}]},{"slug":"team-female","title":"Женский состав","parent":"team","url":null,"target":"_self","action":null,"submenu":[{"slug":"team-female-player","title":"Игроки","parent":"team-female","url":null,"target":"_self","action":"player","submenu":[]},{"slug":"team-female-coach","title":"Тренерский штаб","parent":"team-female","url":null,"target":"_self","action":"coach","submenu":[]},{"slug":"team-female-staff","title":"Персонал","parent":"team-female","url":null,"target":"_self","action":"staff","submenu":[]}]},{"slug":"team-youth-female","title":"Женский молодежный состав","parent":"team","url":null,"target":"_self","action":null,"submenu":[{"slug":"team-youth-female-player","title":"Игроки","parent":"team-youth-female","url":null,"target":"_self","action":"player","submenu":[]},{"slug":"team-youth-female-coach","title":"Тренерский штаб","parent":"team-youth-female","url":null,"target":"_self","action":"coach","submenu":[]},{"slug":"team-youth-female-staff","title":"Персонал","parent":"team-youth-female","url":null,"target":"_self","action":"staff","submenu":[]}]}]},{"slug":"matches","title":"МАТЧИ","parent":null,"url":null,"target":"_self","action":null,"submenu":[{"slug":"calendar","title":"Календарь матчей","parent":"matches","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"tournament-tables","title":"Турнирные таблицы","parent":"matches","url":null,"target":"_self","action":null,"submenu":[]}]},{"slug":"tickets","title":"БИЛЕТЫ","parent":null,"url":null,"target":"_self","action":null,"submenu":[{"slug":"buy-ticket","title":"Купить билет","parent":"tickets","url":"https://tickets.fc-rostov.ru/","target":"_blank","action":null,"submenu":[]},{"slug":"buy-subscription","title":"Купить абонемент","parent":"tickets","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"Cashier-opening-hours","title":"График работы касс","parent":"tickets","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"sales","title":"VIP, Skybox и корпоративные продажи","parent":"tickets","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"discounts","title":"Скидки","parent":"tickets","url":null,"target":"_self","action":null,"submenu":[]}]},{"slug":"score","title":"МАГАЗИН","parent":null,"url":"https://store.fc-rostov.ru","target":"_blank","action":null,"submenu":[]},{"slug":"fans","title":"БОЛЕЛЬЩИКАМ","parent":null,"url":null,"target":"_self","action":null,"submenu":[{"slug":"photo","title":"Фото","parent":"fans","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"rostov-tv","title":"Rostov TV","parent":"fans","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"rules-behavior","title":"Правила поведения","parent":"fans","url":null,"target":"_self","action":null,"submenu":[]},{"slug":"places-mgn","title":"Места для МГН","parent":"fans","url":null,"target":"_self","action":null,"submenu":[]}]},{"slug":"academia","title":"АКАДЕМИЯ","parent":null,"url":null,"target":"_self","action":null,"submenu":[]},{"slug":"stadium","title":"СТАДИОНЫ","parent":null,"url":null,"target":"_self","action":null,"submenu":[{"slug":"rostov-arena","title":"РОСТОВ АРЕНА","parent":"stadium","url":null,"target":"_self","action":null,"submenu":[]}]},{"slug":"fan-club","title":"Клуб болельщиков","parent":null,"url":null,"target":"_self","action":null,"submenu":[]}]},"lang":"ru","description":"Российский футбольный клуб из Ростова-на-Дону. Основан 10 мая 1930 года. Наивысшим достижением в чемпионате России для клуба является 2 место, на котором клуб расположился в чемпионате 2015/16 годов. ","constants":{"project.endpoint.version":"11.1.7","project.endpoint.privacy_policy":"/endpoint/media/doc/privacy_policy.pdf","project.endpoint.terms_of_use":"/endpoint/media/doc/terms_of_use.pdf","CAPTCHA_SITEKEY":"6Lcn4B4gAAAAAMTtFejVGYX-Btuv05jOVWHf8Bnj"},"__N_SSP":true},"page":"/[locale]","query":{"locale":"ru"},"buildId":"EFdupKw5AtXIkUKjinAAG","isFallback":false,"gssp":true,"customServer":true,"appGip":true,"scriptLoader":[]}</script></body></html>

@@ -1,0 +1,1636 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="format-detection" content="telephone=no">
+
+    <script> if (typeof dataLayer !== 'undefined') { dataLayer.push({'reg': 'ru'}); } else { dataLayer = [{'reg': 'ru'}]; } </script><!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-55SRBMW');</script>
+<!-- End Google Tag Manager -->
+
+<script>
+    (() => {
+        const firstScrollWaiting = event => {
+            const firstScroll = new Event('firstScroll', {bubbles: true});
+            document.dispatchEvent(firstScroll);
+            document.removeEventListener('scroll', firstScrollWaiting);
+        };
+        document.addEventListener('scroll', firstScrollWaiting);
+    })();
+</script>
+
+<script>setTimeout(() => {ga('create', 'UA-23870775-32', 'auto');ga('send', 'event', 'read', '15_seconds');ga('create', 'UA-23870775-1', 'auto');ga('send', 'event', 'read', '15_seconds')}, 15000);setTimeout(() => {ga('create', 'UA-23870775-32', 'auto');ga('send', 'event', 'reading_on_site', '1_second');ga('create', 'UA-23870775-1', 'auto');ga('send', 'event', 'reading_on_site', '1_second')}, 1000);</script><script>
+    window.Ya || (window.Ya = {});
+    window.yaContextCb = window.yaContextCb || [];
+    window.Ya.adfoxCode || (window.Ya.adfoxCode = {});
+    window.Ya.adfoxCode.hbCallbacks || (window.Ya.adfoxCode.hbCallbacks = []);
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script src="https://yandex.ru/ads/system/header-bidding.js" async></script>
+
+<script>if(window.innerWidth<=800)var adfoxBiddersMap={myTarget:"810402",betweenDigital:"810344","adfox_imho-video":"1789581",Mediasniper:"2247235",buzzoola:"890450",Gnezdo:"2880794",adfox_mttech:"3287882",Hybrid:"2995016",Roxot:"2699743",sape:"2097348",GetIntent:"3183726",adfox_adsmart:"1592040","adfox_roden-media":"3233264",AdMile:"3443974",SMI2:"3507494","adfox_yandex_adplay-adv":"3466272",adriver:"728254"},adUnits=[{code:"adfox_163128735674588635",bids:[{bidder:"adfox_yandex_adplay-adv",params:{p1:"dlpow",p2:"jopb"}}],sizes:[[320,100]]},{code:"adfox_169175190374398350",bids:[{bidder:"adfox_imho-video",params:{p1:"czbvn",p2:"hiub"}},{bidder:"adfox_mttech",params:{p1:"djrwr",p2:"gdxc"}},{bidder:"admile",params:{placementId:"ADMILE_209|"+(new Date).getTimezoneOffset()}},{bidder:"adfox_roden-media",params:{p1:"dhsgp",p2:"fdho"}},{bidder:"Gnezdo",params:{placementId:"360598"}}],sizes:[[0,0]]},{code:"adfox_163128360838812751",bids:[{bidder:"myTarget",params:{placementId:"1064173"}},{bidder:"SMI2",params:{placementId:"104732"}},{bidder:"sape",params:{placementId:"919520"}},{bidder:"adfox_adsmart",params:{p1:"connc",p2:"ul"}},{bidder:"adfox_roden-media",params:{p1:"dhsgq",p2:"hbts"}},{bidder:"GetIntent",params:{placementId:"215_V_kp.ru/sports/_M_(mobile)-1m_300x250"}},{bidder:"adfox_imho-video",params:{p1:"cwtwv",p2:"hiua"}},{bidder:"Mediasniper",params:{placementId:"170007"}},{bidder:"buzzoola",params:{placementId:"1250897"}},{bidder:"adfox_mttech",params:{p1:"czwtr",p2:"hxse"}},{bidder:"adriver",params:{placementId:"2:kp_Sport_300x250_1m"}},{bidder:"Gnezdo",params:{placementId:"351624"}},{bidder:"Hybrid",params:{placementId:"660ea8864d506e2cece69070"}},{bidder:"Roxot",params:{placementId:"caca4f44-b548-4d64-b08e-2393a2431748",sendTargetRef:!0}},{bidder:"betweenDigital",params:{placementId:"4579424"}}],sizes:[[300,250],[300,300]]},{codeType:"combo",code:"adfox_163128683475055781",bids:[{bidder:"myTarget",params:{placementId:"1064177"}},{bidder:"adfox_roden-media",params:{p1:"dhsgr",p2:"hfiu"}},{bidder:"GetIntent",params:{placementId:"215_V_kp.ru/sports/_M_(mobile)-10.1m_300x300"}},{bidder:"betweenDigital",params:{placementId:"4579939"}},{bidder:"Mediasniper",params:{placementId:"170008"}},{bidder:"adfox_mttech",params:{p1:"czwus",p2:"hujp"}},{bidder:"Roxot",params:{placementId:"e43d38a2-9c08-44df-b9cb-7845789c2a4d",sendTargetRef:!0}},{bidder:"adriver",params:{placementId:"2:kp_Sport_300x250_10.1m"}}],sizes:[[300,250]]},{code:"adfox_165893138469287111",bids:[{bidder:"adfox_adsmart",params:{p1:"dhfwo",p2:"ul"}},{bidder:"Gnezdo",params:{placementId:"354587"}},{bidder:"buzzoola",params:{placementId:"1250898"}}],sizes:[[300,600],[300,300],[336,280],[240,400],[300,250],[300,500],[250,250],[320,480]]},{code:"adfox_163128720693082850",bids:[{bidder:"myTarget",params:{placementId:"1064175"}},{bidder:"adfox_roden-media",params:{p1:"dhsgs",p2:"hfiu"}},{bidder:"adfox_adsmart",params:{p1:"dhfwo",p2:"ul"}},{bidder:"buzzoola",params:{placementId:"1250899"}},{bidder:"adriver",params:{placementId:"2:kp_Sport_300x250_6m"}},{bidder:"betweenDigital",params:{placementId:"4579551"}}],sizes:[[300,250]]}];else if(window.innerWidth>=800)adfoxBiddersMap={myTarget:"810402",betweenDigital:"810344",buzzoola:"890450",adfox_mttech:"2268450",Mediasniper:"2247235",Gnezdo:"2880794",Hybrid:"2995016",Roxot:"2699743",sape:"2097348",GetIntent:"3183726",adfox_adsmart:"1592040","adfox_roden-media":"3233264",SMI2:"3507494","adfox_yandex_adplay-adv":"3466272",adriver:"728254"},adUnits=[{code:"adfox_163128729682629212",bids:[{bidder:"adfox_yandex_adplay-adv",params:{p1:"dlpow",p2:"jopb"}}],sizes:[[615,140]]},{code:"adfox_163128335815491274",bids:[{bidder:"myTarget",params:{placementId:"1064149"}},{bidder:"SMI2",params:{placementId:"104733"}},{bidder:"adfox_roden-media",params:{p1:"dhsgl",p2:"hfln"}},{bidder:"adfox_adsmart",params:{p1:"connb",p2:"ul"}},{bidder:"GetIntent",params:{placementId:"215_V_kp.ru/sports/_D_(desktop)-1_970x250"}},{bidder:"buzzoola",params:{placementId:"1250900"}},{bidder:"adfox_mttech",params:{p1:"czwuc",p2:"hxse"}},{bidder:"Mediasniper",params:{placementId:"170005"}},{bidder:"adriver",params:{placementId:"2:kp_Sport_970x250_1"}},{bidder:"Hybrid",params:{placementId:"660ea8864d506e2cece69072"}},{bidder:"betweenDigital",params:{placementId:"4562411"}}],sizes:[[970,250]]},{code:"adfox_163128692018927292",bids:[{bidder:"myTarget",params:{placementId:"1064155"}},{bidder:"adfox_roden-media",params:{p1:"dhsgn",p2:"emwl"}},{bidder:"adfox_adsmart",params:{p1:"cqgyb",p2:"hhro"}},{bidder:"sape",params:{placementId:"919522"}},{bidder:"GetIntent",params:{placementId:"215_V_kp.ru/sports/_D_(desktop)-2_300x600"}},{bidder:"buzzoola",params:{placementId:"1250901"}},{bidder:"adriver",params:{placementId:"2:kp_Sport_300x600_2"}},{bidder:"Mediasniper",params:{placementId:"170006"}},{bidder:"Gnezdo",params:{placementId:"351614"}},{bidder:"Hybrid",params:{placementId:"660ea8864d506e2cece69071"}},{bidder:"Roxot",params:{placementId:"a03e0d5e-1a72-46b3-b75d-6caba7c17256",sendTargetRef:!0}},{bidder:"betweenDigital",params:{placementId:"4578105"}}],sizes:[[300,600]]},{codeType:"combo",code:"adfox_163128675469247927",bids:[{bidder:"myTarget",params:{placementId:"1064165"}},{bidder:"adfox_roden-media",params:{p1:"dhsgm",p2:"etsw"}},{bidder:"adfox_adsmart",params:{p1:"crniu",p2:"ul"}},{bidder:"buzzoola",params:{placementId:"1250902"}},{bidder:"Gnezdo",params:{placementId:"354830"}},{bidder:"adriver",params:{placementId:"2:kp_Sport_580x400_10.1"}},{bidder:"adfox_mttech",params:{p1:"czwvd",p2:"hujp"}},{bidder:"Roxot",params:{placementId:"db1f00f9-2e05-43eb-b59f-0bd60ee9f142",sendTargetRef:!0}},{bidder:"betweenDigital",params:{placementId:"4578714"}}],sizes:[[580,400]]},{code:"adfox_16312870957751526",bids:[{bidder:"myTarget",params:{placementId:"1064153"}},{bidder:"adfox_adsmart",params:{p1:"connb",p2:"ul"}},{bidder:"adfox_roden-media",params:{p1:"dhsgo",p2:"etsw"}},{bidder:"buzzoola",params:{placementId:"1250903"}},{bidder:"adriver",params:{placementId:"2:kp_Sport_728x250_6"}},{bidder:"betweenDigital",params:{placementId:"4570476"}}],sizes:[[728,90],[728,250]]}];var userTimeout=1500;window.YaHeaderBiddingSettings={biddersMap:adfoxBiddersMap,adUnits:adUnits,timeout:userTimeout};</script>    <title>КП Спорт - новости, трансляции, аналитика, обзоры, интервью</title>
+    <script>
+        console.log('Отключить всю рекламу: ' + 'off');
+        console.log('Отключить 10.х слоты: ' + 'off');
+        console.log('Тег restrictioned_content: ' + 'off');
+    </script>
+        <link rel="canonical" href="https://www.kp.ru/sports/">
+    <meta property="og:site_name" content="">
+    <meta class="meta_title" name="mrc__share_title" content='КП Спорт - новости, трансляции, аналитика, обзоры, интервью'>
+    <meta class="meta_title" itemprop="name" content='КП Спорт - новости, трансляции, аналитика, обзоры, интервью'>
+    <meta class="meta_title" property="og:title" content='КП Спорт - новости, трансляции, аналитика, обзоры, интервью'>
+    <meta class="meta_title" name="twitter:title" content='КП Спорт - новости, трансляции, аналитика, обзоры, интервью'>
+    <meta class="meta_desc" name="mrc__share_description" content='Новости спорта в России и мире за сегодня, неделю, месяц только на сайте «КП Спорт». Последние новости, спортивная аналитика, онлайн трансляции, эксклюзивные интервью со спортсменами, обзоры и прогнозы, фото и видео. '>
+    <meta class="meta_desc" property="og:description" content='Новости спорта в России и мире за сегодня, неделю, месяц только на сайте «КП Спорт». Последние новости, спортивная аналитика, онлайн трансляции, эксклюзивные интервью со спортсменами, обзоры и прогнозы, фото и видео. '>
+    <meta class="meta_desc" name="description" itemprop="description" content='Новости спорта в России и мире за сегодня, неделю, месяц только на сайте «КП Спорт». Последние новости, спортивная аналитика, онлайн трансляции, эксклюзивные интервью со спортсменами, обзоры и прогнозы, фото и видео. '>
+    <meta class="meta_desc" name="twitter:description" content='Новости спорта в России и мире за сегодня, неделю, месяц только на сайте «КП Спорт». Последние новости, спортивная аналитика, онлайн трансляции, эксклюзивные интервью со спортсменами, обзоры и прогнозы, фото и видео. '>
+    <meta class="meta_image" itemprop="image" content="">
+    <meta class="meta_image" property="og:image" content="">
+    <link class="meta_image_href" rel="image_src" href="">
+    <meta class="meta_image" name="twitter:image:src" content="">
+    <meta property="og:image:alt" content='КП Спорт - новости, трансляции, аналитика, обзоры, интервью'>
+    <meta property="og:locale" content="ru_RU">
+    <meta name="keywords" content="Новости спорта, спортивные новости, КП спорт">
+    <script></script>
+    <script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var ewww_webp_supported=!1;function check_webp_feature(A,e){var w;e=void 0!==e?e:function(){},ewww_webp_supported?e(ewww_webp_supported):((w=new Image).onload=function(){ewww_webp_supported=0<w.width&&0<w.height,e&&e(ewww_webp_supported)},w.onerror=function(){e&&e(!1)},w.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA=="}[A])}check_webp_feature("alpha");</script><script data-cfasync="false" data-no-defer="1" data-no-minify="1" data-no-optimize="1">var Arrive=function(c,w){"use strict";if(c.MutationObserver&&"undefined"!=typeof HTMLElement){var r,a=0,u=(r=HTMLElement.prototype.matches||HTMLElement.prototype.webkitMatchesSelector||HTMLElement.prototype.mozMatchesSelector||HTMLElement.prototype.msMatchesSelector,{matchesSelector:function(e,t){return e instanceof HTMLElement&&r.call(e,t)},addMethod:function(e,t,r){var a=e[t];e[t]=function(){return r.length==arguments.length?r.apply(this,arguments):"function"==typeof a?a.apply(this,arguments):void 0}},callCallbacks:function(e,t){t&&t.options.onceOnly&&1==t.firedElems.length&&(e=[e[0]]);for(var r,a=0;r=e[a];a++)r&&r.callback&&r.callback.call(r.elem,r.elem);t&&t.options.onceOnly&&1==t.firedElems.length&&t.me.unbindEventWithSelectorAndCallback.call(t.target,t.selector,t.callback)},checkChildNodesRecursively:function(e,t,r,a){for(var i,n=0;i=e[n];n++)r(i,t,a)&&a.push({callback:t.callback,elem:i}),0<i.childNodes.length&&u.checkChildNodesRecursively(i.childNodes,t,r,a)},mergeArrays:function(e,t){var r,a={};for(r in e)e.hasOwnProperty(r)&&(a[r]=e[r]);for(r in t)t.hasOwnProperty(r)&&(a[r]=t[r]);return a},toElementsArray:function(e){return e=void 0!==e&&("number"!=typeof e.length||e===c)?[e]:e}}),e=(l.prototype.addEvent=function(e,t,r,a){a={target:e,selector:t,options:r,callback:a,firedElems:[]};return this._beforeAdding&&this._beforeAdding(a),this._eventsBucket.push(a),a},l.prototype.removeEvent=function(e){for(var t,r=this._eventsBucket.length-1;t=this._eventsBucket[r];r--)e(t)&&(this._beforeRemoving&&this._beforeRemoving(t),(t=this._eventsBucket.splice(r,1))&&t.length&&(t[0].callback=null))},l.prototype.beforeAdding=function(e){this._beforeAdding=e},l.prototype.beforeRemoving=function(e){this._beforeRemoving=e},l),t=function(i,n){var o=new e,l=this,s={fireOnAttributesModification:!1};return o.beforeAdding(function(t){var e=t.target;e!==c.document&&e!==c||(e=document.getElementsByTagName("html")[0]);var r=new MutationObserver(function(e){n.call(this,e,t)}),a=i(t.options);r.observe(e,a),t.observer=r,t.me=l}),o.beforeRemoving(function(e){e.observer.disconnect()}),this.bindEvent=function(e,t,r){t=u.mergeArrays(s,t);for(var a=u.toElementsArray(this),i=0;i<a.length;i++)o.addEvent(a[i],e,t,r)},this.unbindEvent=function(){var r=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<r.length;t++)if(this===w||e.target===r[t])return!0;return!1})},this.unbindEventWithSelectorOrCallback=function(r){var a=u.toElementsArray(this),i=r,e="function"==typeof r?function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.callback===i)return!0;return!1}:function(e){for(var t=0;t<a.length;t++)if((this===w||e.target===a[t])&&e.selector===r)return!0;return!1};o.removeEvent(e)},this.unbindEventWithSelectorAndCallback=function(r,a){var i=u.toElementsArray(this);o.removeEvent(function(e){for(var t=0;t<i.length;t++)if((this===w||e.target===i[t])&&e.selector===r&&e.callback===a)return!0;return!1})},this},i=new function(){var s={fireOnAttributesModification:!1,onceOnly:!1,existing:!1};function n(e,t,r){return!(!u.matchesSelector(e,t.selector)||(e._id===w&&(e._id=a++),-1!=t.firedElems.indexOf(e._id)))&&(t.firedElems.push(e._id),!0)}var c=(i=new t(function(e){var t={attributes:!1,childList:!0,subtree:!0};return e.fireOnAttributesModification&&(t.attributes=!0),t},function(e,i){e.forEach(function(e){var t=e.addedNodes,r=e.target,a=[];null!==t&&0<t.length?u.checkChildNodesRecursively(t,i,n,a):"attributes"===e.type&&n(r,i)&&a.push({callback:i.callback,elem:r}),u.callCallbacks(a,i)})})).bindEvent;return i.bindEvent=function(e,t,r){t=void 0===r?(r=t,s):u.mergeArrays(s,t);var a=u.toElementsArray(this);if(t.existing){for(var i=[],n=0;n<a.length;n++)for(var o=a[n].querySelectorAll(e),l=0;l<o.length;l++)i.push({callback:r,elem:o[l]});if(t.onceOnly&&i.length)return r.call(i[0].elem,i[0].elem);setTimeout(u.callCallbacks,1,i)}c.call(this,e,t,r)},i},o=new function(){var a={};function i(e,t){return u.matchesSelector(e,t.selector)}var n=(o=new t(function(){return{childList:!0,subtree:!0}},function(e,r){e.forEach(function(e){var t=e.removedNodes,e=[];null!==t&&0<t.length&&u.checkChildNodesRecursively(t,r,i,e),u.callCallbacks(e,r)})})).bindEvent;return o.bindEvent=function(e,t,r){t=void 0===r?(r=t,a):u.mergeArrays(a,t),n.call(this,e,t,r)},o};d(HTMLElement.prototype),d(NodeList.prototype),d(HTMLCollection.prototype),d(HTMLDocument.prototype),d(Window.prototype);var n={};return s(i,n,"unbindAllArrive"),s(o,n,"unbindAllLeave"),n}function l(){this._eventsBucket=[],this._beforeAdding=null,this._beforeRemoving=null}function s(e,t,r){u.addMethod(t,r,e.unbindEvent),u.addMethod(t,r,e.unbindEventWithSelectorOrCallback),u.addMethod(t,r,e.unbindEventWithSelectorAndCallback)}function d(e){e.arrive=i.bindEvent,s(i,e,"unbindArrive"),e.leave=o.bindEvent,s(o,e,"unbindLeave")}}(window,void 0),ewww_webp_supported=!1;function check_webp_feature(e,t){var r;ewww_webp_supported?t(ewww_webp_supported):((r=new Image).onload=function(){ewww_webp_supported=0<r.width&&0<r.height,t(ewww_webp_supported)},r.onerror=function(){t(!1)},r.src="data:image/webp;base64,"+{alpha:"UklGRkoAAABXRUJQVlA4WAoAAAAQAAAAAAAAAAAAQUxQSAwAAAARBxAR/Q9ERP8DAABWUDggGAAAABQBAJ0BKgEAAQAAAP4AAA3AAP7mtQAAAA==",animation:"UklGRlIAAABXRUJQVlA4WAoAAAASAAAAAAAAAAAAQU5JTQYAAAD/////AABBTk1GJgAAAAAAAAAAAAAAAAAAAGQAAABWUDhMDQAAAC8AAAAQBxAREYiI/gcA"}[e])}function ewwwLoadImages(e){if(e){for(var t=document.querySelectorAll(".batch-image img, .image-wrapper a, .ngg-pro-masonry-item a, .ngg-galleria-offscreen-seo-wrapper a"),r=0,a=t.length;r<a;r++)ewwwAttr(t[r],"data-src",t[r].getAttribute("data-webp")),ewwwAttr(t[r],"data-thumbnail",t[r].getAttribute("data-webp-thumbnail"));for(var i=document.querySelectorAll("div.woocommerce-product-gallery__image"),r=0,a=i.length;r<a;r++)ewwwAttr(i[r],"data-thumb",i[r].getAttribute("data-webp-thumb"))}for(var n=document.querySelectorAll("video"),r=0,a=n.length;r<a;r++)ewwwAttr(n[r],"poster",e?n[r].getAttribute("data-poster-webp"):n[r].getAttribute("data-poster-image"));for(var o,l=document.querySelectorAll("img.ewww_webp_lazy_load"),r=0,a=l.length;r<a;r++)e&&(ewwwAttr(l[r],"data-lazy-srcset",l[r].getAttribute("data-lazy-srcset-webp")),ewwwAttr(l[r],"data-srcset",l[r].getAttribute("data-srcset-webp")),ewwwAttr(l[r],"data-lazy-src",l[r].getAttribute("data-lazy-src-webp")),ewwwAttr(l[r],"data-src",l[r].getAttribute("data-src-webp")),ewwwAttr(l[r],"data-orig-file",l[r].getAttribute("data-webp-orig-file")),ewwwAttr(l[r],"data-medium-file",l[r].getAttribute("data-webp-medium-file")),ewwwAttr(l[r],"data-large-file",l[r].getAttribute("data-webp-large-file")),null!=(o=l[r].getAttribute("srcset"))&&!1!==o&&o.includes("R0lGOD")&&ewwwAttr(l[r],"src",l[r].getAttribute("data-lazy-src-webp"))),l[r].className=l[r].className.replace(/\bewww_webp_lazy_load\b/,"");for(var s=document.querySelectorAll(".ewww_webp"),r=0,a=s.length;r<a;r++)e?(ewwwAttr(s[r],"srcset",s[r].getAttribute("data-srcset-webp")),ewwwAttr(s[r],"src",s[r].getAttribute("data-src-webp")),ewwwAttr(s[r],"data-orig-file",s[r].getAttribute("data-webp-orig-file")),ewwwAttr(s[r],"data-medium-file",s[r].getAttribute("data-webp-medium-file")),ewwwAttr(s[r],"data-large-file",s[r].getAttribute("data-webp-large-file")),ewwwAttr(s[r],"data-large_image",s[r].getAttribute("data-webp-large_image")),ewwwAttr(s[r],"data-src",s[r].getAttribute("data-webp-src"))):(ewwwAttr(s[r],"srcset",s[r].getAttribute("data-srcset-img")),ewwwAttr(s[r],"src",s[r].getAttribute("data-src-img"))),s[r].className=s[r].className.replace(/\bewww_webp\b/,"ewww_webp_loaded");window.jQuery&&jQuery.fn.isotope&&jQuery.fn.imagesLoaded&&(jQuery(".fusion-posts-container-infinite").imagesLoaded(function(){jQuery(".fusion-posts-container-infinite").hasClass("isotope")&&jQuery(".fusion-posts-container-infinite").isotope()}),jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").imagesLoaded(function(){jQuery(".fusion-portfolio:not(.fusion-recent-works) .fusion-portfolio-wrapper").isotope()}))}function ewwwWebPInit(e){ewwwLoadImages(e),ewwwNggLoadGalleries(e),document.arrive(".ewww_webp",function(){ewwwLoadImages(e)}),document.arrive(".ewww_webp_lazy_load",function(){ewwwLoadImages(e)}),document.arrive("videos",function(){ewwwLoadImages(e)}),"loading"==document.readyState?document.addEventListener("DOMContentLoaded",ewwwJSONParserInit):("undefined"!=typeof galleries&&ewwwNggParseGalleries(e),ewwwWooParseVariations(e))}function ewwwAttr(e,t,r){null!=r&&!1!==r&&e.setAttribute(t,r)}function ewwwJSONParserInit(){"undefined"!=typeof galleries&&check_webp_feature("alpha",ewwwNggParseGalleries),check_webp_feature("alpha",ewwwWooParseVariations)}function ewwwWooParseVariations(e){if(e)for(var t=document.querySelectorAll("form.variations_form"),r=0,a=t.length;r<a;r++){var i=t[r].getAttribute("data-product_variations"),n=!1;try{for(var o in i=JSON.parse(i))void 0!==i[o]&&void 0!==i[o].image&&(void 0!==i[o].image.src_webp&&(i[o].image.src=i[o].image.src_webp,n=!0),void 0!==i[o].image.srcset_webp&&(i[o].image.srcset=i[o].image.srcset_webp,n=!0),void 0!==i[o].image.full_src_webp&&(i[o].image.full_src=i[o].image.full_src_webp,n=!0),void 0!==i[o].image.gallery_thumbnail_src_webp&&(i[o].image.gallery_thumbnail_src=i[o].image.gallery_thumbnail_src_webp,n=!0),void 0!==i[o].image.thumb_src_webp&&(i[o].image.thumb_src=i[o].image.thumb_src_webp,n=!0));n&&ewwwAttr(t[r],"data-product_variations",JSON.stringify(i))}catch(e){}}}function ewwwNggParseGalleries(e){if(e)for(var t in galleries){var r=galleries[t];galleries[t].images_list=ewwwNggParseImageList(r.images_list)}}function ewwwNggLoadGalleries(e){e&&document.addEventListener("ngg.galleria.themeadded",function(e,t){window.ngg_galleria._create_backup=window.ngg_galleria.create,window.ngg_galleria.create=function(e,t){var r=$(e).data("id");return galleries["gallery_"+r].images_list=ewwwNggParseImageList(galleries["gallery_"+r].images_list),window.ngg_galleria._create_backup(e,t)}})}function ewwwNggParseImageList(e){for(var t in e){var r=e[t];if(void 0!==r["image-webp"]&&(e[t].image=r["image-webp"],delete e[t]["image-webp"]),void 0!==r["thumb-webp"]&&(e[t].thumb=r["thumb-webp"],delete e[t]["thumb-webp"]),void 0!==r.full_image_webp&&(e[t].full_image=r.full_image_webp,delete e[t].full_image_webp),void 0!==r.srcsets)for(var a in r.srcsets)nggSrcset=r.srcsets[a],void 0!==r.srcsets[a+"-webp"]&&(e[t].srcsets[a]=r.srcsets[a+"-webp"],delete e[t].srcsets[a+"-webp"]);if(void 0!==r.full_srcsets)for(var i in r.full_srcsets)nggFSrcset=r.full_srcsets[i],void 0!==r.full_srcsets[i+"-webp"]&&(e[t].full_srcsets[i]=r.full_srcsets[i+"-webp"],delete e[t].full_srcsets[i+"-webp"])}return e}check_webp_feature("alpha",ewwwWebPInit);</script><meta name='robots' content='max-image-preview:large' />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link data-minify="1" rel='stylesheet' id='ep_general_styles-css' href='https://www.kp.ru/sports/wp-content/cache/min/1/sports/wp-content/plugins/elasticpress/dist/css/general-styles.css?ver=1771413985' type='text/css' media='all' />
+<link data-minify="1" rel='stylesheet' id='euro-2021-style-css' href='https://www.kp.ru/sports/wp-content/cache/min/1/sports/wp-content/themes/sports/assets/css/general.css?ver=1771413985' type='text/css' media='all' />
+<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><style>.wp-block-gallery.is-cropped .blocks-gallery-item picture{height:100%;width:100%;}</style><!-- Нет версии AMPHTML для этого URL. --><link rel="icon" href="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2021/05/cropped-index-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2021/05/cropped-index-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://s5.stc.all.kpcdn.net/sports/wp-content/uploads/2021/05/cropped-index-180x180.png" />
+<meta name="msapplication-TileImage" content="https://s2.stc.all.kpcdn.net/sports/wp-content/uploads/2021/05/cropped-index-270x270.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>    
+</head>
+
+<body id="body" class="home blog wp-theme-sports">
+
+<!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: kp.ru - Спорт / * / *-->
+<!--Тип баннера: Sport (mobile, tablet) - fullscreen-->
+<!--Расположение: верх страницы-->
+<div data-rocket-location-hash="d63a9caa57d8215ffe76c613fd1ff337" id="adfox_169175190374398350"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 232598,
+            containerId: 'adfox_169175190374398350',
+            params: {
+                pp: 'g',
+                ps: 'exzh',
+                p2: 'imti',
+                puid1: '',
+                puid2: '',
+                puid3: '',
+                puid4: '',
+                puid5: '',
+                puid6: '',
+                puid7: ''
+            }
+        }, ['tablet', 'phone'], {
+            tabletWidth: 1023,
+            phoneWidth: 767,
+            isAutoReloads: false
+        })
+    })
+</script><!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (desktop) - Catfish-->
+<!--Расположение: <верх страницы>-->
+<div data-rocket-location-hash="e4489ac18f46df8e67a2aa811a05c2a0" id="adfox_163128729682629212"></div>
+<script>
+    setTimeout(() => {
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 232598,
+                containerId: 'adfox_163128729682629212',
+                params: {
+                    pp: 'g',
+                    ps: 'exzh',
+                    p2: 'hfhs',
+                    puid1: '',
+                    puid2: '',
+                    puid3: '',
+                    puid4: '',
+                    puid5: '',
+                    puid6: '',
+                    puid7: ''
+                }
+            }, ['desktop'], {
+                tabletWidth: 1023,
+                phoneWidth: 767,
+                isAutoReloads: false
+            })
+        })
+    }, 3000);
+</script><!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (mobile) - Catfish-->
+<!--Расположение: <верх страницы>-->
+<div data-rocket-location-hash="d8851d141b1007d57c365a77eac4e53a" id="adfox_163128735674588635"></div>
+<script>
+    document.addEventListener('scroll',callCatfishM);
+    function callCatfishM() {
+        document.removeEventListener('scroll',callCatfishM);
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 232598,
+            containerId: 'adfox_163128735674588635',
+            params: {
+                pp: 'g',
+                ps: 'exzh',
+                p2: 'hfht',
+                puid1: '',
+                puid2: '',
+                puid3: '',
+                puid4: '',
+                puid5: '',
+                puid6: '',
+                puid7: ''
+            }
+        }, ['phone'], {
+            tabletWidth: 1023,
+            phoneWidth: 767,
+            isAutoReloads: false
+        })
+    })}
+</script>
+<div data-rocket-location-hash="922d752c2a451e776c39db73eb62ba63" class="site-wrapper">
+
+    <div data-rocket-location-hash="84b48d35ce1bf2b04ec3435843a6cc40" class="page-header">
+        <div data-rocket-location-hash="317da610cda530ed812c283e9b2fd8fb" class="grid-container">
+            <div id="header-inner" class="page-header__inner overflow-hidden">
+
+                <div id="mobile-menu-trigger" class="page-header__mobile-menu-trigger hide-for-large"></div>
+
+                <div class="page-header__logos">
+
+                    <a class="page-header__logo-kp" href="https://kp.ru">
+                        <img class="page-header__logo-kp-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2030'%3E%3C/svg%3E" height="30" width="32" alt="КП" data-lazy-src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/bird-kp.svg"><noscript><img class="page-header__logo-kp-image" src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/bird-kp.svg" height="30" width="32" alt="КП"></noscript>
+                    </a>
+
+                    <a class="page-header__logo-euro" href="https://www.kp.ru/sports/">
+                        <img class="page-header__logo-e-20-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2076%2025'%3E%3C/svg%3E" width="76" height="25" alt="" data-lazy-src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/sport-kp.svg"><noscript><img class="page-header__logo-e-20-image" src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/sport-kp.svg" width="76" height="25" alt=""></noscript>
+                    </a>
+
+                </div>
+
+                <div class="page-header__menu-wrapper show-for-large" id="main-menu-wrapper">
+                    <nav class="menu-main-menu-container"><ul id="menu-main-menu" class="main-menu"><li id="menu-item-390013" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-390013"><a href="https://www.kp.ru/sports/olimpiada-2026/">Олимпиада 2026</a></li>
+<li id="menu-item-8182" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8182"><a href="https://www.kp.ru/sports/futbol/">Футбол</a>
+<ul class="sub-menu">
+	<li id="menu-item-20173" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20173"><a href="https://www.kp.ru/sports/futbol/rpl/">РПЛ</a></li>
+	<li id="menu-item-20172" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20172"><a href="https://www.kp.ru/sports/futbol/liga-chempionov-po-futbolu/">Лига чемпионов</a></li>
+	<li id="menu-item-20171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20171"><a href="https://www.kp.ru/sports/futbol/liga-evropy-po-futbolu/">Лига Европы</a></li>
+</ul>
+</li>
+<li id="menu-item-8185" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8185"><a href="https://www.kp.ru/sports/figurnoe-katanie/">Фигурное катание</a></li>
+<li id="menu-item-8186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8186"><a href="https://www.kp.ru/sports/hokkej/">Хоккей</a></li>
+<li id="menu-item-8184" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8184"><a href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/">MMA</a></li>
+<li id="menu-item-8850" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8850"><a href="https://www.kp.ru/sports/boks/">Бокс</a></li>
+<li id="menu-item-8851" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8851"><a href="https://www.kp.ru/sports/tennis/">Теннис</a></li>
+<li id="menu-item-20167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20167"><a href="https://www.kp.ru/sports/avto/">Автоспорт</a></li>
+<li id="menu-item-20168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20168"><a href="https://www.kp.ru/sports/basketbol/">Баскетбол</a></li>
+<li id="menu-item-25392" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25392"><a href="https://www.kp.ru/sports/biatlon/">Биатлон</a></li>
+<li id="menu-item-25390" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25390"><a href="https://www.kp.ru/sports/shahmaty/">Шахматы</a></li>
+<li id="menu-item-25391" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25391"><a href="https://www.kp.ru/sports/kibersport/">Киберспорт</a></li>
+<li id="menu-item-53183" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53183"><a href="https://www.kp.ru/sports/legkaya-atletika/">Легкая атлетика</a></li>
+<li id="menu-item-25389" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25389"><a href="https://www.kp.ru/sports/doping/">Допинг</a></li>
+<li id="menu-item-20170" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20170"><a href="https://www.kp.ru/sports/fitnes/">Фитнес</a></li>
+<li id="menu-item-273141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-273141"><a href="https://www.kp.ru/sports/win/">Прогнозы на спорт</a></li>
+<li id="menu-item-274548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274548"><a href="https://www.kp.ru/sports/win/bukmekerskye-kontory/">Лучшие букмекеры</a></li>
+
+                            <li class="main-menu__duplicator-wrapper hidden">
+                            <div id="main-menu-duplicator-trigger" class="main-menu__duplicator-trigger">еще</div>
+                            <div id="main-menu-duplicator" class="main-menu__duplicator">
+                                <div id="main-menu-duplicator-list" class="main-menu__duplicator-list"></div>
+                            </div>
+                        </li>
+                    </ul></nav>                </div>
+
+                    <div class="page-header__buttons show-for-large">
+                    <a class="page-header__menu-button page-header__menu-button--icon-loudspeaker" href="https://www.kp.ru/sports/gentleman-2025/">Джентельмен года</a>
+            </div>
+                    <span id="search-trigger" class="page-header__search-trigger"></span>
+
+                <div id="search-form" class="page-header__search-form">
+                    <form action="https://www.kp.ru/sports/" method="get">
+                        <div class="page-header__search-inner">
+                            <span class="page-header__search-icon"></span>
+                            <input class="page-header__search-input" name="s" type="text" placeholder="Поиск" value="">
+                            <input id="search-reset" class="page-header__search-reset" type="reset" value="Очистить">
+                        </div>
+                        <input class="page-header__search-submit" type="submit" value="Найти">
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div data-rocket-location-hash="68203ba495057421eee2de8d47e0170f" class="ad-slot__branding-left show-for-large"><!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (desktop) - 4 (left)-->
+<!--Расположение: <верх страницы>-->
+<div data-rocket-location-hash="54e7386205f718ddf4273a67a04ae981" id="adfox_163128698486725147"></div>
+<script>
+    setTimeout(() => {
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 232598,
+                containerId: 'adfox_163128698486725147',
+                params: {
+                    pp: 'g',
+                    ps: 'exzh',
+                    p2: 'hewz',
+                    puid1: '',
+                    puid2: '',
+                    puid3: '',
+                    puid4: '',
+                    puid5: '',
+                    puid6: '',
+                    puid7: ''
+                }
+            }, ['desktop'], {
+                tabletWidth: 1623,
+                phoneWidth: 767,
+                isAutoReloads: false
+            })
+        })
+    }, 1500);
+</script></div>
+    <div data-rocket-location-hash="f74430b2a07884abf54a778364b3ed52" class="grid-container show-for-large" style="width:100%;height: 250px !important;overflow: hidden;max-width: 1292px;margin:0 auto;padding: 0 !important;">
+        <div data-rocket-location-hash="b53594fe38ea812df69730c518529f8f" class="ad-slot--fallback ad-slot__branding-top">
+            <!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (desktop) - 1-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_163128335815491274"></div>
+<script>
+    window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 232598,
+                containerId: 'adfox_163128335815491274',
+                params: {
+                    pp: 'g',
+                    ps: 'exzh',
+                    p2: 'hewy',
+                    puid1: '',
+                    puid2: '',
+                    puid3: '',
+                    puid4: '',
+                    puid5: '',
+                    puid6: '',
+                    puid7: ''
+                }
+            }, ['desktop'], {
+                tabletWidth: 1023,
+                phoneWidth: 767,
+                isAutoReloads: false
+            })
+        });
+</script>        </div>
+    </div>
+    <div data-rocket-location-hash="158fcf95e27b60b1c5dd0eb48eb96413" class="ad-slot__branding-right show-for-large"><!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (desktop) - 4 (right)-->
+<!--Расположение: <верх страницы>-->
+<div data-rocket-location-hash="7f66c97e1eece082c020d6aea145d1c1" id="adfox_163128703250036662"></div>
+<script>
+    setTimeout(() => {
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 232598,
+                containerId: 'adfox_163128703250036662',
+                params: {
+                    pp: 'g',
+                    ps: 'exzh',
+                    p2: 'hexa',
+                    puid1: '',
+                    puid2: '',
+                    puid3: '',
+                    puid4: '',
+                    puid5: '',
+                    puid6: '',
+                    puid7: ''
+                }
+            }, ['desktop'], {
+                tabletWidth: 1623,
+                phoneWidth: 767,
+                isAutoReloads: false
+            })
+        })
+    }, 1500);
+</script></div>
+    <div data-rocket-location-hash="71fd31f8c591f5ee3944011b8214416c" class="ad-slot__tablet-1 show-for-medium-only"><!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (tablet) - 1-->
+<!--Расположение: <верх страницы>-->
+<div data-rocket-location-hash="6dc96fbc5b1e8cff417e58b672cd23b7" id="adfox_16312852544621329"></div>
+<script>
+    window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 232598,
+                containerId: 'adfox_16312852544621329',
+                params: {
+                    pp: 'g',
+                    ps: 'exzh',
+                    p2: 'hgdc',
+                    puid1: '',
+                    puid2: '',
+                    puid3: '',
+                    puid4: '',
+                    puid5: '',
+                    puid6: '',
+                    puid7: ''
+                }
+            }, ['tablet'], {
+                tabletWidth: 1023,
+                phoneWidth: 767,
+                isAutoReloads: false
+            })
+        });
+</script></div>    <div data-rocket-location-hash="2f73b099ed2ac32ba9c9469f4646ae8a" class="grid-container site-content">
+        <div data-rocket-location-hash="c52b6e2cad9c88374aa00f98223559fc" class="grid-x">
+
+            <div class="cell auto">
+
+                
+                <div class="page-inner">
+
+                                            <section class="page-section">
+
+                        <h1 class="page-section__title">В центре внимания</h1>
+
+                        <div class="grid-x grid-margin-x grid-margin-y">
+                                                            <div class="small-12 cell">
+                                        
+<div class="block-large">
+
+    <div class="block-large__left">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-large__title">
+            <a class="block-large__title-link" href="https://www.kp.ru/sports/hokkej/krosbi-poteryali-dvazhdy-goreli-do-overtajma-doigralis-no-propolzli-v-polufinal-chto-proizoshlo-v-matche-kanada-chehiya-na-olimpiade/">Кросби потеряли, дважды «горели», до овертайма доигрались. Но проползли в полуфинал! Что произошло в матче Канада – Чехия на Олимпиаде</a>
+        </h3>
+
+        <a class="block-large__excerpt" href="https://www.kp.ru/sports/hokkej/krosbi-poteryali-dvazhdy-goreli-do-overtajma-doigralis-no-propolzli-v-polufinal-chto-proizoshlo-v-matche-kanada-chehiya-na-olimpiade/">Канада обыграла Чехию со счетом 4:3 и вышла в полуфинал хоккейного турнира Олимпиады-2026</a>
+
+        <a class="block-large__date" href="https://www.kp.ru/sports/hokkej/krosbi-poteryali-dvazhdy-goreli-do-overtajma-doigralis-no-propolzli-v-polufinal-chto-proizoshlo-v-matche-kanada-chehiya-na-olimpiade/">18.02.2026</a>
+
+    </div>
+
+            <div class="block-large__right">
+            <a class="block-large__image-link" href="https://www.kp.ru/sports/hokkej/krosbi-poteryali-dvazhdy-goreli-do-overtajma-doigralis-no-propolzli-v-polufinal-chto-proizoshlo-v-matche-kanada-chehiya-na-olimpiade/">
+                <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-large__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s15.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/kanada-1-735x453.jpg" data-lazy-src-webp="https://s15.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/kanada-1-735x453.jpg.webp"><noscript><img src="https://s15.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/kanada-1-735x453.jpg" class="block-large__image" width="735" height="453"></noscript>
+            </a>
+        </div>
+    
+</div>                                    </div>
+                                    <div class="cell hide-for-medium">
+                                        <div class="ad-slot__sport-mobile-1"><!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (mobile) - 1-->
+<!--Расположение: <верх страницы>-->
+<div></div><script>if (window.innerWidth <= 800) {
+    (() => {
+        const me = document.currentScript,
+            div = me.previousSibling,
+            id = 'adfox_' + Math.floor(Math.random() * 1000000000000000000),
+            params = {
+                code: id,
+                "bids":[{"bidder":"myTarget","params":{"placementId":"1064173"}},{"bidder":"sape","params":{"placementId":"919520"}},{bidder:'adfox_adsmart',params:{p1:'connc',p2:'ul'}},{"bidder":"adfox_roden-media","params":{p1:'dhsgq',p2:'hbts',}},{bidder:'UMG',params:{placementId:'11519'}},{bidder:'GetIntent',params:{placementId:'215_V_kp.ru/sports/_M_(mobile)-1m_300x250'}},{"bidder":"adfox_imho-video","params":{"p1":"cwtwv","p2":"hiua"}},{bidder:'videonow',params:{placementId:'9132957'}},{bidder:"Mediasniper",params:{placementId:"170007"}},{bidder:'buzzoola',params:{placementId:'1250897'}},{bidder:'adfox_mttech',params:{p1:'czwtr',p2:'hxse',}},{bidder:'adriver',params:{placementId:'2:kp_Sport_300x250_1m'}},{bidder:'Gnezdo',params:{placementId:'351624'}},{bidder:'Adwile',params:{placementId:'28983'}},{bidder:'Hybrid',params:{placementId:'660ea8864d506e2cece69070'}},{bidder:'Roxot',params:{placementId:'caca4f44-b548-4d64-b08e-2393a2431748',sendTargetRef:true}},{"bidder":"betweenDigital","params":{"placementId":"4579424"}}],"sizes":[[300,250],[300,300]]
+            };
+        div.id = id;
+        window.Ya.adfoxCode.hbCallbacks.push(function() {
+            window.Ya.headerBidding.pushAdUnits([params]);
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.createAdaptive({
+                    ownerId: 232598,
+                    containerId: id,
+                    params: {
+                        pp: 'g',
+                        ps: 'exzh',
+                        p2: 'hexd',
+                        puid1: '',
+                        puid2: '',
+                        puid3: '',
+                        puid4: '',
+                        puid5: '',
+                        puid6: '',
+                        puid7: ''
+                    }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 767,
+                    isAutoReloads: false
+                })
+            });
+        });
+    })();
+}</script></div>                                    </div>
+                                                                        <div class="small-12 medium-4 cell">
+                                        
+<div class="block-vertical">
+
+    <div class="block-vertical__top">
+        <a class="block-vertical__image-link" href="https://www.kp.ru/sports/futbol/chto-proishodit-v-spartake-za-nedelyu-do-restarta-sezona-18-2-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-vertical__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/karpin-karsedo-735x453.jpg" data-lazy-src-webp="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/karpin-karsedo-735x453.jpg.webp"><noscript><img src="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/karpin-karsedo-735x453.jpg" class="block-vertical__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-vertical__bottom">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-vertical__title">
+            <a class="block-vertical__title-link" href="https://www.kp.ru/sports/futbol/chto-proishodit-v-spartake-za-nedelyu-do-restarta-sezona-18-2-2026/">Карпин приехал к Карседо, которого когда-то увольнял, Хлусевича все-таки продают, а отсутствие трансферов очень пугает. Что происходит в «Спартаке» за неделю до рестарта сезона</a>
+        </h3>
+
+        <a class="block-vertical__excerpt" href="https://www.kp.ru/sports/futbol/chto-proishodit-v-spartake-za-nedelyu-do-restarta-sezona-18-2-2026/">Валерий Карпин посетил тренировку «Спартака» на сборах</a>
+
+        <a class="block-vertical__date" href="https://www.kp.ru/sports/futbol/chto-proishodit-v-spartake-za-nedelyu-do-restarta-sezona-18-2-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                                    </div>
+                                                                        <div class="small-12 medium-4 cell">
+                                        
+<div class="block-vertical">
+
+    <div class="block-vertical__top">
+        <a class="block-vertical__image-link" href="https://www.kp.ru/sports/olimpiada-2026/rossiyanam-ulybayutsya-v-liczo-a-potom-otluchayut-ot-vystuplenij-i-lishayut-obshhih-prav-kak-na-samom-dele-otnosyatsya-k-nashim-na-olimpiade-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-vertical__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-10t174443z_2116350302_up1em2a1dahvu_rtrmadp_3_olympics-2026-figureskating-735x453.jpg" data-lazy-src-webp="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-10t174443z_2116350302_up1em2a1dahvu_rtrmadp_3_olympics-2026-figureskating-735x453.jpg.webp"><noscript><img src="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-10t174443z_2116350302_up1em2a1dahvu_rtrmadp_3_olympics-2026-figureskating-735x453.jpg" class="block-vertical__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-vertical__bottom">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-vertical__title">
+            <a class="block-vertical__title-link" href="https://www.kp.ru/sports/olimpiada-2026/rossiyanam-ulybayutsya-v-liczo-a-potom-otluchayut-ot-vystuplenij-i-lishayut-obshhih-prav-kak-na-samom-dele-otnosyatsya-k-nashim-na-olimpiade-2026/">Россиянам улыбаются в лицо, а потом отлучают от выступлений и лишают общих прав. Как на самом деле относятся к нашим на Олимпиаде-2026</a>
+        </h3>
+
+        <a class="block-vertical__excerpt" href="https://www.kp.ru/sports/olimpiada-2026/rossiyanam-ulybayutsya-v-liczo-a-potom-otluchayut-ot-vystuplenij-i-lishayut-obshhih-prav-kak-na-samom-dele-otnosyatsya-k-nashim-na-olimpiade-2026/">В МОК объяснили законодательством отказ дарить россиянам смартфоны на Олимпиаде</a>
+
+        <a class="block-vertical__date" href="https://www.kp.ru/sports/olimpiada-2026/rossiyanam-ulybayutsya-v-liczo-a-potom-otluchayut-ot-vystuplenij-i-lishayut-obshhih-prav-kak-na-samom-dele-otnosyatsya-k-nashim-na-olimpiade-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                                    </div>
+                                                                        <div class="small-12 medium-4 cell">
+                                        
+<div class="block-vertical">
+
+    <div class="block-vertical__top">
+        <a class="block-vertical__image-link" href="https://www.kp.ru/sports/futbol/chto-sluchilos-v-matche-benfika-real-17-fevralya-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-vertical__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s12.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-17t212417z_1685801574_up1em2h1nggs4_rtrmadp_3_soccer-champions-slb-rma-735x453.jpg" data-lazy-src-webp="https://s12.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-17t212417z_1685801574_up1em2h1nggs4_rtrmadp_3_soccer-champions-slb-rma-735x453.jpg.webp"><noscript><img src="https://s12.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-17t212417z_1685801574_up1em2h1nggs4_rtrmadp_3_soccer-champions-slb-rma-735x453.jpg" class="block-vertical__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-vertical__bottom">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-vertical__title">
+            <a class="block-vertical__title-link" href="https://www.kp.ru/sports/futbol/chto-sluchilos-v-matche-benfika-real-17-fevralya-2026/">Судья остановил игру и выгнал с поля всех после жалобы Винисиуса на расизм, даже Моуриньо получил красную карточку. Что случилось в матче «Бенфика» - «Реал» </a>
+        </h3>
+
+        <a class="block-vertical__excerpt" href="https://www.kp.ru/sports/futbol/chto-sluchilos-v-matche-benfika-real-17-fevralya-2026/">«Реал» победил «Бенфику» со счетом 1:0 в первом стыковом матче плей-офф ЛЧ</a>
+
+        <a class="block-vertical__date" href="https://www.kp.ru/sports/futbol/chto-sluchilos-v-matche-benfika-real-17-fevralya-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                                    </div>
+                                                            </div>
+                        </section>
+                        
+                            <section class="page-section">
+
+            <h2 class="page-section__title">Олимпиада 2026</h2>
+
+            <div id="show-more-from-11021-container" class="grid-x grid-margin-x grid-margin-y">
+
+                                        <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/olimpiada-2026/makkinnon-prokommentiroval-pobedu-kanady-v-chetvertfinale-oi-protiv-chehii/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s1.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-5-735x453.jpg" data-lazy-src-webp="https://s1.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-5-735x453.jpg.webp"><noscript><img src="https://s1.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-5-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/olimpiada-2026/makkinnon-prokommentiroval-pobedu-kanady-v-chetvertfinale-oi-protiv-chehii/">Маккиннон прокомментировал победу Канады в четвертьфинале ОИ против Чехии</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/olimpiada-2026/makkinnon-prokommentiroval-pobedu-kanady-v-chetvertfinale-oi-protiv-chehii/">Маккиннон назвал матч с Чехией унизительной и тяжелой игрой</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/olimpiada-2026/makkinnon-prokommentiroval-pobedu-kanady-v-chetvertfinale-oi-protiv-chehii/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/olimpiada-2026/ssha-shvecziya-kak-smotret-18-02-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image" width="735" height="453" data-lazy-src="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2022/05/uj03748-735x453.jpeg"><noscript><img src="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2022/05/uj03748-735x453.jpeg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/olimpiada-2026/ssha-shvecziya-kak-smotret-18-02-2026/">США - Швеция: как смотреть трансляцию 1/4 финала ОИ-2026</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/olimpiada-2026/ssha-shvecziya-kak-smotret-18-02-2026/">Сборная США сыграет 18 февраля против Швеции в 1/4 финала ОИ-2026</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/olimpiada-2026/ssha-shvecziya-kak-smotret-18-02-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/olimpiada-2026/guberniev-otreagiroval-na-nedopusk-gumennika-do-pokazatelnyh-vystuplenij-na-oi-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2024/03/01-6-735x453.jpg" data-lazy-src-webp="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2024/03/01-6-735x453.jpg.webp"><noscript><img src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2024/03/01-6-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/olimpiada-2026/guberniev-otreagiroval-na-nedopusk-gumennika-do-pokazatelnyh-vystuplenij-na-oi-2026/">Губерниев отреагировал на недопуск Гуменника до показательных выступлений на ОИ-2026</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/olimpiada-2026/guberniev-otreagiroval-na-nedopusk-gumennika-do-pokazatelnyh-vystuplenij-na-oi-2026/">Губерниев: ISU недопуском Гуменника хуже сделал всем, но прежде всего зрителям</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/olimpiada-2026/guberniev-otreagiroval-na-nedopusk-gumennika-do-pokazatelnyh-vystuplenij-na-oi-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/olimpiada-2026/koshmar-kanady-krosbi-poluchil-travmu-i-dosrochno-zavershil-match-s-chehiej/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s15.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-3-735x453.jpg" data-lazy-src-webp="https://s15.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-3-735x453.jpg.webp"><noscript><img src="https://s15.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-3-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/olimpiada-2026/koshmar-kanady-krosbi-poluchil-travmu-i-dosrochno-zavershil-match-s-chehiej/">Кошмар Канады. Кросби получил травму и досрочно завершил матч с Чехией</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/olimpiada-2026/koshmar-kanady-krosbi-poluchil-travmu-i-dosrochno-zavershil-match-s-chehiej/">Кросби получил травму и досрочно завершил матч с Чехией</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/olimpiada-2026/koshmar-kanady-krosbi-poluchil-travmu-i-dosrochno-zavershil-match-s-chehiej/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/olimpiada-2026/figurist-gumennik-prizval-vnedrit-kompyuternoe-zrenie-v-sudejstvo/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-2-735x453.jpg" data-lazy-src-webp="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-2-735x453.jpg.webp"><noscript><img src="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-2-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/olimpiada-2026/figurist-gumennik-prizval-vnedrit-kompyuternoe-zrenie-v-sudejstvo/">Фигурист Гуменник призвал внедрить компьютерное зрение в судейство</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/olimpiada-2026/figurist-gumennik-prizval-vnedrit-kompyuternoe-zrenie-v-sudejstvo/">Гуменник предложил ввести в судействе компьютерное зрение</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/olimpiada-2026/figurist-gumennik-prizval-vnedrit-kompyuternoe-zrenie-v-sudejstvo/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/olimpiada-2026/sportivnoj-istorii-sovsem-ne-ostalos-zhulin-ob-otsutstvii-gumennika-na-pokazatelnyh-vystupleniyah/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-17-735x453.jpg" data-lazy-src-webp="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-17-735x453.jpg.webp"><noscript><img src="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-17-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/olimpiada-2026/sportivnoj-istorii-sovsem-ne-ostalos-zhulin-ob-otsutstvii-gumennika-na-pokazatelnyh-vystupleniyah/">«Спортивной истории совсем не осталось». Жулин – об отсутствии Гуменника на показательных выступлениях</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/olimpiada-2026/sportivnoj-istorii-sovsem-ne-ostalos-zhulin-ob-otsutstvii-gumennika-na-pokazatelnyh-vystupleniyah/">Жулин: Гуменника не позвали, потому что русские им не нужны</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/olimpiada-2026/sportivnoj-istorii-sovsem-ne-ostalos-zhulin-ob-otsutstvii-gumennika-na-pokazatelnyh-vystupleniyah/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                    </div>
+            <div class="grid-x grid-margin-x grid-margin-y">
+        <div class="small-12 cell">
+            <a href="https://www.kp.ru/sports/olimpiada-2026/" id="show-more-from-11021" class="page-section__button">Показать ещё</a>
+            <script>
+                (function () {
+                    let preventClick = true;
+                    document.getElementById('show-more-from-11021').onclick = function (e) {
+                        if (preventClick) {
+                            e.preventDefault();
+                            preventClick = false;
+                            let $container = document.getElementById('show-more-from-11021-container');
+                            let $matches =  $container.querySelectorAll('.hidden-block');
+                            $matches.forEach(function (item) {
+                                item.style.display = 'block';
+                            });
+                        }
+                    };
+                })();
+            </script>
+        </div>
+    </div>        </section>
+                <section class="page-section">
+
+            <h2 class="page-section__title">Футбол</h2>
+
+            <div id="show-more-from-22-container" class="grid-x grid-margin-x grid-margin-y">
+
+                                        <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/futbol/real-naczelilsya-na-forvarda-pszh-madridskij-klub-gotov-raskoshelitsya-na-100-mln-evro/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s14.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-4-735x453.jpg" data-lazy-src-webp="https://s14.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-4-735x453.jpg.webp"><noscript><img src="https://s14.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/0-7-4-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/futbol/real-naczelilsya-na-forvarda-pszh-madridskij-klub-gotov-raskoshelitsya-na-100-mln-evro/">«Реал» нацелился на форварда «ПСЖ». Мадридский клуб готов раскошелиться на 100 млн евро</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/futbol/real-naczelilsya-na-forvarda-pszh-madridskij-klub-gotov-raskoshelitsya-na-100-mln-evro/">«Реал» хочет подписать нападающего «ПСЖ» Дуэ</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/futbol/real-naczelilsya-na-forvarda-pszh-madridskij-klub-gotov-raskoshelitsya-na-100-mln-evro/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/futbol/vendel-obyasnil-s-chem-svyazano-ego-opozdanie-na-sbor-zenita-v-katare/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s10.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/01-56-735x453.jpg" data-lazy-src-webp="https://s10.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/01-56-735x453.jpg.webp"><noscript><img src="https://s10.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/01-56-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/futbol/vendel-obyasnil-s-chem-svyazano-ego-opozdanie-na-sbor-zenita-v-katare/">Вендел объяснил, с чем связано его опоздание на сбор «Зенита» в Катаре</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/futbol/vendel-obyasnil-s-chem-svyazano-ego-opozdanie-na-sbor-zenita-v-katare/">Вендел: Полностью согласен с наказанием, я должен заплатить за опоздание на сбор</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/futbol/vendel-obyasnil-s-chem-svyazano-ego-opozdanie-na-sbor-zenita-v-katare/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/futbol/uspokojtes-krasno-sinie-genich-obratilsya-k-fanatam-czska-posle-slov-o-glebove/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s11.stc.all.kpcdn.net/sports/wp-content/uploads/2023/04/mycollages-2023-04-09t191657.590-735x453.jpg" data-lazy-src-webp="https://s11.stc.all.kpcdn.net/sports/wp-content/uploads/2023/04/mycollages-2023-04-09t191657.590-735x453.jpg.webp"><noscript><img src="https://s11.stc.all.kpcdn.net/sports/wp-content/uploads/2023/04/mycollages-2023-04-09t191657.590-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/futbol/uspokojtes-krasno-sinie-genich-obratilsya-k-fanatam-czska-posle-slov-o-glebove/">«Успокойтесь, красно-синие». Генич обратился к фанатам ЦСКА после слов о Глебове</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/futbol/uspokojtes-krasno-sinie-genich-obratilsya-k-fanatam-czska-posle-slov-o-glebove/">Генич не хочет, чтоб его слова о Глебове воспринимались как прогноз</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/futbol/uspokojtes-krasno-sinie-genich-obratilsya-k-fanatam-czska-posle-slov-o-glebove/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/futbol/brugge-atletico-smotret-onlayn-18-fevralya-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-12t210121z_1275519681_up1em2c1me74k_rtrmadp_3_soccer-spain-atm-bar-735x453.jpg" data-lazy-src-webp="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-12t210121z_1275519681_up1em2c1me74k_rtrmadp_3_soccer-spain-atm-bar-735x453.jpg.webp"><noscript><img src="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-12t210121z_1275519681_up1em2c1me74k_rtrmadp_3_soccer-spain-atm-bar-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/futbol/brugge-atletico-smotret-onlayn-18-fevralya-2026/">"Брюгге" – "Атлетико": смотреть онлайн матч Лиги чемпионов 18 февраля</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/futbol/brugge-atletico-smotret-onlayn-18-fevralya-2026/">«Брюгге» сыграет с «Атлетико» в Лиге чемпионов 18 февраля</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/futbol/brugge-atletico-smotret-onlayn-18-fevralya-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/futbol/bude-glimt-inter-smotret-onlayn-18-fevralya-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-14t213114z_406108085_up1em2e1ns137_rtrmadp_3_soccer-italy-int-juv-735x453.jpg" data-lazy-src-webp="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-14t213114z_406108085_up1em2e1ns137_rtrmadp_3_soccer-italy-int-juv-735x453.jpg.webp"><noscript><img src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-14t213114z_406108085_up1em2e1ns137_rtrmadp_3_soccer-italy-int-juv-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/futbol/bude-glimt-inter-smotret-onlayn-18-fevralya-2026/">"Буде-Глимт" – "Интер": смотреть онлайн матч Лиги чемпионов 18 февраля</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/futbol/bude-glimt-inter-smotret-onlayn-18-fevralya-2026/">«Буде-Глимт» сыграет с «Интер» в Лиге чемпионов 18 февраля</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/futbol/bude-glimt-inter-smotret-onlayn-18-fevralya-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/futbol/olimpiakos-bayer-smotret-onlayn-18-fevralya-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-03t221555z_951944993_up1em231o6i3m_rtrmadp_3_soccer-germany-lev-stp-735x453.jpg" data-lazy-src-webp="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-03t221555z_951944993_up1em231o6i3m_rtrmadp_3_soccer-germany-lev-stp-735x453.jpg.webp"><noscript><img src="https://s6.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/2026-02-03t221555z_951944993_up1em231o6i3m_rtrmadp_3_soccer-germany-lev-stp-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/futbol/olimpiakos-bayer-smotret-onlayn-18-fevralya-2026/">"Олимпиакос" – "Байер": смотреть онлайн матч Лиги чемпионов 18 февраля</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/futbol/olimpiakos-bayer-smotret-onlayn-18-fevralya-2026/">«Олимпиакос» сыграет с «Байер» в Лиге чемпионов 18 февраля</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/futbol/olimpiakos-bayer-smotret-onlayn-18-fevralya-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                    </div>
+            <div class="grid-x grid-margin-x grid-margin-y">
+        <div class="small-12 cell">
+            <a href="https://www.kp.ru/sports/futbol/" id="show-more-from-22" class="page-section__button">Показать ещё</a>
+            <script>
+                (function () {
+                    let preventClick = true;
+                    document.getElementById('show-more-from-22').onclick = function (e) {
+                        if (preventClick) {
+                            e.preventDefault();
+                            preventClick = false;
+                            let $container = document.getElementById('show-more-from-22-container');
+                            let $matches =  $container.querySelectorAll('.hidden-block');
+                            $matches.forEach(function (item) {
+                                item.style.display = 'block';
+                            });
+                        }
+                    };
+                })();
+            </script>
+        </div>
+    </div>        </section>
+                <section class="page-section">
+
+            <h2 class="page-section__title">Фигурное катание</h2>
+
+            <div id="show-more-from-953-container" class="grid-x grid-margin-x grid-margin-y">
+
+                                        <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/figurnoe-katanie/zato-ne-skuchno-zagitova-kardinalno-smenila-prichesku-i-privela-fanatov-v-vostorg/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s3.stc.all.kpcdn.net/sports/wp-content/uploads/2023/05/mycollages-2023-05-18t210316.908-735x453.jpg" data-lazy-src-webp="https://s3.stc.all.kpcdn.net/sports/wp-content/uploads/2023/05/mycollages-2023-05-18t210316.908-735x453.jpg.webp"><noscript><img src="https://s3.stc.all.kpcdn.net/sports/wp-content/uploads/2023/05/mycollages-2023-05-18t210316.908-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/figurnoe-katanie/zato-ne-skuchno-zagitova-kardinalno-smenila-prichesku-i-privela-fanatov-v-vostorg/">«Зато не скучно». Загитова кардинально сменила прическу и привела фанатов в восторг</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/figurnoe-katanie/zato-ne-skuchno-zagitova-kardinalno-smenila-prichesku-i-privela-fanatov-v-vostorg/">Фигуристка Загитова примерила образ ангела для Дня всех влюбленных</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/figurnoe-katanie/zato-ne-skuchno-zagitova-kardinalno-smenila-prichesku-i-privela-fanatov-v-vostorg/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/figurnoe-katanie/epoha-valievoj-yaponskaya-para-pobila-rekord-mishinoj-i-gallyamova-no-tri-mirovyh-dostizheniya-ostalis-za-kamiloj/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2026/01/wr-134134q234750-735x453.jpg" data-lazy-src-webp="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2026/01/wr-134134q234750-735x453.jpg.webp"><noscript><img src="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2026/01/wr-134134q234750-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/figurnoe-katanie/epoha-valievoj-yaponskaya-para-pobila-rekord-mishinoj-i-gallyamova-no-tri-mirovyh-dostizheniya-ostalis-za-kamiloj/">Эпоха Валиевой: японская пара побила рекорд Мишиной и Галлямова, но три мировых достижения остались за Камилой</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/figurnoe-katanie/epoha-valievoj-yaponskaya-para-pobila-rekord-mishinoj-i-gallyamova-no-tri-mirovyh-dostizheniya-ostalis-za-kamiloj/">Валиева является единственной российской фигуристкой с мировыми рекордами</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/figurnoe-katanie/epoha-valievoj-yaponskaya-para-pobila-rekord-mishinoj-i-gallyamova-no-tri-mirovyh-dostizheniya-ostalis-za-kamiloj/">17.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/figurnoe-katanie/ushyol-iz-zhizni-gennadij-akkerman-on-stoyal-u-istokov-pobed-anisinoj-averbuha-i-zhulina/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2025/08/5466665-735x453.jpg" data-lazy-src-webp="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2025/08/5466665-735x453.jpg.webp"><noscript><img src="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2025/08/5466665-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/figurnoe-katanie/ushyol-iz-zhizni-gennadij-akkerman-on-stoyal-u-istokov-pobed-anisinoj-averbuha-i-zhulina/">Ушёл из жизни Геннадий Аккерман. Он стоял у истоков побед Анисиной, Авербуха и Жулина</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/figurnoe-katanie/ushyol-iz-zhizni-gennadij-akkerman-on-stoyal-u-istokov-pobed-anisinoj-averbuha-i-zhulina/">Умер работавший с Авербухом и Жулиным тренер Аккерман
+</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/figurnoe-katanie/ushyol-iz-zhizni-gennadij-akkerman-on-stoyal-u-istokov-pobed-anisinoj-averbuha-i-zhulina/">16.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/figurnoe-katanie/kamila-valieva-uhod-ot-tutberidze-navka-citaty-perehod-sokolovskaya/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s3.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/bezymya2345z9283upzazhcz-735x453.jpg" data-lazy-src-webp="https://s3.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/bezymya2345z9283upzazhcz-735x453.jpg.webp"><noscript><img src="https://s3.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/bezymya2345z9283upzazhcz-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/figurnoe-katanie/kamila-valieva-uhod-ot-tutberidze-navka-citaty-perehod-sokolovskaya/">Валиева: «Туда больше не хочу!» — Навка раскрыла слова Камилы про уход от Тутберидзе</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/figurnoe-katanie/kamila-valieva-uhod-ot-tutberidze-navka-citaty-perehod-sokolovskaya/">Татьяна Навка: Камила Валиева сама сказала, что не хочет работать с Тутберидзе</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/figurnoe-katanie/kamila-valieva-uhod-ot-tutberidze-navka-citaty-perehod-sokolovskaya/">15.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/figurnoe-katanie/gde-smotret-i-vo-skolko-nachalo-lednikovogo-perioda-14-fevralya-2026-goda/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/20260114_gaf_u03_032-735x453.jpg" data-lazy-src-webp="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/20260114_gaf_u03_032-735x453.jpg.webp"><noscript><img src="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2026/02/20260114_gaf_u03_032-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/figurnoe-katanie/gde-smotret-i-vo-skolko-nachalo-lednikovogo-perioda-14-fevralya-2026-goda/">Ледниковый период 14 февраля 2026: где смотреть, во сколько начало и последние новости</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/figurnoe-katanie/gde-smotret-i-vo-skolko-nachalo-lednikovogo-perioda-14-fevralya-2026-goda/">14 февраля в эфир "Первого канала" выйдет выпуск шоу "Ледниковый период"</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/figurnoe-katanie/gde-smotret-i-vo-skolko-nachalo-lednikovogo-perioda-14-fevralya-2026-goda/">14.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/figurnoe-katanie/v-chem-yagudin-vsegda-byl-kruche-plyushhenko-legendarnaya-tarasova-vse-obyasnila/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s12.stc.all.kpcdn.net/sports/wp-content/uploads/2021/12/wmnt3lu-735x453.jpeg" data-lazy-src-webp="https://s12.stc.all.kpcdn.net/sports/wp-content/uploads/2021/12/wmnt3lu-735x453.jpeg.webp"><noscript><img src="https://s12.stc.all.kpcdn.net/sports/wp-content/uploads/2021/12/wmnt3lu-735x453.jpeg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/figurnoe-katanie/v-chem-yagudin-vsegda-byl-kruche-plyushhenko-legendarnaya-tarasova-vse-obyasnila/">В чем Ягудин всегда был круче Плющенко. Легендарная Тарасова все объяснила</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/figurnoe-katanie/v-chem-yagudin-vsegda-byl-kruche-plyushhenko-legendarnaya-tarasova-vse-obyasnila/">Тренер Тарасова: Ягудин на всех турнирах был круче Плющенко в дорожках шагов</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/figurnoe-katanie/v-chem-yagudin-vsegda-byl-kruche-plyushhenko-legendarnaya-tarasova-vse-obyasnila/">11.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                    </div>
+            <div class="grid-x grid-margin-x grid-margin-y">
+        <div class="small-12 cell">
+            <a href="https://www.kp.ru/sports/figurnoe-katanie/" id="show-more-from-953" class="page-section__button">Показать ещё</a>
+            <script>
+                (function () {
+                    let preventClick = true;
+                    document.getElementById('show-more-from-953').onclick = function (e) {
+                        if (preventClick) {
+                            e.preventDefault();
+                            preventClick = false;
+                            let $container = document.getElementById('show-more-from-953-container');
+                            let $matches =  $container.querySelectorAll('.hidden-block');
+                            $matches.forEach(function (item) {
+                                item.style.display = 'block';
+                            });
+                        }
+                    };
+                })();
+            </script>
+        </div>
+    </div>        </section>
+                <section class="page-section">
+
+            <h2 class="page-section__title">MMA</h2>
+
+            <div id="show-more-from-974-container" class="grid-x grid-margin-x grid-margin-y">
+
+                                        <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/amerikanskij-boecz-rasskazal-za-chto-polyubil-rossiyu/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s11.stc.all.kpcdn.net/sports/wp-content/uploads/2024/04/11211-3-735x453.jpg" data-lazy-src-webp="https://s11.stc.all.kpcdn.net/sports/wp-content/uploads/2024/04/11211-3-735x453.jpg.webp"><noscript><img src="https://s11.stc.all.kpcdn.net/sports/wp-content/uploads/2024/04/11211-3-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/amerikanskij-boecz-rasskazal-za-chto-polyubil-rossiyu/">Американский боец рассказал, за что полюбил Россию</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/amerikanskij-boecz-rasskazal-za-chto-polyubil-rossiyu/">Монсон: Россия стала мне родным домом, потому что приняли как своего</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/amerikanskij-boecz-rasskazal-za-chto-polyubil-rossiyu/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/pochemu-eks-chempion-ufc-habib-nurmagomedov-perenes-ves-biznes-v-oae-17-2-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image" width="735" height="453" data-lazy-src="https://s1.stc.all.kpcdn.net/sports/wp-content/uploads/2021/08/habib-nurmagomedov-vystupil-protiv-ring-gerlz-735x453.jpeg"><noscript><img src="https://s1.stc.all.kpcdn.net/sports/wp-content/uploads/2021/08/habib-nurmagomedov-vystupil-protiv-ring-gerlz-735x453.jpeg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/pochemu-eks-chempion-ufc-habib-nurmagomedov-perenes-ves-biznes-v-oae-17-2-2026/">Был крутым бизнесменом, но погряз в долгах. Почему экс-чемпион UFC Хабиб Нурмагомедов перенес весь бизнес в ОАЭ</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/pochemu-eks-chempion-ufc-habib-nurmagomedov-perenes-ves-biznes-v-oae-17-2-2026/">Хабиб Нурмагомедов вышел из бизнеса в России и зарабатывает в ОАЭ</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/pochemu-eks-chempion-ufc-habib-nurmagomedov-perenes-ves-biznes-v-oae-17-2-2026/">17.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/bez-dagestana-bez-poyasa-hejbati-obyasnil-pochemu-petr-yan-poteryal-titul-a-potom-vernul-ego/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2025/12/petr-yan-735x453.jpg" data-lazy-src-webp="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2025/12/petr-yan-735x453.jpg.webp"><noscript><img src="https://s4.stc.all.kpcdn.net/sports/wp-content/uploads/2025/12/petr-yan-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/bez-dagestana-bez-poyasa-hejbati-obyasnil-pochemu-petr-yan-poteryal-titul-a-potom-vernul-ego/">Без Дагестана — без пояса. Хейбати объяснил, почему Петр Ян потерял титул, а потом вернул его</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/bez-dagestana-bez-poyasa-hejbati-obyasnil-pochemu-petr-yan-poteryal-titul-a-potom-vernul-ego/">Боец Хейбати объяснил возвращение титула UFC Яном тренировками с дагестанцами</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/bez-dagestana-bez-poyasa-hejbati-obyasnil-pochemu-petr-yan-poteryal-titul-a-potom-vernul-ego/">16.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/sulyanov-i-badaev-soshlis-v-kletke-i-pomirilis-nichya-kotoraya-postavila-tochku/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s8.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/atmosfera-boj-ankalaev-perejra-735x453.jpg" data-lazy-src-webp="https://s8.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/atmosfera-boj-ankalaev-perejra-735x453.jpg.webp"><noscript><img src="https://s8.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/atmosfera-boj-ankalaev-perejra-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/sulyanov-i-badaev-soshlis-v-kletke-i-pomirilis-nichya-kotoraya-postavila-tochku/">Сульянов и Бадаев сошлись в клетке и помирились. Ничья, которая поставила точку</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/sulyanov-i-badaev-soshlis-v-kletke-i-pomirilis-nichya-kotoraya-postavila-tochku/">Схватка Анатолия Сульянова и Асланбека Бадаева завершилась вничью</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/sulyanov-i-badaev-soshlis-v-kletke-i-pomirilis-nichya-kotoraya-postavila-tochku/">15.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/brat-habiba-pobedil-britancza-i-zashhitil-titul-chempiona-pfl-v-legkom-vese/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image" width="735" height="453" data-lazy-src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2022/07/mycollages-7-2-735x453.jpg"><noscript><img src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2022/07/mycollages-7-2-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/brat-habiba-pobedil-britancza-i-zashhitil-titul-chempiona-pfl-v-legkom-vese/">Брат Хабиба победил британца и защитил титул чемпиона PFL в легком весе</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/brat-habiba-pobedil-britancza-i-zashhitil-titul-chempiona-pfl-v-legkom-vese/">Усман Нурмагомедов победил Дэвиса и отстоял пояс чемпиона PFL</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/brat-habiba-pobedil-britancza-i-zashhitil-titul-chempiona-pfl-v-legkom-vese/">07.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/volkov-vysmeyal-ambiczii-dominikanskogo-bojcza-tyazheloves-opublikoval-yumoristicheskoe-video-v-kotorom-prinyal-vyzov-kortesa-akosty/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s8.stc.all.kpcdn.net/sports/wp-content/uploads/2025/10/01-150-735x453.jpg" data-lazy-src-webp="https://s8.stc.all.kpcdn.net/sports/wp-content/uploads/2025/10/01-150-735x453.jpg.webp"><noscript><img src="https://s8.stc.all.kpcdn.net/sports/wp-content/uploads/2025/10/01-150-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/volkov-vysmeyal-ambiczii-dominikanskogo-bojcza-tyazheloves-opublikoval-yumoristicheskoe-video-v-kotorom-prinyal-vyzov-kortesa-akosty/">Волков высмеял амбиции доминиканского бойца. Тяжеловес опубликовал юмористическое видео, в котором принял вызов Кортеса-Акосты</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/volkov-vysmeyal-ambiczii-dominikanskogo-bojcza-tyazheloves-opublikoval-yumoristicheskoe-video-v-kotorom-prinyal-vyzov-kortesa-akosty/">Александр Волков вызвал на бой Вальдо Кортес-Акосту</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/volkov-vysmeyal-ambiczii-dominikanskogo-bojcza-tyazheloves-opublikoval-yumoristicheskoe-video-v-kotorom-prinyal-vyzov-kortesa-akosty/">07.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                    </div>
+            <div class="grid-x grid-margin-x grid-margin-y">
+        <div class="small-12 cell">
+            <a href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/" id="show-more-from-974" class="page-section__button">Показать ещё</a>
+            <script>
+                (function () {
+                    let preventClick = true;
+                    document.getElementById('show-more-from-974').onclick = function (e) {
+                        if (preventClick) {
+                            e.preventDefault();
+                            preventClick = false;
+                            let $container = document.getElementById('show-more-from-974-container');
+                            let $matches =  $container.querySelectorAll('.hidden-block');
+                            $matches.forEach(function (item) {
+                                item.style.display = 'block';
+                            });
+                        }
+                    };
+                })();
+            </script>
+        </div>
+    </div>        </section>
+                <section class="page-section">
+
+            <h2 class="page-section__title">Хоккей</h2>
+
+            <div id="show-more-from-945-container" class="grid-x grid-margin-x grid-margin-y">
+
+                                        <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/hokkej/torpedo-shanhaiskie-drakony-kak-smotret-18-02-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2025/01/torpedo-nn-735x453.jpg" data-lazy-src-webp="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2025/01/torpedo-nn-735x453.jpg.webp"><noscript><img src="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2025/01/torpedo-nn-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/hokkej/torpedo-shanhaiskie-drakony-kak-smotret-18-02-2026/">«Торпедо» - «Шанхайские Драконы»: как смотреть трансляцию матча КХЛ</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/hokkej/torpedo-shanhaiskie-drakony-kak-smotret-18-02-2026/">«Торпедо» сыграет 18 февраля против «Шанхайских Драконов» в матче КХЛ</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/hokkej/torpedo-shanhaiskie-drakony-kak-smotret-18-02-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/hokkej/ska-severstal-kak-smotret-18-02-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2025/09/ska-1-735x453.jpg" data-lazy-src-webp="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2025/09/ska-1-735x453.jpg.webp"><noscript><img src="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2025/09/ska-1-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/hokkej/ska-severstal-kak-smotret-18-02-2026/">СКА - «Северсталь»: как смотреть трансляцию матча КХЛ</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/hokkej/ska-severstal-kak-smotret-18-02-2026/">
+СКА сыграет 18 февраля против «Северстали» в матче КХЛ</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/hokkej/ska-severstal-kak-smotret-18-02-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/hokkej/dinamo-minsk-spartak-kak-smotret-18-02-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/dinamo-mn-1-735x453.jpg" data-lazy-src-webp="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/dinamo-mn-1-735x453.jpg.webp"><noscript><img src="https://s9.stc.all.kpcdn.net/sports/wp-content/uploads/2025/03/dinamo-mn-1-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/hokkej/dinamo-minsk-spartak-kak-smotret-18-02-2026/">«Динамо» Минск - «Спартак»: как смотреть трансляцию матча КХЛ</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/hokkej/dinamo-minsk-spartak-kak-smotret-18-02-2026/">«Динамо» Минск сыграет 18 февраля против «Спартака» в матче КХЛ</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/hokkej/dinamo-minsk-spartak-kak-smotret-18-02-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/hokkej/potanin-obyasnil-chto-pomoglo-ovechkinu-pobit-rekord-gretczki/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2024/12/01-30-735x453.jpg" data-lazy-src-webp="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2024/12/01-30-735x453.jpg.webp"><noscript><img src="https://s13.stc.all.kpcdn.net/sports/wp-content/uploads/2024/12/01-30-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/hokkej/potanin-obyasnil-chto-pomoglo-ovechkinu-pobit-rekord-gretczki/">Потанин объяснил, что помогло Овечкину побить рекорд Гретцки</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/hokkej/potanin-obyasnil-chto-pomoglo-ovechkinu-pobit-rekord-gretczki/">Потанин: Овечкин побил рекорд Гретцки, потому что не зацикливался на этой цели</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/hokkej/potanin-obyasnil-chto-pomoglo-ovechkinu-pobit-rekord-gretczki/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/hokkej/traktor-salavat-yulaev-kak-smotret-18-02-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2024/11/01-32-735x453.jpg" data-lazy-src-webp="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2024/11/01-32-735x453.jpg.webp"><noscript><img src="https://s16.stc.all.kpcdn.net/sports/wp-content/uploads/2024/11/01-32-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/hokkej/traktor-salavat-yulaev-kak-smotret-18-02-2026/">«Трактор» - «Салават Юлаев»: как смотреть трансляцию матча КХЛ</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/hokkej/traktor-salavat-yulaev-kak-smotret-18-02-2026/">«Трактор» сыграет 18 февраля против «Салавата Юлаева» в матче КХЛ</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/hokkej/traktor-salavat-yulaev-kak-smotret-18-02-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                                <div class="small-12 cell hidden-block" style="display: none;">
+                            
+<div class="block-wide">
+
+    <div class="block-wide__left">
+        <a class="block-wide__image-link" href="https://www.kp.ru/sports/hokkej/sibir-amur-kak-smotret-18-02-2026/">
+            <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20735%20453'%3E%3C/svg%3E" class="block-wide__image ewww_webp_lazy_load" width="735" height="453" data-lazy-src="https://s10.stc.all.kpcdn.net/sports/wp-content/uploads/2024/09/5546-735x453.jpg" data-lazy-src-webp="https://s10.stc.all.kpcdn.net/sports/wp-content/uploads/2024/09/5546-735x453.jpg.webp"><noscript><img src="https://s10.stc.all.kpcdn.net/sports/wp-content/uploads/2024/09/5546-735x453.jpg" class="block-wide__image" width="735" height="453"></noscript>
+        </a>
+    </div>
+
+    <div class="block-wide__right">
+
+        <div class="tags">
+    </div>
+        <h3 class="block-wide__title">
+            <a class="block-wide__title-link" href="https://www.kp.ru/sports/hokkej/sibir-amur-kak-smotret-18-02-2026/">«Сибирь» - «Амур»: как смотреть трансляцию матча КХЛ</a>
+        </h3>
+
+        <a class="block-wide__excerpt" href="https://www.kp.ru/sports/hokkej/sibir-amur-kak-smotret-18-02-2026/">«Сибирь» сыграет 18 февраля против «Амура» в матче КХЛ</a>
+
+        <a class="block-wide__date" href="https://www.kp.ru/sports/hokkej/sibir-amur-kak-smotret-18-02-2026/">18.02.2026</a>
+
+    </div>
+
+</div>                        </div>
+                                    </div>
+            <div class="grid-x grid-margin-x grid-margin-y">
+        <div class="small-12 cell">
+            <a href="https://www.kp.ru/sports/hokkej/" id="show-more-from-945" class="page-section__button">Показать ещё</a>
+            <script>
+                (function () {
+                    let preventClick = true;
+                    document.getElementById('show-more-from-945').onclick = function (e) {
+                        if (preventClick) {
+                            e.preventDefault();
+                            preventClick = false;
+                            let $container = document.getElementById('show-more-from-945-container');
+                            let $matches =  $container.querySelectorAll('.hidden-block');
+                            $matches.forEach(function (item) {
+                                item.style.display = 'block';
+                            });
+                        }
+                    };
+                })();
+            </script>
+        </div>
+    </div>        </section>
+        
+                </div>
+            </div>
+
+            <div class="large-w315 cell show-for-large">
+                <aside class="sidebar">
+    
+    
+    
+    <div class="ad-slot__sidebar-300x600 show-for-large"><!--AdFox START-->
+<!--kp_sites-->
+<!--Площадка: Sport / * / *-->
+<!--Тип баннера: Sport (desktop) - 2-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_163128692018927292"></div>
+<script>
+    setTimeout(() => {
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.createAdaptive({
+                ownerId: 232598,
+                containerId: 'adfox_163128692018927292',
+                params: {
+                    pp: 'g',
+                    ps: 'exzh',
+                    p2: 'hexb',
+                    puid1: '',
+                    puid2: '',
+                    puid3: '',
+                    puid4: '',
+                    puid5: '',
+                    puid6: '',
+                    puid7: ''
+                }
+            }, ['desktop'], {
+                tabletWidth: 1023,
+                phoneWidth: 767,
+                isAutoReloads: false
+            })
+        })
+    }, 1000);
+</script></div>
+    
+</aside>
+            </div>
+
+        </div>
+    </div>
+
+<footer data-rocket-location-hash="611cbdf49d5de860237181c1b02f81ec" class="page-footer">
+    <div data-rocket-location-hash="443472c7822063ad2c0690521fee6d40" class="grid-container">
+
+        <div class="page-footer__top">
+            <div class="grid-x">
+
+                <div class="small-12 large-4 cell">
+
+                    <a class="page-footer__logo-kp" href="https://kp.ru">
+                        <img class="page-header__logo-kp-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2030'%3E%3C/svg%3E" height="30" width="32" alt="КП" data-lazy-src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/bird-kp.svg"><noscript><img class="page-header__logo-kp-image" src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/bird-kp.svg" height="30" width="32" alt="КП"></noscript>
+                    </a>
+
+                    <a class="page-footer__logo-euro" href="https://www.kp.ru/sports/">
+                        <img class="page-header__logo-e-20-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2076%2025'%3E%3C/svg%3E" width="76" height="25" alt="" data-lazy-src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/sport-kp.svg"><noscript><img class="page-header__logo-e-20-image" src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/sport-kp.svg" width="76" height="25" alt=""></noscript>
+                    </a>
+
+                    <div class="page-footer__notice">Сетевое издание (сайт) зарегистрировано Роскомнадзором, свидетельство серия Эл № ФС77-80505 от 15 марта 2021 г. Главный редактор — Носова Олеся Вячеславовна.</div>
+
+                </div>
+
+                <div class="small-12 large-8 cell">
+                    <div class="grid-x">
+
+                        <div class="small-6 medium-4 cell">
+                            <div class="page-footer__column-headline">О проекте</div>
+                            <ul id="menu-footer_menu_1" class="page-footer__menu"><li id="menu-item-1425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1425"><a href="https://s7.stc.all.kpcdn.net/sports/wp-content/uploads/2024/11/kp-sport-2024-2.pdf">Реклама</a></li>
+</ul>                        </div>
+
+                        <div class="small-6 medium-4 cell">
+                            <div class="page-footer__column-headline">Категории</div>
+                            <ul id="menu-footer_menu_2" class="page-footer__menu"><li id="menu-item-1338" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1338"><a href="https://www.kp.ru/sports/futbol/">Футбол</a></li>
+<li id="menu-item-20178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20178"><a href="https://www.kp.ru/sports/hokkej/">Хоккей</a></li>
+<li id="menu-item-20177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20177"><a href="https://www.kp.ru/sports/figurnoe-katanie/">Фигурное катание</a></li>
+<li id="menu-item-20176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20176"><a href="https://www.kp.ru/sports/tennis/">Теннис</a></li>
+<li id="menu-item-20180" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20180"><a href="https://www.kp.ru/sports/basketbol/">Баскетбол</a></li>
+<li id="menu-item-20175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20175"><a href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/">MMA</a></li>
+<li id="menu-item-20181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20181"><a href="https://www.kp.ru/sports/boks/">Бокс</a></li>
+<li id="menu-item-20179" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20179"><a href="https://www.kp.ru/sports/avto/">Автоспорт</a></li>
+<li id="menu-item-25393" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25393"><a href="https://www.kp.ru/sports/shahmaty/">Шахматы</a></li>
+<li id="menu-item-25394" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25394"><a href="https://www.kp.ru/sports/kibersport/">Киберспорт</a></li>
+<li id="menu-item-25395" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25395"><a href="https://www.kp.ru/sports/biatlon/">Биатлон</a></li>
+<li id="menu-item-25396" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25396"><a href="https://www.kp.ru/sports/doping/">Допинг</a></li>
+<li id="menu-item-53181" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53181"><a href="https://www.kp.ru/sports/legkaya-atletika/">Легкая атлетика</a></li>
+<li id="menu-item-222334" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-222334"><a href="https://www.kp.ru/sports/others/">Другие</a></li>
+<li id="menu-item-273140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-273140"><a href="https://www.kp.ru/sports/win/">Прогнозы на спорт</a></li>
+<li id="menu-item-274547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274547"><a href="https://www.kp.ru/sports/win/bukmekerskye-kontory/">Лучшие букмекеры</a></li>
+</ul>                        </div>
+
+                        <div class="small-12 medium-4 cell">
+                            <div class="page-footer__column-headline">Контакты</div>
+                            <ul class="page-footer__menu">
+                                <li class="menu-item"><span>Адрес: 127015, г. Москва, ул. Новодмитровская, д. 2Б, этаж 8, помещ. 800</span></li>
+                                <li class="menu-item"><span>Телефон: <a href="tel:+74957770282">+7 (495) 777-02-82</a></span></li>
+                                <li class="menu-item"><span>Почта: <a href="mailto:sports@kp.ru">sports@kp.ru</a></span></li>
+                            </ul>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="page-footer__bottom">
+            <div class="grid-x">
+
+                <div class="small-10 small-order-3 medium-order-3 large-3 large-order-1 cell">
+                    <div class="page-footer__copyright">© 2026. KP.RU. Все права защищены.</div>
+                </div>
+
+                <div class="small-12 small-order-1 medium-11 medium-order-1 large-6 large-order-2 cell">
+                    <div class="page-footer__socials">
+                        <a class="page-footer__social-item page-footer__social-item--vk" target="_blank" href="https://vk.com/public15722194" rel="nofollow noopener noreferrer"></a>
+                        <a class="page-footer__social-item page-footer__social-item--tg" target="_blank" href="https://telegram.me/truekpru" rel="nofollow noopener noreferrer"></a>
+                                                <a class="page-footer__social-item page-footer__social-item--tw" target="_blank" href="https://www.twitter.com/kpru/" rel="nofollow noopener noreferrer"></a>
+                                                <a class="page-footer__social-item page-footer__social-item--yt" target="_blank" href="https://www.youtube.com/user/kpru" rel="nofollow noopener noreferrer"></a>
+                                            </div>
+                </div>
+
+                <div class="small-2 small-order-2 medium-1 medium-order-2 large-3 large-order-3 cell clearfix">
+                    <div class="page-footer__age-rank">18+</div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</footer>
+
+
+</div> <!-- class="site-wrapper" end -->
+
+<div data-rocket-location-hash="70b14c54b47ebc1c3e766425530b4aa5" id="mobile-menu" class="mobile-menu__wrapper">
+
+    <div data-rocket-location-hash="13aab44065e97b089a05a0c22c9bbdd5" class="mobile-menu__header">
+
+        <a class="mobile-menu__logo-kp" href="#">
+            <img class="mobile-menu__logo-kp-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2030'%3E%3C/svg%3E" height="30" width="32" alt="КП" data-lazy-src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/bird-kp.svg"><noscript><img class="mobile-menu__logo-kp-image" src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/bird-kp.svg" height="30" width="32" alt="КП"></noscript>
+        </a>
+
+        <a class="mobile-menu__logo-sport" href="#">
+            <img class="mobile-menu__logo-sport-image" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2076%2025'%3E%3C/svg%3E" height="25" width="76" alt="КП" data-lazy-src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/sport-kp.svg"><noscript><img class="mobile-menu__logo-sport-image" src="https://www.kp.ru/sports/wp-content/themes/sports/assets/images/sport-kp.svg" height="25" width="76" alt="КП"></noscript>
+        </a>
+
+        <span id="mobile-menu-close" class="mobile-menu__close"></span>
+
+    </div>
+
+    <ul class="mobile-menu__list"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-390013"><a href="https://www.kp.ru/sports/olimpiada-2026/">Олимпиада 2026</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8182"><a href="https://www.kp.ru/sports/futbol/">Футбол</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20173"><a href="https://www.kp.ru/sports/futbol/rpl/">РПЛ</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20172"><a href="https://www.kp.ru/sports/futbol/liga-chempionov-po-futbolu/">Лига чемпионов</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20171"><a href="https://www.kp.ru/sports/futbol/liga-evropy-po-futbolu/">Лига Европы</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8185"><a href="https://www.kp.ru/sports/figurnoe-katanie/">Фигурное катание</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8186"><a href="https://www.kp.ru/sports/hokkej/">Хоккей</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8184"><a href="https://www.kp.ru/sports/smeshannye-edinoborstva-mma/">MMA</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8850"><a href="https://www.kp.ru/sports/boks/">Бокс</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8851"><a href="https://www.kp.ru/sports/tennis/">Теннис</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20167"><a href="https://www.kp.ru/sports/avto/">Автоспорт</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20168"><a href="https://www.kp.ru/sports/basketbol/">Баскетбол</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25392"><a href="https://www.kp.ru/sports/biatlon/">Биатлон</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25390"><a href="https://www.kp.ru/sports/shahmaty/">Шахматы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25391"><a href="https://www.kp.ru/sports/kibersport/">Киберспорт</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53183"><a href="https://www.kp.ru/sports/legkaya-atletika/">Легкая атлетика</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25389"><a href="https://www.kp.ru/sports/doping/">Допинг</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20170"><a href="https://www.kp.ru/sports/fitnes/">Фитнес</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-273141"><a href="https://www.kp.ru/sports/win/">Прогнозы на спорт</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-274548"><a href="https://www.kp.ru/sports/win/bukmekerskye-kontory/">Лучшие букмекеры</a></li>
+</ul>
+        <div data-rocket-location-hash="db09d794beedca4e4178160df9ed9325" class="mobile-menu__buttons">
+                    <a class="mobile-menu__menu-button mobile-menu__menu-button--icon-loudspeaker" href="https://www.kp.ru/sports/gentleman-2025/">Джентельмен года</a>
+            </div>
+    
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/sports/*"},{"not":{"href_matches":["/sports/wp-*.php","/sports/wp-admin/*","/sports/wp-content/uploads/*","/sports/wp-content/*","/sports/wp-content/plugins/*","/sports/wp-content/themes/sports/*","/sports/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="eio-lazy-load-js-before">
+/* <![CDATA[ */
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"bg_min_dpr":1.1,"threshold":0,"use_dpr":0};
+//# sourceURL=eio-lazy-load-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.kp.ru/sports/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=831" id="eio-lazy-load-js" async="async" data-wp-strategy="async"></script>
+<script data-minify="1" type="text/javascript" src="https://www.kp.ru/sports/wp-content/cache/min/1/sports/wp-content/themes/sports/assets/js/general.js?ver=1771413985" id="euro-2021-js-js" data-rocket-defer defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.kp.ru/sports/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script><script data-name="wpr-wpr-beacon" src='https://www.kp.ru/sports/wp-content/plugins/wp-rocket/assets/js/wpr-beacon.min.js' async></script></body>
+</html>
+
+<!-- Cached for great performance - Debug: cached@1771447725 -->

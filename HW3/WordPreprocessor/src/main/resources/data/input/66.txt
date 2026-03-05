@@ -1,0 +1,2450 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Самое актуальное расписание турниров" />
+<link rel="shortlink" href="https://ufc.ru/" />
+<link rel="canonical" href="https://ufc.ru/" />
+<meta name="referrer" content="origin" />
+<meta property="og:title" content="UFC Eurasia - трансляции, бойцы, видео, рейтинги" />
+<meta property="og:description" content="Самое актуальное расписание турниров" />
+<meta name="twitter:description" content="Самое актуальное расписание турниров" />
+<meta name="google-site-verification" content="jBi-zEua0qstnd5ub_UfJvVR6gYCSCcCFiEg7sbi1Ps" />
+<meta name="google-site-verification" content="Zw80U5MWno6r1T7tj_0puHQopfeIxXOYzDfbw6EOolo" />
+<meta name="google-site-verification" content="Rl-mbqqjmrHJaK_Vdk5AfOh2XR388VfRwiIjmEXyJIA" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="preconnect" href="https://a.pub.network/" crossorigin="" />
+<link rel="preconnect" href="https://b.pub.network/" crossorigin="" />
+<link rel="preconnect" href="https://c.pub.network/" crossorigin="" />
+<link rel="preconnect" href="https://d.pub.network/" crossorigin="" />
+<link rel="preconnect" href="https://c.amazon-adsystem.com" crossorigin="" />
+<link rel="preconnect" href="https://s.amazon-adsystem.com" crossorigin="" />
+<link rel="preconnect" href="https://btloader.com/" crossorigin="" />
+<link rel="preconnect" href="https://api.btloader.com/" crossorigin="" />
+<link rel="preconnect" href="https://cdn.confiant-integrations.net" crossorigin="" />
+<link rel="stylesheet" href="https://a.pub.network/ufc-ru/cls.css" />
+<script data-cfasync="false" type="text/javascript">
+// This code initializes the freestar object and creates several objects within it.
+  var freestar = freestar || {};
+
+// freestar.queue: Holds code that the Freestar engine will execute
+  freestar.queue = freestar.queue || [];
+
+// freestar.config: Stores all configuration options
+  freestar.config = freestar.config || {};
+
+// freestar.config.enabled_slots: Stores each ad placement
+  freestar.config.enabled_slots = [];
+
+// freestar.initCallback: Calls newAdSlots and fetches ads from enabled_slots
+  freestar.initCallback = function () { 
+(freestar.config.enabled_slots.length === 0) 
+? freestar.initCallbackCalled = false 
+: freestar.newAdSlots(freestar.config.enabled_slots) 
+}
+</script>
+<script src="https://a.pub.network/ufc-ru/pubfig.min.js" data-cfasync="false" async="">
+
+</script>
+<style>.c-hero--full__headline,.c-hero--full__headline-prefix{color:inherit}.c-hero__actions{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-ms-flex-wrap:wrap;flex-wrap:wrap;margin:0 -.72222rem 0}@media (min-width:48em){.c-hero__actions{margin-bottom:1.66667rem}}.c-hero__actions a,.c-hero__actions button{width:8.66667rem;margin-right:.72222rem;margin-left:.72222rem;margin-bottom:.72222rem;padding:10px 22px;text-align:center;font-size:1.125rem;border-color:transparent}.c-hero__actions a span,.c-hero__actions button span{display:-webkit-box;display:-ms-flexbox;display:flex;height:100%;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}@media (min-width:48em){.c-hero__actions a,.c-hero__actions button{padding:16px 32px;width:11.55556rem}}body.path-rankings h1{margin:0 0 20px 0;padding-top:110px;text-align:center}@media (min-width:48em){body.path-rankings h1{margin:0 0 30px 0;padding-top:150px}}.l-masthead{margin:0 auto 1.92111rem auto;padding-right:1.44444rem;padding-left:1.44444rem;padding-top:8.66667rem;width:100%;max-width:1220px;text-align:center}.l-masthead--tight{margin-bottom:1.44444rem}@media (min-width:56.25em){.l-masthead{margin:11.55556rem auto 5.77778rem auto;padding-top:0}}.l-masthead__headline{margin-bottom:.72222rem;text-transform:uppercase;color:var(--color-title,#191919);font-family:UfcSansCondensedMedium,"Arial Narrow",Arial,sans-serif;letter-spacing:.04444rem;font-size:2.66667rem;line-height:2.5rem}@media (min-width:56.25em){.l-masthead__headline{letter-spacing:.0592rem;font-size:3.552rem;line-height:3.33rem}}@media (min-width:56.25em){.l-masthead__headline{letter-spacing:.08889rem;font-size:5.33333rem;line-height:5rem}}.l-masthead__headline-prefix{margin-bottom:.72222rem;text-transform:uppercase;font-family:UfcSansCondensedMedium,"Arial Narrow",Arial,sans-serif;letter-spacing:.01111rem;font-size:1.11111rem;line-height:1.22222rem;color:#d20a0a}
+/*# sourceMappingURL=critical.css.map */
+</style>
+
+
+
+
+<link rel="alternate" hreflang="en-zxx" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en-aus" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en-can" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="fr" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="fr-ca" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="de" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="it" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="ja" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="pt-br" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="ko" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en-nz" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="es" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="es-us" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="ru" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en-uk" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en-se" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en-mena" href="https://ufc.ru/" />
+<link rel="alternate" hreflang="en-ssa" href="https://ufc.ru/" />
+<link rel="icon" href="/sites/default/files/ufc_logo.png" type="image/png" />
+<script src="/sites/default/files/google_tag/primary/google_tag.script.js?tao2jf" defer></script>
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.icon_color = "transparent,black";</script>
+
+    <title>UFC Eurasia - трансляции, бойцы, видео, рейтинги | UFC.ru</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_DfuSCtQLBiz27n2p6jJ0Hmb8Tq_osKgMUOZhcVZpgT8.css?delta=0&amp;language=ru&amp;theme=ufc&amp;include=eJxVkmFyhSAMhC8kcqQ3USKmjYQhwVd7-lq0av8wyReW2axCCCaQNg9n0U9FknVhRb9SQOmyMPtQagbuf2vHlD61000NFz-AYlen0UeWAdiNqs_2o3UvCOoLhtcAKWFpaKI4WwZVD9VmKfQNRpLajGUEPsGuiyf3SoZuErH9jQwFYoE862XuIn1NuQ5MOmNoQoYUKEV3XXHv_WyjG40G3Ur4Vt_OfpFQ-VhuhCJVkf81DmxmtOPGjEVcLjLRLmnBvXAZ9pUnQg77EpolKa3ojlSfrmKhwyYs2UEC3oxGvYialM1lhu2I7jbQJi0xXDGZ-rvsGdQSfllTNOb-0B3DU_tP0NY5_TWwYKpuAXp8iBkhnI4yxCOG9m-4UCQHeacfze_osA" />
+<link rel="stylesheet" media="all" href="//cdn.ampproject.org/amp-story-player-v0.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_oLFJTQcqiiOeM2exbMkAZ6O-qmJcilXFRjL8klvJ6bU.css?delta=2&amp;language=ru&amp;theme=ufc&amp;include=eJxVkmFyhSAMhC8kcqQ3USKmjYQhwVd7-lq0av8wyReW2axCCCaQNg9n0U9FknVhRb9SQOmyMPtQagbuf2vHlD61000NFz-AYlen0UeWAdiNqs_2o3UvCOoLhtcAKWFpaKI4WwZVD9VmKfQNRpLajGUEPsGuiyf3SoZuErH9jQwFYoE862XuIn1NuQ5MOmNoQoYUKEV3XXHv_WyjG40G3Ur4Vt_OfpFQ-VhuhCJVkf81DmxmtOPGjEVcLjLRLmnBvXAZ9pUnQg77EpolKa3ojlSfrmKhwyYs2UEC3oxGvYialM1lhu2I7jbQJi0xXDGZ-rvsGdQSfllTNOb-0B3DU_tP0NY5_TWwYKpuAXp8iBkhnI4yxCOG9m-4UCQHeacfze_osA" />
+
+    
+  </head>
+  <body class="fontyourface path-frontpage page-node-type-landing">
+    <a href="#main-content" class="u-visually--hidden focusable">
+      Перейти к основному содержанию
+    </a>
+
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFBHZX5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      
+
+<div class="l-page">
+
+        <span class="l-page__header-pin" id="header-pin"></span>
+    <div class="l-page__header" id="header-wrapper">
+        
+
+
+<header class="c-site-header" data-header-state="animate">
+  <div class="c-site-header__content">
+
+    <div class="c-site-header__logo">
+      
+
+<a class="e-logo"
+      href="/"
+  >
+  <span class="e-logo__icon"><svg class="e-logo__svg" aria-hidden="true"><title>UFC</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#ufc-logo"></use></svg>
+  </span>
+</a>
+
+    </div>
+
+    <div class="c-site-header__menu-control">
+      <button class="c-site-header__button--menu" data-mobile-menu-component="toggle" aria-expanded="false">
+        <span class="c-site-header__button-text">Домашняя страница</span>
+
+        <span class="c-site-header__icon--toggle">
+          <svg class="e-svg"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#chevron-down"></use></svg>
+        </span>
+      </button>
+    </div>
+
+    <div class="c-site-header__menu-panel" data-mobile-menu-component="panel"
+         data-mobile-menu-state="is-hidden">
+      
+
+<nav role="navigation" aria-labelledby="main-menu-title" id="main-menu" class="c-menu-main">
+
+  <h2 class="u-visually--hidden" id="main-menu-title">Main navigation</h2>
+
+  
+        
+                  <ul class="c-menu-main__menu--level-1" data-main-menu="smart-menu">
+                                                                      
+                
+                
+
+                                                
+                
+        <li class="c-menu-main__item--left">
+          
+          
+                                <a href="/events" class="events c-menu-main__button--level-1" data-drupal-link-system-path="events">Турниры</a>
+                              
+                  <ul class="c-menu-main__menu--level-2 mega-menu" aria-expanded="false">
+                                                                      
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="/events#events-list-upcoming" class="c-menu-main__button--level-2" data-drupal-link-system-path="events">ПЛАНИРУЕМЫЕ</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="/events#events-list-past" class="c-menu-main__button--level-2" data-drupal-link-system-path="events">ПРОШЕДШИЕ</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="/tickets" target="_self" class="c-menu-main__button--level-2" data-drupal-link-system-path="tickets">Билеты</a>
+                              </li>
+      
+            
+      </ul>
+      
+                              </li>
+                                        
+                
+                
+
+                                                
+                
+        <li class="c-menu-main__item--left">
+          
+          
+                                <a href="/rankings" target="_self" class="c-menu-main__button--level-1" data-drupal-link-system-path="rankings">Рейтинги</a>
+                              </li>
+                                        
+                
+                
+
+                                                
+                
+        <li class="c-menu-main__item--left">
+          
+          
+                                <a href="/athletes" target="_self" class="athletes c-menu-main__button--level-1" data-drupal-link-system-path="athletes">Бойцы</a>
+                              
+                  <ul class="c-menu-main__menu--level-2 mega-menu" aria-expanded="false">
+                                                                      
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="/athletes/all" target="_self" class="c-menu-main__button--level-2" data-drupal-link-system-path="athletes/all">Список бойцов</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://statleaders.ufc.com/ru/" target="_self" class="c-menu-main__button--level-2">Лидеры статистики</a>
+                              </li>
+      
+            
+      </ul>
+      
+                              </li>
+                                        
+                
+                
+
+                                                
+                
+        <li class="c-menu-main__item--left">
+          
+          
+                                <a href="/trending/all" class="trending c-menu-main__button--level-1" data-drupal-link-system-path="trending/all">Новости</a>
+                              </li>
+                                        
+                
+                                  
+
+                                                
+                
+        <li class="c-menu-main__item--home is-active">
+          
+          
+                                            <a href="/" class="home c-menu-main__button--home is-active" data-drupal-link-system-path="&lt;front&gt;">              
+
+<div class="e-logo"
+  >
+  <span class="e-logo__icon"><svg class="e-logo__svg" aria-hidden="true"><title>UFC</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#ufc-logo"></use></svg>
+  </span>
+</div>
+
+            </a>
+                            </li>
+                                                  
+                
+                
+
+                                                
+                
+        <li class="c-menu-main__item--right is-pushed">
+          
+          
+                                <a href="/newsletter" target="_self" class="connect c-menu-main__button--level-1" data-drupal-link-system-path="node/94123">Болельщикам</a>
+                              
+                  <ul class="c-menu-main__menu--level-2 mega-menu" aria-expanded="false">
+                                                                      
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://ru.ufc.com/newsletter" target="_self" class="c-menu-main__button--level-2">Рассылка</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://ufcgymrussia.ru/" target="_blank" class="c-menu-main__button--level-2">UFC Gym</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://www.ea.com/ru-ru/games/ufc/ufc-4?setLocale=ru-ru" target="_blank" class="c-menu-main__button--level-2">EA Sports UFC 4</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://ufcstorerussia.ru/" target="_self" class="c-menu-main__button--level-2">Магазин UFC Store</a>
+                              </li>
+      
+            
+      </ul>
+      
+                              </li>
+                                        
+                
+                
+
+                                                
+                
+        <li class="c-menu-main__item--right">
+          
+          
+                                <a href="/ppv" class="watch c-menu-main__button--level-1" target="_self" data-drupal-link-system-path="node/152817">Следи за UFC</a>
+                              
+                  <ul class="c-menu-main__menu--level-2 mega-menu" aria-expanded="false">
+                                                                      
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="/ppv" target="_blank" class="c-menu-main__button--level-2" data-drupal-link-system-path="node/152817">Где смотреть?</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://www.youtube.com/channel/UCU8bQExxd38i-mnn-GLOtfA?sub_confirmation=1" target="_self" class="c-menu-main__button--level-2">Youtube</a>
+                              </li>
+                                        
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://www.ufcfightpass.com" target="_blank" class="c-menu-main__button--level-2">UFC Fight Pass</a>
+                              </li>
+      
+            
+      </ul>
+      
+                              </li>
+                                        
+                
+                
+
+                                                
+                
+        <li class="c-menu-main__item--right">
+          
+          
+                                <a href="https://www.ufcstore.com/en/?_s=bm-UFCStore-UFC.com-Shop-UFC_Navigation-2025" target="_blank" class="c-menu-main__button--level-1">Магазин</a>
+                              
+                  <ul class="c-menu-main__menu--level-2 mega-menu" aria-expanded="false">
+                                                                      
+                
+                
+
+        
+                
+        <li class="c-menu-main__item--below">
+          
+          
+                                <a href="https://ufccollectibles.com/?utm_source=referral&amp;utm_medium=ufc%20website%20navigation%20link&amp;utm_campaign=partner-referral-russia" class="c-menu-main__button--level-2">UFC COLLECTIBLES </a>
+                              </li>
+      
+            
+      </ul>
+      
+                              </li>
+      
+            
+      </ul>
+      
+
+  
+</nav>
+
+          </div>
+
+        <div class="c-site-header__search-control">
+      <button class="c-site-header__button--search" aria-label="Search panel toggle" data-search-btn aria-expanded="false">
+        <span class="c-site-header__icon--search e-icon--xsmall"><svg class="e-icon__svg search"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#search"></use></svg><svg class="e-svg close"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#close"></use></svg></span>
+      </button>
+    </div>
+    
+    
+        <div class="c-site-header__search-panel" data-search-panel
+         data-search-state="is-hidden">
+      <div class="search-form">
+        <form action="/search" method="get" class="simple-search-form">
+          <input
+              id="site-search-input"
+              type="text"
+              name="query"
+              placeholder="Search..."
+              aria-label="Search"
+              autocomplete="off"
+          >
+        </form>
+      </div>
+    </div>
+    
+  </div>
+</header>
+    </div>
+  
+        <div class="l-page__pre-content">
+        <div data-drupal-messages-fallback class="hidden"></div>
+
+
+    </div>
+  
+    <div class="l-page__utilities">
+    
+      </div>
+
+  <main class="l-page__main">
+    <a id="main-content" tabindex="-1"></a>
+        
+        <div class="l-page__content">
+                <div id="block-mainpagecontent" class="block block-system block-system-main-block">
+  
+    
+      <article>
+
+  
+    
+
+  
+  <div>
+    
+      <div class="field field--name-components field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+  
+
+
+
+<div class="lps hero-landing-wrap lps--first ">
+        <div class="l-container__content hero-landing">
+      <div
+        class="hero-story-wrap ">
+        <div class="hero-story">
+                      <div class="hero-story__media">
+                    <picture>
+                  <source srcset="https://ufc.com/images/styles/800x450_1/s3/2026-02/021226-Houston-Main-Event-hero.jpg?h=d1cb525d&amp;itok=axgcEH0B 1x, https://ufc.com/images/styles/800x450_2/s3/2026-02/021226-Houston-Main-Event-hero.jpg?h=d1cb525d&amp;itok=g9Z8rB8n 2x" media="(min-width: 768px)" type="image/jpeg" width="800" height="450"/>
+              <source srcset="https://ufc.com/images/styles/767x432_1/s3/2026-02/021226-Houston-Main-Event-hero.jpg?h=d1cb525d&amp;itok=3DR3l6jt 1x, https://ufc.com/images/styles/767x432_2/s3/2026-02/021226-Houston-Main-Event-hero.jpg?h=d1cb525d&amp;itok=_aM5mkhM 2x" media="(min-width: 390px)" type="image/jpeg" width="767" height="432"/>
+              <source srcset="https://ufc.com/images/styles/390x220_1/s3/2026-02/021226-Houston-Main-Event-hero.jpg?h=d1cb525d&amp;itok=ei2jf94C 1x, https://ufc.com/images/styles/390x220_2/s3/2026-02/021226-Houston-Main-Event-hero.jpg?h=d1cb525d&amp;itok=pd2N-Xh_ 2x" media="(min-width: 0)" type="image/jpeg" width="390" height="220"/>
+                  <img loading="lazy" src="https://ufc.com/images/styles/390x220_1/s3/2026-02/021226-Houston-Main-Event-hero.jpg?h=d1cb525d&amp;itok=ei2jf94C" width="390" height="220" alt="Sean Strickland and Anthony Hernandez" />
+
+  </picture>
+
+
+
+            </div>
+                    <div class="hero-story__content">
+            <div class="hero-story__line line-decorator"></div>
+                        <h1
+              class="hero-hero-story__title">UFC Хьюстон</h1>                          <div class="hero-hero-story__body">
+                Стрикланд против Хернандеза, возвращение Спивака и другие поединки. 
+              </div>
+                                      <div class="hero-hero-story__cta-wrap">
+                                  <a href="https://www.ufc.ru/event/ufc-fight-night-february-21-2026"
+                     class="hero-story__cta button-landing-color hero-story__cta--black-white">
+                    <span>Полный кард турнира</span>
+                  </a>
+                                  <a href="https://ufcfightpass.ru/"
+                     class="hero-story__cta button-landing-color hero-story__cta--white-black">
+                    <span>Смотреть турнир</span>
+                  </a>
+                              </div>
+                      </div>
+        </div>
+      </div>
+              <div class="hero-story-links-wrap">
+          <div class="hero-story-links">
+            <h2 class="hero-story-links__title">Главные новости</h2>
+            <ol class="hero-story-links__list">
+                                                <li class="hero-story-links__item">
+                    <div class="hero-story-links__item-inner">
+                      <p
+                        class="hero-story-links__category ">Анонсы</p>                      <a href="/news/movsar-evloev-provedyot-boy-s-leronom-myorfi-21-marta"
+                                                  class="hero-story-links__link">
+                        Мовсар Евлоев проведёт бой с Лероном Мёрфи 21 марта
+                      </a>
+                    </div>
+                  </li>
+                                                                <li class="hero-story-links__item">
+                    <div class="hero-story-links__item-inner">
+                      <p
+                        class="hero-story-links__category ">Анонсы</p>                      <a href="/news/gde-smotret-ufc-vegas-113-bautista-vs-oliveyra"
+                                                  class="hero-story-links__link">
+                        Где смотреть UFC Вегас 113: Баутиста vs Оливейра
+                      </a>
+                    </div>
+                  </li>
+                                                                <li class="hero-story-links__item">
+                    <div class="hero-story-links__item-inner">
+                      <p
+                        class="hero-story-links__category ">Результаты</p>                      <a href="/news/rezultaty-i-bonusy-zuffa-boxing-02"
+                                                  class="hero-story-links__link">
+                        Результаты и бонусы Zuffa Boxing 02
+                      </a>
+                    </div>
+                  </li>
+                                                                <li class="hero-story-links__item">
+                    <div class="hero-story-links__item-inner">
+                      <p
+                        class="hero-story-links__category ">Бойцы</p>                      <a href="/video/154006"
+                                                  class="hero-story-links__link">
+                        UFC 325: Волкановски vs Лопес - Слова после боя
+                      </a>
+                    </div>
+                  </li>
+                                                                <li class="hero-story-links__item">
+                    <div class="hero-story-links__item-inner">
+                      <p
+                        class="hero-story-links__category ">Результаты</p>                      <a href="/news/rezultaty-i-bonusy-ufc-325-volkanovski-vs-lopes-2"
+                                                  class="hero-story-links__link">
+                        Результаты и бонусы UFC 325: Волкановски vs Лопес 2
+                      </a>
+                    </div>
+                  </li>
+                                                                <li class="hero-story-links__item">
+                    <div class="hero-story-links__item-inner">
+                      <p
+                        class="hero-story-links__category ">Бойцы</p>                      <a href="/video/154005"
+                                                  class="hero-story-links__link">
+                        UFC 325: Бенуа Сэн-Дени - Слова после боя
+                      </a>
+                    </div>
+                  </li>
+                                                                <li class="hero-story-links__item">
+                    <div class="hero-story-links__item-inner">
+                      <p
+                        class="hero-story-links__category ">Турниры</p>                      <a href="/news/ufc-325-volkanovski-vs-lopes-2-rezultaty-vzveshivaniya-bitvy-vzglyadov"
+                                                  class="hero-story-links__link">
+                        UFC 325: Волкановски vs Лопес 2 – результаты взвешивания + битвы взглядов
+                      </a>
+                    </div>
+                  </li>
+                                          </ol>
+          </div>
+        </div>
+                    <div class="hero-story-event">
+          
+<div class="events-lastnext-paragraph--wrap">
+  <div class="l-container--landing events-lastnext-paragraph--container">
+    <div class="l-container__content">
+      <div class="events-lastnext-paragraph events-lastnext">
+
+        
+                    
+          
+          <div id="lastnext-event-153364"
+               class="event-lastnext-paragraph last">
+            <a href="/event/ufc-fight-night-february-07-2026">
+              <div class="event-lastnext-paragraph__fighters">
+                <div class="event-lastnext-paragraph__fighters-inner">
+                  <div class="event-lastnext__fighter-image"
+                       id="Баутиста">
+                    <div class="event-lastnext__fighter-image-inner"><img
+                        src="https://ufc.com/images/styles/events_lastnext_athlete/s3/2026-02/BAUTISTA_MARIO_L_02-07.png?itok=FeZK_lpv"/></div>
+                  </div>
+                  <div class="event-lastnext__fighter-image"
+                       id="Оливейра">
+                    <div class="event-lastnext__fighter-image-inner"><img
+                        src="https://ufc.com/images/styles/events_lastnext_athlete/s3/2026-02/OLIVEIRA_VINICIUS_R_02-07.png?itok=eyfLnXqK"/></div>
+                  </div>
+                </div>
+              </div>
+              <div class="event-lastnext-paragraph__heading">
+                                  <div class="event-lastnext__pretitle">
+                    Прошедший турнир
+                  </div>
+                                <div class="event-lastnext-paragraph__logo-wrap">
+                                      <div class="c-card-eventrelated__logo">
+                                  <div class="svg-5f8780e0a0db406702a6a9b11eadaafd e-event-logo--light"><?xml version="1.0" encoding="utf-8"?><!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 914 425.2" style="enable-background:new 0 0 914 425.2;" xml:space="preserve"><style type="text/css">.svg-5f8780e0a0db406702a6a9b11eadaafd .st0 {fill-rule: evenodd;clip-rule: evenodd;}</style><g><g><g><g><polygon points="590.7,62.1 432,62.1 445.2,14.5 603.9,14.5     "/></g><g><polygon points="483.2,142.3 568.5,142.3 581.7,94.8 422.9,94.8 385.3,230.5 458.7,230.5     "/></g></g><path class="st0" d="M663.2,181.4c-1.9-1.1-3.1-2.5-3.6-4.4c-0.1-0.5-0.2-1.1-0.2-1.7c0-0.5,0.1-1,0.3-1.6l28.8-103.7    c0.8-3,2.3-5.1,4.4-6.2c2.1-1.2,5.7-1.8,10.8-1.8h79.3l13.2-47.5H684.9c-20.3,0-34.4,2.4-42.6,7c-8.2,4.6-13.9,12.7-17.2,24.5    l-41,147.8c-0.6,2.2-1,4.4-1.1,6.5c-0.1,2.3,0.1,4.4,0.6,6.6c1.9,7.2,6.6,12.9,14.2,17.2c7.5,4.2,16.8,6.3,28,6.3h116.4l13.2-47.5    h-85C667.5,183,665.1,182.4,663.2,181.4z"/><path class="st0" d="M224.5,14.5l-49.7,179.4c-0.6,2.2-1,4.4-1.1,6.5c-0.1,2.3,0.1,4.4,0.6,6.6c1.9,7.2,6.6,12.9,14.2,17.2    c7.5,4.2,16.8,6.3,28,6.3l82.8,0c20.3,0,34.4-2.4,42.6-7c8.2-4.6,13.9-12.7,17.2-24.5l51.2-184.4h-73.4L292.3,175    c-0.8,3-2.3,5.1-4.4,6.2c-2.1,1.2-5.7,1.8-10.8,1.8h-12.6c-2.8,0-5.2-0.5-7.1-1.6c-1.9-1.1-3.1-2.5-3.6-4.4    c-0.1-0.5-0.2-1.1-0.2-1.7c0-0.5,0.1-1,0.3-1.6L298,14.5H224.5z"/></g><g><path d="M137.4,273.6l-6,21.8H66.5l-11.4,41h54.6l-5.8,21.2H49.3l-14.5,52H9.1l37.8-136H137.4z"/><path d="M153.1,273.6h25.7l-37.8,136h-25.7L153.1,273.6z"/><path d="M261.5,409.6h-14l-3.9-9.1c-5.8,6.5-14.3,10.1-27.6,10.1h-19.2c-24,0-32.8-12.1-26.1-36.1l18.4-66.1    c6.7-24.2,18.6-36.3,46.2-36.3h27c24.2,0,33,12.1,26.8,33.9l-2.8,10.8h-25.5l2.2-8.2c2.6-11,0.2-14.7-11.9-14.7h-16.6    c-11.9,0-16.6,3.9-20.3,16.8L196.9,372c-3.7,13-0.9,16.8,11.2,16.8h17.9c11.9,0,16.6-4.1,20.3-16.8l1.1-3.5l3-11.4h-24.6l5.8-20.7    h50.1L261.5,409.6z"/><path d="M344.6,273.6L329,329.9h48.4l15.6-56.4h25.7l-37.8,136.3h-25.7l16.4-58.7H323l-16.2,58.5h-25.7l37.8-136H344.6z"/><path d="M530.7,295.4h-39.1l-31.5,114.2h-25.7l31.5-114.2h-39.1l6-21.8h103.9L530.7,295.4z"/></g><g><path d="M595.4,336.5l17.4-62.9h16.8l-25.2,90.7h-16.8c-5.5-20.7-11.4-42-16.6-63.1l-17.6,63.1h-16.7l25.2-90.7h16.8    C584.4,294.5,590.3,315.5,595.4,336.5z"/><path d="M645.5,273.6h17.1l-25.2,90.7h-17.1L645.5,273.6z"/><path d="M718.5,364.3h-9.4l-2.6-6c-3.9,4.3-9.5,6.8-18.4,6.8h-12.8c-16,0-21.9-8.1-17.4-24l12.2-44.1    c4.5-16.1,12.4-24.2,30.8-24.2h18c16.1,0,22,8.1,17.9,22.6l-1.9,7.2h-17l1.4-5.5c1.7-7.3,0.1-9.8-7.9-9.8h-11.1    c-7.9,0-11.1,2.6-13.5,11.2l-11.4,40.7c-2.4,8.6-0.6,11.2,7.5,11.2h12c7.9,0,11.1-2.7,13.5-11.2l0.7-2.3l2-7.6h-16.4l3.9-13.8H732    L718.5,364.3z"/><path d="M774.7,273.6l-10.4,37.6h32.2l10.4-37.6h17.1l-25.2,90.9h-17.1l10.9-39.2h-32.4l-10.8,39h-17.1l25.2-90.7H774.7z"/><path d="M898,288.1h-26.1l-21,76.2h-17.1l21-76.2h-26.1l4-14.5H902L898,288.1z"/></g><g><polygon points="530.9,385.8 524.3,409.6 860.7,409.6 867.3,385.8   "/></g></g></svg></div>          
+                    </div>
+                                    <div>
+                  </div>
+                </div>
+                                  <div
+                    class="event-lastnext-paragraph__fight-title">
+                    Баутиста vs<br/>
+Оливейра</div>
+                              </div>
+            </a>
+                        <div class="countdown-clock__live-now-tag">
+              Live now
+            </div>
+          </div>
+        
+                    
+          
+          <div id="lastnext-event-153174"
+               class="event-lastnext-paragraph next">
+            <a href="/event/ufc-fight-night-february-21-2026">
+              <div class="event-lastnext-paragraph__fighters">
+                <div class="event-lastnext-paragraph__fighters-inner">
+                  <div class="event-lastnext__fighter-image"
+                       id="Стрикланд">
+                    <div class="event-lastnext__fighter-image-inner"><img
+                        src="https://ufc.com/images/styles/events_lastnext_athlete/s3/2025-01/5/STRICKLAND_SEAN_L_06-01.png?itok=3kwlCzWs"/></div>
+                  </div>
+                  <div class="event-lastnext__fighter-image"
+                       id="Хернандез">
+                    <div class="event-lastnext__fighter-image-inner"><img
+                        src="https://ufc.com/images/styles/events_lastnext_athlete/s3/2025-08/HERNANDEZ_ANTHONY_R_08-09.png?itok=KLbMbWDq"/></div>
+                  </div>
+                </div>
+              </div>
+              <div class="event-lastnext-paragraph__heading">
+                                  <div class="event-lastnext__pretitle"
+                       data-next-start="1771722000">
+                    Следующий турнир
+                  </div>
+                                <div class="event-lastnext-paragraph__logo-wrap">
+                                      <div class="c-card-eventrelated__logo">
+                                  <div class="svg-5f8780e0a0db406702a6a9b11eadaafd e-event-logo--light"><?xml version="1.0" encoding="utf-8"?><!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  --><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 914 425.2" style="enable-background:new 0 0 914 425.2;" xml:space="preserve"><style type="text/css">.svg-5f8780e0a0db406702a6a9b11eadaafd .st0 {fill-rule: evenodd;clip-rule: evenodd;}</style><g><g><g><g><polygon points="590.7,62.1 432,62.1 445.2,14.5 603.9,14.5     "/></g><g><polygon points="483.2,142.3 568.5,142.3 581.7,94.8 422.9,94.8 385.3,230.5 458.7,230.5     "/></g></g><path class="st0" d="M663.2,181.4c-1.9-1.1-3.1-2.5-3.6-4.4c-0.1-0.5-0.2-1.1-0.2-1.7c0-0.5,0.1-1,0.3-1.6l28.8-103.7    c0.8-3,2.3-5.1,4.4-6.2c2.1-1.2,5.7-1.8,10.8-1.8h79.3l13.2-47.5H684.9c-20.3,0-34.4,2.4-42.6,7c-8.2,4.6-13.9,12.7-17.2,24.5    l-41,147.8c-0.6,2.2-1,4.4-1.1,6.5c-0.1,2.3,0.1,4.4,0.6,6.6c1.9,7.2,6.6,12.9,14.2,17.2c7.5,4.2,16.8,6.3,28,6.3h116.4l13.2-47.5    h-85C667.5,183,665.1,182.4,663.2,181.4z"/><path class="st0" d="M224.5,14.5l-49.7,179.4c-0.6,2.2-1,4.4-1.1,6.5c-0.1,2.3,0.1,4.4,0.6,6.6c1.9,7.2,6.6,12.9,14.2,17.2    c7.5,4.2,16.8,6.3,28,6.3l82.8,0c20.3,0,34.4-2.4,42.6-7c8.2-4.6,13.9-12.7,17.2-24.5l51.2-184.4h-73.4L292.3,175    c-0.8,3-2.3,5.1-4.4,6.2c-2.1,1.2-5.7,1.8-10.8,1.8h-12.6c-2.8,0-5.2-0.5-7.1-1.6c-1.9-1.1-3.1-2.5-3.6-4.4    c-0.1-0.5-0.2-1.1-0.2-1.7c0-0.5,0.1-1,0.3-1.6L298,14.5H224.5z"/></g><g><path d="M137.4,273.6l-6,21.8H66.5l-11.4,41h54.6l-5.8,21.2H49.3l-14.5,52H9.1l37.8-136H137.4z"/><path d="M153.1,273.6h25.7l-37.8,136h-25.7L153.1,273.6z"/><path d="M261.5,409.6h-14l-3.9-9.1c-5.8,6.5-14.3,10.1-27.6,10.1h-19.2c-24,0-32.8-12.1-26.1-36.1l18.4-66.1    c6.7-24.2,18.6-36.3,46.2-36.3h27c24.2,0,33,12.1,26.8,33.9l-2.8,10.8h-25.5l2.2-8.2c2.6-11,0.2-14.7-11.9-14.7h-16.6    c-11.9,0-16.6,3.9-20.3,16.8L196.9,372c-3.7,13-0.9,16.8,11.2,16.8h17.9c11.9,0,16.6-4.1,20.3-16.8l1.1-3.5l3-11.4h-24.6l5.8-20.7    h50.1L261.5,409.6z"/><path d="M344.6,273.6L329,329.9h48.4l15.6-56.4h25.7l-37.8,136.3h-25.7l16.4-58.7H323l-16.2,58.5h-25.7l37.8-136H344.6z"/><path d="M530.7,295.4h-39.1l-31.5,114.2h-25.7l31.5-114.2h-39.1l6-21.8h103.9L530.7,295.4z"/></g><g><path d="M595.4,336.5l17.4-62.9h16.8l-25.2,90.7h-16.8c-5.5-20.7-11.4-42-16.6-63.1l-17.6,63.1h-16.7l25.2-90.7h16.8    C584.4,294.5,590.3,315.5,595.4,336.5z"/><path d="M645.5,273.6h17.1l-25.2,90.7h-17.1L645.5,273.6z"/><path d="M718.5,364.3h-9.4l-2.6-6c-3.9,4.3-9.5,6.8-18.4,6.8h-12.8c-16,0-21.9-8.1-17.4-24l12.2-44.1    c4.5-16.1,12.4-24.2,30.8-24.2h18c16.1,0,22,8.1,17.9,22.6l-1.9,7.2h-17l1.4-5.5c1.7-7.3,0.1-9.8-7.9-9.8h-11.1    c-7.9,0-11.1,2.6-13.5,11.2l-11.4,40.7c-2.4,8.6-0.6,11.2,7.5,11.2h12c7.9,0,11.1-2.7,13.5-11.2l0.7-2.3l2-7.6h-16.4l3.9-13.8H732    L718.5,364.3z"/><path d="M774.7,273.6l-10.4,37.6h32.2l10.4-37.6h17.1l-25.2,90.9h-17.1l10.9-39.2h-32.4l-10.8,39h-17.1l25.2-90.7H774.7z"/><path d="M898,288.1h-26.1l-21,76.2h-17.1l21-76.2h-26.1l4-14.5H902L898,288.1z"/></g><g><polygon points="530.9,385.8 524.3,409.6 860.7,409.6 867.3,385.8   "/></g></g></svg></div>          
+                    </div>
+                                    <div>
+                  </div>
+                </div>
+                                  <div
+                    class="event-lastnext-paragraph__fight-title">
+                    Стрикланд vs<br/>
+Хернандез</div>
+                              </div>
+            </a>
+                          <div class="countdown-clock countdown-clock__wrapper">
+                                  <div id="flipdown" class="flipdown flipdown__center"></div>
+                              </div>
+                        <div class="countdown-clock__live-now-tag">
+              Live now
+            </div>
+          </div>
+              </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+          </div>
+  
+</div>
+</div>
+              <div class="field__item">
+
+
+
+                        
+
+
+
+
+<div class="lps carousel-stories lps--prev-event l-container--landing lps-p-top lps-p-bottom">
+    <div class="l-container__content">
+    
+
+
+<div class="c-carousel-wrapper c-carousel--stories">
+
+  
+      
+      <div class="carousel-section-title-wrap carousel-section-title-wrap--stories">
+      <h2 class="c-carousel__title--stories">Не пропусти</h2>
+    </div>
+  
+  <div class="c-carousel--stories__content carousel__custom" data-carousel="custom"
+        data-carousel-settings="&#x7B;&quot;slidesToShow&quot;&#x3A;4.3,&quot;slidesToScroll&quot;&#x3A;1,&quot;autoplay&quot;&#x3A;false,&quot;arrows&quot;&#x3A;true,&quot;dots&quot;&#x3A;false,&quot;infinite&quot;&#x3A;false,&quot;responsive&quot;&#x3A;&#x5B;&#x7B;&quot;breakpoint&quot;&#x3A;1024,&quot;settings&quot;&#x3A;&#x7B;&quot;slidesToShow&quot;&#x3A;3.2,&quot;slidesToScroll&quot;&#x3A;1&#x7D;&#x7D;,&#x7B;&quot;breakpoint&quot;&#x3A;768,&quot;settings&quot;&#x3A;&#x7B;&quot;slidesToShow&quot;&#x3A;2.04,&quot;slidesToScroll&quot;&#x3A;1&#x7D;&#x7D;&#x5D;&#x7D;"
+    >
+                      <div class="c-carousel__item">
+                                <div class="story-slide">
+    <div class="story-slide__media">
+          <picture>
+                  <source srcset="https://ufc.com/images/styles/280x420_1/s3/2026-02/022126-ufc-fight-night-strickland-vs-hernandez-EVENT-ART.jpg?h=d1cb525d&amp;itok=_E-FC7Ia 1x, https://ufc.com/images/styles/280x420_2/s3/2026-02/022126-ufc-fight-night-strickland-vs-hernandez-EVENT-ART.jpg?h=d1cb525d&amp;itok=HXKFiidQ 2x" media="(min-width: 0)" type="image/jpeg" width="280" height="420"/>
+                  <img loading="lazy" src="https://ufc.com/images/styles/280x420_1/s3/2026-02/022126-ufc-fight-night-strickland-vs-hernandez-EVENT-ART.jpg?h=d1cb525d&amp;itok=_E-FC7Ia" width="280" height="420" alt="UFC middleweights Sean Strickland and Anthony Hernandez" />
+
+  </picture>
+
+
+
+  </div>
+  <div class="story-slide__content">
+    <div class="story-slide__line line-decorator"></div>
+    <h3 class="story-slide__title">Главные герои UFC Хьюстон</h3>
+  </div>
+  <button class="story-slider__modal-open" data-target-uuid="77ed3539-9054-4364-8c4c-b47afd0085d5" title="Show modal with stories"></button>
+</div>
+  
+              </div>
+                                            <div class="c-carousel__item">
+                                <div class="story-slide">
+    <div class="story-slide__media">
+          <picture>
+                  <source srcset="https://ufc.com/images/styles/280x420_1/s3/2026-02/022826-ufc-fight-night-moreno-vs-kavanagh-EVENT-ART.jpg?h=d1cb525d&amp;itok=Tuuv3EHX 1x, https://ufc.com/images/styles/280x420_2/s3/2026-02/022826-ufc-fight-night-moreno-vs-kavanagh-EVENT-ART.jpg?h=d1cb525d&amp;itok=X_I6RuVD 2x" media="(min-width: 0)" type="image/jpeg" width="280" height="420"/>
+                  <img loading="lazy" src="https://ufc.com/images/styles/280x420_1/s3/2026-02/022826-ufc-fight-night-moreno-vs-kavanagh-EVENT-ART.jpg?h=d1cb525d&amp;itok=Tuuv3EHX" width="280" height="420" alt="UFC flyweights Brandon Moreno and Lone&#039;er Kavanagh over a red, white and green background" />
+
+  </picture>
+
+
+
+  </div>
+  <div class="story-slide__content">
+    <div class="story-slide__line line-decorator"></div>
+    <h3 class="story-slide__title">Главные герои UFC Мехико</h3>
+  </div>
+  <button class="story-slider__modal-open" data-target-uuid="495298da-7e08-49f8-abb9-d7ee19f09591" title="Show modal with stories"></button>
+</div>
+  
+              </div>
+                                            <div class="c-carousel__item">
+                                <div class="story-slide">
+  <div class="story-slider__label"><p>Номерной турнир</p></div>  <div class="story-slide__media">
+          <picture>
+                  <source srcset="https://ufc.com/images/styles/280x420_1/s3/2026-01/030726-ufc-326-holloway-vs-oliveira-2-EVENT-ART.jpg?h=d1cb525d&amp;itok=rTplYn4N 1x, https://ufc.com/images/styles/280x420_2/s3/2026-01/030726-ufc-326-holloway-vs-oliveira-2-EVENT-ART.jpg?h=d1cb525d&amp;itok=MH_l2gct 2x" media="(min-width: 0)" type="image/jpeg" width="280" height="420"/>
+                  <img loading="lazy" src="https://ufc.com/images/styles/280x420_1/s3/2026-01/030726-ufc-326-holloway-vs-oliveira-2-EVENT-ART.jpg?h=d1cb525d&amp;itok=rTplYn4N" width="280" height="420" alt="UFC BMF Champion Max Holloway standing side-by-side with Charles Oliveira" />
+
+  </picture>
+
+
+
+  </div>
+  <div class="story-slide__content">
+    <div class="story-slide__line line-decorator"></div>
+    <h3 class="story-slide__title">Главные герои UFC 326</h3>
+  </div>
+  <button class="story-slider__modal-open" data-target-uuid="28decadf-84bd-4b7b-9527-cf13eb62908b" title="Show modal with stories"></button>
+</div>
+  
+              </div>
+                                            <div class="c-carousel__item">
+                                <div class="story-slide">
+    <div class="story-slide__media">
+          <picture>
+                  <source srcset="https://ufc.com/images/styles/280x420_1/s3/2026-01/031426-ufc-fight-night-emmett-vs-vallejos-TEMP-HERO.jpg?h=d1cb525d&amp;itok=fmo1SAqL 1x, https://ufc.com/images/styles/280x420_2/s3/2026-01/031426-ufc-fight-night-emmett-vs-vallejos-TEMP-HERO.jpg?h=d1cb525d&amp;itok=tIGODacX 2x" media="(min-width: 0)" type="image/jpeg" width="280" height="420"/>
+                  <img loading="lazy" src="https://ufc.com/images/styles/280x420_1/s3/2026-01/031426-ufc-fight-night-emmett-vs-vallejos-TEMP-HERO.jpg?h=d1cb525d&amp;itok=fmo1SAqL" width="280" height="420" alt="UFC featherweights Josh Emmett and Kevin Vallejos stand side-by-side in front of a red and black background" />
+
+  </picture>
+
+
+
+  </div>
+  <div class="story-slide__content">
+    <div class="story-slide__line line-decorator"></div>
+    <h3 class="story-slide__title">Главные герои UFC Вегас 114</h3>
+  </div>
+  <button class="story-slider__modal-open" data-target-uuid="aa9bd07d-fb90-4443-a952-9abe5c079473" title="Show modal with stories"></button>
+</div>
+  
+              </div>
+                                </div>
+
+    
+  </div>
+  </div>
+  <div class="amp-lightbox">
+          <amp-analytics type="gtag" data-credentials="include">
+        <script type="application/json">
+        {
+          "vars": {
+            "gtag_id": "GTM-WFBHZX5"
+          }
+        }
+        </script>
+      </amp-analytics>
+        <amp-story-player>
+      <script type="application/json">
+        {
+          "behavior": {
+            "autoplay": true,
+            "pageScroll": false,
+            "playAllStories": true
+          },
+          "controls": [
+            {
+              "name": "close",
+              "position": "end"
+            }
+          ],
+          "display": {
+            "icon": false,
+            "actionButtonVisibility": "visible",
+            "actionButtonPosition": "center"
+          }
+        }
+      </script>
+              <a
+          data-uuid=77ed3539-9054-4364-8c4c-b47afd0085d5 href="https://ufc.ru/story/77ed3539-9054-4364-8c4c-b47afd0085d5"></a>
+              <a
+          data-uuid=495298da-7e08-49f8-abb9-d7ee19f09591 href="https://ufc.ru/story/495298da-7e08-49f8-abb9-d7ee19f09591"></a>
+              <a
+          data-uuid=28decadf-84bd-4b7b-9527-cf13eb62908b href="https://ufc.ru/story/28decadf-84bd-4b7b-9527-cf13eb62908b"></a>
+              <a
+          data-uuid=aa9bd07d-fb90-4443-a952-9abe5c079473 href="https://ufc.ru/story/aa9bd07d-fb90-4443-a952-9abe5c079473"></a>
+          </amp-story-player>
+  </div>
+
+</div>
+</div>
+              <div class="field__item">
+
+
+
+
+<div class="lps lps--grid-container  l-container--landing lps-p-top lps-p-bottom">
+    <div class="l-container__content">
+          <h2 class="landing-grid__title">Готовимся к предстоящим турнирам</h2>
+        <div class="landing-grid-wrap">
+      <div class="landing-grid landing-grid__1">
+        <div class="landing-grid__1-inner">
+                                                        <div class="landing-grid__item horizontal-full  ">
+                
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/o_7h3nXHAm8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Шон Стриклэнд vs Исраэль Адесанья: Полный бой"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+        <p>2 week ago</p>
+  </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Стрикланд vs Адесанья | Полный бой</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+            </div>
+                                              <div class="landing-grid__item vertical-half  ">
+                
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/nYe4xe-8S80?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Встреча Брэндона Морено и Канело Альвареза"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+        <p>2 week ago</p>
+  </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Встреча Брэндона Морено и Канело Альвареза</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+            </div>
+                                              <div class="landing-grid__item vertical-half landing-grid__item--no-bg landing-grid__item--no-media">
+                <div class="l-grid-ad">
+    
+            <div class="field field--name-landing-grid-ad field--type-entity-reference field--label-hidden field__item">
+          <div class="freestar-slot-definition">
+      <div align="center" data-freestar-ad="__360x450 __384x480" id="ufc-ru_homepage-grid-ad-1">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "ufc-ru_homepage-grid-ad-1", slotId: "ufc-ru_homepage-grid-ad-1" });
+  </script>
+</div>
+    </div>
+    </div>
+      
+  </div>
+            </div>
+                                              <div class="landing-grid__item vertical-half  ">
+                
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/KSyt0YAi6qw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Марлон Вера vs Доминик Круз: Полный бой"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+        <p>2 week ago</p>
+  </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Вера vs Круз | Полный бой</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+            </div>
+                                              <div class="landing-grid__item vertical-half  ">
+                
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/IJo4Qcnm6UU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Макс Холлоуэй vs Джастин Гейджи | Полный бой"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+        <p>2 week ago</p>
+  </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Холлоуэй vs Гейджи | Полный бой</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+            </div>
+                                              <div class="landing-grid__item horizontal-fifty  ">
+                <div class="l-grid-item">
+    <a href="/video/98602"
+     class="l-grid-item__link"
+              data-video-meta-type=&quot;vod&quot; data-locale=&quot;en&quot;
+                  data-inline-video="true"
+      >Лучшие финиши Чарльза Оливейры</a>
+    <div class="l-grid-item__media">
+    <span
+      class="video-access-icon" data-video-meta-type="vod" data-locale="en"></span>          <div class="l-grid-item__icon-video">
+        <svg class="e-icon__svg"><title>Play</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#play"></use></svg>
+      </div>
+              <picture>
+                  <source srcset="https://ufc.com/images/styles/384x256_1/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=2QBgYc98 1x, https://ufc.com/images/styles/384x256_2/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=hWll0Zj5 2x" media="(min-width: 1024px)" type="image/jpeg" width="384" height="256"/>
+              <source srcset="https://ufc.com/images/styles/1023x614_1/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=CAFIFKji 1x, https://ufc.com/images/styles/1023x614_2/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=dqluAuWW 2x" media="(min-width: 768px)" type="image/jpeg" width="1023" height="614"/>
+              <source srcset="https://ufc.com/images/styles/767x460_1/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=sPweMSHM 1x, https://ufc.com/images/styles/767x460_2/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=lvtT3rxx 2x" media="(min-width: 390px)" type="image/jpeg" width="767" height="460"/>
+              <source srcset="https://ufc.com/images/styles/390x234_1/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=dSA0TRGv 1x, https://ufc.com/images/styles/390x234_2/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=IQhQdtkR 2x" media="(min-width: 0)" type="image/jpeg" width="390" height="234"/>
+                  <img loading="lazy" src="https://ufc.com/images/styles/390x234_1/s3/2019-11/ufc%20sao%20paulo%20charles%20oliveira%20top%20finishes%20hero.jpg?itok=dSA0TRGv" width="390" height="234" />
+
+  </picture>
+
+
+
+  </div>
+  <div class="l-grid-item__inner">
+    
+
+
+<div class="l-grid-item__body l-grid-item__body--horizontal-fifty">
+  <div class="l-grid-item__line line-decorator"></div>
+  <div class="l-grid-item__subtitle">
+      <div class="l-grid-item__subtitle-help">
+      
+              <p>Бойцы</p>
+          </div>
+        <p>2 week ago</p>
+  </div>
+  <h3 class="l-grid-item__title">Лучшие финиши Чарльза Оливейры</h3>
+  </div>
+  </div>
+</div>
+  <div class="l-grid-item__video">
+    <div class="c-embedded-single-media" >
+
+  
+  <div class="c-embedded-single-media__item">
+                      <div class="video-player video-player-youtube video-player-inline  video-player--inline-hidden" data-video-id="322363" data-autoplay="autoplay">
+
+  
+  <div class="video-player__overlay"></div>
+
+  
+  
+        
+  
+
+  <div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/0GFp7l0obu0?autoplay=0&amp;start=0&amp;rel=0&amp;controls=1&amp;autohide=1&amp;modestbranding=0&amp;showinfo=0&amp;enablejsapi=1"></iframe>
+</div>
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+
+  
+</div>
+</div>
+            </div>
+                                              <div class="landing-grid__item horizontal-fifty  ">
+                <div class="l-grid-item">
+    <a href="/video/98806"
+     class="l-grid-item__link"
+              data-video-meta-type=&quot;vod&quot; data-locale=&quot;en&quot;
+                  data-inline-video="true"
+      >Лучшие фразы Макса Холлоуэя</a>
+    <div class="l-grid-item__media">
+    <span
+      class="video-access-icon" data-video-meta-type="vod" data-locale="en"></span>          <div class="l-grid-item__icon-video">
+        <svg class="e-icon__svg"><title>Play</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#play"></use></svg>
+      </div>
+              <picture>
+                  <source srcset="https://ufc.com/images/styles/384x256_1/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=2v00tcpY 1x, https://ufc.com/images/styles/384x256_2/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=_0sGxpM2 2x" media="(min-width: 1024px)" type="image/jpeg" width="384" height="256"/>
+              <source srcset="https://ufc.com/images/styles/1023x614_1/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=_LsHQBwt 1x, https://ufc.com/images/styles/1023x614_2/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=8fvNyjzz 2x" media="(min-width: 768px)" type="image/jpeg" width="1023" height="614"/>
+              <source srcset="https://ufc.com/images/styles/767x460_1/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=IgIEGPwK 1x, https://ufc.com/images/styles/767x460_2/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=T8pReuNr 2x" media="(min-width: 390px)" type="image/jpeg" width="767" height="460"/>
+              <source srcset="https://ufc.com/images/styles/390x234_1/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=eONx2sKc 1x, https://ufc.com/images/styles/390x234_2/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=mwVpsBTY 2x" media="(min-width: 0)" type="image/jpeg" width="390" height="234"/>
+                  <img loading="lazy" src="https://ufc.com/images/styles/390x234_1/s3/2019-12/Max-Holloway-UFC-245-Press-Conference-2019.jpg?itok=eONx2sKc" width="390" height="234" />
+
+  </picture>
+
+
+
+  </div>
+  <div class="l-grid-item__inner">
+    
+
+
+<div class="l-grid-item__body l-grid-item__body--horizontal-fifty">
+  <div class="l-grid-item__line line-decorator"></div>
+  <div class="l-grid-item__subtitle">
+      <div class="l-grid-item__subtitle-help">
+      
+              <p>Бойцы</p>
+          </div>
+        <p>2 week ago</p>
+  </div>
+  <h3 class="l-grid-item__title">Лучшие фразы Макса Холлоуэя</h3>
+  </div>
+  </div>
+</div>
+  <div class="l-grid-item__video">
+    <div class="c-embedded-single-media" >
+
+  
+  <div class="c-embedded-single-media__item">
+                      <div class="video-player video-player-youtube video-player-inline  video-player--inline-hidden" data-video-id="323344" data-autoplay="autoplay">
+
+  
+  <div class="video-player__overlay"></div>
+
+  
+  
+        
+  
+
+  <div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/FxWDmrDBsoo?autoplay=0&amp;start=0&amp;rel=0&amp;controls=1&amp;autohide=1&amp;modestbranding=0&amp;showinfo=0&amp;enablejsapi=1"></iframe>
+</div>
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+  
+  </div>
+
+  
+</div>
+</div>
+            </div>
+                                              <div class="landing-grid__item horizontal-fifty  ">
+                
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/ltT-W7TvMgw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Личный ТОП с Коди Гарбрандтом"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+        <p>2 week ago</p>
+  </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Личный ТОП с Коди Гарбрандтом</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+            </div>
+                  </div>
+      </div>
+
+      <div class="landing-grid landing-grid__2">
+                  <div class="landing-grid__item vertical-half">
+              
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/X5G_FIRQiho?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Кыргызстан: Родина Чемпионов | Бивол, Шевченко, Махмудов, Сатыбалдиев"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+    </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Кыргызстан: Родина Чемпионов</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+          </div>
+                  <div class="landing-grid__item vertical-half">
+              
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/dORowFowZfQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Лучшие финиши бойцов из Дагестана в UFC"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+    </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Лучшие финиши бойцов из Дагестана</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+          </div>
+                  <div class="landing-grid__item vertical-half">
+              
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/Vf1_f9rXinA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="ТОП 5 выступлений бойцов из Казахстана в UFC"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+    </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Лучшие выступления бойцов из Казахстана</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+          </div>
+                  <div class="landing-grid__item vertical-half">
+              
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/CJG3xHX1L_w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="Лучшие финиши бойцов из Грузии в UFC"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+    </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">Лучшие финиши бойцов из Грузии</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+          </div>
+                  <div class="landing-grid__item vertical-half">
+              
+
+
+
+<div class="l-grid-item">
+  <div class="l-grid-item__inner">
+        <div class="l-grid-item__oembed l-grid-item__oembed--youtube">
+      <iframe width="200" height="113" src="https://www.youtube.com/embed/SBV9T673ri8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen title="50 ЖЁСТКИХ нокаутов в тяжёлом весе"></iframe>
+    </div>
+  </div>
+      <div class="l-grid-item__inner">
+      <div class="l-grid-item__body">
+        <div class="l-grid-item__line line-decorator"></div>
+        <div class="l-grid-item__subtitle">
+    </div>
+        <div class="l-grid-item__help-title-wrap">
+                    <h3 class="l-grid-item__title">50 ЖЁСТКИХ нокаутов в тяжёлом весе</h3>
+        </div>
+              </div>
+    </div>
+  </div>
+          </div>
+              </div>
+    </div>
+  </div>
+
+</div>
+</div>
+              <div class="field__item">
+
+<div class="hero-profile-wrap hero-profile--athlete-spotlight">
+  <div class="l-container">
+    <div class="hero-profile">
+      <div class="hero-profile__info">
+                  <h2 class="hero-profile__custom-title hero-profile__name">Боец дня</h2>                          <div class="hero-profile__tags">
+                                          <p class="hero-profile__tag">#3 Средний вес</p>
+                                                        <p class="hero-profile__tag">Действующий боец UFC</p>
+                                    </div>
+                          <p class="hero-profile__nickname">&quot;Tarzan&quot;</p>
+                          <h3 class="hero-profile__name">Шон Стрикланд</h3>
+                          <div class="hero-profile__division">
+            <p class="hero-profile__division-title">Средний вес</p>
+            <p class="hero-profile__division-body">29-7-0 (W-L-D)</p>
+          </div>
+                          <div class="hero-profile__stats">
+                          <div class="hero-profile__stat">
+                <p
+                  class="hero-profile__stat-numb">11</p>
+                <p class="hero-profile__stat-text">Победы нокаутами</p>
+              </div>
+                          <div class="hero-profile__stat">
+                <p
+                  class="hero-profile__stat-numb">4</p>
+                <p class="hero-profile__stat-text">Победы приёмами</p>
+              </div>
+                          <div class="hero-profile__stat">
+                <p
+                  class="hero-profile__stat-numb">9</p>
+                <p class="hero-profile__stat-text">Финиши в первом раунде</p>
+              </div>
+                      </div>
+              </div>
+              <div class="hero-profile__image-wrap">
+          <img src="https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/5/STRICKLAND_SEAN_L_06-01.png?itok=S_BauaBm" alt="Шон Стрикланд" class="hero-profile__image">
+        </div>
+                          <div class="lf-block">
+          <div class="lf-block__header">
+            <div class="lf-block__text">
+              <div class="lf-block__text-info">
+                <p class="lf-block__text-title">Последний бой</p>
+                <p class="lf-block__text-date">09.02.25</p>
+              </div>
+              <p class="lf-block__title">Дю Плесси
+                <span>vs</span> Стрикланд</p>
+            </div>
+            <div class="lf-block__matchup">
+              <div class="lf-block__red-image">
+                
+            <div class="field field--name-image field--type-entity-reference field--label-hidden field__item"><div>
+  
+      <img src="https://ufc.com/images/styles/event_results_athlete_headshot/s3/2024-01/DU_PLESSIS_DRICUS_01-20.png?itok=0F4FMpTQ" width="256" height="160" alt="Dricus Du Plessis" loading="lazy" class="image-style-event-results-athlete-headshot" />
+
+
+
+
+</div>
+</div>
+      
+              </div>
+              <div class="lf-block__blue-image">
+                
+            <div class="field field--name-image field--type-entity-reference field--label-hidden field__item"><div>
+  
+      <img src="https://ufc.com/images/styles/event_results_athlete_headshot/s3/image/2026-02/STRICKLAND_SEAN_02-08.png?itok=Sl-a4RQI" width="256" height="160" alt="UFC middleweight Sean Strickland headshot" loading="lazy" class="image-style-event-results-athlete-headshot" />
+
+
+
+
+</div>
+</div>
+      
+              </div>
+            </div>
+            <div class="lf-block__logo">
+              
+                                                                  
+              <div class="svg-dca9437b51346938815809486ba4d554 e-event-logo--light"><?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 250 250"><defs><style>.svg-dca9437b51346938815809486ba4d554 .cls-1 {fill: none;}
+.svg-dca9437b51346938815809486ba4d554 .cls-2 {clip-path: url("#clippath-1");}
+.svg-dca9437b51346938815809486ba4d554 .cls-3, .svg-dca9437b51346938815809486ba4d554 .cls-4 {fill: #292724;}
+.svg-dca9437b51346938815809486ba4d554 .cls-4 {fill-rule: evenodd;}
+.svg-dca9437b51346938815809486ba4d554 .cls-5 {clip-path: url("#clippath");}</style><clipPath id="clippath"><rect class="cls-1" x="-197.72" y="-151.87" width="645.44" height="553.74"/></clipPath><clipPath id="clippath-1"><rect class="cls-1" x="-197.72" y="-151.87" width="645.44" height="553.74"/></clipPath></defs><!-- Generator: Adobe Illustrator 28.7.1, SVG Export Plug-In . SVG Version: 1.2.0 Build 142)  --><g><g id="Layer_1"><g class="cls-5"><g class="cls-2"><path class="cls-3" d="M135.7,193.23l1.24-4.99c.85-3.87,0-5.34-3.1-5.34h-7.91l2.01-8.09h6.82c3.18,0,4.88-1.55,5.89-5.34l1.01-4.05c.93-3.87-.08-5.34-3.18-5.34h-5.12c-3.57,0-5.04,1.12-6.2,5.34l-.78,3.01h-9.15l.93-3.7c2.09-8.78,6.2-13.08,15.43-13.08h8.84c7.44,0,10.62,4.82,8.68,12.48l-1.32,5.08c-1.24,5.08-3.57,7.92-7.21,9.29,3.33,1.38,4.96,4.3,3.57,9.73l-1.47,6.03c-2.02,7.66-6.12,12.48-14.96,12.48h-11.32c-7.83,0-11.16-4.3-8.91-13.08l1.01-3.96h9.22l-.93,3.53c-1.01,4.22.08,5.08,3.57,5.08h7.6c3.1,0,4.88-1.29,5.74-5.08"/><polygon class="cls-3" points="165.62 162.33 158.34 165.43 160.82 155.36 168.18 152.09 177.33 152.09 163.84 206.31 154.62 206.31 165.62 162.33"/><path class="cls-3" d="M189.66,179.46l15.5-5.42c1.71-.69,2.79-1.72,3.26-3.53l1.39-5.85c.93-3.44-.08-4.99-3.64-4.99h-4.57c-3.49,0-5.19,1.55-6.12,4.99l-.85,3.61h-9.23l1.09-4.3c1.94-7.83,6.28-12.65,15.35-12.65h8.37c7.83,0,11.01,4.82,8.99,12.65l-1.71,6.71c-1.55,6.2-5.04,9.81-10.77,11.79l-15.58,5.42c-1.71.6-2.71,1.72-3.18,3.44l-1.47,6.2h24.88l-2.17,8.78h-34.19l3.8-15.15c1.55-6.2,5.12-9.81,10.85-11.71"/><polygon class="cls-3" points="170.09 63.16 110.2 63.16 115.17 43.26 175.06 43.26 170.09 63.16"/><polygon class="cls-3" points="129.51 96.77 161.69 96.77 166.66 76.87 106.78 76.87 92.58 133.71 120.28 133.71 129.51 96.77"/><path class="cls-4" d="M197.42,113.14c-.73-.46-1.18-1.07-1.36-1.83-.05-.23-.07-.46-.06-.7.01-.21.04-.44.1-.66l10.85-43.43c.31-1.27.86-2.13,1.65-2.61.79-.49,2.14-.74,4.09-.74h29.91l4.97-19.9h-41.94c-7.64,0-12.97,1.01-16.07,2.92-3.1,1.91-5.25,5.3-6.49,10.28l-15.48,61.93c-.24.92-.36,1.84-.41,2.71-.05.96.05,1.86.24,2.76.72,3.02,2.48,5.41,5.35,7.21,2.82,1.75,6.35,2.65,10.56,2.65h43.9l4.97-19.9h-32.08c-1.07,0-1.97-.23-2.69-.67"/><path class="cls-4" d="M31.93,43.26L13.16,118.38c-.24.92-.36,1.84-.41,2.71-.05.96.05,1.86.24,2.76.72,3.02,2.48,5.41,5.35,7.21,2.82,1.75,6.35,2.65,10.56,2.65h31.22c7.64,0,12.97-1.01,16.07-2.93,3.1-1.91,5.25-5.3,6.49-10.28l19.3-77.25h-27.7l-16.79,67.2c-.32,1.27-.86,2.13-1.65,2.62-.79.49-2.14.74-4.09.74h-4.77c-1.07,0-1.97-.23-2.69-.67-.73-.46-1.18-1.07-1.36-1.83-.05-.23-.07-.46-.06-.7.01-.21.04-.44.1-.66l16.65-66.69h-27.7Z"/><polygon class="cls-3" points="108.73 151.74 4.92 151.75 2.43 161.7 106.24 161.69 108.73 151.74"/></g></g></g></g></svg></div>          
+            </div>
+          </div>
+          <div class="lf-block__stats">
+                          <div class="lf-block__stat">
+                <div class="lf-block__stat-header">
+                  <p>149 (47%)                                      </p>
+                  <p
+                    class="lf-block__stat-title">Всего ударов</p>
+                  <p>128 (49%)                    </p>
+                </div>
+                <div class="lf-block__stat-bars">
+                  <div class="lf-block__stat-bar lf-block__stat-bar--red"
+                       style="width: 54%"></div>
+                  <div class="lf-block__stat-bar lf-block__stat-bar--blue"
+                       style="width: 46%"></div>
+                </div>
+              </div>
+                          <div class="lf-block__stat">
+                <div class="lf-block__stat-header">
+                  <p>1 (50%)                    из 2                  </p>
+                  <p
+                    class="lf-block__stat-title">Тейкдаунов</p>
+                  <p>0                     </p>
+                </div>
+                <div class="lf-block__stat-bars">
+                  <div class="lf-block__stat-bar lf-block__stat-bar--red"
+                       style="width: 100%"></div>
+                  <div class="lf-block__stat-bar lf-block__stat-bar--blue"
+                       style="width: 0%"></div>
+                </div>
+              </div>
+                          <div class="lf-block__stat">
+                <div class="lf-block__stat-header">
+                  <p>147                                       </p>
+                  <p
+                    class="lf-block__stat-title">АКЦ. ударов</p>
+                  <p>128                     </p>
+                </div>
+                <div class="lf-block__stat-bars">
+                  <div class="lf-block__stat-bar lf-block__stat-bar--red"
+                       style="width: 53%"></div>
+                  <div class="lf-block__stat-bar lf-block__stat-bar--blue"
+                       style="width: 47%"></div>
+                </div>
+              </div>
+                          <div class="lf-block__stat">
+                <div class="lf-block__stat-header">
+                  <p>0                                       </p>
+                  <p
+                    class="lf-block__stat-title">Нокдаунов</p>
+                  <p>0                     </p>
+                </div>
+                <div class="lf-block__stat-bars">
+                  <div class="lf-block__stat-bar lf-block__stat-bar--red"
+                       style="width: 0%"></div>
+                  <div class="lf-block__stat-bar lf-block__stat-bar--blue"
+                       style="width: 0%"></div>
+                </div>
+              </div>
+                      </div>
+                      <div class="lf-block__view-more-wrap">
+              <a href="/athlete/shon-strikland#athlete-record"
+                 class="lf-block__view-more button-landing-color">
+                <span>Другие бои</span>
+              </a>
+            </div>
+                  </div>
+          </div>
+  </div>
+</div>
+  
+
+  <div class="view view-eva view-athlete-articles view-id-athlete_articles view-display-id-entity_view_2 js-view-dom-id-5efc36703cc79065b9c032a4cca590c5295090044e9e5dfcde867fa25681fcac">
+  
+    
+
+  
+  
+
+  
+
+                        
+
+<div class="l-container--landing carousel-athlete">
+  <div class="l-container__content">
+    
+
+
+<div class="c-carousel-wrapper c-carousel--landing-athlete">
+
+  
+      
+      <div class="carousel-section-title-wrap carousel-section-title-wrap--landing-athlete">
+      <h2 class="c-carousel__title--landing-athlete">Последние новости</h2>
+    </div>
+  
+  <div class="c-carousel--landing-athlete__content carousel__custom" data-carousel="custom"
+        data-carousel-settings="&#x7B;&quot;slidesToShow&quot;&#x3A;3.3,&quot;slidesToScroll&quot;&#x3A;1,&quot;autoplay&quot;&#x3A;false,&quot;arrows&quot;&#x3A;true,&quot;dots&quot;&#x3A;false,&quot;infinite&quot;&#x3A;false,&quot;responsive&quot;&#x3A;&#x5B;&#x7B;&quot;breakpoint&quot;&#x3A;1024,&quot;settings&quot;&#x3A;&#x7B;&quot;slidesToShow&quot;&#x3A;2.2,&quot;slidesToScroll&quot;&#x3A;1&#x7D;&#x7D;,&#x7B;&quot;breakpoint&quot;&#x3A;768,&quot;settings&quot;&#x3A;&#x7B;&quot;slidesToShow&quot;&#x3A;1.15,&quot;slidesToScroll&quot;&#x3A;1&#x7D;&#x7D;&#x5D;&#x7D;"
+    >
+                      <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/rezultaty-i-bonusy-ufc-312-dyu-plessi-vs-strikland-2" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2025-02/020825-dricus-ufc-312-GettyImages-2198477657.jpg?h=fb7e00ad&amp;itok=D1YT6JQq 1x, https://ufc.com/images/styles/346x260_2/s3/2025-02/020825-dricus-ufc-312-GettyImages-2198477657.jpg?h=fb7e00ad&amp;itok=4E8X8ITs 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2025-02/020825-dricus-ufc-312-GettyImages-2198477657.jpg?h=fb7e00ad&amp;itok=AO8aV90k 1x, https://ufc.com/images/styles/613x460_2/s3/2025-02/020825-dricus-ufc-312-GettyImages-2198477657.jpg?h=fb7e00ad&amp;itok=P0ecIewk 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2025-02/020825-dricus-ufc-312-GettyImages-2198477657.jpg?h=fb7e00ad&amp;itok=C3TO9FJW 1x, https://ufc.com/images/styles/312x234_2/s3/2025-02/020825-dricus-ufc-312-GettyImages-2198477657.jpg?h=fb7e00ad&amp;itok=_uHr-uek 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2025-02/020825-dricus-ufc-312-GettyImages-2198477657.jpg?h=fb7e00ad&amp;itok=C3TO9FJW" width="312" height="234" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Результаты
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">1 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-145571">
+            
+<span>Результаты и бонусы UFC 312: Дю Плесси vs Стрикланд 2</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Дрикус Дю Плесси победил Шона Стрикланда, Вейли Жанг победила Татьяну Суарез, Александр Топурия успешно дебютировал в UFC и другие результаты UFC 312.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/ufc-312-dyu-plessi-vs-strikland-2-rezultaty-vzveshivaniya-bitvy-vzglyadov" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2025-02/020825-UFC-312-WEIGH-In-Hero.jpg?h=d1cb525d&amp;itok=BtZzAugu 1x, https://ufc.com/images/styles/346x260_2/s3/2025-02/020825-UFC-312-WEIGH-In-Hero.jpg?h=d1cb525d&amp;itok=LgMDyO4w 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2025-02/020825-UFC-312-WEIGH-In-Hero.jpg?h=d1cb525d&amp;itok=UOUmw5rr 1x, https://ufc.com/images/styles/613x460_2/s3/2025-02/020825-UFC-312-WEIGH-In-Hero.jpg?h=d1cb525d&amp;itok=58ojvbdC 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2025-02/020825-UFC-312-WEIGH-In-Hero.jpg?h=d1cb525d&amp;itok=Cx5EfR_D 1x, https://ufc.com/images/styles/312x234_2/s3/2025-02/020825-UFC-312-WEIGH-In-Hero.jpg?h=d1cb525d&amp;itok=bMVnldd9 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2025-02/020825-UFC-312-WEIGH-In-Hero.jpg?h=d1cb525d&amp;itok=Cx5EfR_D" width="312" height="234" alt="Champions Dricus Du Plessis and Zhang Weili" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Турниры
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">1 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-145516">
+            
+<span>UFC 312: Дю Плесси vs Стрикланд 2 – результаты взвешивания + битвы взглядов</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Дрикус Дю Плесси и Шон Стрикланд показали одинаковый вес, Татьяна Суарез была незначительно легче Вейли Жанг и другие результаты взвешивания перед UFC 312.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/gde-smotret-ufc-312-dyu-plessi-vs-strikland-2" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2025-02/020825-Sean-Strickland-hero-GettyImages-2155666696.jpg?h=d1cb525d&amp;itok=gZFcwp0F 1x, https://ufc.com/images/styles/346x260_2/s3/2025-02/020825-Sean-Strickland-hero-GettyImages-2155666696.jpg?h=d1cb525d&amp;itok=WIWReclQ 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2025-02/020825-Sean-Strickland-hero-GettyImages-2155666696.jpg?h=d1cb525d&amp;itok=u8S3payM 1x, https://ufc.com/images/styles/613x460_2/s3/2025-02/020825-Sean-Strickland-hero-GettyImages-2155666696.jpg?h=d1cb525d&amp;itok=cGtWxj4b 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2025-02/020825-Sean-Strickland-hero-GettyImages-2155666696.jpg?h=d1cb525d&amp;itok=IPLnwsEH 1x, https://ufc.com/images/styles/312x234_2/s3/2025-02/020825-Sean-Strickland-hero-GettyImages-2155666696.jpg?h=d1cb525d&amp;itok=7qF46SLY 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2025-02/020825-Sean-Strickland-hero-GettyImages-2155666696.jpg?h=d1cb525d&amp;itok=IPLnwsEH" width="312" height="234" alt="Sean Strickland prepares to face Paulo Costa of Brazil in a middleweight fight during the UFC 302 event at Prudential Center on June 01, 2024 in Newark, New Jersey" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Анонсы
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">1 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-145503">
+            
+<span>Где смотреть UFC 312: Дю Плесси vs Стрикланд 2</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Дрикус Дю Плесси - Шон Стрикланд 2, Вейли Жанг - Татьяна Суарез, Вячеслав Борщёв - Том Нолан -&nbsp;где смотреть прямой эфир бесплатно онлайн: информация о трансляции UFC 312.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/video/145501" class="c-card" data-modal-callback="/ajax/modal/node/145501"    data-video-meta-type="vod" data-locale="en">
+
+    
+  <div class="c-card__media">
+          <i class="video-lock-icon"></i>
+                  
+            <div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2025-02/GettyImages-2197919755.jpg?h=69f2b9d0&amp;itok=9L2T1vpe 1x, https://ufc.com/images/styles/346x260_2/s3/2025-02/GettyImages-2197919755.jpg?h=69f2b9d0&amp;itok=dXlRcI6m 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2025-02/GettyImages-2197919755.jpg?h=69f2b9d0&amp;itok=vbhGtskc 1x, https://ufc.com/images/styles/613x460_2/s3/2025-02/GettyImages-2197919755.jpg?h=69f2b9d0&amp;itok=oE2EeyJv 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2025-02/GettyImages-2197919755.jpg?h=69f2b9d0&amp;itok=gOQhIjm3 1x, https://ufc.com/images/styles/312x234_2/s3/2025-02/GettyImages-2197919755.jpg?h=69f2b9d0&amp;itok=kHXIQXBm 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2025-02/GettyImages-2197919755.jpg?h=69f2b9d0&amp;itok=gOQhIjm3" width="312" height="234" alt="Sean Strickland, UFC CEO Dana White, and Dricus Du Plessis of South Africa are seen on stage during the UFC 312 press conference at Qudos Bank Arena on February 06, 2025 in Sydney, Australia. (Photo by Jeff Bottari/Zuffa LLC)" />
+
+  </picture>
+
+
+
+</div>
+
+      
+                              <div class="c-card__icon-big">
+            <svg class="e-icon__svg"><title>Play</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#play-text"></use></svg>
+          </div>
+                                <div class="c-card__icon">
+                      <svg class="e-icon__svg"><title>Video</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#video"></use></svg>
+                    <span class="e-p--small"></span>
+        </div>
+          
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              Турниры
+                          </span>
+                    <span class="c-card__info-suffix">
+  <div class="field field--name-datetime field--type-datetime field--label-visually_hidden">
+    <div class="field__label visually-hidden">Date</div>
+              <div class="field__item">1 year ago</div>
+          </div>
+</span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t4">
+            UFC 312: Пресс-конференция
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Главные герои UFC 312: Дю Плесси vs Стрикланд встретились лицом к лицу и ответили на вопросы СМИ за несколько дней до выхода в октагон!</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/ufc-302-pervye-slova-islama-makhacheva-dastina-pore-i-shona-striklanda" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2024-06/010624-islam-makhachev-GettyImages-2155672061.jpg?h=d1cb525d&amp;itok=YOkQO7VU 1x, https://ufc.com/images/styles/346x260_2/s3/2024-06/010624-islam-makhachev-GettyImages-2155672061.jpg?h=d1cb525d&amp;itok=CptEUAiU 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2024-06/010624-islam-makhachev-GettyImages-2155672061.jpg?h=d1cb525d&amp;itok=GSy39zNX 1x, https://ufc.com/images/styles/613x460_2/s3/2024-06/010624-islam-makhachev-GettyImages-2155672061.jpg?h=d1cb525d&amp;itok=E-1IWn_C 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2024-06/010624-islam-makhachev-GettyImages-2155672061.jpg?h=d1cb525d&amp;itok=_ZmV0ZZT 1x, https://ufc.com/images/styles/312x234_2/s3/2024-06/010624-islam-makhachev-GettyImages-2155672061.jpg?h=d1cb525d&amp;itok=GXglfZDB 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2024-06/010624-islam-makhachev-GettyImages-2155672061.jpg?h=d1cb525d&amp;itok=_ZmV0ZZT" width="312" height="234" alt="Islam Makhachev fala no Octógono após a vitória sobre Dustin Poirier no UFC 302, em junho de 2024. (Jeff Bottari/Zuffa LLC)" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Бойцы
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">1 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-139643">
+            
+<span>UFC 302: Первые слова Ислама Махачева, Дастина Порье и Шона Стрикланда</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Первые слова главных героев UFC 302 - Ислама Махачева, Дастина Порье и Шона Стрикланда - после ярких поединков и побед на турнире в Ньюарке.&nbsp;</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/rezultaty-i-bonusy-ufc-302-makhachev-vs-pore" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2024-06/060124-dustin-poirier-GettyImages-2155670461_0.jpg?h=199d8c1f&amp;itok=XjPz4_JV 1x, https://ufc.com/images/styles/346x260_2/s3/2024-06/060124-dustin-poirier-GettyImages-2155670461_0.jpg?h=199d8c1f&amp;itok=K7f-7uYo 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2024-06/060124-dustin-poirier-GettyImages-2155670461_0.jpg?h=199d8c1f&amp;itok=8VBm5uAW 1x, https://ufc.com/images/styles/613x460_2/s3/2024-06/060124-dustin-poirier-GettyImages-2155670461_0.jpg?h=199d8c1f&amp;itok=HFg-yVS3 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2024-06/060124-dustin-poirier-GettyImages-2155670461_0.jpg?h=199d8c1f&amp;itok=7JBxqQpJ 1x, https://ufc.com/images/styles/312x234_2/s3/2024-06/060124-dustin-poirier-GettyImages-2155670461_0.jpg?h=199d8c1f&amp;itok=kov8fR_v 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2024-06/060124-dustin-poirier-GettyImages-2155670461_0.jpg?h=199d8c1f&amp;itok=7JBxqQpJ" width="312" height="234" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Результаты
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">1 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-139619">
+            
+<span>Результаты и бонусы UFC 302: Махачев vs Порье</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Ислам Махачев задушил Дастина Порье, Шон Стрикланд победил Пауло Косту, Роман Копылов победил Цезара Алмейду и другие результаты турнира UFC 302.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/video/139575" class="c-card" data-modal-callback="/ajax/modal/node/139575"    data-video-meta-type="vod" data-locale="en">
+
+    
+  <div class="c-card__media">
+          <i class="video-lock-icon"></i>
+                  
+            <div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2024-05/GettyImages-2155341263.jpg?h=a3133557&amp;itok=_w21_Fts 1x, https://ufc.com/images/styles/346x260_2/s3/2024-05/GettyImages-2155341263.jpg?h=a3133557&amp;itok=M_QSfjpt 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2024-05/GettyImages-2155341263.jpg?h=a3133557&amp;itok=YV_jHUzL 1x, https://ufc.com/images/styles/613x460_2/s3/2024-05/GettyImages-2155341263.jpg?h=a3133557&amp;itok=QRZZtqgQ 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2024-05/GettyImages-2155341263.jpg?h=a3133557&amp;itok=UZK_4xzv 1x, https://ufc.com/images/styles/312x234_2/s3/2024-05/GettyImages-2155341263.jpg?h=a3133557&amp;itok=QM9JUsjQ 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2024-05/GettyImages-2155341263.jpg?h=a3133557&amp;itok=UZK_4xzv" width="312" height="234" alt="Islam Makhachev of Russia and Dustin Poirier face off during the UFC 302 press conference at Prudential Center on May 30, 2024 in Newark, New Jersey. (Photo by Jeff Bottari/Zuffa LLC)" />
+
+  </picture>
+
+
+
+</div>
+
+      
+                              <div class="c-card__icon-big">
+            <svg class="e-icon__svg"><title>Play</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#play-text"></use></svg>
+          </div>
+                                <div class="c-card__icon">
+                      <svg class="e-icon__svg"><title>Video</title><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#video"></use></svg>
+                    <span class="e-p--small"></span>
+        </div>
+          
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              Турниры
+                          </span>
+                    <span class="c-card__info-suffix">
+  <div class="field field--name-datetime field--type-datetime field--label-visually_hidden">
+    <div class="field__label visually-hidden">Date</div>
+              <div class="field__item">1 year ago</div>
+          </div>
+</span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t4">
+            UFC 302: Пресс-конференция
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Главные герои UFC 302: Махачев vs Порье встретились лицом к лицу и ответили на вопросы СМИ за несколько дней до выхода в октагон!&nbsp;</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/ufc-302-makhachev-vs-pore-rezultaty-vzveshivaniya-bitvy-vzglyadov" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/image/2024-05/GettyImages-1435299387.jpg?h=d1cb525d&amp;itok=_pO1x-RU 1x, https://ufc.com/images/styles/346x260_2/s3/image/2024-05/GettyImages-1435299387.jpg?h=d1cb525d&amp;itok=OhVY2d57 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/image/2024-05/GettyImages-1435299387.jpg?h=d1cb525d&amp;itok=Sv6wyqIo 1x, https://ufc.com/images/styles/613x460_2/s3/image/2024-05/GettyImages-1435299387.jpg?h=d1cb525d&amp;itok=DdWl4UcT 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/image/2024-05/GettyImages-1435299387.jpg?h=d1cb525d&amp;itok=is2w8czl 1x, https://ufc.com/images/styles/312x234_2/s3/image/2024-05/GettyImages-1435299387.jpg?h=d1cb525d&amp;itok=zCWzIxk2 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/image/2024-05/GettyImages-1435299387.jpg?h=d1cb525d&amp;itok=is2w8czl" width="312" height="234" alt=" Islam Makhachev of Russia poses on the scale during the UFC 280 ceremonial weigh-in at Etihad Arena on October 21, 2022 in Abu Dhabi, United Arab Emirates. (Photo by Chris Unger/Zuffa LLC)" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Турниры
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">1 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-139555">
+            
+<span>UFC 302: Махачев vs Порье – результаты взвешивания + битвы взглядов</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Ислам Махачев и Дастин Порье показали одинаковый вес, Александр Романов оказался тяжелее Жаилтона Алмейдыч почти на 11 кг и другие результаты взвешивания перед UFC 302.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/gde-smotret-ufc-302-makhachev-vs-pore" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2024-05/060124-ufc-302-makhachev-vs-poirier-EVENT-ART.jpg?h=d1cb525d&amp;itok=Ny9knKzE 1x, https://ufc.com/images/styles/346x260_2/s3/2024-05/060124-ufc-302-makhachev-vs-poirier-EVENT-ART.jpg?h=d1cb525d&amp;itok=Lp-oGswP 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2024-05/060124-ufc-302-makhachev-vs-poirier-EVENT-ART.jpg?h=d1cb525d&amp;itok=zIDR2NjJ 1x, https://ufc.com/images/styles/613x460_2/s3/2024-05/060124-ufc-302-makhachev-vs-poirier-EVENT-ART.jpg?h=d1cb525d&amp;itok=_TWAcbQJ 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2024-05/060124-ufc-302-makhachev-vs-poirier-EVENT-ART.jpg?h=d1cb525d&amp;itok=DHJs8lCW 1x, https://ufc.com/images/styles/312x234_2/s3/2024-05/060124-ufc-302-makhachev-vs-poirier-EVENT-ART.jpg?h=d1cb525d&amp;itok=NUIwZ7kq 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2024-05/060124-ufc-302-makhachev-vs-poirier-EVENT-ART.jpg?h=d1cb525d&amp;itok=DHJs8lCW" width="312" height="234" alt="Don&#039;t Miss A Moment Of UFC 302: Makhachev vs Poirier, Live From Prudential Center In Newark, New Jersey On June 1, 2024 " />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Анонсы
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">1 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-139302">
+            
+<span>Где смотреть UFC 302: Махачев vs Порье</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Махачев - Порье, Стрикланд - Коста, Романов - Алмейда, где смотреть бесплатно онлайн, прямая трансляция UFC 302, во сколько начнётся UFC 302,полная информация о трансляции UFC 302.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/ufc-296-pervye-slova-drikusa-dyu-plessi-shona-striklanda-i-movsara-evloeva-posle-turnira" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2024-01/UFC_JB_2024-01-20_0470_resized.JPG?h=e5aec6c8&amp;itok=6bUrs8Gd 1x, https://ufc.com/images/styles/346x260_2/s3/2024-01/UFC_JB_2024-01-20_0470_resized.JPG?h=e5aec6c8&amp;itok=dEGl_e1O 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2024-01/UFC_JB_2024-01-20_0470_resized.JPG?h=e5aec6c8&amp;itok=tAC8DLju 1x, https://ufc.com/images/styles/613x460_2/s3/2024-01/UFC_JB_2024-01-20_0470_resized.JPG?h=e5aec6c8&amp;itok=xeGF6UGE 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2024-01/UFC_JB_2024-01-20_0470_resized.JPG?h=e5aec6c8&amp;itok=BL2ovvVb 1x, https://ufc.com/images/styles/312x234_2/s3/2024-01/UFC_JB_2024-01-20_0470_resized.JPG?h=e5aec6c8&amp;itok=G42kuBms 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2024-01/UFC_JB_2024-01-20_0470_resized.JPG?h=e5aec6c8&amp;itok=BL2ovvVb" width="312" height="234" alt="Movsar Evloev Reacts With DC After His Victory Over Arnold Allen At UFC 297 on January 20, 2024" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Бойцы
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">2 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-136220">
+            
+<span>UFC 296: Первые слова Дрикуса Дю Плесси, Шона Стрикланда и Мовсара Евлоева после турнира</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Первые слова главных героев UFC 297 - Дрикуса Дю Плесси, Шона Стрикланда и Пэдди Мовсара Евлоева - после ярких поединков на турнире в Торонто.&nbsp;</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/rezultaty-i-bonusy-ufc-297-strikland-vs-dyu-plessi" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/2024-01/012023-dricus-du-plessis-ufc-297-GettyImages-1949056070.jpg?h=e27dfcf5&amp;itok=dkzFmyXw 1x, https://ufc.com/images/styles/346x260_2/s3/2024-01/012023-dricus-du-plessis-ufc-297-GettyImages-1949056070.jpg?h=e27dfcf5&amp;itok=7B1rSmBd 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/2024-01/012023-dricus-du-plessis-ufc-297-GettyImages-1949056070.jpg?h=e27dfcf5&amp;itok=VROg4Gk_ 1x, https://ufc.com/images/styles/613x460_2/s3/2024-01/012023-dricus-du-plessis-ufc-297-GettyImages-1949056070.jpg?h=e27dfcf5&amp;itok=5aD5ZjPa 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/2024-01/012023-dricus-du-plessis-ufc-297-GettyImages-1949056070.jpg?h=e27dfcf5&amp;itok=EIRnmc_q 1x, https://ufc.com/images/styles/312x234_2/s3/2024-01/012023-dricus-du-plessis-ufc-297-GettyImages-1949056070.jpg?h=e27dfcf5&amp;itok=7DH-y_sL 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/2024-01/012023-dricus-du-plessis-ufc-297-GettyImages-1949056070.jpg?h=e27dfcf5&amp;itok=EIRnmc_q" width="312" height="234" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Результаты
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">2 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-136206">
+            
+<span>Результаты и бонусы UFC 297: Стрикланд vs Дю Плесси</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Дрикус Дю Плесси победил Шона Стрикланда, Ракэль Пеннингтон победила Майру Буэно Силву, Мовсар Евлоев победил Арнольда Аллена и другие результаты турнира UFC 297.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                            <div class="c-carousel__item">
+                            
+
+
+
+<a href="/news/ufc-297-strikland-vs-dyu-plessi-rezultaty-vzveshivaniya-bitvy-vzglyadov" class="c-card"    >
+
+    
+  <div class="c-card__media">
+                  
+            <div class="field field--name-thumbnail field--type-entity-reference field--label-hidden field__item"><div>
+  
+        <picture>
+                  <source srcset="https://ufc.com/images/styles/346x260_1/s3/image/2024-01/GettyImages-1406276889.jpg?h=d1cb525d&amp;itok=T4Ne8ouD 1x, https://ufc.com/images/styles/346x260_2/s3/image/2024-01/GettyImages-1406276889.jpg?h=d1cb525d&amp;itok=MH0Rj6Lh 2x" media="(min-width: 768px)" type="image/jpeg" width="346" height="260"/>
+              <source srcset="https://ufc.com/images/styles/613x460_1/s3/image/2024-01/GettyImages-1406276889.jpg?h=d1cb525d&amp;itok=h15FgZQ5 1x, https://ufc.com/images/styles/613x460_2/s3/image/2024-01/GettyImages-1406276889.jpg?h=d1cb525d&amp;itok=mmGBvdYl 2x" media="(min-width: 390px)" type="image/jpeg" width="613" height="460"/>
+              <source srcset="https://ufc.com/images/styles/312x234_1/s3/image/2024-01/GettyImages-1406276889.jpg?h=d1cb525d&amp;itok=3kYdzcO0 1x, https://ufc.com/images/styles/312x234_2/s3/image/2024-01/GettyImages-1406276889.jpg?h=d1cb525d&amp;itok=pY4Y6xNP 2x" media="(min-width: 0)" type="image/jpeg" width="312" height="234"/>
+                  <img loading="eager" src="https://ufc.com/images/styles/312x234_1/s3/image/2024-01/GettyImages-1406276889.jpg?h=d1cb525d&amp;itok=3kYdzcO0" width="312" height="234" alt="Sean Strickland poses on the scale during the UFC 276 ceremonial weigh-in at T-Mobile Arena on July 01, 2022 in Las Vegas, Nevada. (Photo by Mike Roach/Zuffa LLC)" />
+
+  </picture>
+
+
+
+</div>
+</div>
+      
+                
+        
+        
+
+  </div> 
+        <div class="c-card__allinfo">
+
+              <div class="c-card__info">
+                      <span class="c-card__info-prefix">
+                              
+      
+              Турниры
+          
+  
+                          </span>
+                    <span class="c-card__info-suffix">
+            <div class="field field--name-datetime field--type-datetime field--label-hidden field__item">2 year ago</div>
+      </span>        </div>
+      
+              <div class="c-card__headline">
+                    <h3 class="e-t3" id="n-136117">
+            
+<span>UFC 297: Стрикланд vs Дю Плесси – результаты взвешивания + битвы взглядов</span>
+
+          </h3>
+        </div>
+      
+    </div>
+  
+      <div class="c-card__body e-p--small">
+      
+            <div class="field field--name-teaser field--type-text-long field--label-hidden field__item"><p>Шон Стрикланд оказался тяжелее Дрикуса Дю Плесси, Арнольд Аллен был легче Мовсара Евлоева&nbsp;и другие результаты взвешивания перед UFC 297.</p>
+</div>
+      
+    </div>
+  
+  
+</a>
+
+
+              </div>
+                                </div>
+
+    
+  </div>
+  </div>
+</div>
+
+  
+  
+
+  
+  
+
+  
+  </div>
+
+
+
+
+
+
+</div>
+              <div class="field__item">
+
+
+
+<div class="lps l-container--paragraph-fullwidth-ga  l-container--landing lps-p-top lps-p-bottom">
+        <div class="l-container__content">
+      
+            <div class="field field--name-fullwidth-dfp-ad field--type-entity-reference field--label-hidden field__item">
+          <div class="freestar-slot-definition">
+      <!-- Tag ID: ufc-com_homepage-banner -->
+<div align="center" data-freestar-ad="__360x360 __1220x305" id="ufc-ru_homepage-banner-1220-305">
+  <script data-cfasync="false" type="text/javascript">
+    freestar.config.enabled_slots.push({ placementName: "ufc-ru_homepage-banner-1220-305", slotId: "ufc-ru_homepage-banner-1220-305" });
+  </script>
+</div>
+    </div>
+    </div>
+      
+    </div>
+  
+</div>
+</div>
+              <div class="field__item">
+
+
+
+
+
+<div class="lps l-container--paragraph-cta lps--last l-container--landing lps-p-top lps-p-bottom">
+    <div class="l-container__content">
+    <div class="paragraph-cta-wrap">
+                        <a class="e-button--white" href="https://www.ufc.ru/trending/all"><span
+              class="e-button__text">Больше новостей</span></a>
+                  </div>
+  </div>
+
+</div>
+</div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+
+          </div>
+
+        
+    
+          <div class="l-page__footer">
+        
+
+<footer class="c-site-footer" role="contentinfo">
+  <div class="c-site-footer__main">
+    <a class="c-site-footer__logo" href="/">
+      <svg>
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#ufc-logo"></use>
+      </svg>
+    </a>
+    
+<div id="block-ufc-localization">
+  
+    
+      
+
+<div class="ufc-block-localization__title e-t6">
+  <div class="block-ufc-localization-title">Евразия</div>
+  <svg>
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="/themes/custom/ufc/assets/svg/sprite-ui.svg#triangle-down"></use>
+  </svg>
+
+</div>
+
+<div class="ufc-block-localization__links" aria-hidden="true">
+  <ul class="links"><li><a href="https://www.ufc.com/language/switch/en">English</a></li><li><a href="https://kr.ufc.com">Korea</a></li><li><a href="https://www.ufcespanol.com">Latin America</a></li><li><a href="https://us.ufcespanol.com">USA Espanol</a></li><li><a href="https://www.ufc.com.br">Бразилия</a></li><li><a href="http://ufc.cn">Китай</a></li><li><a href="https://www.ufc.com/language/switch/fr">Франция</a></li><li><a href="http://jp.ufc.com">Япония</a></li></ul>
+</div>
+  </div>
+
+    <nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="c-menu-footer">
+            
+  <h2 class="u-visually--hidden" id="block-footer-menu">Footer</h2>
+
+  
+                          <ul class="c-menu-footer__menu--level-1">
+                            <li class="c-menu-footer__item--level-1">
+          <a href="/about" target="_self" class="c-menu-footer__link--level-1" data-drupal-link-system-path="node/7258">О UFC </a>
+                                            <ul class="c-menu-footer__menu--level-2">
+                            <li class="c-menu-footer__item--level-2">
+          <a href="/about/sport" target="_self" class="c-menu-footer__link--level-2" data-drupal-link-system-path="node/7260">Про ММА</a>
+                  </li>
+                      <li class="c-menu-footer__item--level-2">
+          <a href="/foundation" target="_self" class="c-menu-footer__link--level-2" data-drupal-link-system-path="node/134016">Социальная ответственность</a>
+                  </li>
+                      <li class="c-menu-footer__item--level-2">
+          <a href="https://ufc.com/careers" target="_self" class="c-menu-footer__link--level-2">Вакансии</a>
+                  </li>
+                      <li class="c-menu-footer__item--level-2">
+          <a href="https://ufcstorerussia.ru/?utm_source=ufc" target="_blank" class="c-menu-footer__link--level-2">Магазин</a>
+                  </li>
+            </ul>
+      
+                  </li>
+                      <li class="c-menu-footer__item--level-1">
+          <a href="/faq" target="_self" class="c-menu-footer__link--level-1" data-drupal-link-system-path="node/90551">КОНТАКТЫ</a>
+                                            <ul class="c-menu-footer__menu--level-2">
+                            <li class="c-menu-footer__item--level-2">
+          <a href="https://access.ufc.com/media_users/sign_in" target="_self" class="c-menu-footer__link--level-2">Пресс-центр</a>
+                  </li>
+            </ul>
+      
+                  </li>
+                      <li class="c-menu-footer__item--level-1">
+          <a href="/terms" target="_self" class="c-menu-footer__link--level-1" data-drupal-link-system-path="node/524">Юр. раздел</a>
+                                            <ul class="c-menu-footer__menu--level-2">
+                            <li class="c-menu-footer__item--level-2">
+          <a href="/terms" target="_self" class="c-menu-footer__link--level-2" data-drupal-link-system-path="node/524">Условия использования</a>
+                  </li>
+                      <li class="c-menu-footer__item--level-2">
+          <a href="/politika-konfidencialnosti" target="_self" class="c-menu-footer__link--level-2" data-drupal-link-system-path="node/525">Политика конфиденциальности</a>
+                  </li>
+            </ul>
+      
+                  </li>
+            </ul>
+      
+
+  
+</nav>
+
+  </div>
+  <div class="c-site-footer__copyright">
+    
+  </div>
+</footer>
+      </div>
+      </main>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/146987","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"ru"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxVkmGSgzAIhS9kzJEcFNRsMWQCseuefm20tv5heN8LA2QARBOIm4czaccs0Rpcya8BSZoEGaYMaVaPuSTg9kPaElPpOehM2CRhvp7sueMQH9ropkaL70GpKePgYUkOIvBmYdCLqEneXGLYKFc4QJaixDfhwGYmozustRXRStEcg1qkX3PXoNWcWHpgN6h-y59DzZRlL4wY4vQBKcsY-Gh3mm7KAW_g6uKeezys1-YOsySUZ6xooVjcAuFQCSY6k3fxYFCJBiM3itj5EVXPBHjoDlB9Jux6iPFEdW31772_2Sdtb_YYptkSqHooNksOf2BB6nAdywB8gr3V9OL1Fjpa-r3zGIhxNzRJ1LCSOw5lDfRUX2O7CBamfzXS6LA","theme":"ufc","theme_token":null},"ajaxTrustedUrl":[],"accountSettings":{"apiUrl":"https:\/\/dce-frontoffice.imggaming.com","realm":"dce.ufc","app":"dice-id","apiKey":"39d5cb34-799c-4967-8038-fc240bf2984b","loginText":"Unlock MORE of your inner combat sports fan with UFC Fight Pass! Fighting is what we live for. And no one brings you MORE live fights, new shows, and events across multiple combat sports from around the world. With a never-ending supply of fighting in every discipline, there`s always something new to watch. Leave it to the world`s authority in MMA to bring you the Ultimate 24\/7 platform for MORE combat sports, UFC Fight Pass!","ctaText":"Continue watching","ctaLink":"\/account\/login","createAccount":"\/account\/signup","heartbeatApiUrl":"https:\/\/guide.imggaming.com\/prod","hideAccountIcon":true,"hideAddressFields":false,"errorTextGeneral":"There was a problem while loading content. Please try again.","errorTextEntitlement":"Unlock MORE of your inner combat sports fan with UFC Fight Pass! Fighting is what we live for. And no one brings you MORE live fights, new shows, and events across multiple combat sports from around the world. With a never-ending supply of fighting in every discipline, there`s always something new to watch. Leave it to the world`s authority in MMA to bring you the Ultimate 24\/7 platform for MORE combat sports, UFC Fight Pass!","entitlementCtaText":"Upgrade licence","entitlementCtaLink":"\/account\/signup","settings":{"videoPreviewInfo":"videoPreviewInfo"}},"contentLocalization":"ru","cacheableGlobalsTimestamp":1771450578,"breakpoints":{"ufc.images.mobile":"","ufc.images.tablet":"(min-width: 700px)","ufc.images.desktop":"(min-width: 1024px)","ufc.images.extra-large":"(min-width: 1440px)"},"event_next":{"show_timer":true,"event_time":1771722000,"end_time":1771732800,"timer_start":1771462800,"logo":null,"url":"https:\/\/www.ufc.com\/event\/ufc-fight-night-october-11-2025"},"disableAnimationsUrlParam":"disableAnimations","disableAnimations":false,"user":{"uid":0,"permissionsHash":"d9628c1ec7ed49e46ac306fcf7f26805753ddcb187980d6b93bb48b00440ec27"}}</script>
+<script src="/sites/default/files/js/js_8zLYq1yqE6ExIzAStv7mo_z5ovZT3-t9wmsILWDUOSQ.js?scope=footer&amp;delta=0&amp;language=ru&amp;theme=ufc&amp;include=eJxVkmFyhSAMhC8kcqQ3USKmjYQhwVd7-lq0av8wyReW2axCCCaQNg9n0U9FknVhRb9SQOmyMPtQagbuf2vHlD61000NFz-AYlen0UeWAdiNqs_2o3UvCOoLhtcAKWFpaKI4WwZVD9VmKfQNRpLajGUEPsGuiyf3SoZuErH9jQwFYoE862XuIn1NuQ5MOmNoQoYUKEV3XXHv_WyjG40G3Ur4Vt_OfpFQ-VhuhCJVkf81DmxmtOPGjEVcLjLRLmnBvXAZ9pUnQg77EpolKa3ojlSfrmKhwyYs2UEC3oxGvYialM1lhu2I7jbQJi0xXDGZ-rvsGdQSfllTNOb-0B3DU_tP0NY5_TWwYKpuAXp8iBkhnI4yxCOG9m-4UCQHeacfze_osA"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_0FjucC4rXEkO8Gx4ok5ZvYRLYw2tQsWBPzj7w0hqdmM.js?scope=footer&amp;delta=2&amp;language=ru&amp;theme=ufc&amp;include=eJxVkmFyhSAMhC8kcqQ3USKmjYQhwVd7-lq0av8wyReW2axCCCaQNg9n0U9FknVhRb9SQOmyMPtQagbuf2vHlD61000NFz-AYlen0UeWAdiNqs_2o3UvCOoLhtcAKWFpaKI4WwZVD9VmKfQNRpLajGUEPsGuiyf3SoZuErH9jQwFYoE862XuIn1NuQ5MOmNoQoYUKEV3XXHv_WyjG40G3Ur4Vt_OfpFQ-VhuhCJVkf81DmxmtOPGjEVcLjLRLmnBvXAZ9pUnQg77EpolKa3ojlSfrmKhwyYs2UEC3oxGvYialM1lhu2I7jbQJi0xXDGZ-rvsGdQSfllTNOb-0B3DU_tP0NY5_TWwYKpuAXp8iBkhnI4yxCOG9m-4UCQHeacfze_osA"></script>
+<script src="//imasdk.googleapis.com/js/sdkloader/ima3.js" defer async></script>
+<script src="//www.youtube.com/iframe_api" defer async></script>
+<script src="/sites/default/files/js/js_wDvCtZkA3QCDkb50NyNXXvs12RKWbpSNXnR09KMKpYA.js?scope=footer&amp;delta=5&amp;language=ru&amp;theme=ufc&amp;include=eJxVkmFyhSAMhC8kcqQ3USKmjYQhwVd7-lq0av8wyReW2axCCCaQNg9n0U9FknVhRb9SQOmyMPtQagbuf2vHlD61000NFz-AYlen0UeWAdiNqs_2o3UvCOoLhtcAKWFpaKI4WwZVD9VmKfQNRpLajGUEPsGuiyf3SoZuErH9jQwFYoE862XuIn1NuQ5MOmNoQoYUKEV3XXHv_WyjG40G3Ur4Vt_OfpFQ-VhuhCJVkf81DmxmtOPGjEVcLjLRLmnBvXAZ9pUnQg77EpolKa3ojlSfrmKhwyYs2UEC3oxGvYialM1lhu2I7jbQJi0xXDGZ-rvsGdQSfllTNOb-0B3DU_tP0NY5_TWwYKpuAXp8iBkhnI4yxCOG9m-4UCQHeacfze_osA"></script>
+<script src="//cdn.ampproject.org/v0/amp-analytics-0.1.js" async custom-element="amp-analytics"></script>
+<script src="//cdn.ampproject.org/v0/amp-story-auto-analytics-0.1.js" async custom-element="amp-story-auto-analytics"></script>
+<script src="//cdn.ampproject.org/amp-story-player-v0.js" async></script>
+<script src="//cdn.ampproject.org/v0/amp-lightbox-0.1.js" async></script>
+<script src="//cdn.ampproject.org/v0/amp-story-auto-ads-0.1.js" async></script>
+<script src="/sites/default/files/js/js_sYOTQax5jTyo3h0xoGZ2klVPwqItlcEk4OO8aLmcXyw.js?scope=footer&amp;delta=11&amp;language=ru&amp;theme=ufc&amp;include=eJxVkmFyhSAMhC8kcqQ3USKmjYQhwVd7-lq0av8wyReW2axCCCaQNg9n0U9FknVhRb9SQOmyMPtQagbuf2vHlD61000NFz-AYlen0UeWAdiNqs_2o3UvCOoLhtcAKWFpaKI4WwZVD9VmKfQNRpLajGUEPsGuiyf3SoZuErH9jQwFYoE862XuIn1NuQ5MOmNoQoYUKEV3XXHv_WyjG40G3Ur4Vt_OfpFQ-VhuhCJVkf81DmxmtOPGjEVcLjLRLmnBvXAZ9pUnQg77EpolKa3ojlSfrmKhwyYs2UEC3oxGvYialM1lhu2I7jbQJi0xXDGZ-rvsGdQSfllTNOb-0B3DU_tP0NY5_TWwYKpuAXp8iBkhnI4yxCOG9m-4UCQHeacfze_osA"></script>
+
+  </body>
+</html>

@@ -1,0 +1,2745 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <title>Спорт МК</title>
+            <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+                        <meta name="title" content="Спорт МК"/>
+                    <meta name="keywords" content="Спорт МК"/>
+                    <meta name="description" content=""/>
+                    <meta name="google-site-verification" content="Oa4HuV3VqF8hQXqgGUMcfwvjt_bqkl8ArlEejZcC56s"/>
+                    <meta name="yandex-verification" content="f088d19b9471952a"/>
+                                <meta property="og:title" content="Спорт МК"/>
+                    <meta property="og:url" content="https://www.sportmk.ru/"/>
+                    <meta property="og:image" content="https://static.mk.ru/media/img/mk.ru/mkru_og_tag_1200x720.jpg"/>
+                    <link rel="image_src" href="https://static.mk.ru/media/img/mk.ru/mkru_og_tag_1200x720.jpg">
+                    <meta property="og:image:width" content="1200"/>
+                    <meta property="og:image:height" content="720"/>
+                    <meta property="og:image:type" content="image/jpeg"/>
+                    <meta property="og:description" content=""/>
+                    <meta property="twitter:card" content="summary_large_image"/>
+                    <meta property="twitter:site" content="@mkomsomolets"/>
+                    <meta property="twitter:title" content="Спорт МК"/>
+                    <meta property="twitter:description" content=""/>
+                    <meta property="twitter:image" content="/media/img/mk.ru/mkru_og_tag_720.jpg"/>
+            
+<meta property="fb:app_id" content="1621864364771340">
+
+
+    <link rel="canonical" href="https://www.sportmk.ru/">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+
+    <link rel="preload" href="/media/sportmk/fonts/als_hauss_regular.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+    <link rel="preload" href="/media/sportmk/fonts/als_hauss_medium.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+    <link rel="preload" href="/media/sportmk/fonts/als_hauss_bold.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+    <link rel="preload" href="/media/sportmk/fonts/als_hauss_black.woff2" crossorigin="anonymous" as="font" type="font/woff2">
+		<style>
+			@font-face {
+  			font-family: "ALS Hauss";
+  			font-style: normal;
+  			font-weight: 400;
+  			font-display: swap;
+  			src: url("/media/sportmk/fonts/als_hauss_regular.woff2") format("woff2");
+			}
+			@font-face {
+  			font-family: "ALS Hauss";
+  			font-style: normal;
+  			font-weight: 500;
+  			font-display: swap;
+  			src: url("/media/sportmk/fonts/als_hauss_medium.woff2") format("woff2");
+			}
+			@font-face {
+			  font-family: "ALS Hauss";
+			  font-style: normal;
+			  font-weight: 700;
+			  font-display: swap;
+			  src: url("/media/sportmk/fonts/als_hauss_bold.woff2") format("woff2");
+			}
+			@font-face {
+			  font-family: "ALS Hauss";
+			  font-style: normal;
+			  font-weight: 900;
+			  font-display: swap;
+			  src: url("/media/sportmk/fonts/als_hauss_black.woff2") format("woff2");
+			}
+		</style>
+
+		<script type="module">try{import("_").catch(()=>1);}catch(e){}window.__vite_is_dynamic_import_support=true;</script>
+		<script type="module">!function(){if(window.__vite_is_dynamic_import_support)return;console.warn("vite: loading legacy build because dynamic import is unsupported, syntax error above should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+
+    <link rel="stylesheet" type="text/css" href="/media/sportmk/css/bundle.b2c8b165.css">
+
+    <script>
+    adFoxParams = {mksafe: 'mkyes'};
+</script>
+<script>
+            var AdfoxTargetingCity =  '';
+    </script>
+
+                <script>
+
+// Конфигурация регионов для счетчика
+const liveCounterRegions = {
+	32: {
+		url: "https://spb.mk.ru",
+		percent: 45,
+	},
+	66: {
+		url: "https://samara.mk.ru/",
+		percent: 25,
+	}
+};
+
+// Основная функция определения региона
+(async function getRegion() {
+	try {
+		// 1. Запрашиваем данные о регионе
+		const response = await fetch('https://api.mk.ru/geo-location/suggested-region/');
+
+		// 2. Проверяем успешность HTTP-ответа
+		if (!response.ok) {
+			throw new Error(`HTTP error! status: ${response.status}`);
+		}
+
+		// 3. Парсим JSON данные
+		const data = await response.json();
+
+		// 4. Безопасно получаем ID региона (с проверкой на undefined)
+		const regionId = data.detectedRegion?.id;
+
+		// 5. Если регион найден в конфиге
+		if (regionId && liveCounterRegions[regionId]) {
+			setRegionCookie(); // Устанавливаем куку при первом визите
+
+			// 6. Получаем значение куки или генерируем случайное
+			const cookieValue = +getCookie("counterGroup");
+
+			// 7. Выбираем счетчик по проценту
+			if (cookieValue <= liveCounterRegions[regionId].percent) {
+				customCounter(liveCounterRegions[regionId].url);
+			} else {
+				originCounter();
+			}
+		} else {
+			// 8. Регион не найден - используем стандартный счетчик
+			originCounter();
+		}
+	} catch (error) {
+		// 9. Обрабатываем любые ошибки
+		console.error('Counter error:', error);
+		originCounter();
+	}
+})();
+
+function setRegionCookie() {
+	if (!getCookie("counterGroup")) {
+		const random = Math.floor(Math.random() * 100);
+		setCookie("counterGroup", random, { secure: true, "max-age": 86400, samesite: "Lax" });
+	}
+}
+
+function getCookie(name) {
+	let matches = document.cookie.match(
+			new RegExp(
+					"(?:^|; )" +
+					name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") +
+					"=([^;]*)"
+			)
+	);
+	return matches ? decodeURIComponent(matches[1]) : undefined;
+}
+
+function setCookie(name, value, options = {}) {
+	options = {
+		path: "/",
+		...options,
+	};
+	if (options.expires instanceof Date) {
+		options.expires = options.expires.toUTCString();
+	}
+	let updatedCookie =
+			encodeURIComponent(name) + "=" + encodeURIComponent(value);
+	for (let optionKey in options) {
+		updatedCookie += "; " + optionKey;
+		let optionValue = options[optionKey];
+		if (optionValue !== true) {
+			updatedCookie += "=" + optionValue;
+		}
+	}
+	document.cookie = updatedCookie;
+}
+
+function customCounter(regionURL) {
+	console.log("custom");
+	let newRef = "";
+	if (document.referrer.indexOf("www.mk.ru") !== -1) {
+		const refURL = new URL(document.referrer);
+		newRef = regionURL + refURL.pathname + refURL.search;
+	} else {
+		newRef = document.referrer;
+	}
+	const docURL = new URL(document.URL);
+	const newURL = regionURL + docURL.pathname + docURL.search;
+
+	new Image().src =
+			"//counter.yadro.ru/hit;mk/regions?r" +
+			escape(newRef) +
+			(typeof screen == "undefined"
+					? ""
+					: ";s" +
+					screen.width +
+					"*" +
+					screen.height +
+					"*" +
+					(screen.colorDepth ? screen.colorDepth : screen.pixelDepth)) +
+			";u" +
+			escape(newURL) +
+			";h" +
+			escape(document.title.substring(0, 80)) +
+			";" +
+			Math.random();
+}
+
+function originCounter() {
+	console.log("origin");
+	new Image().src =
+			"//counter.yadro.ru/hit;mk?r" +
+			escape(document.referrer) +
+			(typeof screen == "undefined"
+					? ""
+					: ";s" +
+					screen.width +
+					"*" +
+					screen.height +
+					"*" +
+					(screen.colorDepth ? screen.colorDepth : screen.pixelDepth)) +
+			";u" +
+			escape(document.URL) +
+			";h" +
+			escape(document.title.substring(0, 80)) +
+			";" +
+			Math.random();
+}
+
+
+</script>
+            <script async src="https://yandex.ru/ads/system/header-bidding.js"></script>
+<script> function getSyncId(){try{return JSON.parse(localStorage.getItem("rb_sync_id")).fpid||""}catch(t){return""}}</script>
+<script async src="https://privacy-cs.mail.ru/static/sync-loader.js"></script>
+<script>
+var adfoxBiddersMap={adfox_adsmart:"1423193",betweenDigital:"1387022",myTarget:"1387026",sape:"1849278",buzzoola:"1429954",roxot:"2724237",videonow:"2101953",adriver:"1855131","adfox_roden-media":"3291497",link:"3359244",smi2:"3172324","adfox_yandex_adplay-adv":"3429442"},adUnits=window.innerWidth&&969<window.innerWidth?[{code:"adfox_164924362019546441",sizes:[[970,250]],bids:[{bidder:"myTarget",params:{placementId:"1887155",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"adfox_roden-media",params:{p1:"dgips",p2:"hfln"}},{bidder:"adriver",params:{placementId:"8:sportmk_970x250",additional:{ext:{query:"cid="+localStorage.getItem("adrcid")}}}},{bidder:"videonow",params:{placementId:"9524265"},additional:{stableid:localStorage.getItem("videonow-stableid")}}]},{code:"adfox_159420773958847010",sizes:[[300,600],[240,600],[240,400]],bids:[{bidder:"myTarget",params:{placementId:"1887143",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"adfox_roden-media",params:{p1:"dgipq",p2:"emwl"}},{bidder:"adriver",params:{placementId:"8:sportmk_300x600_1",additional:{ext:{query:"cid="+localStorage.getItem("adrcid")}}}},{bidder:"videonow",params:{placementId:"9527866"},additional:{stableid:localStorage.getItem("videonow-stableid")}},{bidder:"buzzoola",params:{placementId:"1249422",sendTargetRef:!0}},{bidder:"betweenDigital",params:{placementId:"3838656"}},{bidder:"sape",params:{placementId:"797610",additional:{sapeFpUids:window.sapeRrbFpUids||[],timeout:1e3}}}]},{code:"adfox_159404209140032749",sizes:[[300,600]],bids:[{bidder:"myTarget",params:{placementId:"1887157",sendTargetRef:!0,additional:{fpid:getSyncId()}}}]},{code:"adfox_159412016759937213",sizes:[[300,250],[300,300]],bids:[{bidder:"myTarget",params:{placementId:"838053",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"buzzoola",params:{placementId:"1249440",sendTargetRef:!0}},{bidder:"betweenDigital",params:{placementId:"3259800"}},{bidder:"sape",params:{placementId:"797621",additional:{sapeFpUids:window.sapeRrbFpUids||[],timeout:900}}}]},{code:"adfox_159421292220852306",codeType:"combo",sizes:[[740,400],[900,300]],bids:[{bidder:"myTarget",params:{placementId:"1447219",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"adfox_roden-media",params:{p1:"dgipt",p2:"gzpa"}},{bidder:"adfox_adsmart",params:{p1:"cksna",p2:"ul"}},{bidder:"buzzoola",params:{placementId:"1249433",sendTargetRef:!0}},{bidder:"videonow",params:{placementId:"9526620"},additional:{stableid:localStorage.getItem("videonow-stableid")}},{bidder:"smi2",params:{placementId:"101955"}},{bidder:"adfox_yandex_adplay-adv",params:{p1:"dkikm",p2:"jdhb"}}]},{code:"adfox_159421342775392767",codeType:"combo",sizes:[[740,400],[900,300]],bids:[{bidder:"myTarget",params:{placementId:"1887149",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"buzzoola",params:{placementId:"1249418",sendTargetRef:!0}}]},{code:"adfox_159404172309455056",codeType:"combo",sizes:[[740,400],[900,300]],bids:[{bidder:"myTarget",params:{placementId:"1887151",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"buzzoola",params:{placementId:"1290147",sendTargetRef:!0}}]},{code:"adfox_159421510021274294",bids:[{bidder:"adfox_adsmart",params:{p1:"czskm",p2:"hhuq"}}]},{code:"adfox_159422147277339195",sizes:[[740,120],[740,300],[740,400]],bids:[{bidder:"myTarget",params:{placementId:"1887153",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"videonow",params:{placementId:"9529586"},additional:{stableid:localStorage.getItem("videonow-stableid")}},{bidder:"betweenDigital",params:{placementId:"3968814"}}]}]:[{code:"adfox_15941232407382703",sizes:[[300,250],[336,280],[300,300]],bids:[{bidder:"myTarget",params:{placementId:"837279",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"adfox_roden-media",params:{p1:"dgipv",p2:"hbts"}},{bidder:"videonow",params:{placementId:"9525805"},additional:{stableid:localStorage.getItem("videonow-stableid")}},{bidder:"betweenDigital",params:{placementId:"3838718"}},{bidder:"sape",params:{placementId:"797612",additional:{sapeFpUids:window.sapeRrbFpUids||[],timeout:900}}}]},{code:"adfox_15942129737992027",codeType:"combo",sizes:[[300,250],[336,280],[300,300]],bids:[{bidder:"myTarget",params:{placementId:"838225",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"adfox_roden-media",params:{p1:"dgipu",p2:"hjsx"}},{bidder:"videonow",params:{placementId:"9530794"},additional:{stableid:localStorage.getItem("videonow-stableid")}},{bidder:"buzzoola",params:{placementId:"1249435",sendTargetRef:!0}},{bidder:"betweenDigital",params:{placementId:"3969357"}},{bidder:"adfox_adsmart",params:{p1:"cksna",p2:"ul"}},{bidder:"sape",params:{placementId:"797614",additional:{sapeFpUids:window.sapeRrbFpUids||[],timeout:900}}},{bidder:"link",params:{placementId:"f6a3e9defda7a6ff6e84e702651a0832"}},{bidder:"adfox_yandex_adplay-adv",params:{p1:"dkikl",p2:"jbzl"}}]},{code:"adfox_159421344796658299",sizes:[[300,250],[336,280],[300,300]],bids:[{bidder:"myTarget",params:{placementId:"1887147",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"buzzoola",params:{placementId:"1249434",sendTargetRef:!0}},{bidder:"sape",params:{placementId:"797616",additional:{sapeFpUids:window.sapeRrbFpUids||[],timeout:900}}},{bidder:"smi2",params:{placementId:"104168"}}]},{code:"adfox_159421517788572753",bids:[{bidder:"myTarget",params:{placementId:"1887141",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"adfox_adsmart",params:{p1:"czskn",p2:"ul"}},{bidder:"buzzoola",params:{placementId:"1249419",sendTargetRef:!0}}]},{code:"adfox_1594221522506922",sizes:[[300,250],[336,280],[300,300]],bids:[{bidder:"myTarget",params:{placementId:"838057",sendTargetRef:!0,additional:{fpid:getSyncId()}}},{bidder:"videonow",params:{placementId:"9531350"},additional:{stableid:localStorage.getItem("videonow-stableid")}},{bidder:"buzzoola",params:{placementId:"1249420",sendTargetRef:!0}},{bidder:"betweenDigital",params:{placementId:"3968824"}},{bidder:"sape",params:{placementId:"797619",additional:{sapeFpUids:window.sapeRrbFpUids||[],timeout:900}}}]},{code:"adfox_16921737353018977",bids:[{bidder:"adfox_adsmart",params:{p1:"czskl",p2:"hhuq"}}]}],userTimeout=/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)?1e3:900;syncPixels=[{bidder:"sape",pixels:["https://acint.net/cmatch/?dp=14&pi=1653392"]}],window.YaHeaderBiddingSettings={biddersMap:adfoxBiddersMap,adUnits:adUnits,timeout:userTimeout,syncPixels:syncPixels};
+</script>
+<script>
+  window.yaContextCb = window.yaContextCb || [];
+</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+<script async src="https://tube.buzzoola.com/js/lib/buzzoola_ext.js"></script>
+<script async src="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=81cbd0d7-ad22-4465-bee1-efc2cbf3e548"></script>
+<script src="https://content.adriver.ru/AdRiverFPS.js"></script>
+<script async type="text/javascript" src="https://cdn-rtb.sape.ru/js/uids.js"></script>    </head>
+
+<body class="page">
+    <div style="display: none;">
+        <svg xmlns="http://www.w3.org/2000/svg">
+            <symbol id="icon-mk" viewBox="0 0 24 24">
+                <path d="M6 6c0-1.1.9-2 2-2h8a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2V6zm2 3c0 .6.4 1 1 1h2c.6 0 1-.4 1-1V7c0-.6-.4-1-1-1H9a1 1 0 0 0-1 1v2zm0 5h8v-1H8v1zm0 2h8v-1H8v1zm0-4h8v-1H8v1z"></path>
+            </symbol>
+            <symbol id="icon-av" viewBox="0 0 24 24">
+                <path d="M7.05 7.05a7 7 0 1 1 9.9 9.9 7 7 0 0 1-9.9-9.9zM12 7a5 5 0 0 0-5 5 5 5 0 0 0 1.464 3.535 5 5 0 0 0 7.072 0A5 5 0 0 0 17 12a5 5 0 0 0-1.464-3.536A5 5 0 0 0 12 7z"></path><path d="M10.586 10.586a2 2 0 1 1 2.828 2.828 2 2 0 1 1-2.828-2.828z"></path><path d="M6 11h12v2H6v-2zm5 2h2v5h-2v-5z"></path>
+            </symbol>
+            <symbol id="icon-oh" viewBox="0 0 24 24">
+                <path d="M7 7a7 7 0 1 1 10 10A7 7 0 0 1 7 7zm5 0a5 5 0 0 0-3.5 1.5A5 5 0 0 0 7 12a5 5 0 0 0 1.5 3.5 5 5 0 0 0 7 0 5 5 0 0 0 0-7A5 5 0 0 0 12 7z"></path><path d="M9.9 9.9A3 3 0 0 1 12 9a3 3 0 0 1 3 3 3 3 0 0 1-3 3 3 3 0 0 1-3-3c0-.8.3-1.6.9-2.1zM12 11a1 1 0 0 0-.7.3 1 1 0 0 0-.3.7 1 1 0 0 0 1.7.7 1 1 0 0 0 .3-.7 1 1 0 0 0-.3-.7 1 1 0 0 0-.7-.3zm-1 7c0-.6.4-1 1-1s1 .4 1 1v2c0 .6-.4 1-1 1a1 1 0 0 1-.7-.3 1 1 0 0 1-.3-.7v-2zm0-14c0-.6.4-1 1-1s1 .4 1 1v2c0 .6-.4 1-1 1a1 1 0 0 1-.7-.3A1 1 0 0 1 11 6V4zm-5 7c.6 0 1 .4 1 1s-.4 1-1 1H4c-.6 0-1-.4-1-1 0-.3.1-.5.3-.7A1 1 0 0 1 4 11h2zm14 0c.6 0 1 .4 1 1s-.4 1-1 1h-2c-.6 0-1-.4-1-1 0-.3.1-.5.3-.7a1 1 0 0 1 .7-.3h2z"></path>
+            </symbol>
+            <symbol id="icon-wh" viewBox="0 0 24 24">
+                <path d="M7 10a5 5 0 1 1 10 0 5 5 0 0 1-10 0zm5-3a3 3 0 1 0 0 6 3 3 0 0 0 0-6z"></path><path d="M11 14a1 1 0 1 1 2 0v6a1 1 0 1 1-2 0v-6z"></path><path d="M14 17a1 1 0 1 1 0 2h-4a1 1 0 1 1 0-2h4z"></path>
+            </symbol>
+            <symbol id="icon-promo" viewBox="0 0 24 24">
+                <path d="M14.89 7.98a1 1 0 01.24 1.4l-4.59 6.55a1 1 0 11-1.63-1.15l4.59-6.55a1 1 0 011.39-.25zM14 16.06a1 1 0 110-2 1 1 0 010 2zm-4-6a1 1 0 110-2 1 1 0 010 2zM6 8v8a4.04 4.04 0 013.87 3h4.27c.45-1.72 2-3 3.86-3.01V8h-.02a3.98 3.98 0 01-3.84-3H9.91A4.05 4.05 0 016 8zm10.02-5v1c0 1.1.87 2 1.97 2H20v11.99h-1.97A2 2 0 0016.02 20v1h-8L8 20.01A2.05 2.05 0 005.96 18H4V6h2c1.12 0 2.03-.9 2.05-2.02L8.06 3h7.96z"></path>
+            </symbol>
+            <symbol id="icon-finance" viewBox="0 0 24 24">
+                <path d="M11 13v1h3a1 1 0 010 2h-3v1a1 1 0 01-2 0v-1H8a1 1 0 010-2h1v-1H8a1 1 0 010-2h1V8a1 1 0 011-1h4a3 3 0 010 6h-3zm0-2h3a1 1 0 000-2h-3v2zm1 8a7 7 0 100-14 7 7 0 000 14zm0 2a9 9 0 110-18 9 9 0 010 18z"></path>
+            </symbol>
+            <symbol id="icon-16" viewBox="0 0 34 37">
+                <path fill="currentColor" d="M0 0h34v23.96l-17.016 9L0 23.96z"></path>
+                <path fill-rule="nonzero" d="M14 24.473h-3.544V9.982L7 11.376V8.3l6.626-2.828H14v19zM24.7 5.238v3.059h-.204c-1.35.008-2.424.414-3.218 1.217-.795.802-1.277 1.926-1.447 3.37.773-.883 1.742-1.325 2.906-1.325 1.343 0 2.416.573 3.219 1.72.803 1.147 1.204 2.676 1.204 4.588 0 1.215-.23 2.31-.688 3.287-.459.977-1.103 1.736-1.931 2.275-.829.54-1.766.81-2.81.81-1.683 0-3.032-.676-4.048-2.027-1.015-1.35-1.523-3.169-1.523-5.454V15.42c0-2.047.32-3.84.962-5.378.642-1.537 1.568-2.72 2.78-3.549 1.21-.828 2.623-1.246 4.237-1.255h.561zm.828 13.164v-1.44h-2.862v-2.835h-1.472v2.836H18.33v1.44h2.863v2.835h1.472v-2.836h2.862z"></path>
+            </symbol>
+            <symbol id="icon-burger" viewBox="0 0 24 24">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="M2.5 4.5h19m-19 15h19M2.5 12h19"></path>
+            </symbol>
+            <symbol id="icon-close" viewBox="0 0 24 24">
+                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4l16 16m0-16L4 20"></path>
+            </symbol>
+            <symbol id="icon-menu-more" viewBox="0 0 31 31">
+                <circle cx="15.5" cy="15.5" r="1.5"></circle>
+                <circle cx="21.5" cy="15.5" r="1.5"></circle>
+                <circle cx="9.5" cy="15.5" r="1.5"></circle>
+            </symbol>
+            <symbol id="icon-search" viewBox="-12 -12 48 48">
+                <circle cx="10.768" cy="10.438" r="6.2" stroke="currentColor" fill="none" stroke-width="2" transform="rotate(-135 10.768 10.438)"></circle>
+                <path stroke="currentColor" stroke-width="2" d="M14.76 14.43l6.476 6.476"></path>
+            </symbol>
+            <symbol id="icon-article" viewBox="0 0 20 17" fill="none">
+                <path d="M19.0625 17H0.9375C0.42 17 0 16.552 0 16C0 15.448 0.42 15 0.9375 15H19.0625C19.58 15 20 15.448 20 16C20 16.552 19.58 17 19.0625 17Z" fill="white"/>
+                <path d="M19.1 2H14.9C14.4032 2 14 1.552 14 1C14 0.448 14.4032 0 14.9 0H19.1C19.5968 0 20 0.448 20 1C20 1.552 19.5968 2 19.1 2Z" fill="white"/>
+                <path d="M19.1 7H14.9C14.4032 7 14 6.552 14 6C14 5.448 14.4032 5 14.9 5H19.1C19.5968 5 20 5.448 20 6C20 6.552 19.5968 7 19.1 7Z" fill="white"/>
+                <path d="M19.1 12H14.9C14.4032 12 14 11.552 14 11C14 10.448 14.4032 10 14.9 10H19.1C19.5968 10 20 10.448 20 11C20 11.552 19.5968 12 19.1 12Z" fill="white"/>
+                <path d="M0.999667 9.53372C0.743667 9.53372 0.487667 9.43639 0.293 9.24039C-0.0976667 8.84973 -0.0976667 8.21639 0.293 7.82573L2.34633 5.77239C3.25833 4.8604 4.74233 4.8604 5.653 5.77239C5.72767 5.84573 5.937 6.01106 6.153 5.74706L6.845 4.88173C7.725 3.7604 9.60233 3.75373 10.493 4.8884L11.7797 6.49373C12.1263 6.92439 12.0557 7.55373 11.625 7.90039C11.1983 8.24573 10.565 8.17639 10.2197 7.74573L8.92634 6.13239C8.73833 5.89373 8.58634 5.90173 8.41167 6.12439L7.71434 6.99773C6.88367 8.03639 5.17967 8.12573 4.23967 7.18706C4.07033 7.01906 3.93033 7.01906 3.761 7.18706L1.70767 9.24039C1.51167 9.43639 1.25567 9.53372 0.999667 9.53372Z" fill="white"/>
+                <path d="M9.66667 12H2.33333C1.04667 12 0 10.9533 0 9.66667V2.33333C0 1.04667 1.04667 0 2.33333 0H9.66667C10.9533 0 12 1.04667 12 2.33333V9.66667C12 10.9533 10.9533 12 9.66667 12ZM2.33333 2C2.14933 2 2 2.14933 2 2.33333V9.66667C2 9.85067 2.14933 10 2.33333 10H9.66667C9.85067 10 10 9.85067 10 9.66667V2.33333C10 2.14933 9.85067 2 9.66667 2H2.33333Z" fill="white"/>
+            </symbol>
+            <symbol id="icon-photos" viewBox="0 0 20 20" fill="none">
+                <path d="M3 19H17C18.1046 19 19 18.1046 19 17V3C19 1.89543 18.1046 1 17 1H3C1.89543 1 1 1.89543 1 3V17C1 18.1046 1.89543 19 3 19ZM3 19L14 8L19 13M8 6.5C8 7.32843 7.32843 8 6.5 8C5.67157 8 5 7.32843 5 6.5C5 5.67157 5.67157 5 6.5 5C7.32843 5 8 5.67157 8 6.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </symbol>
+            <symbol id="icon-video" viewBox="0 0 23 16" fill="none">
+                <path d="M21.2532 3L14.8436 8L21.2532 13V3Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M13.0123 1H2.93997C1.92855 1 1.10864 1.89543 1.10864 3V13C1.10864 14.1046 1.92855 15 2.93997 15H13.0123C14.0237 15 14.8436 14.1046 14.8436 13V3C14.8436 1.89543 14.0237 1 13.0123 1Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </symbol>
+            <symbol id="icon-views" viewBox="0 0 19 11" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M.82 6.103v-1.2c1.672-1.634 2.95-2.677 4.2-3.44C6.66.467 8.215 0 9.912 0 13.78 0 16.765 2.496 19 4.892v1.267c-1.005.986-2.22 2.13-3.623 3.054C13.543 10.415 11.756 11 9.913 11 5.874 11 3.493 8.759.82 6.103zM5.873 5.5c0 2.166 1.813 3.929 4.04 3.929 2.227 0 4.04-1.763 4.04-3.929s-1.813-3.929-4.04-3.929c-2.227 0-4.04 1.763-4.04 3.929zm4.035-2.357a1.662 1.662 0 00-.278.923c0 .943.788 1.709 1.752 1.714.349 0 .677-.098.95-.27 0 1.306-1.091 2.362-2.424 2.362-1.334 0-2.42-1.056-2.42-2.362s1.081-2.367 2.42-2.367z" fill="currentColor"/>
+            </symbol>
+            <symbol id="icon-clock" viewBox="0 0 11 11" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 11C8.53757 11 11 8.53757 11 5.5C11 2.46243 8.53757 0 5.5 0C2.46243 0 0 2.46243 0 5.5C0 8.53757 2.46243 11 5.5 11ZM6.25 1.75C6.25 1.33579 5.91421 1 5.5 1C5.08579 1 4.75 1.33579 4.75 1.75V6L8.06407 8.36719C8.40113 8.60795 8.86954 8.52988 9.1103 8.19282C9.35106 7.85576 9.27299 7.38735 8.93593 7.14659L6.25 5.22807V1.75Z" fill="white"/>
+            </symbol>
+            <symbol id="icon-calendar" viewBox="0 0 17 15" fill="none">
+                <rect x=".794" y="2.139" width="14.5" height="11.833" rx="2.25" stroke="#000" stroke-width="1.5"/><path d="M4.49.5v3.556M11.599.5v3.556" stroke="#000" stroke-width="1.5"/><path d="M15.044 5.723h-14v-3.5h14v3.5Z" fill="#000"/>
+            </symbol>
+            <symbol id="icon-auto" viewBox="0 0 17 16" fill="none">
+                <g clip-path="url(#a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.701.022A8.084 8.084 0 0 0 1.6 3.949C.45 5.88.183 8.323.887 10.463 2.01 13.878 5.25 16.14 8.81 15.995c2.627-.108 4.963-1.437 6.414-3.65a8.194 8.194 0 0 0 1.21-3.186c.088-.55.088-1.777 0-2.325-.286-1.766-1.034-3.25-2.257-4.474a7.063 7.063 0 0 0-1.333-1.09A8.131 8.131 0 0 0 9.704.073C9.281.006 8.107-.024 7.701.022ZM9.58 2.378c2.456.496 4.27 2.429 4.596 4.896.397 3.002-1.693 5.837-4.685 6.356a5.723 5.723 0 0 1-5.042-1.614A5.724 5.724 0 0 1 2.884 9.06c-.114-.575-.114-1.55 0-2.126.132-.657.384-1.32.706-1.853a5.782 5.782 0 0 1 4.258-2.77c.384-.05 1.34-.011 1.731.068ZM7.612 3.51c-.429.093-.73.198-1.127.394a4.555 4.555 0 0 0-1.274.936c-.271.284-.64.772-.638.846 0 .022.477.239 1.06.483l1.061.443.128-.143c.07-.08.201-.201.29-.271.154-.122.594-.353.749-.393.072-.02.073-.04.073-1.185 0-.91-.01-1.165-.045-1.163-.024.002-.15.026-.277.053Zm1.466 1.108c0 1.147.002 1.168.074 1.187.155.04.594.271.749.393.088.07.219.192.29.271l.128.144 1.06-.444c.583-.244 1.06-.461 1.06-.483.002-.074-.366-.562-.633-.842a4.58 4.58 0 0 0-2.594-1.37l-.134-.023v1.167Zm-4.983 2.19c-.051.082-.14.653-.156 1.01a4.594 4.594 0 0 0 .696 2.61c.152.24.502.68.54.68.016 0 .355-.397.754-.881l.726-.882-.078-.129c-.241-.4-.373-.887-.354-1.307l.012-.248-1.037-.438a44.98 44.98 0 0 0-1.062-.44c-.014-.002-.032.01-.041.024Zm7.722.415-1.034.437-.006.374c-.004.304-.024.427-.104.66a2.711 2.711 0 0 1-.166.396l-.068.11.718.918c.395.505.732.918.748.918.068 0 .514-.654.694-1.019.423-.857.57-1.77.432-2.664-.063-.404-.1-.547-.146-.559-.018-.005-.499.188-1.068.429ZM8.15 6.91c-.808.283-1.047 1.292-.448 1.89.234.236.447.32.805.32.261 0 .33-.013.487-.095.27-.142.382-.25.517-.5.112-.207.123-.252.123-.53 0-.281-.01-.32-.128-.536-.273-.495-.846-.727-1.356-.549Zm1.226 3.182c-.457.216-1.05.242-1.569.067-.153-.051-.286-.078-.298-.06-.012.018-.335.413-.719.879a32.35 32.35 0 0 0-.707.874c-.017.052.622.362 1.002.486a4.54 4.54 0 0 0 2.851-.001c.364-.121.968-.412 1.043-.502.028-.034-.144-.277-.665-.941-.387-.493-.714-.895-.727-.893a2.048 2.048 0 0 0-.21.091Z" fill="#000"/></g><defs><clipPath id="a"><path fill="#fff" transform="translate(.5)" d="M0 0h16v16.001H0z"/></clipPath></defs>
+            </symbol>
+            <symbol id="icon-basket" viewBox="0 0 17 16" fill="none">
+                <g clip-path="url(#a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.61.043C5.988.225 4.353.982 3.104 2.127l-.254.233.262.294c1.157 1.3 1.841 2.832 2.017 4.52l.038.36H8.03V.006L7.945.01a7.953 7.953 0 0 0-.336.033Zm1.359 3.724v3.767h2.863l.038-.36c.176-1.688.86-3.22 2.017-4.52l.262-.294-.254-.233C12.572.914 10.988.209 9.165.02L8.968 0v3.767Zm-6.945-.426a8.052 8.052 0 0 0-1.37 3.082c-.055.262-.15.93-.153 1.072 0 .031.391.04 1.858.04 1.76 0 1.86-.003 1.86-.056a7.216 7.216 0 0 0-1.41-3.72c-.19-.25-.554-.66-.587-.66-.014 0-.103.109-.198.242Zm12.527-.016a7.128 7.128 0 0 0-1.77 4.154c0 .053.1.055 1.86.055 1.467 0 1.859-.008 1.858-.039-.003-.142-.098-.81-.152-1.072a8.05 8.05 0 0 0-1.37-3.082c-.096-.133-.185-.242-.199-.242a1.59 1.59 0 0 0-.227.226ZM.5 8.495c0 .079.097.836.126.978.153.768.441 1.584.798 2.263.139.263.59.966.733 1.14l.063.078.191-.203c.782-.833 1.382-1.993 1.655-3.202a8.5 8.5 0 0 0 .152-1.007v-.07H2.36c-1.022 0-1.859.01-1.859.023Zm4.656.069c0 .176-.096.831-.175 1.188-.241 1.1-.832 2.356-1.506 3.202-.095.12-.277.334-.403.474l-.23.255.282.252a8.08 8.08 0 0 0 3.83 1.92c.333.066.903.145 1.045.145.022 0 .032-1.18.032-3.764V8.472H5.156v.092Zm3.813 3.672C8.969 14.82 8.979 16 9 16c.142 0 .712-.079 1.045-.144a8.08 8.08 0 0 0 3.83-1.92l.282-.253-.23-.255a8.107 8.107 0 0 1-2.036-4.403 6.393 6.393 0 0 1-.048-.461v-.092H8.969v3.764Zm3.813-3.694c.001.143.09.735.152 1.007.273 1.209.873 2.37 1.655 3.202l.19.203.065-.078c.142-.174.593-.877.732-1.14a8.698 8.698 0 0 0 .798-2.263c.029-.142.126-.9.126-.978 0-.013-.837-.023-1.86-.023h-1.859v.07Z" fill="#000"/></g><defs><clipPath id="a"><path fill="#fff" transform="translate(.5)" d="M0 0h16v16H0z"/></clipPath></defs>
+            </symbol>
+            <symbol id="icon-biathlon" viewBox="0 0 17 17" fill="none">
+                <g clip-path="url(#a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M5.524 3.827C6.772.467 6.807.384 7.022.342a.359.359 0 0 1 .133-.003.442.442 0 0 0 .1.014c.027 0 .101.054.164.12.196.204.186.246-.561 2.26l-.219.59c-.26.7-.3.808-.282.818.003.002.008 0 .014-.001.01-.002.02-.005.03 0 .169.102.354.313.412.47.093.254-.098 1.03-.281 1.502-.138.355-.145.39-.086.426.035.021.131.11.214.195a.86.86 0 0 1 .24.605c-.001.157-.5 2.128-.635 2.341a1.5 1.5 0 0 0-.117.325c-.075.257-.16.549-.32.549-.472 0-1.473-.377-1.47-.874.001-.197.048-.356.306-1.042.167-.445.299-.813.293-.817a10.323 10.323 0 0 0-.26-.115c-.286-.123-.382-.241-.381-.469 0-.11.35-1.095 1.208-3.409Zm3.164-.705c0-.817.518-1.528 1.27-1.738.269-.076.591-.075.883.001.845.221 1.414 1.107 1.282 1.996-.218 1.467-1.914 2.063-2.925 1.027-.346-.355-.509-.766-.51-1.286Zm-.87 2.412c.174-.271.416-.468.717-.581a.963.963 0 0 1 .52-.076c.479.037.836.247 1.077.633.138.222.157.237.37.294.934.248 1.883.164 2.8-.25.435-.195.709-.233.962-.132.593.235.794.998.408 1.514l-2.099 8.158c.42.002.924.004 1.465.004H16.5v.188c0 .377-.28.788-.658.966-.134.063-.481.068-6.507.078-8.202.01-8.36.008-8.52-.066C.587 16.16.5 16 .5 15.685c0-.187.018-.273.077-.359.153-.223.478-.228.913-.228h1.137v-.112c0-.146.085-.353.207-.505.054-.067.41-.368.793-.67.836-.66 1.077-.873 1.674-1.483a13.6 13.6 0 0 0 1.262-1.47l.224-.305-.05-.177a1.503 1.503 0 0 1-.052-.346c0-.157.302-1.465.8-3.463.166-.668.232-.873.334-1.033Zm3.798 9.55 1.936-7.525-.614.233s-.243.073-.642.073c-.094 0-.207.002-.333.005-.406.01-.934.021-1.314-.042a9.515 9.515 0 0 1-.454-.084c-.053-.014-.09-.003-.102.03-.01.03-.12.48-.244 1.003-.124.523-.234.98-.245 1.015-.013.047.047.112.213.229.312.22.79.727 1.031 1.094a4.66 4.66 0 0 1 .64 3.63c-.04.17-.075.318-.075.33 0 .003.072.006.203.009ZM8.99 11.847c.278.286.5.644.623 1.004.085.25.099.354.102.773.004.441-.007.53-.126.98l-.13.494h-2.15c-1.183 0-2.15-.013-2.149-.03 0-.015.075-.085.165-.153.876-.671 2.088-1.97 2.896-3.105l.256-.36.15.088c.082.048.246.187.363.309Z" fill="#000"/></g><defs><clipPath id="a"><path fill="#fff" transform="translate(.5 .334)" d="M0 0h16v16H0z"/></clipPath></defs>
+            </symbol>
+            <symbol id="icon-box" viewBox="0 0 16 16" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M6.66.022c-.329.04-.897.193-1.219.327-1.75.733-2.923 2.422-3.019 4.343-.034.688.126 1.257.495 1.76l.097.132 1.634.002c1.312.001 1.678.01 1.851.047.423.09.865.384 1.097.732l.106.158h.472c.872.002 1.387-.187 1.883-.69.467-.474.683-1.036.683-1.778V4.71h.925v.352c0 .666-.158 1.285-.454 1.784-.619 1.042-1.648 1.616-2.9 1.617h-.347v.086c-.002.182-.096.533-.204.756a1.991 1.991 0 0 1-.814.827c-.378.187-.531.206-1.673.207h-1.01v-.935l1.04-.01c.983-.008 1.05-.012 1.182-.075a.919.919 0 0 0 .452-.444.76.76 0 0 0 .086-.412c0-.391-.19-.694-.538-.857-.137-.064-.177-.066-1.852-.066-1.592 0-1.724.004-1.882.059a1.838 1.838 0 0 0-1.19 1.208c-.085.256-.08.759.01 1.049.116.375.265.564 1.175 1.492l.851.868H12.028l.217-.43a11.88 11.88 0 0 0 1.082-3.214c.157-.888.172-1.136.173-2.705 0-1.673-.01-1.786-.232-2.477a4.834 4.834 0 0 0-1.202-1.966C11.383.728 10.6.298 9.614.08 9.331.016 9.207.009 8.103 0c-.662-.005-1.31.005-1.442.02ZM4.264 14.577V16h3.244l-.066-.102a3.219 3.219 0 0 1-.331-.742c-.074-.278-.073-.877.003-1.158.058-.215.216-.574.327-.742l.067-.102H4.263v1.423Zm4.753-1.373a1.446 1.446 0 0 0-1.005 1.03 1.415 1.415 0 0 0 1.057 1.73c.106.024.59.036 1.38.036h1.217v-2.846l-1.241.002c-.983.002-1.276.011-1.408.047Z" fill="#000"/>
+            </symbol>
+            <symbol id="icon-figure" viewBox="0 0 16 16" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M6.655 1.03c-1.064.136-2.057.532-2.788 1.112-.363.289-.605.546-.71.758-.103.203-.12.275-.224.922a7.779 7.779 0 0 1-.478 1.687c-.246.614-.34.935-.4 1.371-.106.752-.005 1.71.214 2.04.132.2.29.264 1.167.473 2.079.495 3.13.789 3.865 1.078.79.312 1.94.653 2.793.83.213.043.417.086.456.095l.07.016v2.094H4.166V11.75h.335c.309 0 .339-.006.4-.072a.283.283 0 0 0 .068-.094c0-.037.277-.579.343-.672l.06-.083-.117-.033c-.67-.188-2.784-.692-2.806-.67-.009.009.006.185.033.391.026.207.048.534.048.728 0 .334.004.358.076.429.07.07.1.076.355.076h.28v1.756h-1.44c-1.433 0-1.44 0-1.562.07a.488.488 0 0 0-.24.393c0 .152.11.9.246.969C.367 15 .413 15 7.31 15c6.815 0 6.946-.001 7.18-.061.308-.079.511-.19.743-.406.575-.537 1.183-1.627.382-2.65-.06-.12-.212-.323-.398-.53l-.302-.335.169-.335c.362-.717.315-1.263-.144-1.687-.188-.174-.71-.457-1.512-.821a21.954 21.954 0 0 1-1.574-.794A6.877 6.877 0 0 1 10.24 6.05l-.173-.2-.334.326c-.379.368-.428.401-.607.404a.46.46 0 0 1-.466-.37c-.041-.192.03-.307.462-.747l.41-.416-.156-.316-.155-.316-.3.29c-.337.327-.45.381-.664.322-.148-.04-.308-.201-.335-.336-.045-.226.016-.323.5-.802l.455-.45-.104-.351a4.768 4.768 0 0 0-.118-.366c-.007-.007-.175.148-.375.344-.408.402-.512.457-.74.396a.51.51 0 0 1-.329-.348c-.04-.202.028-.322.409-.712.388-.397.583-.545.723-.545h.088l-.071-.13a1.73 1.73 0 0 0-.574-.56c-.326-.164-.63-.201-1.13-.137Zm7.775 10.807c.391.464.434.545.434.822 0 .377-.209.689-.537.8-.115.04-.355.047-1.46.047h-1.322v-2.034h1.289l1.289.001.307.364Z" fill="#000"/>
+            </symbol>
+            <symbol id="icon-football" viewBox="0 0 17 17" fill="none">
+                <g clip-path="url(#a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.782.019a8.157 8.157 0 0 0-4.227 1.685c-.61.47-1.403 1.352-1.86 2.072a10.92 10.92 0 0 0-.721 1.475 9.59 9.59 0 0 0-.4 1.561c-.099.61-.099 1.769 0 2.38.14.862.362 1.56.74 2.331.414.844.845 1.441 1.534 2.13.69.69 1.288 1.12 2.131 1.533.773.379 1.47.6 2.334.74.61.099 1.77.099 2.38 0a7.878 7.878 0 0 0 2.333-.74c.844-.414 1.442-.844 2.132-1.533.689-.689 1.12-1.287 1.533-2.13.275-.56.414-.927.562-1.49.197-.75.247-1.161.247-2.031 0-.87-.05-1.281-.247-2.031a7.092 7.092 0 0 0-.562-1.49c-.414-.844-.844-1.442-1.533-2.13-.69-.69-1.288-1.12-2.132-1.534A7.79 7.79 0 0 0 9.71.082C9.249.01 8.22-.024 7.782.02Zm-.798 2.016 1.002.543.008.987.009.987-1.44 1.05-1.441 1.05-.792-.384-.791-.384-.245-1.135-.244-1.134.086-.115c.131-.175.686-.72.95-.933a7.173 7.173 0 0 1 1.33-.843c.259-.128.492-.233.518-.232.026 0 .499.245 1.05.543Zm4.604-.312c.488.24.929.52 1.33.843.283.226.938.883 1 1 .04.077.026.17-.167 1.063-.116.538-.226 1.039-.244 1.113l-.033.135-.781.39-.781.391-1.454-1.057-1.454-1.058V2.595l1.026-.551c.564-.303 1.04-.552 1.057-.552.017 0 .242.104.5.23ZM4.053 7.247c.387.192.707.353.712.358.009.008.888 2.497 1.076 3.046l.088.256-.485.582c-.467.56-.49.582-.6.582-.063 0-.564-.023-1.113-.053l-.997-.053-.072-.096a5.545 5.545 0 0 1-.24-.393 7.024 7.024 0 0 1-.856-2.468l-.048-.324.524-.568C3.276 6.78 3.21 6.846 3.283 6.873c.038.015.384.183.77.374Zm10.588.513.83.911-.01.158c-.035.575-.326 1.545-.677 2.256l-.232.47-1.25.248-1.251.249-.094-.108c-.052-.06-.272-.317-.488-.573l-.394-.466.108-.301.587-1.648.479-1.346.765-.38c.421-.21.773-.382.782-.382.008 0 .389.41.845.912Zm-3.897 4.3c.257.304.478.57.49.59.024.04-.884 2.035-.955 2.101-.093.087-.906.224-1.494.252-.668.032-1.608-.082-2.225-.27l-.204-.063-.304-.952a25.07 25.07 0 0 1-.305-.99c0-.02.222-.303.492-.629l.493-.592h3.544l.468.553Z" fill="#000"/></g><defs><clipPath id="a"><path fill="#fff" transform="translate(.5)" d="M0 0h16v16H0z"/></clipPath></defs>
+            </symbol>
+            <symbol id="icon-hockey" viewBox="0 0 16 16" fill="none">
+                <g clip-path="url(#a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M3.105.05c-.052.027-.442.423-.865.878-.642.693-.774.851-.802.964-.076.309-.4-.064 4.82 5.535l4.788 5.135.25.127.25.127 1.857.01c2.025.01 2.017.01 2.355-.186.19-.11.462-.416.567-.638.15-.318.175-.497.175-1.262 0-.778-.033-1.011-.18-1.305a1.84 1.84 0 0 0-.589-.631c-.322-.186-.4-.193-2.315-.193-1.145 0-1.787-.013-1.844-.036-.05-.02-1.794-1.862-4.027-4.253C5.38 2.002 3.562.08 3.507.051a.43.43 0 0 0-.402-.002ZM13.47.066c-.123.078-4.283 4.52-4.283 4.572 0 .019.465.531 1.032 1.14l1.032 1.105 2.138-2.295c2.335-2.507 2.247-2.397 2.171-2.7-.027-.109-.169-.278-.803-.961-.423-.456-.814-.852-.869-.88a.411.411 0 0 0-.418.02ZM5.637 8.412a.96.96 0 0 1-.154.143c-.045.027-.596.044-1.938.056-2.11.02-2.033.011-2.399.279-.23.168-.457.472-.558.748-.066.18-.073.26-.084.971-.014.854.004 1.018.148 1.345.171.388.537.719.915.827.175.05.395.055 2.04.045l1.844-.01.249-.127c.235-.12.298-.18 1.196-1.138l.948-1.012-1.04-1.115a46.47 46.47 0 0 0-1.058-1.115.5.5 0 0 0-.11.103Zm.619 5.06a.607.607 0 0 0-.164.177c-.06.103-.062.17-.062.732 0 1.22 0 1.227.07 1.34.15.242.047.232 2.399.232s2.248.01 2.398-.231c.07-.114.071-.121.07-1.34 0-.562-.002-.63-.061-.733a.607.607 0 0 0-.164-.176c-.1-.065-.162-.067-2.243-.067-2.082 0-2.144.002-2.243.067Z" fill="#000"/></g><defs><clipPath id="a"><path fill="#fff" transform="translate(.5)" d="M0 0h16v16H0z"/></clipPath></defs>
+            </symbol>
+            <symbol id="icon-tennis" viewBox="0 0 17 16" fill="none">
+                <g clip-path="url(#a)"><path fill-rule="evenodd" clip-rule="evenodd" d="M7.906.015c-.773.077-1.56.247-2.142.463a8.456 8.456 0 0 0-2.361 1.357c-.483.402-1.22 1.188-1.22 1.3 0 .063.198.155.714.333 1.43.495 3.074.71 4.938.65 2.454-.081 4.67-.766 5.775-1.784.278-.256.273-.276-.132-.594A7.619 7.619 0 0 0 12.05.84 7.67 7.67 0 0 0 9.188.027 10.04 10.04 0 0 0 7.906.015Zm6.722 3.281a4.939 4.939 0 0 1-.437.37c-1.26.953-3.106 1.568-5.41 1.801-.56.057-2.034.076-2.631.033-1.726-.122-3.143-.44-4.472-1.004-.134-.057-.261-.093-.29-.081-.114.043-.465.922-.634 1.584-.606 2.384-.118 4.83 1.362 6.817.297.399 1.01 1.134 1.396 1.439.423.334.967.675 1.476.927.377.187.497.233.537.209.028-.018.109-.173.179-.345.828-2.03 2.95-3.75 5.72-4.636 1.302-.416 2.524-.611 4.06-.649.938-.023.833.029.911-.447a8.143 8.143 0 0 0-.222-3.581 8.18 8.18 0 0 0-.562-1.392c-.265-.51-.716-1.188-.789-1.188-.03 0-.117.064-.194.143Zm.33 7.883c-.987.078-1.635.175-2.361.356-2.317.577-4.165 1.74-5.19 3.264-.192.285-.435.781-.46.94-.021.125-.04.117.443.19.698.104 1.68.09 2.424-.036a8.089 8.089 0 0 0 4.94-2.905c.478-.6 1.107-1.692 1.03-1.786-.035-.042-.446-.053-.826-.023Z" fill="#000"/></g><defs><clipPath id="a"><path fill="#fff" transform="translate(.5)" d="M0 0h16v15.998H0z"/></clipPath></defs>
+            </symbol>
+            <symbol id="icon-story" viewBox="0 0 15 15" fill="none">
+                <rect x=".044" y=".5" width="6" height="6" rx="2" fill="#000"/><rect x=".044" y="8.5" width="6" height="6" rx="2" fill="#000"/><rect x="8.544" y="1" width="5" height="5" rx="1.5" stroke="#000"/><rect x="8.044" y="8.5" width="6" height="6" rx="2" fill="#000"/>
+            </symbol>
+            <symbol id="icon-arrow" viewBox="0 0 40 40" fill="none">
+                <circle r="20" transform="matrix(-1 0 0 1 20 20)" fill="#f2f2f2"/>
+                <path d="M18.3333 15L14 20M14 20L18.3333 25M14 20H27" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+            </symbol>
+            <symbol id="icon-arrow-black" viewBox="0 0 40 40" fill="none">
+                <circle r="20" transform="matrix(-1 0 0 1 20 20)" fill="rgba(0,0,0,0.2)"/>
+                <path d="M18.3333 15L14 20M14 20L18.3333 25M14 20H27" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+            </symbol>
+            <symbol id="icon-gallery" viewBox="0 0 25 25" fill="none">
+                <rect x="1.58105" y="1.34534" width="12.4884" height="10.5421" fill="#2E9AE9" stroke="#2E9AE9" stroke-width="1.78405" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M21.2047 11.8875V20.3211H8.71631" stroke="#2E9AE9" stroke-width="1.78405" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M17.6358 5.56165V16.1038H5.14746" stroke="#2E9AE9" stroke-width="1.78405" stroke-linecap="round" stroke-linejoin="round"/>
+            </symbol>
+            <symbol id="icon-font" viewBox="0 0 22 21" fill="none">
+                <path d="M4.27414 4.144H6.48614L10.0981 14H7.88614L7.18614 11.97H3.57414L2.88814 14H0.676141L4.27414 4.144ZM5.36614 6.622L4.17614 10.178H6.55614L5.36614 6.622Z" fill="currentColor"/>
+                <path d="M11.9849 0.919922H14.3479L19.3406 14.9999H16.9586L15.7961 11.6599H10.4985L9.39325 14.9999H7.01123L11.9849 0.919922ZM13.1473 3.75992L11.2036 9.59992H15.1101L13.1473 3.75992Z" fill="white"/>
+                <path d="M14.153 0.919999H16.633L21.873 15H19.373L18.153 11.66H12.593L11.433 15H8.93302L14.153 0.919999ZM15.373 3.76L13.333 9.6H17.433L15.373 3.76Z" fill="currentColor"/>
+            </symbol>
+            <symbol id="icon-sound" viewBox="0 0 24 24" fill="none">
+                <path fill="currentColor" d="M8 16l5 4V4L8 8v4H6V9H3a1 1 0 00-1 1v2H0v-2a3 3 0 013-3h3l7-5.4L15 0v10.3a2 2 0 010 3.4V16h1.5l-.3-.6a4 4 0 000-6.8l.9-1.8a6 6 0 010 10.3l-.6-1.1H15v4h3.5l-.5-1a8 8 0 000-14l.9-1.7a10 10 0 010 17.4l-.4-.7H15v4l-2-1.6L6 17H3a3 3 0 01-3-3v-2h2v2a1 1 0 001 1h3v-3h2v4z"></path>
+            </symbol>
+            <symbol id="icon-ring" viewBox="0 0 15 14" fill="none">
+                <path d="M7.34098 2.30633C5.6334 1.28721 3.68147 0.750102 1.6929 0.752141H0.5V11.8687H1.6929C3.53451 11.8673 5.33509 12.4127 6.86639 13.4357L7.34098 13.75L7.81557 13.4336C9.34687 12.4105 11.1474 11.8651 12.9891 11.8666H14.182V0.750003H12.9891C11.0003 0.748611 9.04835 1.28647 7.34098 2.30633ZM2.21024 2.47521C3.72147 2.55919 5.18926 3.01127 6.48586 3.7921V11.2573C5.1489 10.6092 3.69437 10.239 2.21024 10.1692V2.47521ZM12.4717 10.1713C10.9876 10.2412 9.53306 10.6114 8.1961 11.2595V3.7921C9.4927 3.01127 10.9605 2.55919 12.4717 2.47521V10.1713Z" fill="white"/>
+            </symbol>
+            <symbol id="icon-fb" viewBox="0 0 22 22">
+                <path d="M12.8 11l.5-2.3h-2.2V7c0-.8 0-1.7 1.2-1.7h1V3h-2C9 3 7.6 4.5 7.6 7v1.7H5V11h2.6v8h3.5v-8h1.7z"></path>
+            </symbol>
+            <symbol id="icon-vk" viewBox="0 0 22 22">
+                <path d="M11.8 17c.8 0 .8-.9.8-1.3a1.3 1.3 0 0 1 1.3-1.4c.7 0 1.8 1.2 2.7 2.1.7.6.7.6 1.4.6h2.1a1.3 1.3 0 0 0 1.3-1.3c0-.5-.4-1.2-2-2.7-1.4-1.3-2.1-.7 0-3.4 1.2-1.6 2.2-3.3 2-3.6-.1-.4-3.5-1-4-.4l-2 3.4c-.8 1.3-.8 2-1.4 2-.6 0-.7-1.3-.7-2 0-2.2.3-3.9-.7-4h-2.1c-.8 0-1.5.3-2 .7l-.8.8c.1 0 1.3-.3 1.3.7v1.4s0 2.6-.7 2.6c-.8 0-1.8-3-3.2-5-.5-.9-.7-.8-1.4-.8h-2c-.7 0-.7.5-.7.8 1 3 2.7 5.8 4.9 8.1 2.4 2.6 4 2.7 5.3 2.7h.6z"></path>
+            </symbol>
+            <symbol id="icon-ok" viewBox="0 0 22 22">
+                <path d="M10.7 8.5a1.8 1.8 0 0 0 1.9-1.8 1.8 1.8 0 1 0-1.9 1.8zm2.6-4.4c.7.7 1.1 1.6 1 2.6a3.7 3.7 0 1 1-7.3 0A3.6 3.6 0 0 1 10.7 3c1 0 2 .4 2.6 1zm2.3 8c0 .4-.3.8-.6 1l-2.7 1.2 2.2 2.9s.5.4.5.8a1 1 0 0 1-1 1 1 1 0 0 1-.9-.3l-2.4-2.8-2.4 2.8a1 1 0 0 1-.8.3 1 1 0 0 1-1-1c0-.4.4-.8.4-.8l2.3-3s-2-.8-2.6-1.2c-.4-.2-.6-.5-.6-1a1 1 0 0 1 1-1c.5 0 1.6 1 3.7 1 2 0 3.1-1 3.7-1 .6 0 1 .5 1.2 1z"></path>
+            </symbol>
+            <symbol id="icon-tg" viewBox="0 0 22 22">
+                <path d="M14.9 5.3L5.7 8.6s-2 1.2.8 2.5l3 1.3 1.7 3.3s1.3 3.1 2.6-.3c1-2.4 2-5.8 2.9-8.2 1.3-3.4-1.8-1.9-1.8-1.9z"></path>
+            </symbol>
+            <symbol id="icon-twitter" viewBox="0 0 22 22">
+                <path d="M18.6 6.8c-.6.3-1.3.5-2 .5.7-.4 1.2-1.1 1.5-1.9a7 7 0 0 1-1.5 1l-.4-.4c-.4-.6-1.1-1-1.9-1a2.8 2.8 0 0 0-2.9 2.8v.5c-3 0-5-.6-6.4-2.4-.3.4-.5.9-.6 1.4.1 1 .6 2 1.5 2.5-.5 0-1-.2-1.5-.6 0 1.5 2 3.1 3.5 3.5-.6.5-2.2 0-2.5 0a3 3 0 0 0 3 1.9 6 6 0 0 1-3.7 1.2H4c1.5.8 3.2 1.3 4.9 1.2a8.2 8.2 0 0 0 8.3-8.3v-.5l1.4-1.4z"></path>
+            </symbol>
+            <symbol id="icon-viber" viewBox="0 0 22 22">
+                <path d="M11.6 6.7c.4 0 .8.1 1 .5.4.3.7.8.7 1.3l-.3.3a.3.3 0 0 1-.2-.3c0-.4-.1-.7-.4-1-.2-.2-.5-.3-.8-.3a.3.3 0 0 1-.3-.3c0-.1 0-.2.3-.2zM14 9a3 3 0 0 0-.8-2.3c-.6-.6-1.3-1-2.1-.9a.2.2 0 1 1 0-.5c.9 0 1.8.3 2.4 1A4 4 0 0 1 14.6 9c0 .1 0 .2-.2.2-.1 0-.3 0-.4-.2zm-3.4-4.8l.2-.2c1.5 0 3 .6 4 1.7A5 5 0 0 1 16 9.4s-.1.2-.3.2a.3.3 0 0 1-.2-.2c.1-1.2-.3-2.4-1.1-3.2-.9-1.1-2.2-1.7-3.6-1.7a.3.3 0 0 1-.2-.3zm4.3 8c.1.3 0 .6-.3.8-.3.5-.8.8-1.3 1-.5 0-1.1-.3-2-.8-1.2-.8-2.4-1.7-3.3-2.9-.8-.9-1.3-1.9-1.7-3-.1-.4 0-.9.1-1.2.2-.3.5-.5.9-.7.1 0 .6-.2 1 .4.5.4.8.8 1 1.2.2.2.3.5.2.8l-.6.6c-.2.2-.2.5-.2.7a4.3 4.3 0 0 0 2 2.2l.8.2c.2 0 .4-.4.7-.7.1-.2.5-.2.7 0l.8.3 1.2 1zM11.9 1c3.6.1 5 .9 6 1.5 1.1.8 1.9 2 2.1 3.3l.3 4.8c0 5.5-4 5.4-6.2 5.8l-3 .2H10c-.6 0-2 1.8-2.8 2.7l-.8.7v-4a13.1 13.1 0 0 1-2.3-1.2C2 13.2 2 10.5 2 9c0-1.4.3-2.8.7-4.2.5-1 1.3-2 2.2-2.6C7 1.3 9 1 11.1 1h.7zM11 2.3c-1.9-.2-3.8.2-5.5 1-.8.3-1.3 1-1.6 1.7l-.2.3c-.4 1.2-.6 2.5-.6 3.7 0 1.6.2 3.7 1.6 4.8l.5.4.1.2 1.3.6.8.3V17c1-1.1 1.6-1.6 2.4-1.6H11c1 0 1.9 0 2.8-.3 2.3-.3 3.3-.4 4-1.2 1-.8 1.2-1.5 1.2-3.3 0-1.5 0-3-.3-4.5-.1-1-.7-2-1.5-2.5-.8-.7-2.3-1.2-5.5-1.4h-.7z"></path>
+            </symbol>
+            <symbol id="icon-instagram" viewBox="0 0 22 22">
+                <path d="M16 7C16 7.5 15.5 8 15 8C14.5 8 14 7.5 14 7C14 6.5 14.5 6 15 6C15.5 6 16 6.5 16 7ZM6 5C5.73478 5 5.48043 5.10536 5.29289 5.29289C5.10536 5.48043 5 5.73478 5 6V16C5 16.2652 5.10536 16.5196 5.29289 16.7071C5.48043 16.8946 5.73478 17 6 17H16C16.2652 17 16.5196 16.8946 16.7071 16.7071C16.8946 16.5196 17 16.2652 17 16V6C17 5.73478 16.8946 5.48043 16.7071 5.29289C16.5196 5.10536 16.2652 5 16 5H6ZM6 3H16C16.7956 3 17.5587 3.31607 18.1213 3.87868C18.6839 4.44129 19 5.20435 19 6V16C19 16.7956 18.6839 17.5587 18.1213 18.1213C17.5587 18.6839 16.7956 19 16 19H6C5.20435 19 4.44129 18.6839 3.87868 18.1213C3.31607 17.5587 3 16.7956 3 16V6C3 5.20435 3.31607 4.44129 3.87868 3.87868C4.44129 3.31607 5.20435 3 6 3ZM12.5 11C12.5 10.15 11.83 9.5 11 9.5C10.2 9.5 9.5 10.2 9.5 11C9.5 11.8 10.2 12.5 11 12.5C11.8 12.5 12.5 11.8 12.5 11ZM14.5 11C14.5 12.9 12.9 14.5 11 14.5C9.1 14.5 7.5 12.9 7.5 11C7.5 9.1 9.1 7.5 11 7.5C12.93 7.5 14.5 9.03 14.5 11Z"></path>
+            </symbol>
+            <symbol id="icon-dzen" viewBox="0 0 22 22">
+                <path d="M19 11.2l-.1 3.82a4 4 0 01-3.9 3.9l-3.8.08c0-1.08.02-2.35.07-3.83a4 4 0 013.9-3.87l3.83-.1zM10.8 19l-3.78-.08a4 4 0 01-3.91-3.89l-.1-3.83 3.8.1a4 4 0 013.9 3.9l.09 3.8zm.4-16l3.81.1a4 4 0 013.9 3.9l.09 3.8-3.78-.08a4 4 0 01-3.91-3.89L11.21 3h-.01zm-.4 0l-.1 3.82a4 4 0 01-3.9 3.9L3 10.8c0-1.08.02-2.35.07-3.83a4 4 0 013.9-3.87L10.8 3z"></path>
+            </symbol>
+            <symbol id="icon-whatsapp" viewBox="0 0 22 22">
+                <path d="M9 7.4l.8 1.8v.3l-.7.7v.3c.6 1.1 1.6 2 2.8 2.5l.3-.1.7-.9h.3l1.7.7.2.3-.1.4c-.1.4-.4.8-.7 1-.6.4-1.3.5-1.9.3a8.4 8.4 0 0 1-4.5-3.3c-.7-.8-1-1.8-.9-2.8.2-.5.4-.9.8-1.2l.4-.2h.6l.2.2zM3 19l1.1-4a8 8 0 1 1 3 3L3 19zm4.3-2.5l.3.2a6.6 6.6 0 1 0-2.2-2.1l.2.2-.7 2.3 2.4-.6z"></path>
+            </symbol>
+            <symbol id="icon-16" viewBox="0 0 34 37">
+                <path fill="currentColor" d="M0 0h34v23.96l-17.016 9L0 23.96z"></path>
+                <path fill-rule="nonzero" d="M14 24.473h-3.544V9.982L7 11.376V8.3l6.626-2.828H14v19zM24.7 5.238v3.059h-.204c-1.35.008-2.424.414-3.218 1.217-.795.802-1.277 1.926-1.447 3.37.773-.883 1.742-1.325 2.906-1.325 1.343 0 2.416.573 3.219 1.72.803 1.147 1.204 2.676 1.204 4.588 0 1.215-.23 2.31-.688 3.287-.459.977-1.103 1.736-1.931 2.275-.829.54-1.766.81-2.81.81-1.683 0-3.032-.676-4.048-2.027-1.015-1.35-1.523-3.169-1.523-5.454V15.42c0-2.047.32-3.84.962-5.378.642-1.537 1.568-2.72 2.78-3.549 1.21-.828 2.623-1.246 4.237-1.255h.561zm.828 13.164v-1.44h-2.862v-2.835h-1.472v2.836H18.33v1.44h2.863v2.835h1.472v-2.836h2.862z"></path>
+            </symbol>
+            <symbol id="icon-card-topnews" viewBox="0 0 11 11" fill="none">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M5.5 11C8.53757 11 11 8.53757 11 5.5C11 2.46243 8.53757 0 5.5 0C2.46243 0 0 2.46243 0 5.5C0 8.53757 2.46243 11 5.5 11ZM6.25 1.75C6.25 1.33579 5.91421 1 5.5 1C5.08579 1 4.75 1.33579 4.75 1.75V6L8.06407 8.36719C8.40113 8.60795 8.86954 8.52988 9.1103 8.19282C9.35106 7.85576 9.27299 7.38735 8.93593 7.14659L6.25 5.22807V1.75Z"
+                      fill="white" />
+            </symbol>
+            <symbol id="icon-card-gallery" viewBox="0 0 13 13" fill="none">
+                <rect x="1" y="1" width="7" height="5.90909" fill="white" stroke="white" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M12 6.90918V11.6365H5" stroke="white" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M10 3.36353V9.27262H3" stroke="white" stroke-linecap="round" stroke-linejoin="round" />
+            </symbol>
+            <symbol id="icon-card-favorites" viewBox="0 0 12 12" fill="none">
+                <path d="M5.6574 0.463526C5.80707 0.00287056 6.45878 0.00286996 6.60845 0.463525L7.81678 4.18237H11.727C12.2114 4.18237 12.4128 4.80218 12.0209 5.08688L8.85746 7.38525L10.0658 11.1041C10.2155 11.5648 9.68822 11.9478 9.29636 11.6631L6.13292 9.36475L2.96948 11.6631C2.57763 11.9478 2.05039 11.5648 2.20006 11.1041L3.40839 7.38525L0.244949 5.08688C-0.146907 4.80218 0.0544802 4.18237 0.538842 4.18237H4.44907L5.6574 0.463526Z"
+                      fill="white" />
+            </symbol>
+            <symbol id="icon-rubric-calendar" viewBox="0 0 24 24" fill="none">
+                <path d="M19 4H5C3.89543 4 3 4.79594 3 5.77778V18.2222C3 19.2041 3.89543 20 5 20H19C20.1046 20 21 19.2041 21 18.2222V5.77778C21 4.79594 20.1046 4 19 4Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M17 2V6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M8 2V6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M3 10H20" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </symbol>
+            <symbol id="icon-mksport" viewBox="0 0 24 24">
+                <g id="ico-/-sport" stroke-width="1">
+                    <circle id="Oval" cx="12" cy="12" r="12"></circle>
+                    <path d="M11.5,17.0440226 L11.5,15.2541286 L8.97887953,13.414656 L6.58534024,14.144948 L6.58534024,16.4367053 C7.26530706,17.2655778 8.13186145,17.9355212 9.12082511,18.3823574 L11.5,17.0440226 Z M14.7213584,18.4513244 C15.7760225,18.0058904 16.6987567,17.3093837 17.4146598,16.4367053 L17.4146598,14.2857141 L15.0491169,13.551971 L12.5,15.4118706 L12.5,17.2017646 L14.7213584,18.4513244 Z M6.16582279,13.2110967 L9.13445718,12.290287 L9.16479385,12.3124214 L9.28943248,12.2743929 L9.74544472,10.072949 L9.70270886,10.072949 L7.88102409,8.04954073 L6.22044857,8.04954073 C5.90821057,8.50546918 5.6485183,9.00021853 5.4500988,9.52506177 L5.12037591,10.7005914 C5.04133823,11.1216467 5,11.5559958 5,12 C5,12.2067863 5.00896647,12.4114784 5.02653182,12.6137087 L6.16582279,13.2110967 Z M9.20553978,5.58004359 L8.67463143,7.38094504 L10.2000662,9.07294902 L13.540725,9.07294902 L15.0271485,7.4219271 L14.450558,5.44093392 C13.794317,5.19564614 13.091404,5.04602373 12.3587882,5.00903597 L11.6412118,5.00903597 C10.778954,5.052569 9.95784134,5.25212687 9.20553978,5.58004359 Z M15.8076712,8.04954073 L14.3280839,9.69296956 L15.2479942,12.5241622 L17.5523787,13.2217238 L18.9844157,12.4708343 C18.9934158,12.3353194 18.9985594,12.1987497 18.9997377,12.061234 L17.9459138,8.30413573 C17.8922613,8.21800202 17.8367892,8.1331191 17.7795514,8.04954073 L15.8076712,8.04954073 Z M12,21 C7.02943725,21 3,16.9705627 3,12 C3,7.02943725 7.02943725,3 12,3 C16.9705627,3 21,7.02943725 21,12 C21,16.9705627 16.9705627,21 12,21 Z" id="Combined-Shape" fill="#ffffff" fill-rule="nonzero"></path>
+                </g>
+            </symbol>
+            <symbol id="icon-newdesignarrow" viewBox="0 0 15 12">
+              <path d="M9.66667 11L14 6L9.66667 11ZM14 6L9.66667 1L14 6ZM14 6L1 6L14 6Z" fill="black"/>
+              <path d="M14 6L1 6M9.66667 11L14 6L9.66667 11ZM14 6L9.66667 1L14 6Z" stroke="black" stroke-width="2" stroke-linecap="round"/>
+            </symbol>
+        </svg>
+    </div>
+		<aside class="ring">
+	    <div class="ring__scroll">
+				<nav class="ring__projects" aria-label="Сайты сателиты">
+    <a href="https://www.mk.ru" class="ring__item" target="_blank" rel="noopener">
+        <svg class="ring__item-icon" width="24" height="24">
+            <use xlink:href="#icon-mk"></use>
+        </svg>
+        <span class="ring__item-name">МК</span>
+    </a>
+    <a href="https://www.sportmk.ru" class="ring__item ring__item_active" target="_blank" rel="noopener">
+        <svg class="ring__item-icon" width="24" height="24">
+            <use xlink:href="#icon-mksport"></use>
+        </svg>
+        <span class="ring__item-name">МК-Спорт</span>
+    </a>
+    <a href="https://avtovzglyad.ru" class="ring__item" target="_blank" rel="noopener">
+        <svg class="ring__item-icon" width="24" height="24">
+            <use xlink:href="#icon-av"></use>
+        </svg>
+        <span class="ring__item-name">АвтоВзгляд</span>
+    </a>
+    <a href="https://ohotniki.ru" class="ring__item" target="_blank" rel="noopener">
+        <svg class="ring__item-icon" width="24" height="24">
+            <use xlink:href="#icon-oh"></use>
+        </svg>
+        <span class="ring__item-name">Охотники.ру</span>
+    </a>
+    <a href="https://womanhit.ru" class="ring__item" target="_blank" rel="noopener">
+        <svg class="ring__item-icon" width="24" height="24">
+            <use xlink:href="#icon-wh"></use>
+        </svg>
+        <span class="ring__item-name">WomanHit.ru</span>
+    </a>
+    <a href="https://www.mk.ru/promokodi/" class="ring__item" target="_blank" rel="noopener">
+        <svg class="ring__item-icon" width="24" height="24">
+            <use xlink:href="#icon-promo"></use>
+        </svg>
+        <span class="ring__item-name">Промокоды</span>
+    </a>
+</nav>				
+	      <span class="ring__age-rating">
+	      <svg class="ring__age-rating-icon" width="34" height="37">
+	        <use xlink:href="#icon-16"></use>
+	      </svg>
+	      <span class="visually-hidden">Предназначено для лиц старше шестнадцати лет</span>
+	    </span>
+	  </div>
+	</aside>
+
+
+    
+
+    <div class="good__top">
+        <div class="adv"><!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: Sportmk.ru / * / *-->
+<!--Тип баннера: 001 SportMK Перетяжка верхняя (1536+) // adfox_164924362019546441-->
+<!--Расположение: верх страницы-->
+<!--Тип баннера: 005 SportMK Брендирование (1536+) только фон // adfox_164924477624542280-->
+<!--Расположение: верх страницы-->
+<div id="adfox_164924477624542280"></div>
+<div class="top_1536" style="text-align: center; margin: 0 auto">
+  <div id="adfox_164924362019546441"></div>
+</div>
+<script>
+  const goodTop = document.querySelector(".good__top");
+
+  window.yaContextCb.push(() => {
+    Ya.adfoxCode.createAdaptive(
+      {
+        ownerId: 353925,
+        containerId: "adfox_164924362019546441",
+        params: Object.assign(
+          {
+            pp: "g",
+            ps: "ekxp",
+            p2: "hpim",
+            pk: decodeURIComponent("%20" + adFoxParams.mksafe),
+          },
+          window.puids || {}
+        ),
+        onLoad: function (data) {
+          if (data.bundleName !== "banner.background") {
+            Ya.adfoxCode.create({
+              ownerId: 353925,
+              containerId: "adfox_164924477624542280",
+              params: Object.assign(
+                {
+                  pp: "g",
+                  ps: "ekxp",
+                  p2: "hpiq",
+                },
+                window.puids || {}
+              ),
+              onLoad: function (data) {
+                goodTop.style.width = "1295px";
+                goodTop.style.margin = "0 auto";
+                goodTop.style.overflow = "hidden";
+              },
+            });
+          }
+        },
+      },
+      ["desktop"],
+      {
+        tabletWidth: 1534,
+        phoneWidth: 1365,
+        isAutoReloads: true,
+      }
+    );
+  });
+</script>
+
+<!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: Sportmk.ru / * / *-->
+<!--Тип баннера: 002 SportMK Перетяжка верхняя / брендинг (1366-1535) // adfox_16493333898995955-->
+<!--Расположение: верх страницы-->
+<!--Тип баннера: 006 SportMK Брендирование (1366-1535) только фон // adfox_165969723330868799-->
+<!--Расположение: верх страницы-->
+<div id="adfox_165969723330868799"></div>
+<div class="top_1366_1535" style="text-align: center; margin: 0 auto">
+  <div id="adfox_16493333898995955"></div>
+</div>
+<script>
+  window.yaContextCb.push(() => {
+    Ya.adfoxCode.createAdaptive(
+      {
+        ownerId: 353925,
+        containerId: "adfox_16493333898995955",
+        params: Object.assign(
+          {
+            pp: "g",
+            ps: "ekxp",
+            p2: "hpin",
+            pk: decodeURIComponent("%20" + adFoxParams.mksafe),
+          },
+          window.puids || {}
+        ),
+        onLoad: function (data) {
+          if (data.bundleName !== "banner.background") {
+            Ya.adfoxCode.create({
+              ownerId: 353925,
+              containerId: "adfox_165969723330868799",
+              params: Object.assign(
+                {
+                  pp: "g",
+                  ps: "ekxp",
+                  p2: "hudt",
+                },
+                window.puids || {}
+              ),
+              onLoad: function (data) {
+                adCont1535 = document.querySelector("#adfox_16493333898995955");
+                adCont1535.style.width = "970px";
+                goodTop.style.width = "1111px";
+                goodTop.style.margin = "0 auto";
+                goodTop.style.overflow = "hidden";
+              },
+            });
+          }
+        },
+      },
+      ["tablet"],
+      {
+        tabletWidth: 1534,
+        phoneWidth: 1365,
+        isAutoReloads: true,
+      }
+    );
+  });
+</script>
+<!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: Sportmk.ru / * / *-->
+<!--Тип баннера: 003 SportMK Перетяжка верхняя (1280-1365)-->
+<!--Расположение: верх страницы-->
+<div class="top_1280_1365" style="text-align: center; margin: 0 auto">
+  <div id="adfox_164702273671185114"></div>
+</div>
+<script>
+  window.yaContextCb.push(() => {
+    Ya.adfoxCode.createAdaptive(
+      {
+        ownerId: 353925,
+        containerId: "adfox_164702273671185114",
+        params: Object.assign(
+          {
+            pp: "g",
+            ps: "ekxp",
+            p2: "hnyc",
+            pk: decodeURIComponent("%20" + adFoxParams.mksafe),
+          },
+          window.puids || {}
+        ),
+      },
+      ["tablet"],
+      {
+        tabletWidth: 1365,
+        phoneWidth: 1279,
+        isAutoReloads: true,
+      }
+    );
+  });
+</script>
+<!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: Sportmk.ru / * / *-->
+<!--Тип баннера: 004 SportMK Перетяжка верхняя (700-1279)-->
+<!--Расположение: верх страницы-->
+<div class="top_700_1279" style="text-align: center; margin: 0 auto">
+  <div id="adfox_164702292988093013"></div>
+</div>
+<script>
+  window.yaContextCb.push(() => {
+    Ya.adfoxCode.createAdaptive(
+      {
+        ownerId: 353925,
+        containerId: "adfox_164702292988093013",
+        params: Object.assign(
+          {
+            pp: "g",
+            ps: "ekxp",
+            p2: "hnyf",
+            pk: decodeURIComponent("%20" + adFoxParams.mksafe),
+          },
+          window.puids || {}
+        ),
+      },
+      ["tablet"],
+      {
+        tabletWidth: 1279,
+        phoneWidth: 698,
+        isAutoReloads: true,
+      }
+    );
+  });
+</script>
+<!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: Sportmk.ru / * / *-->
+<!--Тип баннера: Моб. 320х100 / 300x250 верхний-->
+<!--Расположение: <верх страницы>-->
+<div class="top_mobile_top" style="text-align: center; margin: 0 auto">
+  <div id="adfox_15941232407382703"></div>
+</div>
+<script>
+  window.yaContextCb.push(() => {
+    window.Ya.adfoxCode.createAdaptive(
+      {
+        ownerId: 353925,
+        containerId: "adfox_15941232407382703",
+        params: Object.assign(
+          {
+            pp: "g",
+            ps: "ekxp",
+            p2: "gwjq",
+            pk: decodeURIComponent("%20" + adFoxParams.mksafe),
+          },
+          window.puids || {}
+        ),
+      },
+      ["phone"],
+      {
+        tabletWidth: 699,
+        phoneWidth: 698,
+        isAutoReloads: true,
+      }
+    );
+  });
+</script>
+</div>
+    </div>
+
+    <header class="header">
+        <a href="https://www.sportmk.ru/" class="header__logo" style="margin-right:8px;">
+            <img class="header__logo-image" src="/media/sportmk/assets/image/logo.svg" width="168" height="56" alt="">
+        </a>
+
+        <button type="button" class="header__menu-button header__menu-button_open" aria-label="Открыть меню" style="flex-shrink:0;">
+            <svg class="header__menu-button-burger" width="24" height="24"><use xlink:href="#icon-burger"></use></svg>
+        </button>
+
+        <div class="header__navigation">
+            <div class="header__nav-title">
+                <div class="header__nav-title-text" id="main-navigation-menu-title">Меню сайта</div>
+                <button type="button" class="header__menu-button header__menu-button_close" aria-label="Закрыть меню">
+                    <svg class="header__menu-button-burger" width="24" height="24"><use xlink:href="#icon-close"></use></svg>
+                </button>
+            </div>
+
+            <nav class="header__nav-rubric" aria-label="Рубрики сайта">
+    <div class="header-navigation header-navigation_rubric header-navigation_rubric_not-init">
+                                                        <a href="https://www.sportmk.ru/sports/football/" class="header-navigation__link">Футбол</a>
+                                                <a href="https://www.sportmk.ru/sports/hockey/" class="header-navigation__link">Хоккей</a>
+                                                <a href="https://www.sportmk.ru/sports/fights/" class="header-navigation__link">Бокс/ММА</a>
+                                                <a href="https://www.sportmk.ru/sports/figure/" class="header-navigation__link">Фигурное катание</a>
+                                                <a href="https://www.sportmk.ru/sports/tennis/" class="header-navigation__link">Теннис</a>
+                                                <a href="https://www.sportmk.ru/sports/basketball/" class="header-navigation__link">Баскетбол</a>
+                                                <a href="https://www.sportmk.ru/sports/racing/" class="header-navigation__link">Авто/Мото</a>
+                                                <a href="https://www.sportmk.ru/sports/biathlon/" class="header-navigation__link">Биатлон</a>
+                                                <a href="https://www.sportmk.ru/sports/wc2022/" class="header-navigation__link">ЧМ-2022</a>
+                                                                                                                                                    <a href="https://www.sportmk.ru/sports/timeout/" class="header-navigation__link">Тайм-аут</a>
+                                                <a href="https://www.sportmk.ru/sports/others/" class="header-navigation__link">Другие</a>
+                                                                                                                                                </div>
+
+    <div class="header-navigation__hidden-items-wrapper">
+        <button class="header-navigation__show-hidden-button" tabindex="-1" aria-label="Показать скрытые рубрики">
+            <svg width="31" height="31">
+                <use xlink:href="#icon-menu-more"></use>
+            </svg>
+        </button>
+    </div>
+</nav>
+
+            <nav class="header__nav-section header-navigation header-navigation_section" aria-label="Разделы сайта">
+                <a href="/news/" class="header-navigation__link">Новости</a>
+                <a href="/photo/" class="header-navigation__link">Фото</a>
+                <a href="https://www.mk.ru/video/" class="header-navigation__link">Видео</a>
+            </nav>
+
+            <form class="header__search-form" role="search" action="https://www.mk.ru/search/">
+                <label class="header__search">
+                    <svg class="header__search-icon" width="48" height="48"><use xlink:href="#icon-search"></use></svg>
+                    <input type="text" class="header__search-field" placeholder="Поиск по сайту" name="q" required>
+                </label>
+            </form>
+        </div>
+    </header>
+
+    <div class="page__main container">
+    <section class="page__carousel carousel" aria-roledescription="carousel" aria-label="Предстоящие топовые события">
+    <div class="carousel__wrapper">
+        <div class="carousel__list" aria-live="off">
+
+                        <div class="carousel__item carousel__item_active" role="group" aria-roledescription="slide" aria-label="1 of 4>">
+                <div class="carousel__wrapper-image">
+                    <img class="carousel__image" src="https://static.mk.ru/upload/entities/2026/02/18/21/articles/facebookPicture/ec/fb/3b/f7/8685b5ce084f44d29e6e15e9d479c04c.jpg" alt="В Международном центре самбо, который расположен в столичных Лужниках, состоялось по-настоящему уникальное и историческое событие из мира спортивных и боевых единоборств"/>
+                </div>
+
+                <div class="carousel__item-body">
+                    <div class="carousel__item-info">
+                        <div class="carousel__item-date">18.02.26</div>
+
+                                                                                    <div class="carousel__item-type">Бокс/ММА</div>
+                                                                        </div>
+
+                    <!--todo for Denis add link-->
+                    <a class="carousel__item-link" href="https://www.sportmk.ru/sports/2026/02/18/poslov-sambo-v-mire-pribylo-vsled-za-fyodorom-pochetnogo-zvaniya-udostoen-islam-makhachev.html">
+                        <h3 class="carousel__item-title">«Послов самбо в мире» прибыло: Вслед за Фёдором почетного звания удостоен Ислам Махачев</h3>
+                    </a>
+
+                    <div class="carousel__item-description">
+                        <p>Российский борец из Дагестана, действующий чемпион UFC теперь понесет знамя отечественного вида единоборств по планете.</p>
+                    </div>
+                </div>
+            </div>
+                        <div class="carousel__item " role="group" aria-roledescription="slide" aria-label="2 of 4>">
+                <div class="carousel__wrapper-image">
+                    <img class="carousel__image" src="https://static.mk.ru/upload/entities/2026/02/18/11/articles/facebookPicture/e2/63/2d/54/bb2fcf676ad1581dc9e17342eaa6e2d3.jpg" alt="И вот их осталось восемь"/>
+                </div>
+
+                <div class="carousel__item-body">
+                    <div class="carousel__item-info">
+                        <div class="carousel__item-date">18.02.26</div>
+
+                                                                                    <div class="carousel__item-type">Хоккей</div>
+                                                                        </div>
+
+                    <!--todo for Denis add link-->
+                    <a class="carousel__item-link" href="https://www.sportmk.ru/sports/2026/02/18/na-khokkeynom-olimpiyskom-turnire-nachinaetsya-samoe-glavnoe-borba-za-medali.html">
+                        <h3 class="carousel__item-title">На хоккейном олимпийском турнире начинается самое главное – борьба за медали</h3>
+                    </a>
+
+                    <div class="carousel__item-description">
+                        <p>Групповая стадия прошла скучно и предсказуемо, но впереди – увлекательные четвертьфиналы!</p>
+                    </div>
+                </div>
+            </div>
+                        <div class="carousel__item " role="group" aria-roledescription="slide" aria-label="3 of 4>">
+                <div class="carousel__wrapper-image">
+                    <img class="carousel__image" src="https://static.mk.ru/upload/entities/2026/02/18/15/articles/facebookPicture/f9/01/b3/57/dea45f597e4db632c2c12647349bb2a3.jpg" alt="Трёхкратная чемпионка России в одиночном катании Аделия Петросян 17 февраля представила короткую программу на Олимпийских играх 2026 года в Италии. Россиянка, выступающая в статусе индивидуального нейтрального атлета, заняла пятое место. Прокат под музыку Майкла Джексона принес ей 72,89 балла. Эксперты и коллеги по цеху уже оценили выступление фигуристки, разделившись во мнениях о её реальных шансах на медали."/>
+                </div>
+
+                <div class="carousel__item-body">
+                    <div class="carousel__item-info">
+                        <div class="carousel__item-date">18.02.26</div>
+
+                                                                                    <div class="carousel__item-type">Фигурное катание</div>
+                                                                        </div>
+
+                    <!--todo for Denis add link-->
+                    <a class="carousel__item-link" href="https://www.sportmk.ru/sports/2026/02/18/korotkaya-programma-adelii-petrosyan-na-oi-yagudin-tarasova-i-drugie-vynesli-svoy-verdikt.html">
+                        <h3 class="carousel__item-title">Короткая программа Аделии Петросян на ОИ: Ягудин, Тарасова и другие вынесли свой вердикт</h3>
+                    </a>
+
+                    <div class="carousel__item-description">
+                        <p>Короткая программа Аделии Петросян на ОИ: Ягудин, Тарасова и другие вынесли свой вердикт</p>
+                    </div>
+                </div>
+            </div>
+                        <div class="carousel__item " role="group" aria-roledescription="slide" aria-label="4 of 4>">
+                <div class="carousel__wrapper-image">
+                    <img class="carousel__image" src="https://static.mk.ru/upload/entities/2026/02/18/12/articles/facebookPicture/01/6e/31/45/df0e7fa2ce391acb314d0758bd801261.jpg" alt="Принято считать, что Олимпийские игры — это шанс для спортсменов прославиться, но обычно они добиваются этого не так, как французский хоккеист Пьер Кринон"/>
+                </div>
+
+                <div class="carousel__item-body">
+                    <div class="carousel__item-info">
+                        <div class="carousel__item-date">18.02.26</div>
+
+                                                                                    <div class="carousel__item-type">Хоккей</div>
+                                                                        </div>
+
+                    <!--todo for Denis add link-->
+                    <a class="carousel__item-link" href="https://www.sportmk.ru/sports/2026/02/18/protiv-francuzskogo-khokkeistaolimpionika-na-rodine-vozbudili-ugolovnoe-delo.html">
+                        <h3 class="carousel__item-title">Против французского хоккеиста-олимпионика на родине возбудили уголовное дело</h3>
+                    </a>
+
+                    <div class="carousel__item-description">
+                        <p>Защитнику Пьеру Кринону, подравшему на Играх-2026 с Уилсоном, предъявлено обвинение за удар вратаря по лицу</p>
+                    </div>
+                </div>
+            </div>
+                    </div>
+
+        <div class="carousel__previews">
+                        <div class="carousel__preview-item carousel__preview-item_active">
+                <a href="https://www.sportmk.ru/sports/2026/02/18/poslov-sambo-v-mire-pribylo-vsled-za-fyodorom-pochetnogo-zvaniya-udostoen-islam-makhachev.html">
+                    <svg class="carousel__preview-item-icon" width="18" height="18"><use xlink:href="#icon-photos"></use></svg>
+
+                    <progress class="carousel__preview-item-progress" max="100" value="0">0</progress>
+
+                    <p class="carousel__preview-anons">«Послов самбо в мире» прибыло: Вслед за Фёдором почетного звания удостоен Ислам Махачев</p>
+                </a>
+            </div>
+                        <div class="carousel__preview-item ">
+                <a href="https://www.sportmk.ru/sports/2026/02/18/na-khokkeynom-olimpiyskom-turnire-nachinaetsya-samoe-glavnoe-borba-za-medali.html">
+                    <svg class="carousel__preview-item-icon" width="18" height="18"><use xlink:href="#icon-photos"></use></svg>
+
+                    <progress class="carousel__preview-item-progress" max="100" value="0">0</progress>
+
+                    <p class="carousel__preview-anons">На хоккейном олимпийском турнире начинается самое главное – борьба за медали</p>
+                </a>
+            </div>
+                        <div class="carousel__preview-item ">
+                <a href="https://www.sportmk.ru/sports/2026/02/18/korotkaya-programma-adelii-petrosyan-na-oi-yagudin-tarasova-i-drugie-vynesli-svoy-verdikt.html">
+                    <svg class="carousel__preview-item-icon" width="18" height="18"><use xlink:href="#icon-photos"></use></svg>
+
+                    <progress class="carousel__preview-item-progress" max="100" value="0">0</progress>
+
+                    <p class="carousel__preview-anons">Короткая программа Аделии Петросян на ОИ: Ягудин, Тарасова и другие вынесли свой вердикт</p>
+                </a>
+            </div>
+                        <div class="carousel__preview-item ">
+                <a href="https://www.sportmk.ru/sports/2026/02/18/protiv-francuzskogo-khokkeistaolimpionika-na-rodine-vozbudili-ugolovnoe-delo.html">
+                    <svg class="carousel__preview-item-icon" width="18" height="18"><use xlink:href="#icon-photos"></use></svg>
+
+                    <progress class="carousel__preview-item-progress" max="100" value="0">0</progress>
+
+                    <p class="carousel__preview-anons">Против французского хоккеиста-олимпионика на родине возбудили уголовное дело</p>
+                </a>
+            </div>
+                    </div>
+    </div>
+</section>
+
+        <section class="page__news-0">
+        <h2 class="visually-hidden">Новости</h2>
+
+        <div class="carousel-black carousel-black_main js-slider">
+            <ul class="cards carousel-black__cards-news cards-news">
+                                    <li class="cards-news__item card">
+                        <article class="card__article">
+                            <div class="card__content">
+                                <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/rodnina-prokommentirovala-otsutstvie-gumennika-v-pokazatelnoy-programme-olimpiady.html">
+                                    <h3 class="card__title">Роднина прокомментировала отсутствие Гуменника в показательной программе Олимпиады</h3>
+                                </a>
+
+                                <i class="card__height"></i>
+
+                                <p class="meta meta_black">
+                                  <span class="meta__time">
+                                    17:45                                  </span>
+
+                                                                                                                        <span class="meta__type">Фигурное катание</span>
+                                                                            
+                                    <span class="meta__views">
+                                        <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                        <span class="meta__text">818</span>
+                                      </span>
+                                </p>
+                            </div>
+                        </article>
+                    </li>
+
+                                    <li class="cards-news__item card">
+                        <article class="card__article">
+                            <div class="card__content">
+                                <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/tarasova-vyrazila-obidu-za-gumennika-izza-otsutstviya-v-spiske-na-pokazatelnye-vystupleniya.html">
+                                    <h3 class="card__title">Тарасова выразила обиду за Гуменника из-за отсутствия в списке на показательные выступления</h3>
+                                </a>
+
+                                <i class="card__height"></i>
+
+                                <p class="meta meta_black">
+                                  <span class="meta__time">
+                                    17:40                                  </span>
+
+                                                                                                                        <span class="meta__type">Фигурное катание</span>
+                                                                            
+                                    <span class="meta__views">
+                                        <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                        <span class="meta__text">560</span>
+                                      </span>
+                                </p>
+                            </div>
+                        </article>
+                    </li>
+
+                                    <li class="cards-news__item card">
+                        <article class="card__article">
+                            <div class="card__content">
+                                <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/medvedev-ustupil-cicipasu-v-dvukh-setakh-na-turnire-atp-500-v-dokhe.html">
+                                    <h3 class="card__title">Медведев уступил Циципасу в двух сетах на турнире ATP 500 в Дохе</h3>
+                                </a>
+
+                                <i class="card__height"></i>
+
+                                <p class="meta meta_black">
+                                  <span class="meta__time">
+                                    17:28                                  </span>
+
+                                                                                                                        <span class="meta__type">Теннис</span>
+                                                                            
+                                    <span class="meta__views">
+                                        <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                        <span class="meta__text">106</span>
+                                      </span>
+                                </p>
+                            </div>
+                        </article>
+                    </li>
+
+                                    <li class="cards-news__item card">
+                        <article class="card__article">
+                            <div class="card__content">
+                                <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/amerikanskaya-gornolyzhnica-zavoevala-trete-olimpiyskoe-zoloto-v-slalome-na-oi.html">
+                                    <h3 class="card__title">Американская горнолыжница завоевала третье олимпийское золото в слаломе на ОИ</h3>
+                                </a>
+
+                                <i class="card__height"></i>
+
+                                <p class="meta meta_black">
+                                  <span class="meta__time">
+                                    17:19                                  </span>
+
+                                    
+                                    <span class="meta__views">
+                                        <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                        <span class="meta__text">84</span>
+                                      </span>
+                                </p>
+                            </div>
+                        </article>
+                    </li>
+
+                                    <li class="cards-news__item card">
+                        <article class="card__article">
+                            <div class="card__content">
+                                <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/gumennik-raskryl-detali-obshheniya-s-malininym-na-olimpiyskikh-igrakh.html">
+                                    <h3 class="card__title">Гуменник раскрыл детали общения с Малининым на Олимпийских играх</h3>
+                                </a>
+
+                                <i class="card__height"></i>
+
+                                <p class="meta meta_black">
+                                  <span class="meta__time">
+                                    17:07                                  </span>
+
+                                                                                                                        <span class="meta__type">Фигурное катание</span>
+                                                                            
+                                    <span class="meta__views">
+                                        <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                        <span class="meta__text">169</span>
+                                      </span>
+                                </p>
+                            </div>
+                        </article>
+                    </li>
+
+                                    <li class="cards-news__item card">
+                        <article class="card__article">
+                            <div class="card__content">
+                                <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/kitayskaya-fristaylistka-syuy-mentao-zavoevala-zoloto-olimpiady2026-v-akrobatike.html">
+                                    <h3 class="card__title"> Китайская фристайлистка Сюй Мэнтао завоевала золото Олимпиады-2026 в акробатике</h3>
+                                </a>
+
+                                <i class="card__height"></i>
+
+                                <p class="meta meta_black">
+                                  <span class="meta__time">
+                                    16:49                                  </span>
+
+                                    
+                                    <span class="meta__views">
+                                        <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                        <span class="meta__text">86</span>
+                                      </span>
+                                </p>
+                            </div>
+                        </article>
+                    </li>
+
+                            </ul>
+
+            <div class="carousel-black__nav carousel-black__nav_main">
+                <div class="carousel-black__dots dots">
+                    <button class="dots__button dots__button_active"></button>
+
+                    <button class="dots__button"></button>
+
+                    <button class="dots__button"></button>
+                </div>
+
+                <div class="carousel-black__control arrow">
+                    <button class="arrow__button arrow__button_prev">
+                        <svg class="arrow__icon" width="40" height="40">
+                            <use xlink:href="#icon-arrow"></use>
+                        </svg>
+                    </button>
+
+                    <button class="arrow__button arrow__button_next">
+                        <svg class="arrow__icon arrow__icon_rotate" width="40" height="40">
+                            <use xlink:href="#icon-arrow"></use>
+                        </svg>
+                    </button>
+                </div>
+
+                <a class="carousel-black__button button" href="/news/">Все новости</a>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <section class="page__adv-banner adv-banner">
+        <div class="adv-banner__wrapper"><!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: sportmk.ru / * / *-->
+<!--Тип баннера: 300x600 / 240x400 #1-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_159420773958847010"></div>
+<script>
+window.yaContextCb.push(()=>{
+window.Ya.adfoxCode.createAdaptive({
+	ownerId: 353925,
+	containerId: 'adfox_159420773958847010',
+	params: Object.assign({
+		pp: 'g',
+		ps: 'ekxp',
+		p2: 'gwid',
+		pk: decodeURIComponent('%20' + adFoxParams.mksafe),
+	}, window.puids || {})
+}, ['desktop'], {
+	tabletWidth: 1279,
+	phoneWidth: 767,
+	isAutoReloads: true
+})
+})
+</script>
+<!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: sportmk.ru / * / *-->
+<!--Тип баннера: 300x600 / 240x400 #1-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_1594207739588470102"></div>
+<script>
+window.yaContextCb.push(()=>{
+window.Ya.adfoxCode.createScroll({
+	ownerId: 353925,
+	containerId: 'adfox_1594207739588470102',
+	params: Object.assign({
+		pp: 'g',
+		ps: 'ekxp',
+		p2: 'gwid',
+		pk: decodeURIComponent('%20' + adFoxParams.mksafe),
+	}, window.puids || {})
+}, ['tablet', 'phone'], {
+	tabletWidth: 1279,
+	phoneWidth: 767,
+	isAutoReloads: true
+})
+})
+</script></div>
+
+        <div class="adv-banner__wrapper"><!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: sportMK.ru / * / *-->
+<!--Тип баннера: Тизер №1-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_159412016759937213" style="margin: 25px auto; text-align: center;"></div>
+<script>
+window.yaContextCb.push(()=>{
+window.Ya.adfoxCode.createAdaptive({
+	ownerId: 353925,
+	containerId: 'adfox_159412016759937213',
+	params: Object.assign({
+		pp: 'g',
+		ps: 'ekxp',
+		p2: 'gwkf',
+		pk: decodeURIComponent('%20' + adFoxParams.mksafe),
+	}, window.puids || {})
+}, ['desktop', 'tablet', 'phone'], {
+	tabletWidth: 1279,
+	phoneWidth: 767,
+	isAutoReloads: true
+})
+})
+</script>
+<!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: sportMK.ru / * / *-->
+<!--Тип баннера: Тизер №2-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_159412023464448459" style="margin: 25px auto; text-align: center;"></div>
+<script>
+window.yaContextCb.push(()=>{
+window.Ya.adfoxCode.createAdaptive({
+	ownerId: 353925,
+	containerId: 'adfox_159412023464448459',
+	params: Object.assign({
+		pp: 'g',
+		ps: 'ekxp',
+		p2: 'gwkg',
+		pk: decodeURIComponent('%20' + adFoxParams.mksafe),
+	}, window.puids || {})
+}, ['desktop', 'tablet'], {
+	tabletWidth: 1279,
+	phoneWidth: 767,
+	isAutoReloads: true
+})
+})
+</script>
+<br/>
+<!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: sportMK.ru / * / *-->
+<!--Тип баннера: Тизер №3-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_159857045582424850" style="margin: 0 auto; text-align: center;"></div>
+<script>
+window.yaContextCb.push(()=>{
+window.Ya.adfoxCode.createAdaptive({
+	ownerId: 353925,
+	containerId: 'adfox_159857045582424850',
+	params: Object.assign({
+		pp: 'g',
+		ps: 'ekxp',
+		p2: 'gxuo',
+		pk: decodeURIComponent('%20' + adFoxParams.mksafe),
+	}, window.puids || {})
+}, ['desktop', 'tablet'], {
+	tabletWidth: 1279,
+	phoneWidth: 767,
+	isAutoReloads: true
+})
+})
+</script></div>
+    </section>
+
+    <section class="page__main-articles">
+    <ul class="cards cards_main-articles">
+                <li class="cards__item card card_main-articles">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/igry2026-prezervativy-iz-olimpiyskoy-derevni-ushli-v-internetmagazin-po-vysokim-cenam.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/18/articles/detailPicture/c4/b1/db/a8/de29119a0c64b7fc62c4577dc93ccd42.jpg" alt="Кажется, главная интрига Олимпийских игр в Милане раскрылась не на ледовых аренах, а на сайте объявлений. Пока спортсмены боролись за медали, кто-то решил заработать на более насущных потребностях. Презервативы с логотипом Milano-Cortina 2026 стали продавать на сайте для подержанных товаров. Об этом сообщает Corriere della Sera." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/igry2026-prezervativy-iz-olimpiyskoy-derevni-ushli-v-internetmagazin-po-vysokim-cenam.html">
+                        <h3 class="card__title">Игры-2026: презервативы из олимпийской деревни ушли в интернет-магазин по высоким ценам</h3>
+
+                        <p class="card__description">Игры-2026: презервативы из олимпийской деревни ушли в интернет-магазин по высоким ценам</p>
+                    </a>
+
+                    <p class="meta">
+                                                <time class="meta__data" datetime="2026-02-18 19:01:58">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">343</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_main-articles">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/konec-ery-ofisnykh-chinovnikov-kremlyov-podderzhal-kandidata-na-post-glavy-soyuza-mma-rossii.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/16/articles/detailPicture/41/25/34/36/9161fc1458c0b3c958f6fc3cda97bd15.jpg" alt="В спортивном сообществе продолжается обсуждение кандидатур на должность руководителя Союза ММА России. Выбор главы такой организации всегда сопровождается серьёзной борьбой интересов, однако недавнее заявление президента Международной ассоциации бокса (IBA) Умара Кремлёва может стать решающим фактором в этом процессе. Известный общественный и спортивный деятель выразил поддержку Павлу Карнауху." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/konec-ery-ofisnykh-chinovnikov-kremlyov-podderzhal-kandidata-na-post-glavy-soyuza-mma-rossii.html">
+                        <h3 class="card__title">Конец эры офисных чиновников: Кремлёв поддержал кандидата на пост главы Союза ММА России</h3>
+
+                        <p class="card__description">Конец эры офисных чиновников: Кремлёв поддержал кандидата на пост главы Союза ММА России</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Бокс/ММА</span>
+                                                                            <time class="meta__data" datetime="2026-02-18 17:00:50">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">263</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_main-articles">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/matvey-safonov-vyderzhal-ekzamen-ot-lui-vtorogo-no-ne-bez-poter.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/14/articles/detailPicture/6b/c3/f2/70/c72f54899baa730781bd891dca195b7e.jpg" alt="Европейская столица игорного бизнеса для голкиперов «Пари Сен-Жермен» - это всё равно что остров с сиренами для Одиссея и его команды. Здесь, на стадионе «Луи Второй», постоянно травмируются голкиперы команды. Но Матвей Сафонов отыграл весь матч Лиги чемпионов против местного «Монако», записав себе в пассив два пропущенных гола, но в актив победу на международном турнире. " width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/matvey-safonov-vyderzhal-ekzamen-ot-lui-vtorogo-no-ne-bez-poter.html">
+                        <h3 class="card__title">Матвей Сафонов выдержал экзамен от «Луи Второго», но не без потерь</h3>
+
+                        <p class="card__description">Матвей Сафонов выдержал экзамен от «Луи Второго», но не без потерь</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Футбол</span>
+                                                                            <time class="meta__data" datetime="2026-02-18 14:49:20">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">366</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_main-articles">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/skandaly-protivorechiya-i-novye-pryzhkovye-sorevnovaniya-vstryakhnuli-igry2026.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/19/articles/detailPicture/8c/58/a2/36/e4b47181b367066f9e1ce268d3b9e920.jpg" alt="Странное зрелище, спорные ситуации, вызванные погодой, и ряд неожиданных результатов, которые изменили облик этого вида спорта по мере расширения его олимпийской программы" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/skandaly-protivorechiya-i-novye-pryzhkovye-sorevnovaniya-vstryakhnuli-igry2026.html">
+                        <h3 class="card__title">Скандалы, противоречия и новые прыжковые соревнования встряхнули Игры-2026</h3>
+
+                        <p class="card__description">Прыжки с трамплина оставили заметный след на зимних Олимпийских играх в Италии</p>
+                    </a>
+
+                    <p class="meta">
+                                                <time class="meta__data" datetime="2026-02-17 19:36:16">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">779</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_main-articles">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/zenit-pobedil-krasnodar-pitercy-reabilitiruyutsya-posle-zimnego-kubka.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/21/articles/detailPicture/1d/a5/c6/7c/bae24a2f0becc58f415e3f823469e291.jpg" alt="Конечно, предсезонные матчи для многих вероятно и не самые интересные. Особенно, если «Краснодар» и «Зенит» играют на фоне Олимпиады в Италии. Однако именно в таких матчах команды Российской футбольной Премьер-лиги (РПЛ) проверяют игроков, особенно тех, кого приобрели в межсезонье. И, конечно, если смотреть на эти игры, то такие матчи заставляют нас, живущих в заснеженной России, завидовать им там, на курорте. " width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/zenit-pobedil-krasnodar-pitercy-reabilitiruyutsya-posle-zimnego-kubka.html">
+                        <h3 class="card__title">«Зенит» победил «Краснодар»: питерцы реабилитируются после Зимнего Кубка</h3>
+
+                        <p class="card__description">«Зенит» победил «Краснодар»: питерцы реабилитируются после Зимнего Кубка</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Футбол</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 21:22:12">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">569</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_main-articles">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/chekhiya-i-shveciya-stolknulis-s-neprostym-vyborom-vratarya-na-pleyoff-olimpiady.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/18/articles/detailPicture/93/f6/06/39/19aedad81092ce4c664d21611f3d20a6.jpg" alt="В составе сборных Чехии и Швеции по три вратаря, играющих в НХЛ" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/chekhiya-i-shveciya-stolknulis-s-neprostym-vyborom-vratarya-na-pleyoff-olimpiady.html">
+                        <h3 class="card__title">Чехия и Швеция столкнулись с непростым выбором вратаря на плей-офф Олимпиады</h3>
+
+                        <p class="card__description">Достал и Владар - два варианта против Дании; шведы выбирают между Густавссоном или Маркстрёмом</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Хоккей</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 18:24:14">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">531</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+            </ul>
+</section>
+
+    <section class="page__banner-special special-place">
+    <div class="special-place__wrapper-image">
+        <img class="special-place__image" src="https://static.mk.ru/upload/entities/2026/02/18/23/photoreportsImages/detailPicture/4d/92/84/c0/7a03837f78ce69130e552ca364d0e7b0.jpg" alt="Женская сборная Канады идет за очередным золотом ОИ: главная хоккейная красотка будет болеть">
+    </div>
+
+    <div class="special-place__body">
+        <a class="special-place__link" href="https://www.sportmk.ru/photo/gallery/62504-1225939.html">
+            <h2 class="special-place__title">Женская сборная Канады идет за очередным золотом ОИ: главная хоккейная красотка будет болеть</h2>
+        </a>
+
+        <div class="special-place__description"><p>Женская сборная Канады по хоккею в восьмой раз в истории вышла в финал Олимпийских игр, и ее соперницей снова станет сборная США, которая уже продемонстрировала свою силу, разгромив пятикратных олимпийских чемпионок на групповом этапе со счетом 5:0. Но после болезненного поражения канадки наверняка тщательно проанализировали ошибки, да и ключевая звезда команды, Мари-Филип Пулен, вернулась в строй после травмы и готова защищать чемпионский титул. Финал точно будет напряжённым.</p>
+
+<p>За этим матчем с особым интересом будет следить и главная хоккейная красотка Микайла Демайтер. Бывшая вратарь &laquo;Блюуотер Хокс&raquo; давно завершила профессиональную карьеру, но про любимый спорт не забывает и точно не пропустит решающий матч канадской сборной.</p>
+</div>
+
+        <a class="special-place__button button button_gallery" href="https://www.sportmk.ru/photo/gallery/62504-1225939.html">
+            Перейти в галерею
+            <svg class="button__icon" width="25" height="25"><use xlink:href="#icon-gallery"></use></svg>
+        </a>
+
+        <p class="special-place__meta meta">
+            <time class="meta__data" datetime="2026-02-18 22:33:20">18.02.26</time>
+
+                                                <span class="meta__type">Хоккей</span>
+                            
+            <span class="meta__views">
+            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+            <span class="meta__text">105</span>
+          </span>
+        </p>
+    </div>
+</section>
+
+    <section class="page__picture-day">
+    <h2 class="page__title">Картина дня</h2>
+
+    <ul class="cards cards_more">
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/rodivshaya-mesyac-nazad-sotnikova-pokazala-stroynuyu-figuru-na-selfi.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/17/articles/detailPicture/2d/b7/c9/64/19da838254505068b673c97a0458a700.jpg" alt="Олимпийская чемпионка по фигурному катанию Аделина Сотникова поделилась свежими фото. Спортсменка, родившая второго ребенка в январе 2026 года, уже вернулась в форму." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/rodivshaya-mesyac-nazad-sotnikova-pokazala-stroynuyu-figuru-na-selfi.html">
+                        <h3 class="card__title">Родившая месяц назад Сотникова показала стройную фигуру на селфи</h3>
+
+                        <p class="card__description">Фигуристка снялась в стильном повседневном наряде</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Тайм-аут</span>
+                                                                            <time class="meta__data" datetime="2026-02-18 17:14:54">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">207</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/na-khokkeynom-olimpiyskom-turnire-nachinaetsya-samoe-glavnoe-borba-za-medali.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/11/articles/detailPicture/56/ef/3b/c1/e169daba039c75571a053e9fcf7bf9b3.jpg" alt="И вот их осталось восемь" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/na-khokkeynom-olimpiyskom-turnire-nachinaetsya-samoe-glavnoe-borba-za-medali.html">
+                        <h3 class="card__title">На хоккейном олимпийском турнире начинается самое главное – борьба за медали</h3>
+
+                        <p class="card__description">Групповая стадия прошла скучно и предсказуемо, но впереди – увлекательные четвертьфиналы!</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Хоккей</span>
+                                                                            <time class="meta__data" datetime="2026-02-18 11:07:05">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">525</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/chekhiya-i-shveciya-stolknulis-s-neprostym-vyborom-vratarya-na-pleyoff-olimpiady.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/18/articles/detailPicture/93/f6/06/39/19aedad81092ce4c664d21611f3d20a6.jpg" alt="В составе сборных Чехии и Швеции по три вратаря, играющих в НХЛ" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/chekhiya-i-shveciya-stolknulis-s-neprostym-vyborom-vratarya-na-pleyoff-olimpiady.html">
+                        <h3 class="card__title">Чехия и Швеция столкнулись с непростым выбором вратаря на плей-офф Олимпиады</h3>
+
+                        <p class="card__description">Достал и Владар - два варианта против Дании; шведы выбирают между Густавссоном или Маркстрёмом</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Хоккей</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 18:24:14">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">531</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/milena-shhenyatskaya-v-zheltykh-shtanakh-zazhigatelno-stancevala-na-kameru.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/16/articles/detailPicture/d2/2f/8e/a5/9287974836182acf2394d22eb957e654.jpg" alt="20-летняя художественная гимнастка Милена Щенятская показала, чего добилась в искусстве современного танца. Участница сборной России увлечена джаз-фанком." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/milena-shhenyatskaya-v-zheltykh-shtanakh-zazhigatelno-stancevala-na-kameru.html">
+                        <h3 class="card__title">Милена Щенятская в желтых штанах зажигательно станцевала на камеру</h3>
+
+                        <p class="card__description">Гимнастка поделилась успехами в хобби</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Тайм-аут</span>
+                                                                            <time class="meta__data" datetime="2026-02-18 16:34:45">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">157</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/dzhessika-vinsent-kozyrnula-zhenstvennymi-formami-v-shube-i-mikroshortakh.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/15/articles/detailPicture/69/f5/e9/24/deee1d1bbb121959d9baace69accc366.jpg" alt="Американская футболистка-фристайлер и звезда соцсетей Джессика Винсент провела фотосессию на свежем воздухе. Спортсменка с бразильскими корнями покрасовалась перед камерой в смелом наряде" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/dzhessika-vinsent-kozyrnula-zhenstvennymi-formami-v-shube-i-mikroshortakh.html">
+                        <h3 class="card__title">Джессика Винсент козырнула женственными формами в шубе и микрошортах</h3>
+
+                        <p class="card__description">Футболистка прогулялась по ночным улицам Лос-Анджелеса</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Тайм-аут</span>
+                                                                            <time class="meta__data" datetime="2026-02-18 15:22:03">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">208</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/18/izmenivshayasya-do-neuznavaemosti-potapova-pokazala-luk-dlya-pokhoda-v-kafe.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/13/articles/detailPicture/8b/e5/f6/3a/5c4ff8e9eea38b2241020728a9d5b11a.jpg" alt="В прошлом российская, а теперь австрийская теннисистка Анастасия Потапова поделилась свежими фото. Спортсменку, недавно сменившую стрижку и цвет волос, едва узнали подписчики" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/18/izmenivshayasya-do-neuznavaemosti-potapova-pokazala-luk-dlya-pokhoda-v-kafe.html">
+                        <h3 class="card__title">Изменившаяся до неузнаваемости Потапова показала лук для похода в кафе</h3>
+
+                        <p class="card__description">Теннисистка сфотографировалась в Дубае</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Тайм-аут</span>
+                                                                            <time class="meta__data" datetime="2026-02-18 13:55:22">18.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">184</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/zvezdy-mma-rouzi-i-karano-provedut-poedinok.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/20/articles/detailPicture/46/63/5f/18/6a5765155bb8babfaf447bb347de5db3.jpg" alt="Бывшие бойцы-женщины возобновят карьеру" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/zvezdy-mma-rouzi-i-karano-provedut-poedinok.html">
+                        <h3 class="card__title">Звезды ММА Роузи и Карано проведут поединок</h3>
+
+                        <p class="card__description">Бывшие бойцы-женщины возобновят карьеру</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Бокс/ММА</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 20:04:22">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">284</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/nedavno-vyshedshaya-zamuzh-biryukova-prilnula-k-kareglazomu-krasavcu.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/19/articles/detailPicture/26/9f/ff/24/f19ddef1c2e70db739eb45256e4f4253.jpg" alt="Олимпийская чемпионка по художественной гимнастике Вера Бирюкова поделилась кадрами красивой фотосъемки. Жена певца Тимура Гаязова попозировала на природе." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/nedavno-vyshedshaya-zamuzh-biryukova-prilnula-k-kareglazomu-krasavcu.html">
+                        <h3 class="card__title">Недавно вышедшая замуж Бирюкова прильнула к кареглазому красавцу</h3>
+
+                        <p class="card__description">Гимнастка провела фотосессию с шикарным партнером</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Тайм-аут</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 19:44:18">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">322</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/pszh-vyydet-bez-vratarya-enrike-poshutil-no-safonovu-ne-do-smekha-posle-oshibki-v-renne.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/17/articles/detailPicture/d1/92/39/51/667002c0fea20ef9a98f0f8a7bb7ce90.jpg" alt="Главный тренер французского футбольного клуба «Пари Сен-Жермен» Луис Энрике перед важным матчем позволил себе провокационное заявление. Наставник парижан в шутку предположил, что команда способна выйти на игру раунда плей-офф Лиги чемпионов против Монако даже без голкипера. Такое высказывание было сделано в преддверии встречи, которая состоится во вторник, 17 февраля. Первый матч за выход в 1/8 финала ЛЧ пройдёт в гостях у монегасков и начнётся в 23:00 по московскому времени." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/pszh-vyydet-bez-vratarya-enrike-poshutil-no-safonovu-ne-do-smekha-posle-oshibki-v-renne.html">
+                        <h3 class="card__title">ПСЖ выйдет без вратаря: Энрике пошутил, но Сафонову не до смеха после ошибки в Ренне</h3>
+
+                        <p class="card__description">ПСЖ выйдет без вратаря: Энрике пошутил, но Сафонову не до смеха после ошибки в Ренне</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Футбол</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 17:37:08">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">1239</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/on-budet-umolyat-menya-fyuri-uveren-v-tom-chto-usik-zakhochet-trilogii.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/17/articles/detailPicture/26/1d/f0/79/927e276598ca6c786bda7662e78014c9.jpg" alt="Тяжеловесы уже дважды встречались на ринге" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/on-budet-umolyat-menya-fyuri-uveren-v-tom-chto-usik-zakhochet-trilogii.html">
+                        <h3 class="card__title">"Он будет умолять меня": Фьюри уверен в том, что Усик захочет трилогии</h3>
+
+                        <p class="card__description">Тяжеловесы уже дважды встречались на ринге</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Бокс/ММА</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 17:35:48">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">558</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/ovsyankina-pokazala-umopomrachitelnyy-vid-szadi-snyavshis-v-kupalnike.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/16/articles/detailPicture/85/b1/c7/9d/74b42f02a7b842499ee12e7b613ec15f.jpg" alt="В прошлом российская, а теперь французская фигуристка Алиса Овсянкина опубликовала фотографии с отдыха на острове Маврикий. Спортсменка показала фигуру в купальнике." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/ovsyankina-pokazala-umopomrachitelnyy-vid-szadi-snyavshis-v-kupalnike.html">
+                        <h3 class="card__title">Овсянкина показала умопомрачительный вид сзади, снявшись в купальнике</h3>
+
+                        <p class="card__description">Фигуристка поделилась отпускными фото</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Тайм-аут</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 16:35:13">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">486</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/maddalena-zayavil-o-zhelanii-provesti-eshhe-odin-boy-s-makhachevym.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/12/articles/detailPicture/40/51/90/11/10b3fd9080442cd462c16bc54ab1d8ba.jpg" alt="Австралиец мечтает взять реванш у россиянина." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/maddalena-zayavil-o-zhelanii-provesti-eshhe-odin-boy-s-makhachevym.html">
+                        <h3 class="card__title">Маддалена заявил о желании провести еще один бой с Махачевым</h3>
+
+                        <p class="card__description">Австралиец мечтает взять реванш у россиянина</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Бокс/ММА</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 15:30:00">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">256</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/valieva-ostalas-odna-olimpiada2026-styorla-rossiyskie-rekordy-no-ne-dostizheniya-kamily.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/15/articles/detailPicture/05/5a/2e/39/ea01f1a913a9a0f8636213cca784fcdd.jpg" alt="Мир фигурного катания живет новыми реалиями после завершения соревнований спортивных пар на зимних Олимпийских игр 2026 года в Италии. Итоги турнира внесли коррективы в список обладателей мировых рекордов от России. Камила Валиева осталась единственной российской фигуристкой, которой принадлежат действующие мировые рекорды." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/valieva-ostalas-odna-olimpiada2026-styorla-rossiyskie-rekordy-no-ne-dostizheniya-kamily.html">
+                        <h3 class="card__title">Валиева осталась одна: Олимпиада-2026 стёрла российские рекорды, но не достижения Камилы</h3>
+
+                        <p class="card__description">Валиева осталась одна: Олимпиада-2026 стёрла российские рекорды, но не достижения Камилы</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Фигурное катание</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 15:08:16">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">2820</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/alina-zagitova-kardinalno-smenila-imidzh-i-voskhitila-fanatov.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/14/articles/detailPicture/8f/4f/eb/d6/3bda40e585f664687e1205d153c0bb26.jpg" alt="Обладательница всех главных наград в одиночном фигурном катании Алина Загитова предстала перед подписчиками в обновленном образе. Спортсменка преобразилась, сделав новую стрижку." width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/alina-zagitova-kardinalno-smenila-imidzh-i-voskhitila-fanatov.html">
+                        <h3 class="card__title">Алина Загитова кардинально сменила имидж и восхитила фанатов</h3>
+
+                        <p class="card__description">Фигуристка не устает экспериментировать с внешностью</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Тайм-аут</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 14:10:15">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">402</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+                <li class="cards__item card card_more card_picture-day">
+            <article class="card__article">
+                <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/02/17/stalo-izvestno-kogda-i-gde-sostoitsya-boy-taysona-i-meyvezera.html">
+                    <picture class="card__picture">
+                        <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/11/articles/detailPicture/da/d9/ec/29/6a875635dbad30eb51ec1e16801d1f57.jpg" alt="Боксеры уже достигли договоренности по поводу поединка" width="288" height="174" loading="lazy" />
+                    </picture>
+                </a>
+
+                <div class="card__content">
+                    <a class="card__link" href="https://www.sportmk.ru/sports/2026/02/17/stalo-izvestno-kogda-i-gde-sostoitsya-boy-taysona-i-meyvezera.html">
+                        <h3 class="card__title">Стало известно, когда и где состоится бой Тайсона и Мейвезера</h3>
+
+                        <p class="card__description">Боксеры уже достигли договоренности по поводу поединка</p>
+                    </a>
+
+                    <p class="meta">
+                                                                                    <span class="meta__type">Бокс/ММА</span>
+                                                                            <time class="meta__data" datetime="2026-02-17 13:30:00">17.02.26</time>
+
+                        <span class="meta__views meta__views_mini">
+                          <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                          <span class="meta__text">288</span>
+                        </span>
+                    </p>
+                </div>
+            </article>
+        </li>
+            </ul>
+
+    <a class="button button_more" href="#" data-parentclass="page__picture-day">Показать еще новости</a>
+</section>
+
+    <!--todo most-read-->
+<section class="page__most-read">
+    <h2 class="page__title">Самое читаемое</h2>
+
+    <div class="carousel-inner js-slider">
+        <ul class="cards cards_most-read cards_most-read-carousel">
+                        <li class="cards__item card card_most-read">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/01/31/zhena-pesyakova-edva-umestila-sochnye-formy-v-bodi-s-neskromnym-vyrezom.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/01/28/17/articles/detailPicture/3b/e7/08/1d/456aa679668dd48187dcbea5c6a1b3b5.jpg" alt="Ксения Песьякова – жена, главная поддержка и мать троих детей Сергея Песьякова, футболиста и вратаря команды «Крылья Советов», поделилась горячим контентом. Пышнотелая блондинка снялась на телефон в очень откровенном наряде." width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.sportmk.ru/sports/2026/01/31/zhena-pesyakova-edva-umestila-sochnye-formy-v-bodi-s-neskromnym-vyrezom.html">
+                            <h3 class="card__title">Жена Песьякова едва уместила сочные формы в боди с нескромным вырезом</h3>
+
+                            <p class="card__description">Супруге вратаря есть чем похвастаться</p>
+                        </a>
+
+                        <p class="meta">
+                                                                                                <span class="meta__type">Тайм-аут</span>
+                                                            
+                            <time class="meta__data" datetime="2026-01-31 13:10:41">01.02.26</time>
+
+                            <span class="meta__views">
+                                <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                <span class="meta__text">72886</span>
+                              </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_most-read">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/01/27/kamila-valieva-pokazala-kak-izmenilas-za-desyat-let.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/01/27/11/articles/detailPicture/c2/63/2e/28/be91abd672b391ab4a3faccd81405501.jpg" alt="19-летняя российская фигуристка Камила Валиева не устояла перед трендом, захватившим соцсети. Спортсменка собрала в одном ролике свежие фото и снимки десятилетней давности" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.sportmk.ru/sports/2026/01/27/kamila-valieva-pokazala-kak-izmenilas-za-desyat-let.html">
+                            <h3 class="card__title">Камила Валиева показала, как изменилась за десять лет</h3>
+
+                            <p class="card__description">Фигуристка всегда была милашкой</p>
+                        </a>
+
+                        <p class="meta">
+                                                                                                <span class="meta__type">Тайм-аут</span>
+                                                            
+                            <time class="meta__data" datetime="2026-01-27 11:13:58">27.01.26</time>
+
+                            <span class="meta__views">
+                                <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                <span class="meta__text">43497</span>
+                              </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_most-read">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.sportmk.ru/sports/2026/01/23/levanova-edva-prikryla-prelesti-treugolnichkom-shelkovoy-tkani.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/01/23/12/articles/detailPicture/cb/12/52/f4/45d7d91991ede1cb852eb67362054419.jpg" alt="25-летняя художественная гимнастка Евгения Леванова показала наряд, в котором щеголяла на отдыхе. Пятикратная чемпионка мира выбрала платье с нескромным лифом." width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.sportmk.ru/sports/2026/01/23/levanova-edva-prikryla-prelesti-treugolnichkom-shelkovoy-tkani.html">
+                            <h3 class="card__title">Леванова едва прикрыла прелести треугольничком шелковой ткани</h3>
+
+                            <p class="card__description">Гимнастка выгуляла откровенный наряд</p>
+                        </a>
+
+                        <p class="meta">
+                                                                                                <span class="meta__type">Тайм-аут</span>
+                                                            
+                            <time class="meta__data" datetime="2026-01-23 12:32:54">23.01.26</time>
+
+                            <span class="meta__views">
+                                <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                                <span class="meta__text">23483</span>
+                              </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                    </ul>
+
+        <div class="carousel-inner__nav carousel-inner__nav_most-read">
+            <div class="carousel-inner__dots dots">
+                <button class="dots__button dots__button_active"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+            </div>
+
+            <div class="carousel-inner__control arrow">
+                <button class="arrow__button arrow__button_prev">
+                    <svg class="arrow__icon" width="40px" height="40"><use xlink:href="#icon-arrow"></use> </svg>
+                </button>
+
+                <button class="arrow__button arrow__button_next">
+                    <svg class="arrow__icon arrow__icon_rotate" width="40px" height="40px"><use xlink:href="#icon-arrow"></use></svg>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="good__right adv-banner"><div class="adv-banner__wrapper"><!--AdFox START-->
+<!--yandex_mkruok-->
+<!--Площадка: sportMK.ru / * / *-->
+<!--Тип баннера: 300x600 / 240x400 #3-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_159404209140032749"></div><script>let showBanVert3=function name(params){let childElement=document.querySelector("#adfox_159404209140032749"); if (childElement){let parentElement=childElement.parentNode; let grandparentElement=parentElement.parentNode; grandparentElement.style.display="flex";}else{console.log("Child element not found.");}}; document.addEventListener("DOMContentLoaded", showBanVert3());</script><script>window.yaContextCb.push(()=>{Ya.adfoxCode.create({ownerId: 353925, containerId: "adfox_159404209140032749", params:{pp: "g", ps: "ekxp", p2: "gwjp", pk: decodeURIComponent("%20" + adFoxParams.mksafe),}, lazyLoad:{fetchMargin: 100, mobileScaling: 2,},});});</script></div></div>
+</section>
+
+    <!--todo gallery-->
+<section class="page__gallery">
+    <h2 class="page__title">Фоторепортажи</h2>
+
+    <div class="page__gallery-carousel carousel-inner js-slider">
+        <ul class="cards cards_carousel">
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/61457-1205861.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/01/14/22/photoreportsImages/announcePicture/09/d1/f8/62/ddbef0607cc4d2f75cd172b1d30dfccb.jpg"
+                                     alt="«Осторожно! Это очень Красиво»: Медведева покорила поклонников образом в красном" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/61457-1205861.html">
+                                <h3 class="card__title">«Осторожно! Это очень Красиво»: Медведева покорила поклонников образом в красном</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                                                                                            <span class="meta__type">Фигурное катание</span>
+                                                                    
+                                <time class="meta__data" datetime="2026-01-14 21:56:15">14.01.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">48158</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62504-1225939.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/23/photoreportsImages/announcePicture/fe/19/09/eb/d9c5751f674a7337be2dc4935725a734.jpg"
+                                     alt="Женская сборная Канады идет за очередным золотом ОИ: главная хоккейная красотка будет болеть" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62504-1225939.html">
+                                <h3 class="card__title">Женская сборная Канады идет за очередным золотом ОИ: главная хоккейная красотка будет болеть</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                                                                                            <span class="meta__type">Хоккей</span>
+                                                                    
+                                <time class="meta__data" datetime="2026-02-18 22:33:20">18.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">104</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62501-1225814.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/19/photoreportsImages/announcePicture/a0/df/55/71/4f20df25656d4d81e7161e815c436dc7.jpg"
+                                     alt="«Я выиграла»: Шиффрин преодолела страх и взяла свое третье олимпийское золото" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62501-1225814.html">
+                                <h3 class="card__title">«Я выиграла»: Шиффрин преодолела страх и взяла свое третье олимпийское золото</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                
+                                <time class="meta__data" datetime="2026-02-18 19:16:27">18.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">291</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62496-1225772.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/17/photoreportsImages/announcePicture/0e/4a/27/3b/6958f646647fcb4a4ea98683e3d02eaa.jpg"
+                                     alt="Футболисты «Бенфики» издевались над Винисиусом весь второй тайм: бразильская красавица его утешит" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62496-1225772.html">
+                                <h3 class="card__title">Футболисты «Бенфики» издевались над Винисиусом весь второй тайм: бразильская красавица его утешит</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                                                                                            <span class="meta__type">Футбол</span>
+                                                                    
+                                <time class="meta__data" datetime="2026-02-18 17:10:43">18.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">163</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62491-1225705.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/15/photoreportsImages/announcePicture/30/4e/61/81/5aa4e050477435a293bbcf61fa6368a3.jpg"
+                                     alt="Софья Самоделкина отмечает день рождения: фото очаровательной фигуристки" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62491-1225705.html">
+                                <h3 class="card__title">Софья Самоделкина отмечает день рождения: фото очаровательной фигуристки</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                                                                                            <span class="meta__type">Фигурное катание</span>
+                                                                    
+                                <time class="meta__data" datetime="2026-02-18 14:47:50">18.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">251</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62479-1225446.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/03/photoreportsImages/announcePicture/83/37/57/dc/c2a3a15ea93f901537e56a36b5160795.jpg"
+                                     alt="Японки лидируют, Петросян выйдет в сильнейшей разминке: фото лучшей пятерки фигуристок" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62479-1225446.html">
+                                <h3 class="card__title">Японки лидируют, Петросян выйдет в сильнейшей разминке: фото лучшей пятерки фигуристок</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                                                                                            <span class="meta__type">Фигурное катание</span>
+                                                                    
+                                <time class="meta__data" datetime="2026-02-18 02:49:17">18.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">12436</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62478-1225436.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/02/photoreportsImages/announcePicture/32/1a/6e/89/0b0701cd566283d02f09d1f8a9fe71be.jpg"
+                                     alt="«Реал» минимально обыграл «Бенфику», Сафонов пропустил два: лучшие фото матчей Лиги чемпионов" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62478-1225436.html">
+                                <h3 class="card__title">«Реал» минимально обыграл «Бенфику», Сафонов пропустил два: лучшие фото матчей Лиги чемпионов</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                                                                                            <span class="meta__type">Футбол</span>
+                                                                    
+                                <time class="meta__data" datetime="2026-02-18 02:19:23">18.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">338</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62475-1225411.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/20/photoreportsImages/announcePicture/3b/2c/db/56/cc6a5f4250acc65a6fb145862b9f87a6.jpg"
+                                     alt="Девушка Ольмо решилась на смелый шаг и стала сенсацией: фото немецкой красавицы" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62475-1225411.html">
+                                <h3 class="card__title">Девушка Ольмо решилась на смелый шаг и стала сенсацией: фото немецкой красавицы</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                                                                                            <span class="meta__type">Футбол</span>
+                                                                    
+                                <time class="meta__data" datetime="2026-02-17 19:52:44">17.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">480</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+                            <li class="cards__item card card_more">
+                    <article class="card__article">
+                        <a class="card__link-img" href="//www.sportmk.ru/photo/gallery/62472-1225317.html">
+                            <picture class="card__picture">
+                                <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/18/photoreportsImages/announcePicture/a0/f7/35/73/c9ba0cfee7b8c229c48dc9cd0c20a540.jpg"
+                                     alt="Олимпийская чемпионка получит приличные деньги за расстёгнутую кофточку: фото нидерландской красотки" width="288" height="174" loading="lazy"/>
+                            </picture>
+                        </a>
+
+                        <div class="card__content">
+                            <a class="card__link" href="//www.sportmk.ru/photo/gallery/62472-1225317.html">
+                                <h3 class="card__title">Олимпийская чемпионка получит приличные деньги за расстёгнутую кофточку: фото нидерландской красотки</h3>
+                                                            </a>
+
+                            <p class="meta">
+                                
+                                <time class="meta__data" datetime="2026-02-17 18:19:31">17.02.26</time>
+
+                                <span class="meta__views">
+                                    <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+                                    <span class="meta__text">646</span>
+                                </span>
+                            </p>
+                        </div>
+                    </article>
+                </li>
+            
+        </ul>
+
+        <div class="carousel-inner__nav">
+            <div class="carousel-inner__dots dots">
+                <button class="dots__button dots__button_active"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+            </div>
+
+            <div class="carousel-inner__control arrow">
+                <button class="arrow__button arrow__button_prev">
+                    <svg class="arrow__icon" width="40px" height="40">
+                        <use xlink:href="#icon-arrow"></use>
+                    </svg>
+                </button>
+
+                <button class="arrow__button arrow__button_next">
+                    <svg class="arrow__icon arrow__icon_rotate" width="40px" height="40px">
+                        <use xlink:href="#icon-arrow"></use>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+</section>
+    <section class="page__video">
+    <h2 class="page__title">Видео</h2>
+
+    <div class="page__video-carousel carousel-inner js-slider">
+        <ul class="cards cards_carousel">
+                        <li class="cards__item card card_more cards__item_large card_large">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/18/v-tatarstane-pod-tyazhestyu-snega-rukhnula-krysha-skladskogo-kompleksa-video.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/15/videos/pictureBig/fa/ae/aa/6b/c14fd33bef95a858f9c298ea3586d38b.jpg" alt="В Татарстане под тяжестью снега рухнула крыша складского комплекса: видео" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/18/v-tatarstane-pod-tyazhestyu-snega-rukhnula-krysha-skladskogo-kompleksa-video.html">
+                            <h3 class="card__title">В Татарстане под тяжестью снега рухнула крыша складского комплекса: видео</h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-18 15:46:41">18.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">1449</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/18/adeliya-petrosyan-voshla-v-gruppu-silneyshikh-figuristok-na-olimpiade.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/15/videos/pictureBig/c7/31/4f/f2/b8e715cd1c3b53c20180ea0d1657e3b7.jpg" alt="Аделия Петросян вошла в группу сильнейших фигуристок на Олимпиаде " width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/18/adeliya-petrosyan-voshla-v-gruppu-silneyshikh-figuristok-na-olimpiade.html">
+                            <h3 class="card__title">Аделия Петросян вошла в группу сильнейших фигуристок на Олимпиаде </h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-18 15:24:18">18.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">1763</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/18/guf-priekhal-v-podmoskovnyy-sud-na-ocherednoe-zasedanie-po-delu-o-grabezhe.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/14/videos/pictureBig/b7/7a/df/71/33db9860746a9aa5754723e85da03b27.jpg" alt="Гуф приехал в подмосковный суд на очередное заседание по делу о грабеже" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/18/guf-priekhal-v-podmoskovnyy-sud-na-ocherednoe-zasedanie-po-delu-o-grabezhe.html">
+                            <h3 class="card__title">Гуф приехал в подмосковный суд на очередное заседание по делу о грабеже</h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-18 14:35:36">18.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">1156</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/18/oge-novyy-etap-chto-zhdyot-vypusknikov-i-shkolu-zavtra.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/11/videos/pictureBig/9e/52/7e/3d/b19bcb94b2109019773eb14007224967.jpg" alt="ОГЭ: новый этап Что ждёт выпускников и школу завтра?" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/18/oge-novyy-etap-chto-zhdyot-vypusknikov-i-shkolu-zavtra.html">
+                            <h3 class="card__title">ОГЭ: новый этап Что ждёт выпускников и школу завтра?</h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-18 12:58:00">18.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">960</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/18/srazu-dve-narkolaboratorii-po-proizvodstvu-sintetiki-likvidirovala-policiya.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/18/10/videos/pictureBig/17/fd/48/fc/d5b13d4cea4eb8afa16a76701baf3ddd.jpg" alt="Сразу две нарколаборатории по производству «синтетики» ликвидировала полиция" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/18/srazu-dve-narkolaboratorii-po-proizvodstvu-sintetiki-likvidirovala-policiya.html">
+                            <h3 class="card__title">Сразу две нарколаборатории по производству «синтетики» ликвидировала полиция</h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-18 10:01:17">18.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">1687</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/17/aktrisa-stasya-miloslavskaya-priznalas-chto-ona-egoistka.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/15/videos/pictureBig/52/2d/1a/64/1fef3c26a17350d134313cfe6f0b730e.jpg" alt="Актриса Стася Милославская призналась, что она эгоистка " width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/17/aktrisa-stasya-miloslavskaya-priznalas-chto-ona-egoistka.html">
+                            <h3 class="card__title">Актриса Стася Милославская призналась, что она эгоистка </h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-17 15:25:05">17.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">2697</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/17/belorusskaya-aktrisa-tasha-belaya-vyshla-v-svet-posle-konflikta-s-yanoy-koshkinoy.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/14/videos/pictureBig/b2/ca/c3/62/b789e4d75c1f3b45e56c2c100dd5c2e1.jpg" alt="Белорусская актриса Таша Белая вышла в свет после конфликта с Яной Кошкиной" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/17/belorusskaya-aktrisa-tasha-belaya-vyshla-v-svet-posle-konflikta-s-yanoy-koshkinoy.html">
+                            <h3 class="card__title">Белорусская актриса Таша Белая вышла в свет после конфликта с Яной Кошкиной</h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-17 14:54:21">17.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">2986</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/17/skazal-chto-otravilas-mogla-li-pervaya-zhena-petrovakomarova-stat-ego-zhertvoy.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/14/videos/pictureBig/ab/1f/84/76/f8548c071d638a5ec89ae38afff4997d.jpg" alt="«Сказал, что отравилась»: могла ли первая жена Петрова-Комарова стать его жертвой" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/17/skazal-chto-otravilas-mogla-li-pervaya-zhena-petrovakomarova-stat-ego-zhertvoy.html">
+                            <h3 class="card__title">«Сказал, что отравилась»: могла ли первая жена Петрова-Комарова стать его жертвой</h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-17 14:17:46">17.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">2555</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                        <li class="cards__item card card_more ">
+                <article class="card__article">
+                    <a class="card__link-img" href="https://www.mk.ru/video/2026/02/17/ob-olimpiade.html">
+                        <picture class="card__picture">
+                            <img class="card__image" src="https://static.mk.ru/upload/entities/2026/02/17/13/videos/pictureBig/04/85/57/61/b24e5cfa4e974406ddee7416df2550e6.jpg" alt="Японцы Миура и Кихара стали олимпийскими чемпионами со скандалом" width="288" height="174" loading="lazy" />
+                        </picture>
+                    </a>
+
+                    <div class="card__content">
+                        <a class="card__link" href="https://www.mk.ru/video/2026/02/17/ob-olimpiade.html">
+                            <h3 class="card__title">Японцы Миура и Кихара стали олимпийскими чемпионами со скандалом</h3>
+                                                    </a>
+
+                        <p class="meta">
+                            
+                            <time class="meta__data" datetime="2026-02-17 13:39:57">17.02.26</time>
+
+                            <span class="meta__views">
+                            <svg class="meta__icon" width="19" height="11"><use xlink:href="#icon-views"></use></svg>
+
+                            <span class="meta__text">2149</span>
+                          </span>
+                        </p>
+                    </div>
+                </article>
+            </li>
+                    </ul>
+
+        <div class="carousel-inner__nav">
+            <div class="carousel-inner__dots dots">
+                <button class="dots__button dots__button_active"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+
+                <button class="dots__button"></button>
+            </div>
+
+            <div class="carousel-inner__control arrow">
+                <button class="arrow__button arrow__button_prev">
+                    <svg class="arrow__icon" width="40px" height="40">
+                        <use xlink:href="#icon-arrow"></use>
+                    </svg>
+                </button>
+
+                <button class="arrow__button arrow__button_next">
+                    <svg class="arrow__icon arrow__icon_rotate" width="40px" height="40px">
+                        <use xlink:href="#icon-arrow"></use>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </div>
+</section>
+</div>
+    <footer class="footer">
+    <div class="footer__wrapper">
+        <div class="footer__company">
+            <p class="footer__company-name">Московский Комсомолец<br/> Спорт</p>
+
+            <span class="footer__company-year">© 2026</span>
+        </div>
+
+        <div class="footer__menu1">
+            <a href="#">Информация о копирайте</a>
+            <a href="#">Условия использования</a>
+            <a href="#">Предупреждение об использовании файлов cookie</a>
+            <a href="https://www.sportmk.ru/upload/static-page/conf-policy.pdf">Политика конфиденциальности</a>
+        </div>
+
+        <div class="footer__nav footer__nav_sport">
+            <h2 class="footer__nav-title">Новости по видам спорта</h2>
+            <ul class="footer__nav-list">
+                                    <li><a href="https://www.sportmk.ru/sports/football/" class="footer__nav-link">Футбол</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/hockey/" class="footer__nav-link">Хоккей</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/fights/" class="footer__nav-link">Бокс/ММА</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/figure/" class="footer__nav-link">Фигурное катание</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/tennis/" class="footer__nav-link">Теннис</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/basketball/" class="footer__nav-link">Баскетбол</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/racing/" class="footer__nav-link">Авто/Мото</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/biathlon/" class="footer__nav-link">Биатлон</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/wc2022/" class="footer__nav-link">ЧМ-2022</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/wc2022/matches/" class="footer__nav-link">Матчи</a></li>
+                                <li><a href="https://www.sportmk.ru/photo/" class="footer__nav-link">Медиа</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/wc2022/stadiums/" class="footer__nav-link">Стадионы</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/wc2022/teams/" class="footer__nav-link">Команды</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/wc2022/history/" class="footer__nav-link">История</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/timeout/" class="footer__nav-link">Тайм-аут</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/others/" class="footer__nav-link">Другие</a></li>
+                                                        <li><a href="https://www.sportmk.ru/sports/kubokrossii/media/" class="footer__nav-link">Медиа</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/kubokrossii/heroes/" class="footer__nav-link">Герои</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/kubokrossii/stadiums/" class="footer__nav-link">Стадионы</a></li>
+                                <li><a href="https://www.sportmk.ru/sports/kubokrossii/final/" class="footer__nav-link">Финал</a></li>
+            </ul>        </div>
+
+        <div class="footer__nav nav-footer footer__nav_advertisers">
+            <h2 class="footer__nav-title">Рекламодателям</h2>
+
+            <ul class="footer__nav-list">
+                        <li><a href="https://www.mk.ru/ad/" class="footer__nav-link">Реклама</a></li>
+                                <li><a href="http://ok.mk.ru/" class="footer__nav-link">РИА "O'Кей"</a></li>
+                                <li><a href="https://www.mk.ru/agentstvo_mk/" class="footer__nav-link">Агентство МК</a></li>
+                                <li><a href="http://mediaservice.mk.ru/" class="footer__nav-link">МК.Медиа-Сервис</a></li>
+                                <li><a href="https://www.mk.ru/mk-service/" class="footer__nav-link">МК-Сервис</a></li>
+                                <li><a href="https://www.mk.ru/app/" class="footer__nav-link">МК-Агентство Продвижения Прессы</a></li>
+            </ul>        </div>
+
+        <div class="footer__nav nav-footer footer__nav_all">
+            <h2 class="footer__nav-title">Весь сайт</h2>
+
+            <ul class="footer__nav-list">
+                <li class="footer__nav-item"><a class="footer__nav-link" href="/news/">Новости</a></li>
+                <li class="footer__nav-item"><a class="footer__nav-link" href="/match-center/">Матч-центр</a></li>
+                <li class="footer__nav-item"><a class="footer__nav-link" href="/photo/">Фото</a></li>
+                <li class="footer__nav-item"><a class="footer__nav-link" href="/video/">Видео</a></li>
+            </ul>
+        </div>
+
+        <hr class="footer__hr"/>
+
+        <!--  -->
+				<div class="footer__social">
+    		  <h2 class="footer-soc__title">МК Спорт в соцсетях</h2>
+    		  <ul class="footer-soc__list">
+    		    <li class="footer-soc__item"><a class="footer-soc__link" href="https://t.me/MK_SportMK">Телеграм
+    		        <svg class="footer-soc__icon" width="22" height="22">Телеграм
+    		          <use xlink:href="#icon-tg"></use>
+    		        </svg></a></li>
+    		    <li class="footer-soc__item"><a class="footer-soc__link" href="https://dzen.ru/sportmk">Яндекс Дзен
+    		        <svg class="footer-soc__icon" width="22" height="22">Яндекс Дзен
+    		          <use xlink:href="#icon-dzen"></use>
+    		        </svg></a></li>
+    		  </ul>
+    		</div>
+
+        <hr class="footer__hr"/>
+
+                <div class="footer__copyright">
+            <p class="footer__text">
+                <strong>Соблюдение авторских прав:</strong>
+
+                Все права на материалы, опубликованные на сайте <a href="https://www.sportmk.ru">www.sportmk.ru</a>, принадлежат редакции и охраняются в соответствии с законодательством РФ.
+Использование материалов, опубликованных на сайте <a href="https://www.sportmk.ru">www.sportmk.ru</a> допускается только с письменного разрешения правообладателя и с обязательной прямой гиперссылкой на страницу, с которой материал заимствован. Гиперссылка должна размещаться непосредственно в тексте, воспроизводящем оригинальный материал <a href="https://www.sportmk.ru">sportmk.ru</a>, до или после цитируемого блока.            </p>
+
+	          <p class="footer__text">
+		          На данном сайте использованы изображения из открытых источников:
+		          <a href="https://ru.freepik.com/free-photo/soccer-game-concept_94777582.htm#fromView=search&page=1&position=26&uuid=86f814a3-58b1-4fd3-8c81-79cc69d62008?log-in=google" target="_blank">1</a>,
+		          <a href="https://ru.freepik.com/free-photo/soccer-player-with-ball-during-the-game_69846807.htm#fromView=search&page=1&position=19&uuid=86f814a3-58b1-4fd3-8c81-79cc69d62008" target="_blank">2</a>,
+		          <a href="https://ru.freepik.com/free-photo/soccer-players-huddling-and-celebrating-victory-together_69846383.htm#fromView=search&page=3&position=50&uuid=d7053e26-58a0-4dfe-9d76-cb71692aa630" target="_blank">3</a>,
+		          <a href="https://ru.freepik.com/free-photo/soccer-player-with-ball-during-the-game_69846818.htm#fromView=search&page=2&position=3&uuid=6b48a0c9-66d7-4155-b247-c52025bf8ff6" target="_blank">4</a>,
+		          <a href="https://ru.freepik.com/free-photo/male-soccer-player-with-ball-on-the-grass-field_69846021.htm#fromView=search&page=5&position=51&uuid=b8496b26-ac66-40ca-82dc-cbbbbf8dee02" target="_blank">5</a>,
+		          <a href="https://www.freepik.es/foto-gratis/concepto-juego-futbol_94779161.htm?log-in=google" target="_blank">6</a>,
+		          <a href="https://ru.freepik.com/free-photo/view-of-soccer-ball-on-the-field_96363742.htm#fromView=search&page=1&position=27&uuid=6e5c5a03-05a3-41a8-bde3-04fe12d240af" target="_blank">7</a>,
+		          <a href="https://ru.freepik.com/free-photo/soccer-game-concept_94779161.htm#fromView=search&page=1&position=49&uuid=6e5c5a03-05a3-41a8-bde3-04fe12d240af" target="_blank">8</a>
+	          </p>
+        </div>
+
+        <div class="footer__legal-information">
+            <p class="footer__text">
+                <strong>Для читателей:</strong>
+
+                
+В России признаны экстремистскими и запрещены организации ФБК (Фонд борьбы с коррупцией, признан иноагентом), Штабы Навального, «Национал-большевистская партия», «Свидетели Иеговы», «Армия воли народа», «Русский общенациональный союз», «Движение против нелегальной иммиграции», «Правый сектор», УНА-УНСО, УПА, «Тризуб им. Степана Бандеры», «Мизантропик дивижн», «Меджлис крымскотатарского народа», движение «Артподготовка», движение ЛГБТ, общероссийская политическая партия «Воля», АУЕ, батальоны «Азов» и «Айдар». Признаны террористическими и запрещены: «Движение Талибан», «Имарат Кавказ», «Исламское государство» (ИГ, ИГИЛ), Джебхад-ан-Нусра, «АУМ Синрике», «Братья-мусульмане», «Аль-Каида в странах исламского Магриба», «Сеть», «Колумбайн». В РФ признана нежелательной деятельность «Открытой России», издания «Проект Медиа». СМИ-иноагентами признаны: телеканал «Дождь», «Медуза», «Важные истории», «Голос Америки», радио «Свобода», The Insider, «Медиазона», ОВД-инфо. Иноагентами признаны общество/центр «Мемориал», «Аналитический Центр Юрия Левады», Сахаровский центр. Instagram и Facebook (Metа) запрещены в РФ за экстремизм.
+                    </p>
+        </div>
+
+        <div class="footer__about">
+            <p>&copy; АO &quot;Редакция газеты &quot;Московский Комсомолец&quot; Сетевое издание &laquo;МК-Спорт&raquo; 16+</p>
+                      <p>Зарегистрировано Федеральной службой по надзору в сфере связи, информационных технологий и массовых коммуникаций (Роскомнадзор). Регистрационный номер Эл №ФС77-79310 Редакция - АO "Редакция газеты "Московский Комсомолец". Адрес редакции: 125993, г. Москва, ул. 1905 года, д. 7, стр. 1. Телефон: +7(495)609-44-44, +7(495)609-44-33, +7(495)781-47-37, e-mail info@mk.ru. Главный редактор и учредитель - П.Н. Гусев.
+                      &nbsp;<a href="https://www.mk.ru/reklama-tretih-storon/">Реклама третьих сторон</a></p>
+                    </div>
+
+        <div class="footer__counter">
+            			<!--LiveInternet logo--><a href="http://www.liveinternet.ru/click;mk"
+target="_blank" rel="nofollow"><img pagespeed_no_defer src="//counter.yadro.ru/logo;mk?17.3"
+title="LiveInternet: показано число просмотров за 24 часа, посетителей за 24 часа и за сегодня"
+alt="" border="0" width="88" height="31"/></a><!--/LiveInternet-->
+
+<!-- Rating@Mail.ru counter -->
+<img src="//top-fwz1.mail.ru/counter?id=391164;js=na" style="border:0;position:absolute;left:-9999px;" alt="" />
+<!-- //Rating@Mail.ru counter -->
+
+<!-- Rating@Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=391164" rel="nofollow" target="_blank">
+<img src="//top-fwz1.mail.ru/counter?id=391164;t=441;l=1" 
+style="border:0; margin-left:-5px;" height="31" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+
+<script>
+  // LI.RU
+  ('MKCounterCallbacksOnHit' in window) || (window.MKCounterCallbacksOnHit = []);
+  window.MKCounterCallbacksOnHit.push(function(){
+    new Image().src = "//counter.yadro.ru/hit;"+((location.href.indexOf('.sportmk.ru')!==-1)||(location.href.indexOf('www.mk.ru')!==-1)?"mk":"mk/regions")+"?r"+
+    escape(document.referrer)+((typeof(screen)=="undefined")?"":
+    ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+    ";h"+escape(document.title.substring(0,80))+
+    ";"+Math.random();
+  });
+  // Mail
+  ('MKCounterCallbacksOnHit' in window) || (window.MKCounterCallbacksOnHit = []);
+  window.MKCounterCallbacksOnHit.push(function(){
+    new Image().src = '//top-fwz1.mail.ru/counter?id=391164;js=na';
+  });
+</script>
+			<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(53006047, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/53006047" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+			<!--  20 идей -->
+<script>
+  var oldSrc = 'https://static.mk.ru/upload/entities/2022/04/28/19/stories/backgroundImage/d3/e3/8a/80/082df287822bfa6208aa0bbac3af6432.jpg';
+  var secondOldSrc = 'https://static.mk.ru/upload/entities/2022/04/28/10/stories/detailPicture/83/ba/09/3e/2e4751c0582f7a83b2ba27e90cdf98a2.jpg';
+  // сюжет
+  var previewImg = document.querySelector('.article-grid .main-story__preview img');
+  if (previewImg && previewImg.src === secondOldSrc) {
+    previewImg.src = 'https://www.mk.ru/upload/spec/20idei_2.png';
+    previewImg.style.height = '100%';
+    //previewImg.style.display = 'block';
+  }
+  // главная
+  var imgList = document.querySelectorAll('.top-stories img');
+  if (imgList.length > 0) {
+    imgList.forEach((img) => {
+      if (img.src === oldSrc) {
+        img.src = 'https://www.mk.ru/upload/spec/20idei_2.png';
+      }
+    });
+  }
+</script>			<script async data-lazy="https://cdn.skcrtxr.com/roxot-wrapper/js/roxot-manager.js?pid=81cbd0d7-ad22-4465-bee1-efc2cbf3e548"></script>
+<script async data-lazy="https://content.adriver.ru/AdRiverFPS.js"></script>
+<script async data-lazy="https://tube.buzzoola.com/js/lib/buzzoola_ext.js"></script>
+<script async data-lazy="https://privacy-cs.mail.ru/static/sync-loader.js"></script>
+<script>
+function getSyncId(){try{return JSON.parse(localStorage.getItem("rb_sync_id")).fpid||""}catch(t){return""}}
+</script>	
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	var yaParamsNode = document.querySelector(`.yandex-metrika-article-info`);
+	var tempParams = {};
+	var yaParams = {};
+	if (yaParamsNode && yaParamsNode.textContent) {
+		tempParams = JSON.parse(yaParamsNode.textContent);
+		if (tempParams['Author']) {
+			yaParams = JSON.parse(yaParamsNode.textContent);
+		}
+	}
+	console.log('yaParams', yaParams);
+
+	(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+		m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	(window, document,'script','//mc.yandex.ru/metrika/tag.js', 'ym');
+
+	try {
+		ym(1598573, 'init', {params:yaParams, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true});
+			} catch(e) { }
+
+	('MKCounterCallbacksOnHit' in window) || (window.MKCounterCallbacksOnHit = []);
+	window.MKCounterCallbacksOnHit.push(function(){
+		('ym' in window) && ym(1598573, 'hit', document.URL);
+		});
+</script>
+<noscript>
+	<div>
+		<img src="//mc.yandex.ru/watch/1598573?ut=noindex" />
+			</div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+        </div>
+    </div>
+</footer>
+
+    <!-- isReachBannerAllowed -->
+        
+    <!-- /isReachBannerAllowed -->
+
+    <script type="module" src="/media/sportmk/js/bundle.51d36b6a.js"></script>
+
+    <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+    <script nomodule id="vite-legacy-polyfill" src="/media/sportmk/js/polyfills-legacy.5dd852f2.js"></script>
+    <script nomodule id="vite-legacy-entry" data-src="/media/sportmk/js/bundle-legacy.bbd088f4.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+</body>
+</html>

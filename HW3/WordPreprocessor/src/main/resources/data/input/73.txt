@@ -1,0 +1,2221 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+ <meta charset="UTF-8" />
+ <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+ <title>Футбольный портал Bobsoccer — Новости, Аналитика, Обзоры Матчей</title>
+ <meta name="description" content="Добро пожаловать на Bobsoccer.ru! Здесь вы найдете свежие футбольные новости, аналитические статьи, обзоры матчей и интервью с игроками. Следите за событиями в мире футбола вместе с нами!" />
+
+ <link rel="canonical" href="https://bobsoccer.ru" />
+
+ <link rel="preload" href="/jas/style.css?ver=1.127" as="style">
+ <link rel="stylesheet" href="/jas/style.css?ver=1.127">
+ <link rel="stylesheet" href="/jas/common.css?ver=1.127">
+
+ <link rel="preconnect" href="//www.gstatic.com" crossorigin>
+ <link rel="preconnect" href="//an.yandex.ru" crossorigin>
+ <link rel="preconnect" href="//yastatic.net" crossorigin>
+ <link rel="preconnect" href="//s3.amazonaws.com" crossorigin>
+
+ <link rel="apple-touch-icon" sizes="180x180" href="/img/icon/apple-touch-icon.png">
+ <link rel="icon" type="image/png" sizes="32x32" href="/img/icon/favicon-32x32.png">
+ <link rel="icon" type="image/png" sizes="16x16" href="/img/icon/favicon-16x16.png">
+ <link rel="manifest" href="/img/icon/site.webmanifest">
+ <link rel="mask-icon" href="/img/icon/safari-pinned-tab.svg" color="#5bbad5">
+ <link rel="shortcut icon" href="/img/icon/favicon.ico">
+ <meta name="msapplication-TileColor" content="#2d89ef">
+ <meta name="msapplication-config" content="/img/icon/browserconfig.xml">
+ <meta name="theme-color" content="#ffffff">
+
+ <script>window.yaContextCb = window.yaContextCb || []</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-11035120-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-11035120-1');
+</script>
+
+
+<meta property="og:url" content="https://bobsoccer.ru/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Футбольный портал Bobsoccer — Новости, Аналитика, Обзоры Матчей" />
+<meta property="og:description" content="Добро пожаловать на Bobsoccer.ru! Здесь вы найдете свежие футбольные новости, аналитические статьи, обзоры матчей и интервью с игроками. Следите за событиями в мире футбола вместе с нами!" />
+<meta property="og:image" content="<page_meta_image />" />
+<meta property="fb:app_id" content="331242016928148" />
+
+
+<!-- advertronic -->
+<link rel="preconnect" href="https://cdn.advertronic.io">
+<link rel="preload" href="https://cdn.advertronic.io/b/d4a9f568-40d1-4042-acc1-79cabf6cf4ac.json" as="fetch" type="application/json" crossorigin>
+<script src="https://cdn.advertronic.io/j/s.js" type="module" async></script>
+<script>
+    (window.advertronic = window.advertronic || {cmd:[]}).cmd.push({
+        init:{userId: 'd4a9f568-40d1-4042-acc1-79cabf6cf4ac'}
+    });
+</script>
+<!--/ advertronic -->
+
+</head>
+<body class="js Body ">
+
+<div id="Fullscreen_Mobile_new"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 695151,
+            containerId: 'Fullscreen_Mobile_new',
+            type: 'fullscreen',
+            platform: 'touch',
+            params: {
+                p1: 'dkbmw',
+                p2: 'hiuq'
+            }
+        })
+    })
+</script><div id="Fullscreen_Desktop_new"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 695151,
+            containerId: 'Fullscreen_Desktop_new',
+            type: 'fullscreen',
+            platform: 'desktop',
+            params: {
+                p1: 'dkbmu',
+                p2: 'hiuq'
+            }
+        })
+    })
+</script>
+<div class="catfish-place__top">
+  <a href="#!" class="js Close fa fa-close-o"></a>
+  <div id="adfox_174411558958294418"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_174411558958294418',
+            params: {
+                p1: 'dhehf',
+                p2: 'y'
+            }
+        }, ['desktop'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script>
+</div><header>
+    <div class="menu-top">
+        <div class="page-size clear">
+            <ul role="navigation">
+              <li><a href="/rules/">Правила</a></li>
+              <li><a href="/transfers/" class="selected">Трансферы</a></li>
+              <li><a href="/results/">Расписание и результаты</a></li>
+              <li><a href="/forecast/">Конкурс прогнозов</a></li>
+              <li><a href="/teams/">Команды</a></li>
+              <li><a href="/players/">Игроки</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="js Floating header" onclick="return { indent: 50 }">
+        <div class="page-size">
+            <a href="/" class="logo"><img src="/img/logo.svg"></a>
+            <div class="header-navigation">
+                <a href="#!" class="js MobileMenu fa fa-menu" onclick="return { panel: 'menu-main' };"></a>
+
+                
+                <div class="menu-main" id="menu-main">
+                    <ul role="navigation">
+                        <li><a href="/news/">Новости</a></li>
+                        <li><a href="/bets/">Прогнозы</a></li>
+                        <li><a href="/blogs/">Блоги</a></li>
+                        <li>
+
+<div itemscope itemtype="https://schema.org/WebSite">
+  <link itemprop="url" href="https://bobsoccer.ru"/>
+  <form action="/search/" class="search-row" id="search-row" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction">
+    <meta itemprop="target" content="https://bobsoccer.ru/search/?sq={query}"/>
+    <div class="text-field" id="search-row-text">
+      <input name="sq" id="sq" type="text" value="" itemprop="query">
+      <input type="submit" style="display: none" />
+    </div>
+    <a href="/search/" class="js SearchRow fa fa-search" onclick="return { id: 'search-row-text', className: 'visible' }"></a>
+  </form>
+</div>
+
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="menu-user">
+  <ul role="navigation">
+
+    
+          <li class="user-panel">
+        <a href="#!" class="js classHttp none" onclick="return { target: 'Users', c: 'classUsers', m: 'Users', params: { udo: 'enter' }, center: true };"><i class="fa fa-user fa-fw"></i>Вход</a>
+      </li>
+    
+  </ul>
+</div>
+
+            </div>
+        </div>
+    </div>
+</header>
+<div class="content-background">
+
+        <div class="page-size">
+      <div class="js Slider anounce-comment-list" onclick="return { autoscroll: 6000, animationInLeft: 'fadeInLeftFast', animationInRight: 'fadeInRightFast', animationOutLeft: 'fadeOutLeftFast', animationOutRight: 'fadeOutRightFast' };">
+        <div class="slider-frame">
+
+        <div class="action-frame selected">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328867">ЦСКА – "Ростов" 3:1, закончили </a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328852">Всех полевых поменяли на 63-й минуте. Что снова без Руиса и Ди Лусиано, на которых совершенно очевидно не рассчитывают, логично. Вот отсутствие Лукина не радует.</a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328834">3:1 Кисляк аккуратно в уголок</a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328828">Точка была на Баринове, верно. Пусть дают в сезоне, на сборах не обязательно </a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328823">2:1 Голенков</a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328752">Очень хорошие голы. 2:0 к перерыву. Воспринимаем спокойно, контрольный матч, к тому же в первом тайме был не оптимальный состав Ростова. </a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328743">2:0 Лусиано. А Козлов-то хорош!</a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328719">1:0 Баринов Отлично разыграли</a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html#comment18328679">Как могу обсуждать то, что не слышу? Я на футболе, когда играет ЦСКА. </a>
+        </div>
+             <div class="action-frame">
+                    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+          <a href="/user/45282/blog/cska--rostov-smotrim-i-obsuzhdaem.html#comment18328675">Одоевскому показали красную, но не удалили. Пусть остается 11 на 11, это контрольная игра. Но зачем так было влетать в Кругового, совсем не понятно </a>
+        </div>
+     
+        <div class="slider-navigation">
+          <a class="js Slider_Arrow navigation-left fa fa-left-dir" onclick="return { direction: -1 };"></a>
+          <a class="js Slider_Arrow navigation-right fa fa-right-dir" onclick="return { direction: 1 };"></a>
+        </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="page-size">
+      <div class="js Feed experts-feed">
+        <div class="feed-frame">
+          <div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/cska-pro-kozlova-i-lukina.html">ЦСКА: про Козлова и Лукина</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Новости ЦСКА.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-18 20:47:00">Вчера 20:47</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>83    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html">Кирилл Глебов не заметит. Про слова Константина Генича о молодом таланте ЦСКА</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Умница Кирилл Глебов неделю назад выходил к нам в прямой эфир Матч Премьер.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-18 13:27:00">Вчера 13:27</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>179    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/skorpi/blog/spartak-sbory-prodolzhajutsja-komanda-pashet-vse-silnee-740940.html">&quot;Спартак&quot;: сборы продолжаются, команда &quot;пашет все сильнее&quot;</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>«С каждым днем рестарт сезона все ближе.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/skorpi/" class="row-avatar"><img src="/imagepreview/avatar/data/users/16287.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/skorpi/" class="row-login">Скорпи</a>
+</div>
+    <time datetime="2026-02-18 12:15:00">Вчера 12:15</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>4    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/endru/blog/kak-gotov-zenit-k-matchu-s-baltikoj-740919.html">Как готов &quot;Зенит&quot; к матчу с &quot;Балтикой&quot;</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Вчера, сегодня, завтра в "Зените".
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/imagepreview/avatar/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+    <time datetime="2026-02-18 08:08:00">Вчера 08:08</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>170    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/cska-zavershil-transfernuju-kampaniju-740877.html">ЦСКА завершил трансферную кампанию</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>По данным эксперта Bobsoccer, зимняя трансферная кампания ЦСКА завершена.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-17 16:52:00">17 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>243    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/endru/blog/zenit-na-vernom-puti--740847.html">&quot;Зенит&quot; на верном пути </a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Рассуждения о "Зените"
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/imagepreview/avatar/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+    <time datetime="2026-02-17 09:16:00">17 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>304    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/obnovlennyj-cska-ne-srazu-sygraet-v-optimalnom-sostave-740806.html">Обновленный ЦСКА не сразу сыграет в оптимальном составе</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Уже на следующей неделе возобновится чемпионат России.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-16 18:08:00">16 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>84    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/endru/blog/duglas-santos-v-zenite-vse-hotjat-vernut-titul-silnejshej-komandy-rossii-740752.html">Дуглас Сантос: &quot;В &quot;Зените&quot; все хотят вернуть титул сильнейшей команды России&quot;</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Специально для bobsoccer капитан "Зенита" Дуглас Сантос рассказывает о подготовке петербургской команды к ...</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/imagepreview/avatar/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+    <time datetime="2026-02-16 10:05:00">16 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>60    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/skorpi/blog/spartak-ne-hochet-terjat-rossijskih-igrokov-740709.html">&quot;Спартак&quot; не хочет терять российских игроков</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>«Спартак» в эти дни проводит свой заключительный зимний тренировочный сбор.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/skorpi/" class="row-avatar"><img src="/imagepreview/avatar/data/users/16287.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/skorpi/" class="row-login">Скорпи</a>
+</div>
+    <time datetime="2026-02-15 13:15:00">15 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>37    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/endru/blog/zenit-vernjotsja-v-sankt-peterburg-za-sutki-do-matcha-s-baltikoj.html">&quot;Зенит&quot; вернётся в Санкт-Петербург за сутки до матча с &quot;Балтикой&quot;</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>События.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/imagepreview/avatar/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+    <time datetime="2026-02-15 09:04:00">15 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>311    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/tretij-sbor-cska-pljus-kozlov-i-rejs-minus-di-lusiano.html">Третий сбор ЦСКА. Плюс Козлов и Рейс, минус Ди Лусиано?</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Армейцы начинают заключительный этап зимней подготовки.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-14 12:48:00">14 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>180    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/endru/blog/pochemu-zenit-sejchas-luchshij-klub-dlja-silnyh-futbolistov-740633.html">Почему «Зенит» сейчас лучший клуб для сильных футболистов</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Рассуждения эксперта bobscoccer.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/imagepreview/avatar/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+    <time datetime="2026-02-14 11:48:00">14 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>468    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/pochemu-cska-sejchas-luchshij-klub-dlja-silnyh-rossijskih-futbolistov.html">Почему ЦСКА сейчас лучший клуб для сильных российских футболистов</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Армейский клуб, на мой взгляд, проводит образцовую трансферную кампанию.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-12 18:44:00">12 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>287    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/skorpi/blog/spartak-ostanovitsja-li-karsedo-na-kadrovom-bagazhe-stankovicha-740491.html">«Спартак»: остановится ли Карседо на кадровом багаже Станковича?</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>«Спартак» готовится к третьему сбору в Эмиратах.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/skorpi/" class="row-avatar"><img src="/imagepreview/avatar/data/users/16287.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/skorpi/" class="row-login">Скорпи</a>
+</div>
+    <time datetime="2026-02-12 16:20:00">12 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>15    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/blizhajshie-transfery-cska-.html">Ближайшие трансферы ЦСКА </a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Новости ЦСКА.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-11 20:10:00">11 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>164    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/novichok-cska-uspeshno-proshel-medosmotr-.html">Новичок ЦСКА успешно прошел медосмотр </a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>У армейцев скоро будет новость на вход.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-11 13:08:00">11 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>105    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/endru/blog/v-zenite-vsjo-spokojno--740367.html">В &quot;Зените&quot; всё спокойно </a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>К итогам второго сбора.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/imagepreview/avatar/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+    <time datetime="2026-02-11 08:58:00">11 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>110    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/cska-pobedil-zenit-i-otlichno-potreniroval-penalti-v-abu-dabi-740297.html">ЦСКА победил &quot;Зенит&quot; и отлично потренировал пенальти в Абу-Даби</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Армейцы завершили второй сбор и участие в предсезонном турнире.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-10 12:36:00">10 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>254    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/endru/blog/zenit-chto-dalshe-po-igram-i-transferam.html">&quot;Зенит&quot;. Что дальше по играм и трансферам</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>О рабочем графике "Зенита".
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/imagepreview/avatar/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+    <time datetime="2026-02-09 12:52:00">9 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>176    </div>
+  </div>
+
+</div>
+<div class="preview-frame feed-element">
+
+  <h2>
+    <a href="/max/blog/potencialnyj-novichok-cska-uzhe-v-moskve.html">Потенциальный новичок ЦСКА уже в Москве</a>
+
+    <i class="fa fa-file-image type-icon"></i>          </h2>
+
+  <p>Защитник Матеус Рейс сегодня утром прилетел в Москву.
+</p>
+
+  <div class="element-options">
+    <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+    <time datetime="2026-02-09 11:00:00">9 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>99    </div>
+  </div>
+
+</div>
+</ol>        </div>
+        <div class="slider-navigation">
+          <a class="js Feed_Arrow navigation-left fa fa-left-dir" onclick="return { direction: -1 };"></a>
+          <div class="js Feed_Selector feed-selector">
+            <span data-key="0"></span>
+            <span data-key="4"></span>
+            <span data-key="8"></span>
+            <span data-key="12"></span>
+            <span data-key="16"></span>
+          </div>
+          <a class="js Feed_Arrow navigation-right fa fa-right-dir" onclick="return { direction: 1 };"></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="page-size">
+      <div style="background-color:white;"><div class="banner-place"><div id="adfox_165606949548283286"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_165606949548283286',
+            params: {
+                p1: 'cuqvt',
+                p2: 'y'
+            }
+        }, ['desktop'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script></div></div>
+      <div id="adfox_174411545338654418"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_174411545338654418',
+            params: {
+                p1: 'dhehg',
+                p2: 'hius'
+            }
+        }, ['tablet', 'phone'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script>
+    </div>
+
+
+    <div class="page-size content-index">
+        <div class="left-side">
+
+            <section>
+              <a href="/max/blog/cska-pro-kozlova-i-lukina.html" class="blog-list-export export-image" style="background-image:url('/imagepreview/anounce/data/photo/32769.141597.photo_2026-02-18_20-46-55.jpg');">
+  <div>
+    <h3>ЦСКА: про Козлова и Лукина</h3>
+    <time datetime="2026-02-18 20:47:00">Вчера 20:47</time>
+  </div>
+  <p>Новости ЦСКА.
+</p>
+</a>
+            </section>
+
+            
+            <section>
+              <section>
+<div class="section-header"><h3>Россия, Премьер-лига</h3></div>
+
+<div class="table-points">
+  <div class="table-header">
+    <div>&nbsp;</div>
+    <div class="flex-grow5">Команда</div>
+    <div>И</div>
+    <div>О</div>
+  </div>
+        <div class="table-row">
+      <div>1</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/173.png">
+        Краснодар      </div>
+      <div>18</div>
+      <div>40</div>
+    </div>
+      <div class="table-row">
+      <div>2</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/4.png">
+        Зенит      </div>
+      <div>18</div>
+      <div>39</div>
+    </div>
+      <div class="table-row">
+      <div>3</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/18.png">
+        Локомотив      </div>
+      <div>18</div>
+      <div>37</div>
+    </div>
+      <div class="table-row">
+      <div>4</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/5.png">
+        ЦСКА      </div>
+      <div>18</div>
+      <div>36</div>
+    </div>
+      <div class="table-row">
+      <div>5</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/137.png">
+        Балтика      </div>
+      <div>18</div>
+      <div>35</div>
+    </div>
+      <div class="table-row">
+      <div>6</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/2.png">
+        Спартак (Москва)      </div>
+      <div>18</div>
+      <div>29</div>
+    </div>
+      <div class="table-row">
+      <div>7</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/25.png">
+        Рубин      </div>
+      <div>18</div>
+      <div>23</div>
+    </div>
+      <div class="table-row">
+      <div>8</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/245.png">
+        Ахмат      </div>
+      <div>18</div>
+      <div>22</div>
+    </div>
+      <div class="table-row">
+      <div>9</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/891.png">
+        Акрон (Тольятти)      </div>
+      <div>18</div>
+      <div>21</div>
+    </div>
+      <div class="table-row">
+      <div>10</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/8.png">
+        Динамо (Москва)      </div>
+      <div>18</div>
+      <div>21</div>
+    </div>
+      <div class="table-row">
+      <div>11</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/22.png">
+        Ростов      </div>
+      <div>18</div>
+      <div>21</div>
+    </div>
+      <div class="table-row">
+      <div>12</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/24.png">
+        Крылья Советов      </div>
+      <div>18</div>
+      <div>17</div>
+    </div>
+      <div class="table-row">
+      <div>13</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/903.png">
+        Динамо (Махачкала)      </div>
+      <div>18</div>
+      <div>15</div>
+    </div>
+      <div class="table-row">
+      <div>14</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/447.png">
+        Пари НН      </div>
+      <div>18</div>
+      <div>14</div>
+    </div>
+      <div class="table-row">
+      <div>15</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/442.png">
+        Оренбург      </div>
+      <div>18</div>
+      <div>12</div>
+    </div>
+      <div class="table-row">
+      <div>16</div>
+      <div class="flex-grow5">
+        <img class="team-icon" src="/imagepreview/team/data/teams/876.png">
+        Сочи      </div>
+      <div>18</div>
+      <div>9</div>
+    </div>
+  </div>
+<a href="/results/?tabdo=table&champ=1" class="button-flat" role="button">Подробная таблица</a>
+
+</section>            </section>
+
+            <section>
+              <div class="section-header">Редакционная хроника</div>
+              <div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-01-26 19:36:00">26 Января</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>2028      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>17    </div>
+  </div>
+  <h4>
+    <a href="/user/45282/blog/kniga-vladislava-radimova-i-alekseja-andrianova-ispoved-futbolnogo-kapitana-uzhe-v-prodazhe-739159.html">Книга Владислава Радимова и Алексея Андрианова &quot;Исповедь футбольного капитана&quot; уже в продаже</a>
+    <i class="fa fa-file-image type-icon"></i>          </h4>
+  <p>Презентация книги с участием экс-капитана "Зенита" Владислава Радимова и ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2025-12-29 15:23:00">29 Декабря 2025</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>2332      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>38    </div>
+  </div>
+  <h4>
+    <a href="/bob/blog/god-kotoryj-my-proshli-vmeste-itogi-2025-dlja-bobsoccerru-736868.html">Год, который мы прошли вместе: итоги 2025 для Bobsoccer.ru</a>
+    <i class="fa fa-file-image type-icon"></i>          </h4>
+  <p>Дорогие друзья, поздравляем с наступающим Новым годом!
+</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2025-10-24 10:50:00">24 Октября 2025</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>1930      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>1    </div>
+  </div>
+  <h4>
+    <a href="/user/907/blog/direktor-ehlitnogo-tennisnogo-turnira-v-futbole-u-igrokov-net-prava-golosa-a-u-nas-ono-est-731716.html">Директор элитного теннисного турнира: «В футболе у игроков нет права голоса, а у нас оно есть»</a>
+    <i class="fa fa-file-image type-icon"></i>          </h4>
+  <p>Редакционная хроника: главный редактор «Бобсоккера» Борис Тосунян встретился в ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2025-10-08 17:57:00">8 Октября 2025</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>3751      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>71    </div>
+  </div>
+  <h4>
+    <a href="/bob/blog/s-dnjom-rozhdenija-i-priznaniem-bobsokkeru--16-let-i-mezhdunarodnyj-sertifikat-730494.html">С днём рождения и признанием: «Бобсоккеру» — 16 лет и международный сертификат!</a>
+    <i class="fa fa-file-image type-icon"></i>          </h4>
+  <p>5 октября «Бобсоккеру» исполнилось 16 лет — а уже сегодня мы получили, пусть и с ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2025-09-13 10:33:00">13 Сентября 2025</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>5562      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>5    </div>
+  </div>
+  <h4>
+    <a href="/bob/blog/-russkaja-shkola-vratarej-v-slovenii-kak-rabotaet-vnuk-jashina--728262.html"> Русская школа вратарей в Словении: как работает «внук Яшина» </a>
+    <i class="fa fa-file-image type-icon"></i>          </h4>
+  <p>Главный редактор «Бобсоккера» Борис Тосунян встретился с читателем нашего ...</p>
+</div>
+            </section>
+
+            <section>
+              <div class="section-header">Bobsoccer TV</div>
+              <div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-11-02 12:30:00">2 Ноября 2025</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>5762      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>78    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/matvej-kisljak-o-shansah-cska-na-chempionstvo-poka-ne-dumaem-732530.html">Матвей Кисляк: &quot;О шансах ЦСКА на чемпионство пока не думаем&quot;</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-11-01 12:29:00">1 Ноября 2025</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>5886      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>65    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/ivan-obljakov-ponimali-kakogo-podarka-zhdet-chelestini-v-den-matcha-cska.html">Иван Обляков: &quot;Понимали, какого подарка ждет Челестини в день матча ЦСКА&quot;</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-10-27 11:37:00">27 Октября 2025</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>6609      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>24    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/matvej-lukin-pered-matchem-cska--krylja-sovetov-bylo-predchuvstvie-chto-zabju-731970.html">Матвей Лукин: &quot;Перед матчем ЦСКА – &quot;Крылья Советов&quot; было предчувствие, что забью&quot;</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-10-22 14:44:00">22 Октября 2025</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>5454      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>29    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/artem-shumanskij-na-trenirovkah-vse-zaletaet-nadejus-v-oficialnyh-matchah-cska-budu-zabivat-chashche-731572.html">Артем Шуманский: &quot;На тренировках все залетает. Надеюсь, в официальных матчах ЦСКА буду забивать чаще&quot;</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-10-06 17:48:00">6 Октября 2025</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>9298      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>143    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/fabio-chelestini-schastliv-chto-my-podarili-bolelshchikam-cska-pobedu-nad-spartakom.html">Фабио Челестини: &quot;Счастлив, что мы подарили болельщикам ЦСКА победу над &quot;Спартаком&quot;</a>
+  </h4>
+</div>
+            </section>
+
+            <div class="banner-place"><div id="adfox_165606950202334341"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_165606950202334341',
+            params: {
+                p1: 'cuqvw',
+                p2: 'hiut'
+            },
+        lazyLoad: {
+        fetchMargin: 50,
+        mobileScaling: 1
+      }
+        }, ['desktop'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script></div>
+            <section>
+              <div class="section-header">Конкурс прогнозов</div>
+              <div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-12-08 13:00:00">8 Декабря 2025</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>1273      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>12    </div>
+  </div>
+  <h4>
+    <a href="/user/52/blog/konkurs-prognozov-na-bobsoccerru-itogi-18-go-tura-rpl-735397.html">Конкурс Прогнозов на Bobsoccer.ru. Итоги 18-го тура РПЛ</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-12-01 22:10:00">1 Декабря 2025</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>1134      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>0    </div>
+  </div>
+  <h4>
+    <a href="/user/52/blog/konkurs-prognozov-na-bobsoccerru-itogi-17-go-tura-rpl-734863.html">Конкурс Прогнозов на Bobsoccer.ru. Итоги 17-го тура РПЛ</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-11-28 11:35:00">28 Ноября 2025</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>983      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>0    </div>
+  </div>
+  <h4>
+    <a href="/user/52/blog/konkurs-prognozov-na-bobsoccerru-itogi-14-finala-puti-rpl-kubka-rossii-734530.html">Конкурс Прогнозов на Bobsoccer.ru. Итоги 1/4 финала Пути РПЛ Кубка России</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-11-24 11:15:00">24 Ноября 2025</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>1122      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>1    </div>
+  </div>
+  <h4>
+    <a href="/user/52/blog/konkurs-prognozov-na-bobsoccerru-itogi-16-go-tura-rpl-734192.html">Конкурс Прогнозов на Bobsoccer.ru. Итоги 16-го тура РПЛ</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-11-09 22:08:00">9 Ноября 2025</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>1893      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>42    </div>
+  </div>
+  <h4>
+    <a href="/user/52/blog/konkurs-prognozov-na-bobsoccerru-itogi-15-go-tura-rpl-733117.html">Конкурс Прогнозов на Bobsoccer.ru. Итоги 15-го тура РПЛ</a>
+  </h4>
+</div>
+            </section>
+
+            <section>
+              <div class="section-header">Статистика</div>
+              <small>
+Зарегистрированных пользователей: <b>34357</b><br>
+Сейчас на сайте: <b>96</b><br>
+
+Администраторы:
+</small>            </section>
+
+        </div>
+
+        <div class="middle-side">
+
+            <section>
+              <div class="section-header"><h3>Футбольные новости</h3></div>
+
+              <div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-19 00:52:00">Сегодня 00:52</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>33      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>1    </div>
+  </div>
+  <h4>
+    <a href="/user/38492/blog/budjo-glimt-odolel-inter-v-pervom-stykovom-matche-plej-off-ligi-chempionov.html">«Будё-Глимт» одолел «Интер» в первом стыковом матче плей-офф Лиги чемпионов</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-19 00:36:00">Сегодня 00:36</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>201      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>5    </div>
+  </div>
+  <h4>
+    <a href="/user/38492/blog/ehtta-ehjong-otkazalsja-ot-perekhoda-v-cska-levante-gotov-prodat-forvarda--romano.html">Этта Эйонг отказался от перехода в ЦСКА, «Леванте» готов продать форварда — Романо</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 23:15:00">Вчера 23:15</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>356      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>14    </div>
+  </div>
+  <h4>
+    <a href="/user/48650/blog/ja-v-nedoumenii-takogo-nikogda-ne-bylo-pervyj-trener-golovina--o-discipline-vospitannika.html">«Я в недоумении. Такого никогда не было!» Первый тренер Головина — о дисциплине воспитанника</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 23:10:00">Вчера 23:10</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>302      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>2    </div>
+  </div>
+  <h4>
+    <a href="/user/48650/blog/ponomarev-rasskazal-kak-v-cska-pozdravili-ego-s-86-letiem-ja-skazal-chto-my-v-ehtom-godu-objazatelno-budem-chempionami-garantiruju.html">Пономарев рассказал, как в ЦСКА поздравили его с 86-летием: «Я сказал, что мы в этом году обязательно будем чемпионами. Гарантирую»</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 23:07:00">Вчера 23:07</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>278      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>10    </div>
+  </div>
+  <h4>
+    <a href="/user/48650/blog/igor-kolyvanov-kisljak-ne-stanet-kapitanom-cska-poka-v-komande-akinfeev.html">Игорь Колыванов: Кисляк не станет капитаном ЦСКА, пока в команде Акинфеев</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 23:01:00">Вчера 23:01</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>1183      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>29    </div>
+  </div>
+  <h4>
+    <a href="/user/45282/blog/genich-pozhelal-kirillu-glebovu-zdorovja-740980.html">Генич пожелал Кириллу Глебову здоровья</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 23:00:00">Вчера 23:00</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>393      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>7    </div>
+  </div>
+  <h4>
+    <a href="/user/48650/blog/futbolist-zenita-vendel-ja-opozdal-na-nedelju-znachit-dolzhen-zaplatit-i-budu-otrabatyvat.html">Футболист «Зенита» Вендел: «Я опоздал на неделю, значит, должен заплатить. И буду отрабатывать»</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 22:49:00">Вчера 22:49</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>151      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>1    </div>
+  </div>
+  <h4>
+    <a href="/user/15250/blog/poker-gordona-pomog-njukasl-junajted-razgromit-karabah-v-stykovom-matche-ligi-chempionov-.html">Покер Гордона помог «Ньюкасл Юнайтед» разгромить «Карабах» в стыковом матче Лиги чемпионов </a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 22:22:00">Вчера 22:22</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>728      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>25    </div>
+  </div>
+  <h4>
+    <a href="/user/4657/blog/andrej-kanchelskis-cska--samaja-stabilnaja-komanda-v-rossii-za-poslednie-10-12-let.html">Андрей Канчельскис: ЦСКА — самая стабильная команда в России за последние 10-12 лет</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 21:54:00">Вчера 21:54</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>580      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>13    </div>
+  </div>
+  <h4>
+    <a href="/user/48650/blog/genich-transfer-boselli-v-krasnodar--ehto-iz-razrjada-potomu-chto-nado-aby-kogo-nado-vzjat.html">Генич: «Трансфер Боселли в «Краснодар» — это из разряда «потому что надо». Абы кого надо взять»</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 21:50:00">Вчера 21:50</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>297      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>2    </div>
+  </div>
+  <h4>
+    <a href="/user/48650/blog/prestianni-mozhet-poluchit-10-matchevyj-ban-za-incident-s-vinisiusom.html">Престианни может получить 10-матчевый бан за инцидент с Винисиусом</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 21:23:00">Вчера 21:23</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>251      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>5    </div>
+  </div>
+  <h4>
+    <a href="/user/50745/blog/mostovoj-vladelcem-ili-prezidentom-spartaka-zhdat-menja-ne-stoit.html">Мостовой: «Владельцем или президентом «Спартака» ждать меня не стоит»</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 20:47:00">Вчера 20:47</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>4500      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>83    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/cska-pro-kozlova-i-lukina.html">ЦСКА: про Козлова и Лукина</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 20:44:00">Вчера 20:44</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>571      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>12    </div>
+  </div>
+  <h4>
+    <a href="/user/45282/blog/futbolist-hlusevich-pereshel-na-pravah-arendy-iz-spartaka-v-ahmat.html">Футболист Хлусевич перешел на правах аренды из «Спартака» в «Ахмат»</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-02-18 20:33:00">Вчера 20:33</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>261      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>5    </div>
+  </div>
+  <h4>
+    <a href="/user/50745/blog/prudnikov-spartak-tochno-ne-budet-borotsja-za-chempionstvo.html">Прудников: «Спартак» точно не будет бороться за чемпионство</a>
+  </h4>
+</div>
+              
+              <a href="/news/" class="button-flat" role="button">Все новости</a>
+            </section>
+
+            <div class="banner-place"><div id="yandex_rtb_C-A-1731176-32"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.renderWidget({
+    renderTo: 'yandex_rtb_C-A-1731176-32',
+    blockId: 'C-A-1731176-32'
+  })
+})</script>
+</div>            <div id="adfox_165606888613086569"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_165606888613086569',
+            params: {
+                p1: 'cuqwf',
+                p2: 'hius'
+            },
+        lazyLoad: {
+        fetchMargin: 50,
+        mobileScaling: 1
+      }
+        }, ['tablet', 'phone'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script>
+            <section>
+              <div class="section-header">Популярные комментарии</div>
+              
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 13:33</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">50</span>
+        <span style="color: rgb(200,100,100);">-4</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html#comment18328342">Макс, абсолютно верная реакция. Много Константин говорит. И очень многое невропад. ...</a>
+            <div class="user-row">
+  <a href="/endru/" class="row-avatar"><img src="/data/users/15938.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/endru/" class="row-login">Эндрю</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 10:48</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">42</span>
+        <span style="color: rgb(200,100,100);">-5</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/user/48650/blog/genich-v-blizhajshie-gody-u-glebova-iz-cska-budut-bolshie-problemy-s-travmami-740926.html#comment18327994">Какой же мерзкий и противный этот Генич </a>
+            <div class="user-row">
+  <a href="/user/23406/" class="row-avatar"><img src="/imagepreview/avatar/data/users/23406.1545638635." class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/23406/" class="row-login">antohacska</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 13:42</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">44</span>
+        <span style="color: rgb(200,100,100);">-8</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html#comment18328359">Я всегда буду защищать своих футболистов. Тех, кому небезразличен ЦСКА, кто здесь ...</a>
+            <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 18:30</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">41</span>
+        <span style="color: rgb(200,100,100);">-8</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/user/48650/blog/v-cska-otreagirovali-na-gromkoe-zajavlenie-genicha-o-travmatizme-glebova-.html#comment18328916">Банить Генича</a>
+            <div class="user-row">
+  <a href="/user/30064/" class="row-avatar"><img src="/imagepreview/avatar/data/users/30064.1692199752.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/30064/" class="row-login">RBW</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 13:57</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">41</span>
+        <span style="color: rgb(200,100,100);">-10</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html#comment18328380">Вероятно, это элемент психологического воздействия. ЦСКА становится грозной ...</a>
+            <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 10:51</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">32</span>
+        <span style="color: rgb(200,100,100);">-2</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/user/48650/blog/genich-v-blizhajshie-gody-u-glebova-iz-cska-budut-bolshie-problemy-s-travmami-740926.html#comment18328000">Не исключу, что, возможно, есть основания для подобных прогнозов, но подача ...</a>
+            <div class="user-row">
+  <a href="/user/22098/" class="row-avatar"><img src="/imagepreview/avatar/data/users/22098.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/22098/" class="row-login">Borg</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 10:46</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">33</span>
+        <span style="color: rgb(200,100,100);">-5</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/user/48650/blog/genich-v-blizhajshie-gody-u-glebova-iz-cska-budut-bolshie-problemy-s-travmami-740926.html#comment18327990">ГЕнич иди в одно место со своими инсайдами</a>
+            <div class="user-row">
+  <a href="/user/44313/" class="row-avatar"><img src="/imagepreview/avatar/data/users/44313.1659947376.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/44313/" class="row-login">Igorone12</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 13:41</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">29</span>
+        <span style="color: rgb(200,100,100);">-1</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html#comment18328358">Эндрю, привет, спасибо большое!</a>
+            <div class="user-row">
+  <a href="/max/" class="row-avatar"><img src="/data/users/11.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_50.png" class="user-level" title="Эксперт">  <a href="/max/" class="row-login">Макс</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 11:06</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">30</span>
+        <span style="color: rgb(200,100,100);">-3</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/user/48650/blog/genich-v-blizhajshie-gody-u-glebova-iz-cska-budut-bolshie-problemy-s-travmami-740926.html#comment18328027">Это еще один сигнал для руководства ЦСКА, что Генич не должен к нашему клубу ...</a>
+            <div class="user-row">
+  <a href="/user/890/" class="row-avatar"><img src="/data/mode/11/avatar.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/890/" class="row-login">Алекс</a>
+</div>
+  </div>
+</div>
+
+
+<div class="blog-list-export">
+  <div class="element-options">
+    <div>
+      <time>Вчера 13:34</time>
+      <span style="margin-left:1rem;">
+        <span style="color: rgb(100,200,100);">32</span>
+        <span style="color: rgb(200,100,100);">-5</span>
+      </span>
+    </div>
+  </div>
+  <div class="element-header">
+      <a style="flex-basis:0;flex-grow:2;" href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html#comment18328343">Таких недокомментаторов давно пора отстранять от тв.
+И вообще, почему наши не ...</a>
+            <div class="user-row">
+  <a href="/user/17486/" class="row-avatar"><img src="/imagepreview/avatar/data/users/17486.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/17486/" class="row-login">#WarHorse#</a>
+</div>
+  </div>
+</div>
+
+            </section>
+
+            <div class="banner-place"><script async src="https://jsn.24smi.net/smi.js"></script>
+
+<div class="smi24__informer smi24__auto" data-smi-blockid="35626"></div>
+<script>(window.smiq = window.smiq || []).push({});</script>
+
+<div class="smi24__informer smi24__auto" data-smi-blockid="35627"></div>
+<script>(window.smiq = window.smiq || []).push({});</script></div>
+        </div>
+
+        <div class="right-side">
+
+            <section>
+              <a href="/max/blog/kirill-glebov-ne-zametit-pro-slova-konstantina-genicha-o-molodom-talante-cska.html" class="blog-list-export export-image" style="background-image:url('/imagepreview/anounce/data/photo/32769.141593.IMG_7463.jpeg');">
+  <div>
+    <h3>Кирилл Глебов не заметит. Про слова Константина Генича о молодом таланте ЦСКА</h3>
+    <time datetime="2026-02-18 13:27:00">Вчера 13:27</time>
+  </div>
+  <p>Умница Кирилл Глебов неделю назад выходил к нам в прямой эфир Матч Премьер.
+</p>
+</a>
+            </section>
+
+            <div id="adfox_165606949960642473"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_165606949960642473',
+            params: {
+                p1: 'cuqvv',
+                p2: 'hiut'
+            },
+        lazyLoad: {
+        fetchMargin: 50,
+        mobileScaling: 1
+      }
+        }, ['desktop'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script>            <div id="adfox_165606888842086831"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_165606888842086831',
+            params: {
+                p1: 'cuqwg',
+                p2: 'hius'
+            },
+        lazyLoad: {
+        fetchMargin: 50,
+        mobileScaling: 1
+      }
+        }, ['tablet', 'phone'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script>
+            <section>
+              <div class="section-header">Голосование</div>
+              <div class="js Bookmarks poll poll-export">
+  <h3 class="poll-header"><a href="/skorpi/blog/spartak-huana-karsedo-pristupaet-k-igram-uvidim-li-my-chto-to-interesnoe--739640.html">С кем из легионеров &quot;Спартак&quot; расстанется этой зимой?</a></h3>
+  <div id="blogpoll_export_13273">
+<div class="js Bookmarks_Content" onclick="return { Id: 'voting' };">
+
+<div class="poll-questions">
+  <form method="POST" class="js classHttp_Form" onclick="return { target: 'blogpoll_export_13273', c: 'classPoll', m: 'exportPoll', params: { item: 0 } };">
+    <input type="hidden" name="pdo" value="vote">
+                      <div class="question-elem"><input type="radio" name="Pol_Answer" value="53307" id="53307"><label for="53307">С Рябчуком, Бонгондой и Мартинсом</label></div>
+                        <div class="question-elem"><input type="radio" name="Pol_Answer" value="53308" id="53308"><label for="53308">Нет. Мартинс останется</label></div>
+                        <div class="question-elem"><input type="radio" name="Pol_Answer" value="53309" id="53309"><label for="53309">Останутся все трое. В &quot;Спартаке&quot; всех все устраивает</label></div>
+              <input type="submit" value="Голосовать">
+  </form>
+</div>
+
+</div>  <div class="js Bookmarks_Content selected" onclick="return { Id: 'results' };">
+
+    <div class="poll-answers">
+                <div class="answer-elem">
+           <div class="answer-value">
+             <div class="answer-text">С Рябчуком, Бонгондой и Мартинсом</div>
+             <div class="answer-bg" style="width:17.2%;"></div>
+           </div>
+           <div class="answer-digit">17.2%</div>
+         </div>
+                <div class="answer-elem">
+           <div class="answer-value">
+             <div class="answer-text">Нет. Мартинс останется</div>
+             <div class="answer-bg" style="width:29.7%;"></div>
+           </div>
+           <div class="answer-digit">29.7%</div>
+         </div>
+                <div class="answer-elem">
+           <div class="answer-value">
+             <div class="answer-text">Останутся все трое. В &quot;Спартаке&quot; всех все устраивает</div>
+             <div class="answer-bg" style="width:51.6%;"></div>
+           </div>
+           <div class="answer-digit">51.6%</div>
+         </div>
+           </div>
+
+  </div>
+  </div>
+  <div class="poll-footer">
+   <div>
+     Всего голосов: 128   </div>
+  </div>
+</div>
+            </section>
+
+            <section>
+              <div class="section-header">Заметки болельщиков</div>
+              <div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-02-13 18:26:00">13 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>9874      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>24    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/890/blog/chto-govorjat-bolelshchiki-sportinga-o-novichke-cska-mateuse-rejse-740585.html">Что говорят болельщики Спортинга о новичке ЦСКА Матеусе Рейсе</a>
+      <i class="fa fa-file-image type-icon"></i>                      </h4>
+    <div class="user-row">
+  <a href="/user/890/" class="row-avatar"><img src="/data/mode/11/avatar.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/890/" class="row-login">Алекс</a>
+</div>
+  </div>
+  <p>На официальном канале Лиссабонского Спортинга выложено видео под названием ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-02-13 11:10:00">13 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>7151      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>28    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/890/blog/cska-usilil-sostav-chto-sdelaet-s-nim-chelestini-740555.html">ЦСКА усилил состав. Что сделает с ним Челестини?</a>
+      <i class="fa fa-file-image type-icon"></i>                      </h4>
+    <div class="user-row">
+  <a href="/user/890/" class="row-avatar"><img src="/data/mode/11/avatar.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/890/" class="row-login">Алекс</a>
+</div>
+  </div>
+  <p>Думаю, что Козлов и Рейс наши последние трансферы зимой, а значит можно сказать, что ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-02-07 09:54:00">7 Февраля</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>10189      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>43    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/49953/blog/pochemu-podpisanie-kozlova-imenno-sejchas-vazhno-dlja-cska.html">Почему подписание Козлова именно сейчас важно для ЦСКА</a>
+      <i class="fa fa-file-image type-icon"></i>                      </h4>
+    <div class="user-row">
+  <a href="/user/49953/" class="row-avatar"><img src="/data/mode/28/avatar.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_6.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/49953/" class="row-login">Alex D</a>
+</div>
+  </div>
+  <p>Это трансферное окно дарит надежды болельщикам ЦСКА.
+</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-01-30 14:45:00">30 Января</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>11587      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>52    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/49715/blog/kto-takoj-potencialnyj-novichok-cska-roganovich-739446.html">Кто такой потенциальный новичок ЦСКА Роганович?</a>
+      <i class="fa fa-file-image type-icon"></i>                      </h4>
+    <div class="user-row">
+  <a href="/user/49715/" class="row-avatar"><img src="/imagepreview/avatar/data/users/49715.1720465962.jpeg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/49715/" class="row-login">Mouzi</a>
+</div>
+  </div>
+  <p>Некоторое время назад мы познакомились с талантливым центральным защитником ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-01-26 18:09:00">26 Января</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>2318      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>59    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/46007/blog/cska-molodost-sostava-u-opasnoj-cherty-739153.html">ЦСКА: молодость состава; у опасной черты</a>
+                            </h4>
+    <div class="user-row">
+  <a href="/user/46007/" class="row-avatar"><img src="/imagepreview/avatar/data/users/46007.1616476435.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/46007/" class="row-login">Тотальный Аякс</a>
+</div>
+  </div>
+  <p>В ЦСКА сейчас проходит масштабное омоложение состава.
+</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-01-23 14:14:00">23 Января</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>8350      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>87    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/48239/blog/v-poiskah-zameny-diveevu-738861.html">В поисках замены Дивееву</a>
+      <i class="fa fa-file-image type-icon"></i>                      </h4>
+    <div class="user-row">
+  <a href="/user/48239/" class="row-avatar"><img src="/imagepreview/avatar/data/users/48239.1691667360.png" class="avatar-img"></a>
+      <img src="/data/levels/level_1.png" class="user-level" title="Запасной игрок">  <a href="/user/48239/" class="row-login">BoB</a>
+</div>
+  </div>
+  <p>Зимний регистрационный период для клубов Российской Премьер-Лиги (РПЛ) в 2026 году ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-01-18 13:14:00">18 Января</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>2990      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>15    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/49715/blog/perspektivnyj-centralnyj-zashchitnik-dlja-cska---nikola-simich.html">Перспективный центральный защитник для ЦСКА - Никола Симич.</a>
+                            </h4>
+    <div class="user-row">
+  <a href="/user/49715/" class="row-avatar"><img src="/imagepreview/avatar/data/users/49715.1720465962.jpeg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/49715/" class="row-login">Mouzi</a>
+</div>
+  </div>
+  <p>После перехода Игоря Дивеева в Зенит и в связи с невзрачной игрой Жоао Виктора ...</p>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2026-01-17 14:40:00">17 Января</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>1041      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>17    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/23184/blog/zenit-samoidentichnost-malchicheki-738352.html">&quot;Зенит&quot;. Самоидентичность. &quot;Мальчичеки&quot;.</a>
+                            </h4>
+    <div class="user-row">
+  <a href="/user/23184/" class="row-avatar"><img src="/imagepreview/avatar/data/users/23184.jpg" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/23184/" class="row-login">Maxwellmax</a>
+</div>
+  </div>
+  <p>Очередная попытка пользователя bobsoccer.ru разобраться в вопросах комплектования ...</p>
+</div>
+              <div class="blog-list-export">
+  <div class="element-options">
+    <time datetime="2025-12-14 17:25:00">14 Декабря 2025</time>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>9390      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>690    </div>
+  </div>
+  <div class="element-header">
+    <h4>
+      <a href="/user/11181/blog/chetvjortyj-variant-limita-v-rossijskom-futbole.html">Четвёртый вариант лимита в российском футболе</a>
+      <i class="fa fa-file-image type-icon"></i>                  <i class="fa fa-pin type-icon"></i>    </h4>
+    <div class="user-row">
+  <a href="/user/11181/" class="row-avatar"><img src="/imagepreview/avatar/data/users/11181.gif" class="avatar-img"></a>
+      <img src="/data/levels/level_7.png" class="user-level" title="Кандидат в эксперты">  <a href="/user/11181/" class="row-login">vlad-41</a>
+</div>
+  </div>
+  <p>Мнение посетителя Bobsoccer.ru.
+</p>
+</div>
+              <div><small><i>* Редакция портала Bobsoccer.ru не несет ответственности за публикации в разделе "Заметки болельщиков".</i></small></div>
+              <a href="/blogs/" class="button-flat" role="button">Все заметки</a>
+            </section>
+
+            <section>
+              <div class="section-header">Бобсоккер-юниор</div>
+              <div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-01-21 12:39:00">21 Января</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>16872      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>73    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/novosti-pro-molodyh-igrokov-cska-738700.html">Новости про молодых игроков ЦСКА</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-01-19 09:25:00">19 Января</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>63252      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>72    </div>
+  </div>
+  <h4>
+    <a href="/endru/blog/zenit-popolnil-zashchitnik-iz-krasnodara-738476.html">«Зенит» пополнил защитник из «Краснодара»</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2026-01-07 15:38:00">7 Января</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>9637      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>63    </div>
+  </div>
+  <h4>
+    <a href="/max/blog/dmitrij-igdisamov-kisljak-zacepil-s-pervoj-trenirovki-737427.html">Дмитрий Игдисамов: &quot;Кисляк зацепил с первой тренировки&quot;</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-12-20 12:45:00">20 Декабря 2025</time>
+      <i class="fa fa-file-image type-icon"></i>                            </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>7364      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>32    </div>
+  </div>
+  <h4>
+    <a href="/endru/blog/vzlet-i-drama-vadima-shilova.html">Взлет и драма Вадима Шилова</a>
+  </h4>
+</div>
+<div class="blog-list-export">
+  <div class="element-options">
+    <div class="element-options-time">
+      <time datetime="2025-12-09 09:23:00">9 Декабря 2025</time>
+                                  </div>
+    <div class="element-stat">
+      <i class="fa fa-eye fa-fw" title="Всего просмотров"></i>21651      <i class="fa fa-comment-o fa-fw" title="Всего комментариев"></i>38    </div>
+  </div>
+  <h4>
+    <a href="/endru/blog/zenit-uletel-v-braziliju--735455.html">&quot;Зенит&quot; улетел в Бразилию </a>
+  </h4>
+</div>
+            </section>
+
+
+
+        </div>
+    </div>
+
+    <div class="page-size">
+      <div class="anounce-blog-list">
+              <a href="/skorpi/blog/spartak-sbory-prodolzhajutsja-komanda-pashet-vse-silnee-740940.html" class="blog-list-export export-image" style="background-image:url('/imagepreview/anounce/data/photo/32773.141592.dodo.jpg');">
+  <div>
+    <h3>&quot;Спартак&quot;: сборы продолжаются, команда &quot;пашет все сильнее&quot;</h3>
+    <time datetime="2026-02-18 12:15:00">Вчера 12:15</time>
+  </div>
+  <p>«С каждым днем рестарт сезона все ближе.
+</p>
+</a>
+<a href="/endru/blog/kak-gotov-zenit-k-matchu-s-baltikoj-740919.html" class="blog-list-export export-image" style="background-image:url('/imagepreview/anounce/data/photo/32771.141588.-5233592593243903570_119.jpg');">
+  <div>
+    <h3>Как готов &quot;Зенит&quot; к матчу с &quot;Балтикой&quot;</h3>
+    <time datetime="2026-02-18 08:08:00">Вчера 08:08</time>
+  </div>
+  <p>Вчера, сегодня, завтра в "Зените".
+</p>
+</a>
+<a href="/max/blog/cska-zavershil-transfernuju-kampaniju-740877.html" class="blog-list-export export-image" style="background-image:url('/imagepreview/anounce/data/photo/32769.141583.photo_2025-12-16_20-25-55.jpg');">
+  <div>
+    <h3>ЦСКА завершил трансферную кампанию</h3>
+    <time datetime="2026-02-17 16:52:00">17 Февраля</time>
+  </div>
+  <p>По данным эксперта Bobsoccer, зимняя трансферная кампания ЦСКА завершена.
+</p>
+</a>
+<a href="/endru/blog/zenit-na-vernom-puti--740847.html" class="blog-list-export export-image" style="background-image:url('/imagepreview/anounce/data/photo/32766.141575.-5210803226188388180_121.jpg');">
+  <div>
+    <h3>&quot;Зенит&quot; на верном пути </h3>
+    <time datetime="2026-02-17 09:16:00">17 Февраля</time>
+  </div>
+  <p>Рассуждения о "Зените"
+</p>
+</a>
+      </div>
+    </div>
+
+    <div class="page-size">
+      <div class="banner-place"><div id="adfox_16560695608807714"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_16560695608807714',
+            params: {
+                p1: 'cuqvy',
+                p2: 'y'
+            },
+        lazyLoad: {
+        fetchMargin: 50,
+        mobileScaling: 1
+      }
+        }, ['desktop'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script></div>      <div id="adfox_16560690054845968"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.createAdaptive({
+            ownerId: 695151,
+            containerId: 'adfox_16560690054845968',
+            params: {
+                p1: 'cuqwo',
+                p2: 'hius'
+            },
+        lazyLoad: {
+        fetchMargin: 50,
+        mobileScaling: 1
+      }
+        }, ['tablet', 'phone'], {
+            tabletWidth: 800,
+            phoneWidth: 564,
+            isAutoReloads: false
+        })
+    })
+</script>    </div>
+
+    <div class="page-size"><div class="index-seo">
+
+  <p>
+    Bobsoccer.ru утвердился как ведущий информационно-развлекательный ресурс, ориентированный на футбол в России и Европе. С момента основания в 2009 году и особенно после регистрации в 2011 году Роскомнадзором портал предоставляет пользователям уникальные материалы, свежие новости и глубокую аналитику, а также возможность активного участия в жизни футбольного сообщества. Обновления контента происходят на ежедневной основе, обеспечивая посетителям доступ к актуальным и значимым сведениям из мира спорта.
+  </p>
+
+  <h4>Эксклюзивные интервью и аналитика</h4>
+  <p>
+    Секция уникальных бесед на «Бобсоккер» предоставляет читателям доступ к  первоисточникам важнейших новостей через разговоры с выдающимися фигурами футбола. Здесь представлены диалоги не только с футболистами, но и с тренерским составом, а также аналитиками, раскрывающими текущие тренды и стратегии в спорте. Аналитическая секция насыщена детальными отчётами о матчах, статистикой игроков и клубов, делая её незаменимым ресурсом для тех, кто ищет тщательное изучение игровых процессов.
+  </p>
+
+  <h4>Прямое общение с экспертами</h4>
+  <p>
+    Обсуждения на форумах и система комментариев на bobsoccer позволяют пользователям не просто получать информацию, но и участвовать в спортивных дискуссиях. Это создаёт возможности для обмена мнениями и стратегиями с другими людьми и взаимодействовать с экспертами напрямую. Функционал сайта стимулирует развитие футбольного диалога, превращая его в центральное место сбора любителей этого вида спорта.
+  </p>
+
+  <h4>Конкурсы и активности для пользователей</h4>
+  <p>
+    Регулярные мероприятия, такие как прогнозы и футбольные квизы на футбольном портале, предоставляют возможность тестировать знания и угадывать исходы игр. Участие в этих мероприятиях повышает интерес к текущим событиям и способствует укреплению чувства принадлежности среди участников. Эти инициативы служат превосходным способом для активизации посетителей сайта, повышая их приверженность и участие.
+  </p>
+
+  <h4>Информация о предстоящих событиях и расписаниях</h4>
+  <p>
+    На Bobsoccer.ru можно легко найти всю необходимую информацию о ближайших футбольных матчах, включая расписание, данные о трансферах и предварительные обзоры предстоящих игр. Этот ресурс становится незаменимым помощником для планирования просмотра игр, убеждаясь, что фанаты не упустят важные события. Доступ к своевременной и точной информации упрощает следование за любимыми командами и игроками.
+  </p>
+
+  <h4>Присоединяйтесь к сообществу Bobsoccer.ru</h4>
+  <p>
+    Bobsoccer.ru приглашает всех энтузиастов футбола присоединиться к его разрастающемуся сообществу. Портал предлагает обширный спектр контента и множество возможностей для активного взаимодействия и общения. Регулярное обновление информации и постоянное взаимодействие с аудиторией делают этот ресурс идеальным местом для тех, кто стремится быть в курсе всех событий в футбольном мире и активно участвовать в жизни футбольного сообщества.
+  </p>
+
+</div></div>
+    <div class="page-size">
+      <div class="tags-cloud">
+          <a href="/tags/cska.html" style="font-size: 350%;color:rgb(255, 200, 34);">ЦСКА</a>
+  <a href="/tags/zenit.html" style="font-size: 346.44%;color:rgb(254, 199, 34);">Зенит</a>
+  <a href="/tags/spartak.html" style="font-size: 330.62%;color:rgb(248, 193, 34);">Спартак</a>
+  <a href="/tags/rubin.html" style="font-size: 96.63%;color:rgb(165, 110, 34);">Рубин</a>
+  <a href="/tags/rfs.html" style="font-size: 89.67%;color:rgb(162, 107, 34);">РФС</a>
+  <a href="/tags/akinfeev.html" style="font-size: 71.27%;color:rgb(155, 100, 34);">Акинфеев</a>
+  <a href="/tags/lokomotiv.html" style="font-size: 215.09%;color:rgb(207, 152, 34);">Локомотив</a>
+  <a href="/tags/sbornaja-rossii.html" style="font-size: 162.85%;color:rgb(188, 133, 34);">сборная России</a>
+  <a href="/tags/dinamo.html" style="font-size: 226.37%;color:rgb(211, 156, 34);">Динамо</a>
+  <a href="/tags/transfery.html" style="font-size: 119.32%;color:rgb(173, 118, 34);">Трансферы</a>
+  <a href="/tags/karpin.html" style="font-size: 118.54%;color:rgb(172, 117, 34);">Карпин</a>
+  <a href="/tags/rostov.html" style="font-size: 153.39%;color:rgb(185, 130, 34);">Ростов</a>
+  <a href="/tags/krylja-sovetov.html" style="font-size: 115.45%;color:rgb(171, 116, 34);">Крылья Советов</a>
+  <a href="/tags/krasnodar.html" style="font-size: 213.8%;color:rgb(206, 151, 34);">Краснодар</a>
+  <a href="/tags/semak.html" style="font-size: 106.99%;color:rgb(168, 113, 34);">Семак</a>
+  <a href="/tags/vozmozhnye-transfery.html" style="font-size: 114.87%;color:rgb(171, 116, 34);">Возможные трансферы</a>
+  <a href="/tags/kubok-rossii.html" style="font-size: 127.35%;color:rgb(175, 120, 34);">Кубок России</a>
+  <a href="/tags/transfernye-sluhi.html" style="font-size: 204.83%;color:rgb(203, 148, 34);">Трансферные слухи</a>
+  <a href="/tags/pszh.html" style="font-size: 93.36%;color:rgb(163, 108, 34);">ПСЖ</a>
+  <a href="/tags/himki.html" style="font-size: 70%;color:rgb(155, 100, 34);">Химки</a>
+  <a href="/tags/dzjuba.html" style="font-size: 89.82%;color:rgb(162, 107, 34);">Дзюба</a>
+  <a href="/tags/baltika.html" style="font-size: 108.24%;color:rgb(169, 114, 34);">Балтика</a>
+  <a href="/tags/orenburg.html" style="font-size: 89.97%;color:rgb(162, 107, 34);">Оренбург</a>
+  <a href="/tags/ahmat.html" style="font-size: 111.55%;color:rgb(170, 115, 34);">Ахмат</a>
+  <a href="/tags/rpl.html" style="font-size: 296.8%;color:rgb(236, 181, 34);">РПЛ</a>
+  <a href="/tags/pari-nn.html" style="font-size: 103.26%;color:rgb(167, 112, 34);">Пари НН</a>
+  <a href="/tags/akron.html" style="font-size: 118.31%;color:rgb(172, 117, 34);">Акрон</a>
+  <a href="/tags/dinamo-mahachkala.html" style="font-size: 90.42%;color:rgb(162, 107, 34);">Динамо Махачкала</a>
+  <a href="/tags/stankovich.html" style="font-size: 105.85%;color:rgb(168, 113, 34);">Станкович</a>
+  <a href="/tags/chelestini.html" style="font-size: 71.81%;color:rgb(156, 101, 34);">Челестини</a>
+      </div>
+    </div>
+
+</div>
+
+<footer>
+
+  <div class="page-size">
+    <div class="flex-grow2">
+      <ul role="navigation">
+        <li><a href="/about/">О проекте Bobsoccer</a></li>
+        <li><a href="/rules/">Правила</a></li>
+        <li><a href="/rules/stuff/">О фишках и карточках</a></li>
+        <li><a href="/rules/levels/">О баллах и уровнях</a></li>
+        <li><a href="/about/adv/">Рекламодателям</a></li>
+        <li><a href="/contacts/">Контакты</a></li>
+      </ul>
+    </div>
+    <div class="flex-grow2">
+      <ul role="navigation">
+        <li><a href="/news/">Футбольные новости</a></li>
+        <li><a href="/interview/">Интервью</a></li>
+        <li><a href="/blogs/">Трибуна</a></li>
+        <li><a href="/calendar/">Календарь</a></li>
+        <li><a href="/results/">Результаты матчей</a></li>
+        <li><a href="/forecast/">Прогнозы</a></li>
+        <li><a href="/user/stuff/shop/">Магазин подарков</a></li>
+        <li><a href="/sitemap/">Карта сайта</a></li>
+      </ul>
+    </div>
+    <div class="flex-grow3">
+      &copy; 2009 Все права защищены.<br>
+      Электронное периодическое издание bobsoccer.ru ("бобсоккер.ру") зарегистрировано в Федеральной службе по надзору в сфере связи,
+      информационных технологий и массовых коммуникаций (Роскомнадзор)  19 января 2011г. Свидетельство о регистрации Эл №ФС77-43557.<br>
+      Учредитель: Общество с ограниченной ответственностью "Борис-Медиа" (ОГРН 1095009003572)<br>
+      Главный редактор: Тосунян Б.С.<br>
+      Адрес электронной почты редакции: info@bobsoccer.ru; bobsoccerru@gmail.com<br>
+      Телефон редакции: +7 985 719 29 97<br>
+      Настоящий ресурс содержит материалы 18+
+    </div>
+  </div>
+
+
+  <div class="page-size">
+    <div class="flex-grow2">
+      <a href="https://twitter.com/bobsoccer/" target="_blank" class="fa fa-twitter fa-fw fa-2x social-twitter"></a>
+<!--      <a href="https://facebook.com/bobsoccer.ru/" target="_blank" class="fa fa-facebook fa-fw fa-2x social-facebook"></a> -->
+      <a href="https://vk.com/bobsoccer" target="_blank" class="fa fa-vk fa-fw fa-2x social-vk"></a>
+      <a href="https://youtube.com/channel/UC7pSVaykAWfDMTfhalfoHig" target="_blank" class="fa fa-youtube fa-fw fa-2x social-youtube"></a>
+      <a href="https://t.me/bobsoccer_ru" target="_blank" class="fa fa-telegram fa-fw fa-2x social-telegram"></a>
+<!--      <a href="https://instagram.com/bobsoccerru/" target="_blank" class="fa fa-instagram fa-fw fa-2x social-instagram"></a> -->
+    </div>
+    <div class="flex-grow2">
+    </div>
+    <div class="flex-grow3">
+
+
+<!--LiveInternet counter--><a href="https://www.liveinternet.ru/click;bobsoccer"
+target="_blank"><img id="licntFAED" width="31" height="31" style="border:0" 
+title="LiveInternet"
+src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+alt=""/></a><script>(function(d,s){d.getElementById("licntFAED").src=
+"https://counter.yadro.ru/hit;bobsoccer?t45.4;r"+escape(d.referrer)+
+((typeof(s)=="undefined")?"":";s"+s.width+"*"+s.height+"*"+
+(s.colorDepth?s.colorDepth:s.pixelDepth))+";u"+escape(d.URL)+
+";h"+escape(d.title.substring(0,150))+";"+Math.random()})
+(document,screen)</script><!--/LiveInternet-->
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(15823801, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/15823801" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- Top100 (Kraken) Counter -->
+<script>
+    (function (w, d, c) {
+    (w[c] = w[c] || []).push(function() {
+        var options = {
+            project: 2180165,
+        };
+        try {
+            w.top100Counter = new top100(options);
+        } catch(e) { }
+    });
+    var n = d.getElementsByTagName("script")[0],
+    s = d.createElement("script"),
+    f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src =
+    (d.location.protocol == "https:" ? "https:" : "http:") +
+    "//st.top100.ru/top100/top100.js";
+
+    if (w.opera == "[object Opera]") {
+    d.addEventListener("DOMContentLoaded", f, false);
+} else { f(); }
+})(window, document, "_top100q");
+</script>
+<noscript>
+  <img src="//counter.rambler.ru/top100.cnt?pid=2180165" alt="Топ-100" />
+</noscript>
+<!-- END Top100 (Kraken) Counter -->
+
+
+<!-- Rating Mail.ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "1714952", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script><noscript><div>
+<img src="https://top-fwz1.mail.ru/counter?id=1714952;js=na" style="border:0;position:absolute;left:-9999px;" alt="Top.Mail.Ru" />
+</div></noscript>
+<!-- //Rating Mail.ru counter -->
+<!-- Rating Mail.ru logo -->
+<a href="https://top.mail.ru/jump?from=1714952">
+<img src="https://top-fwz1.mail.ru/counter?id=1714952;t=418;l=1" style="border:0;" height="31" width="88" alt="Top.Mail.Ru" /></a>
+<!-- //Rating Mail.ru logo -->
+
+
+    </div>
+  </div>
+
+</footer>
+<div class="js Helper none"></div>
+<script src="/jas/common.js?ver=1.127" defer></script>
+
+<script type="text/javascript">
+  (
+    () => {
+      const script = document.createElement("script");
+      script.src = "https://cdn1.moe.video/p/cr.js";
+      script.onload = () => {
+        addContentRoll({
+	width: '100%',
+	placement: 11466,
+	promo: true,
+	advertCount: 50,
+	slot: 'page',
+	sound: 'onclick',
+	deviceMode: 'all',
+	background: 'none',
+	fly:{
+		mode: 'stick',
+		width: 445,
+		closeSecOffset: 5,
+		position: 'bottom-right',
+		indent:{
+			left: 0,
+			right: 0,
+			top: 0,
+			bottom: 0,
+                },
+		positionMobile: 'bottom',
+            },
+        });
+      };
+      document.body.append(script);
+    }
+  )()
+</script><div id="Overlay_Mobile_new"></div>
+<script>
+    window.yaContextCb.push(()=>{
+        Ya.adfoxCode.create({
+            ownerId: 695151,
+            containerId: 'Overlay_Mobile_new',
+            type: 'floorAd',
+            platform: 'touch',
+            params: {
+                p1: 'dkbmt',
+                p2: 'y'
+            }
+        })
+    })
+</script>
+</body>
+</html>

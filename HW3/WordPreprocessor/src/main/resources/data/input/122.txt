@@ -1,0 +1,1695 @@
+<!DOCTYPE html>
+
+<html lang="ru">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#023630">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>РФК Ахмат – официальный сайт</title>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="57x57" href="/_assets/favicon/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/_assets/favicon/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/_assets/favicon/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/_assets/favicon/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/_assets/favicon/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/_assets/favicon/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/_assets/favicon/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/_assets/favicon/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/_assets/favicon/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" href="/_assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link rel="icon" type="image/png" href="/_assets/favicon/favicon-16x16.png" sizes="16x16">
+<!--    <link rel="icon" type="image/png" href="/_assets/favicon/favicon-32x32.png" sizes="32x32">-->
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <link rel="stylesheet" href="/_assets/public/css/app.css?51b9c5d1">
+
+            <link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://akhmat.local.internet-design.ru/rss">
+    
+    <meta name="theme-color" content="#143d8d">
+
+    <meta property="og:title" content="РФК Ахмат – официальный сайт" />
+    <meta property="og:description" content='РФК "Ахмат"' />
+    <meta property="og:image" content="/_assets/img/main/logo.png" />
+
+    <!-- остальное подгружаем отложенно -->
+        <script type="text/javascript">
+        var inlineScripts =  [];
+    </script>
+
+<!--    yandex maps-->
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&amp;apikey=74c22d1f-828a-4f46-bab0-c0b8ec3ba384" type="text/javascript"></script>
+    <!--LiveInternet counter-->
+    <script>
+        new Image().src = "https://counter.yadro.ru/hit?r"+
+            escape(document.referrer)+((typeof(screen)=="undefined")?"":
+                ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+                    screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+            ";h"+escape(document.title.substring(0,150))+
+            ";"+Math.random();
+    </script>
+    <!--/LiveInternet-->
+</head>
+<body class="">
+<div class="svg-sprite">
+    <img src="/_assets/public/images/sprite.svg?1f555190" alt="">
+</div>
+<div class="page-wrapper">
+    <header class="header js-header">
+        <div class="header__top">
+            <div class="header__top-wrapper container">
+                <div class="header__top-left">
+                    <div class="header__menu-site">
+                        <div class="menu-site js-site-menu">
+    <span class="text-14 menu-site__header js-site-menu-toggle">
+        <span>
+            Сайты
+        </span>
+         <svg class="icon-arrow"><use xlink:href="/_assets/img/svg-icons/ic_arrow_full.svg#ic-arrow-full"></use></svg>
+    </span>
+    <div class="menu-site__list text-14 js-site-menu-list">
+        <a href="http://fc-akhmat.ru/" target="_blank" class="menu-site__item">
+            <span>РФК АХМАТ (ГРОЗНЫЙ)</span>
+        </a>
+        <a href="https://akhmat-arena.ru/" target="_blank" class="menu-site__item">
+            <span>АХМАТ АРЕНА</span>
+        </a>
+        <a href="https://faramzan.ru/" target="_blank" class="menu-site__item">
+            <span>АКАДЕМИЯ РАМЗАН</span>
+        </a>
+        <a href="https://akhmat-arena.ru/2019-04-20-16-51-31" target="_blank" class="menu-site__item">
+            <span>PREMIER PASS</span>
+        </a>
+    </div>
+</div>
+                    </div>
+                    <div class="header__logo-text">
+                        <svg><use xlink:href="/_assets/img/svg-icons/ic_logo_text.svg#ic-logo-text"></use></svg>
+                    </div>
+                </div>
+                <div class="header__top-right">
+                    <div class="header__block-with-sponsors">
+    <div class="sponsors-list">
+                                    <a href="https://fondkadyrova.net/" target="_blank" class="sponsors-list__item">
+                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/0cf/lhbdhsehc8u5dyrqx0xq2rterjomo5g0/achmat.png" class="sponsors-list__img" alt=""
+                         loading="lazy">
+                </a>
+                                                <span class="sponsors-list__item">
+                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/379/ozkcdc3yo6cb2f9nl66dhy19aitrpwzv/flagrussia.png" class="sponsors-list__img" alt=""
+                         loading="lazy">
+                </span>
+                        </div>
+
+    
+<div class="soc-list">
+    <a href="https://vk.com/akhmatgrozny" target="_blank" class="soc-list__item">
+        <svg>
+            <use xlink:href="/_assets/img/svg-icons/ic_vk.svg#ic-vk"></use>
+        </svg>
+    </a>
+    <a href="https://t.me/akhmatgrozny" target="_blank" class="soc-list__item">
+        <svg>
+            <use xlink:href="/_assets/img/svg-icons/ic_tg.svg#ic-tg"></use>
+        </svg>
+    </a>
+</div>
+
+    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__bottom">
+            <div class="header__bottom-wrapper container">
+                <a href="/" class="header__logo">
+                    <img src="/_assets/img/main/logo.png" alt="ФК Ахмат"/>
+                </a>
+                <div class="header__block-with-sponsors">
+            <div class="sponsors-list">
+                            <a href="https://fondkadyrova.net/" target="_blank" class="sponsors-list__item">
+                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/0cf/lhbdhsehc8u5dyrqx0xq2rterjomo5g0/achmat.png" class="sponsors-list__img" alt=""
+                         loading="lazy">
+                </a>
+                            <a href="" target="_blank" class="sponsors-list__item">
+                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/379/ozkcdc3yo6cb2f9nl66dhy19aitrpwzv/flagrussia.png" class="sponsors-list__img" alt=""
+                         loading="lazy">
+                </a>
+                    </div>
+    </div>
+                <button type="button" class="header__burger-menu-icon js-btn-burger-menu">
+                    <span class="burger-button js-burger-button">
+                        <span></span>
+                    </span>
+                </button>
+                <div class="header__menu js-burger-menu">
+    <nav class="nav">
+        <div class="nav__content">
+            <ul class="nav__container">
+                                    <li class="nav__item js-header-menu-item ">
+                                            <a href="#" class="nav__link text-18 nav__link--with-arrow root-item js-header-menu-button">
+                            Новости                            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow_full.svg#ic-arrow-full"></use></svg>
+                        </a>
+                                                                <div class="nav__submenu submenu js-header-menu-item-dropdown">
+                            <div class="submenu__column">
+                                                                                                            <div class="submenu__list">
+                                            <a href="/news/fc-akhmat/"                                                class="parent submenu__link ">Новости РФК Ахмат</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/news/academy/"                                                class="parent submenu__link ">Новости Академии</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/news/press/"                                                class="parent submenu__link ">Пресса</a>
+                                        </div>
+                                                                                                </div>
+                                                                                                                                                                                                                                        </div>
+                                        </li>
+                                    <li class="nav__item js-header-menu-item ">
+                                            <a href="#" class="nav__link text-18 nav__link--with-arrow root-item js-header-menu-button">
+                            Команда                            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow_full.svg#ic-arrow-full"></use></svg>
+                        </a>
+                                                                <div class="nav__submenu submenu js-header-menu-item-dropdown">
+                            <div class="submenu__column">
+                                                                                                                                                                                                    </div>
+                                                                                            <div class="submenu__column">
+                                    <div class="submenu__list">
+                                                                                    <span                                                class="parent submenu__link submenu__link-not--hover ">Основной состав</span>
+                                        
+                                        <ul class="submenu__level">
+                                                                                            <li class="submenu__list">
+                                                    <a href="/team/main/"                                                        class="submenu__link text-14 ">Игроки</a>
+                                                </li>
+                                                                                            <li class="submenu__list">
+                                                    <a href="/team/main/trainers/"                                                        class="submenu__link text-14 ">Тренерский состав</a>
+                                                </li>
+                                                                                            <li class="submenu__list">
+                                                    <a href="/team/main/administration/"                                                        class="submenu__link text-14 ">Административный состав</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                                                                                                                        <div class="submenu__column">
+                                    <div class="submenu__list">
+                                                                                    <span                                                class="parent submenu__link submenu__link-not--hover ">Молодежная команда</span>
+                                        
+                                        <ul class="submenu__level">
+                                                                                            <li class="submenu__list">
+                                                    <a href="/team/youth/"                                                        class="submenu__link text-14 ">Игроки молодежной команды</a>
+                                                </li>
+                                                                                            <li class="submenu__list">
+                                                    <a href="/team/youth/staff/"                                                        class="submenu__link text-14 ">Штаб молодежной команды</a>
+                                                </li>
+                                                                                    </ul>
+                                    </div>
+                                </div>
+                                                                                </div>
+                                        </li>
+                                    <li class="nav__item js-header-menu-item ">
+                                            <a href="#" class="nav__link text-18 nav__link--with-arrow root-item js-header-menu-button">
+                            Клуб                            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow_full.svg#ic-arrow-full"></use></svg>
+                        </a>
+                                                                <div class="nav__submenu submenu js-header-menu-item-dropdown">
+                            <div class="submenu__column">
+                                                                                                            <div class="submenu__list">
+                                            <a href="/club/head/"                                                class="parent submenu__link ">Руководящий состав</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/club/administration/"                                                class="parent submenu__link ">Административный состав</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/club/history/"                                                class="parent submenu__link ">История</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/club/partners/"                                                class="parent submenu__link ">Партнеры</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/club/contacts/"                                                class="parent submenu__link ">Контакты</a>
+                                        </div>
+                                                                                                </div>
+                                                                                                                                                                                                                                                                                                                                                                </div>
+                                        </li>
+                                    <li class="nav__item js-header-menu-item ">
+                                            <a href="#" class="nav__link text-18 nav__link--with-arrow root-item js-header-menu-button">
+                            Сезон                            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow_full.svg#ic-arrow-full"></use></svg>
+                        </a>
+                                                                <div class="nav__submenu submenu js-header-menu-item-dropdown">
+                            <div class="submenu__column">
+                                                                                                            <div class="submenu__list">
+                                            <a href="/matches/main-team/"                                                class="parent submenu__link ">Матчи РФК АХМАТ</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/matches/youth-team/"                                                class="parent submenu__link ">Матчи молодежной команды</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/matches/tables/"                                                class="parent submenu__link ">Турнирные таблицы</a>
+                                        </div>
+                                                                                                </div>
+                                                                                                                                                                                                                                        </div>
+                                        </li>
+                                    <li class="nav__item js-header-menu-item ">
+                                            <a href="#" class="nav__link text-18 nav__link--with-arrow root-item js-header-menu-button">
+                            Медиа                            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow_full.svg#ic-arrow-full"></use></svg>
+                        </a>
+                                                                <div class="nav__submenu submenu js-header-menu-item-dropdown">
+                            <div class="submenu__column">
+                                                                                                            <div class="submenu__list">
+                                            <a href="/media/photo/"                                                class="parent submenu__link ">Фото</a>
+                                        </div>
+                                                                                                                                                <div class="submenu__list">
+                                            <a href="/media/video/"                                                class="parent submenu__link ">Видео</a>
+                                        </div>
+                                                                                                </div>
+                                                                                                                                                                            </div>
+                                        </li>
+                                    <li class="nav__item js-header-menu-item ">
+                                            <a href="/fans/faq/"                            class="nav__link text-18 root-item">Болельщикам</a>
+                                                            </li>
+                            </ul>
+        </div>
+    </nav>
+        <div class="input-search js-input-search">
+        <div class="input-search__form">
+            <form action="/search/">
+                <input type="text" class="inp-t inp-search__inp" name="q" value="" placeholder="Поиск">
+                <button type="submit" class="input-search__icon-submit">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_search.svg#ic-search"></use></svg>
+                </button>
+            </form>
+        </div>
+        <button type="button" class="input-search__icon js-input-search-btn">
+            <svg><use xlink:href="/_assets/img/svg-icons/ic_search.svg#ic-search"></use></svg>
+        </button>
+    </div>
+    <div class="header__menu-burger-bottom">
+        <div class="menu-site js-site-menu">
+    <span class="text-14 menu-site__header js-site-menu-toggle">
+        <span>
+            Сайты
+        </span>
+         <svg class="icon-arrow"><use xlink:href="/_assets/img/svg-icons/ic_arrow_full.svg#ic-arrow-full"></use></svg>
+    </span>
+    <div class="menu-site__list text-14 js-site-menu-list">
+        <a href="http://fc-akhmat.ru/" target="_blank" class="menu-site__item">
+            <span>РФК АХМАТ (ГРОЗНЫЙ)</span>
+        </a>
+        <a href="https://akhmat-arena.ru/" target="_blank" class="menu-site__item">
+            <span>АХМАТ АРЕНА</span>
+        </a>
+        <a href="https://faramzan.ru/" target="_blank" class="menu-site__item">
+            <span>АКАДЕМИЯ РАМЗАН</span>
+        </a>
+        <a href="https://akhmat-arena.ru/2019-04-20-16-51-31" target="_blank" class="menu-site__item">
+            <span>PREMIER PASS</span>
+        </a>
+    </div>
+</div>
+        
+<div class="soc-list">
+    <a href="https://vk.com/akhmatgrozny" target="_blank" class="soc-list__item">
+        <svg>
+            <use xlink:href="/_assets/img/svg-icons/ic_vk.svg#ic-vk"></use>
+        </svg>
+    </a>
+    <a href="https://t.me/akhmatgrozny" target="_blank" class="soc-list__item">
+        <svg>
+            <use xlink:href="/_assets/img/svg-icons/ic_tg.svg#ic-tg"></use>
+        </svg>
+    </a>
+</div>
+    </div>
+</div>
+                    <div class="input-search js-input-search">
+        <div class="input-search__form">
+            <form action="/search/">
+                <input type="text" class="inp-t inp-search__inp" name="q" value="" placeholder="Поиск">
+                <button type="submit" class="input-search__icon-submit">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_search.svg#ic-search"></use></svg>
+                </button>
+            </form>
+        </div>
+        <button type="button" class="input-search__icon js-input-search-btn">
+            <svg><use xlink:href="/_assets/img/svg-icons/ic_search.svg#ic-search"></use></svg>
+        </button>
+    </div>
+            </div>
+        </div>
+    </header>
+<div class="main"><!--Main:Begin-->
+            <div class="main-page">
+            <div class="main-page__header">
+                <span class="main-page__header-decor"></span>
+                <div class="main-page__header-wrapper container">
+                    <div class="main-page__header-left">
+                        
+<div class="banner-carousel js-banner-carousel swiper">
+    <div class="swiper-wrapper banner-carousel__wrapper">
+                    <a href="/news/fc-akhmat/novosti-osnovy/podgotovka-k-sezonu-v-turtsii-blizka-k-zaversheniyu/"
+                              class="banner-carousel__item js-banner-carousel-item swiper-slide is-active">
+                                    <div class="banner-carousel__item-image">
+                        <img src="" alt="">
+                    </div>
+                                <div class="banner-carousel__item-title">
+                    Подготовка к сезону в Турции близка к завершению                </div>
+            </a>
+                                <a href="/news/fc-akhmat/novosti-osnovy/akhmat-oderzhal-pobedu-v-kontrolnoy-igre-s-agmk-iz-uzbekistana/"
+                              class="banner-carousel__item js-banner-carousel-item swiper-slide ">
+                                    <div class="banner-carousel__item-image">
+                        <img src="" alt="">
+                    </div>
+                                <div class="banner-carousel__item-title">
+                    «Ахмат» одержал победу в контрольной игре с АГМК из Узбекистана                </div>
+            </a>
+                                <a href="/news/fc-akhmat/klub/darko-todorovich-prodolzhit-kareru-v-fakele/"
+                              class="banner-carousel__item js-banner-carousel-item swiper-slide ">
+                                    <div class="banner-carousel__item-image">
+                        <img src="" alt="">
+                    </div>
+                                <div class="banner-carousel__item-title">
+                    Дарко Тодорович продолжит карьеру в «Факеле»                </div>
+            </a>
+                                <a href="/news/fc-akhmat/novosti-osnovy/groznentsy-oderzhali-pobedu-v-pervoy-kontrolnoy-igre-na-tretem-sbore/"
+                              class="banner-carousel__item js-banner-carousel-item swiper-slide ">
+                                    <div class="banner-carousel__item-image">
+                        <img src="" alt="">
+                    </div>
+                                <div class="banner-carousel__item-title">
+                    Команда одержала победу в первой контрольной игре на третьем сборе                </div>
+            </a>
+                                <a href="/news/fc-akhmat/novosti-osnovy/v-nachale-tretego-sbora-igraem-s-kyrgyzstanskim-barsom/"
+                              class="banner-carousel__item js-banner-carousel-item swiper-slide ">
+                                    <div class="banner-carousel__item-image">
+                        <img src="" alt="">
+                    </div>
+                                <div class="banner-carousel__item-title">
+                    В начале третьего сбора играем с кыргызстанским «Барсом»                </div>
+            </a>
+                        </div>
+</div>
+                        <div class="banner-carousel__scrollbar js-banner-carousel-scrollbar"></div>
+                    </div>
+                    <div class="main-page__header-right">
+                        
+<div class="matches-calendar js-matches">
+    <div class="matches-calendar__wrapper">
+        <h4 class="matches-calendar__title">
+            Календарь матчей
+        </h4>
+        <div class="matches-calendar__days">
+                                                <div class="matches-calendar__day js-matches-day" data-status="prev" data-day="prev-0">
+                        18 фев                    </div>
+                                    <div class="matches-calendar__day js-matches-day" data-status="prev" data-day="prev-1">
+                        18 фев                    </div>
+                                                                                <div class="matches-calendar__day next js-matches-day active" data-status="next" data-day="next-0">
+                    01 мар                </div>
+                            <div class="matches-calendar__day next js-matches-day " data-status="next" data-day="next-1">
+                    09 мар                </div>
+                            <div class="matches-calendar__day next js-matches-day " data-status="next" data-day="next-2">
+                    15 мар                </div>
+                    </div>
+        <div class="matches-calendar__list">
+                                                <div class="match-widget match-widget--completed js-matches-item" data-match="prev-0">
+                        <div class="match-widget__content">
+                            <div class="match-widget__top">
+                                <div class="match-widget__date text-14 fw-600">
+                                    18 февраля                                </div>
+                                <div class="match-widget__time text-18 fw-700">
+                                                                            11:30                                                                    </div>
+                                <div class="match-widget__day text-14 fw-600">
+                                    среда                                </div>
+                            </div>
+                            <div class="match-widget__name text-14 text-uppercase">
+                                Контрольный матч  - 2025/2026                            </div>
+                            <div class="match-widget__place text-14 text-uppercase">
+                                                            </div>
+                            <div class="match-widget__players">
+                                <div class="match-widget__player">
+                                    <div class="match-widget__player-logo">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt="" />
+                                                                            </div>
+                                    <div class="match-widget__player-name text-14 fw-700">
+                                        Ахмат                                    </div>
+                                </div>
+                                <div class="match-widget__score">
+                                    <span class="match-widget__score-number">1</span>
+                                    <span class="match-widget__score-dots">:</span>
+                                    <span class="match-widget__score-number">2</span>
+                                </div>
+                                <div class="match-widget__player">
+                                    <div class="match-widget__player-logo">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/e39/e397f5811e20583ffb62d25a5f4e3e7d/FC_Tobol_Logo.svg.png" alt=""/>
+                                                                            </div>
+                                    <div class="match-widget__player-name text-14 fw-700">
+                                        Тобол                                    </div>
+                                </div>
+                            </div>
+                            <a href="/matches/main-team/255921/" class="match-widget__button text-uppercase fw-700 text-16 btn">
+                                Подробности                            </a>
+                        </div>
+                    </div>
+                                    <div class="match-widget match-widget--completed js-matches-item" data-match="prev-1">
+                        <div class="match-widget__content">
+                            <div class="match-widget__top">
+                                <div class="match-widget__date text-14 fw-600">
+                                    18 февраля                                </div>
+                                <div class="match-widget__time text-18 fw-700">
+                                                                            17:00                                                                    </div>
+                                <div class="match-widget__day text-14 fw-600">
+                                    среда                                </div>
+                            </div>
+                            <div class="match-widget__name text-14 text-uppercase">
+                                Контрольный матч  - 2025/2026                            </div>
+                            <div class="match-widget__place text-14 text-uppercase">
+                                                            </div>
+                            <div class="match-widget__players">
+                                <div class="match-widget__player">
+                                    <div class="match-widget__player-logo">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt="" />
+                                                                            </div>
+                                    <div class="match-widget__player-name text-14 fw-700">
+                                        Ахмат                                    </div>
+                                </div>
+                                <div class="match-widget__score">
+                                    <span class="match-widget__score-number">2</span>
+                                    <span class="match-widget__score-dots">:</span>
+                                    <span class="match-widget__score-number">2</span>
+                                </div>
+                                <div class="match-widget__player">
+                                    <div class="match-widget__player-logo">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/127/2mdn9t95jrzuxvra1d2ptng1wh1j6jxj/emblema_22.png" alt=""/>
+                                                                            </div>
+                                    <div class="match-widget__player-name text-14 fw-700">
+                                        Балтика                                    </div>
+                                </div>
+                            </div>
+                            <a href="/matches/main-team/255873/" class="match-widget__button text-uppercase fw-700 text-16 btn">
+                                Подробности                            </a>
+                        </div>
+                    </div>
+                                        
+                        <!-- блок ближайшего матча  -->
+                            <div class="match-widget match-widget--next js-matches-item active" data-match="next-0">
+                    <div class="match-widget__content">
+                        <div class="match-widget__top">
+                            <div class="match-widget__date text-14 fw-600">
+                                01 марта                            </div>
+                            <div class="match-widget__time text-18 fw-700">
+                                                                    19:00                                                            </div>
+                            <div class="match-widget__day text-14 fw-600">
+                                воскресенье                            </div>
+                        </div>
+                        <div class="match-widget__name text-14 text-uppercase">
+                            Мир Российская Премьер-Лига - 2025/2026                        </div>
+                        <div class="match-widget__place text-14 text-uppercase">
+                            Ахмат-Арена                        </div>
+                        <div class="match-widget__players">
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt="" />
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Ахмат                                </div>
+                            </div>
+                            <div class="match-widget__score">
+                                <img src="/_assets/img/main/empty-score.png" alt=""/>
+                            </div>
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/c72/ky1rm0kgyi8egmmmh6staqo87ywd384l/74.png" alt=""/>
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    ЦСКА                                </div>
+                            </div>
+                        </div>
+                        <a href=" /matches/main-team/255215/" class="match-widget__button fill text-uppercase fw-700 text-16 btn">
+                            Матч центр
+                        </a>
+                    </div>
+                </div>
+                            <div class="match-widget match-widget--next js-matches-item " data-match="next-1">
+                    <div class="match-widget__content">
+                        <div class="match-widget__top">
+                            <div class="match-widget__date text-14 fw-600">
+                                09 марта                            </div>
+                            <div class="match-widget__time text-18 fw-700">
+                                                                    16:30                                                            </div>
+                            <div class="match-widget__day text-14 fw-600">
+                                понедельник                            </div>
+                        </div>
+                        <div class="match-widget__name text-14 text-uppercase">
+                            Мир Российская Премьер-Лига - 2025/2026                        </div>
+                        <div class="match-widget__place text-14 text-uppercase">
+                            РЖД Арена                        </div>
+                        <div class="match-widget__players">
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/756/6f98uqcfthmmgfobqf0bsm1tr28i8kvz/70.png" alt="" />
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Локомотив                                </div>
+                            </div>
+                            <div class="match-widget__score">
+                                <img src="/_assets/img/main/empty-score.png" alt=""/>
+                            </div>
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt=""/>
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Ахмат                                </div>
+                            </div>
+                        </div>
+                        <a href=" /matches/main-team/255216/" class="match-widget__button fill text-uppercase fw-700 text-16 btn">
+                            Матч центр
+                        </a>
+                    </div>
+                </div>
+                            <div class="match-widget match-widget--next js-matches-item " data-match="next-2">
+                    <div class="match-widget__content">
+                        <div class="match-widget__top">
+                            <div class="match-widget__date text-14 fw-600">
+                                15 марта                            </div>
+                            <div class="match-widget__time text-18 fw-700">
+                                                                    16:30                                                            </div>
+                            <div class="match-widget__day text-14 fw-600">
+                                воскресенье                            </div>
+                        </div>
+                        <div class="match-widget__name text-14 text-uppercase">
+                            Мир Российская Премьер-Лига - 2025/2026                        </div>
+                        <div class="match-widget__place text-14 text-uppercase">
+                            Самара Арена                        </div>
+                        <div class="match-widget__players">
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/5ef/6o1nbnwrc6ctsyl2amma082siu4k7lf3/akron234.png" alt="" />
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Акрон                                </div>
+                            </div>
+                            <div class="match-widget__score">
+                                <img src="/_assets/img/main/empty-score.png" alt=""/>
+                            </div>
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt=""/>
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Ахмат                                </div>
+                            </div>
+                        </div>
+                        <a href=" /matches/main-team/255217/" class="match-widget__button fill text-uppercase fw-700 text-16 btn">
+                            Матч центр
+                        </a>
+                    </div>
+                </div>
+                    </div>
+
+<!--        мобильная версия-->
+        <div class="matches-calendar__list matches-calendar__list--sx">
+                            <a href="/matches/main-team/255873/" class="match-widget match-widget--completed">
+                    <div class="match-widget__content">
+                        <div class="match-widget__top">
+                            <div class="match-widget__date text-14">
+                                <span class="fw-700">
+                                    18 февраля,
+                                </span>
+                                <span class="text-uppercase">
+                                    ср                                </span>
+                            </div>
+                            <div class="text-14">
+                                Завершенный матч                            </div>
+                        </div>
+                        <div class="match-widget__players">
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt="" />
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Ахмат                                </div>
+                            </div>
+                            <div class="match-widget__score">
+                                <span class="match-widget__score-number">2</span>
+                                <span class="match-widget__score-dots">:</span>
+                                <span class="match-widget__score-number">2</span>
+                            </div>
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/127/2mdn9t95jrzuxvra1d2ptng1wh1j6jxj/emblema_22.png" alt=""/>
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Балтика                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            
+            
+                            <a href="/matches/main-team/255215/" class="match-widget match-widget--next">
+                    <div class="match-widget__content">
+                        <div class="match-widget__top">
+                            <div class="match-widget__date text-14">
+                                   <span class="fw-700">
+                                    01 марта,
+                                </span>
+                                <span class="text-uppercase">
+                                    вс                                </span>
+                            </div>
+                            <div class="text-14">
+                                Ближайший матч                            </div>
+                        </div>
+                        <div class="match-widget__players">
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt="" />
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    Ахмат                                </div>
+                            </div>
+                            <div class="match-widget__score">
+                                <picture>
+                                    <source srcset="/_assets/img/main/empty-score.webp" type="image/webp">
+                                    <img src="/_assets/img/main/empty-score.png" alt=""/>
+                                </picture>
+                            </div>
+                            <div class="match-widget__player">
+                                <div class="match-widget__player-logo">
+                                                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/c72/ky1rm0kgyi8egmmmh6staqo87ywd384l/74.png" alt=""/>
+                                                                    </div>
+                                <div class="match-widget__player-name text-14 fw-700">
+                                    ЦСКА                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+                        <div class="arrow-link">
+                <a href="/matches/main-team/" class="text-18 fw-600">
+                    Все матчи
+                </a>
+                    <span class="arrow-link__icon">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+                    </div>
+                </div>
+                <div class="main-page__header-banner container">
+                                            <div class="banner">
+    <a href="https://www.gosuslugi.ru/fancard" target="_blank" class="banner__wrapper">
+        <div class="banner__item">
+            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/57b/jwo6yeycp1ksk3r3exnwfxriffuf9wgu/bannergos.jpg" alt="FanID" loading="lazy">
+        </div>
+            </a>
+</div>                                    </div>
+            </div>
+        </div>
+        <!--Container:Begin-->
+    <div class="container main__content main__content--main-page">
+                <div class="main__content-wrapper">
+            <div class="main__content-sidebar">
+                
+<div class="sidebar">
+    <div class="sidebar__wrapper">
+                <div class="sidebar__table mb-md">
+                            <div class="matches-table js-matches-table">
+    <div class="matches-table__wrapper">
+        <h4 class="matches-table__title">Турнирная таблица</h4>
+        <div class="matches-table__table">
+            <div class="matches-table__select">
+                <div class="custom-select">
+                    <select data-custom-select-placeholder="" class="js-select2 js-matches-table-select" style="opacity: 0">
+                                                    <option value="254035">Мир Российская Премьер-Лига - 2025/2026</option>
+                                            </select>
+                </div>
+            </div>
+                            <div class="matches-table__table-content js-matches-table-content"
+                     data-table="254035"
+                     style="display: none;">
+                                            <div class="table-grid custom-scroll js-custom-scroll">
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">1</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/4b5/jjm9q7b36malpn811fvxie24x1h6iomo/53.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Краснодар                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">37-12</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">40</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">2</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/2ff/x9nvkekkcnura0o94ex22dp5tseoknw0/FC_Zenit_logo_2023.svg.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Зенит                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">34-12</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">39</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">3</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/756/6f98uqcfthmmgfobqf0bsm1tr28i8kvz/70.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Локомотив                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">39-23</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">37</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">4</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/c72/ky1rm0kgyi8egmmmh6staqo87ywd384l/74.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    ЦСКА                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">30-17</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">36</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">5</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/127/2mdn9t95jrzuxvra1d2ptng1wh1j6jxj/emblema_22.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Балтика                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">24-7</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">35</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">6</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/714/upj4l7n6zgarcbulvc1xgsjwv047c7v6/69.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Спартак-Москва                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">26-23</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">29</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">7</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/ece/9t273672251ys83wl2xkq5kern8odxkv/76.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Рубин                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">16-22</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">23</div>
+                                </div>
+                                                            <div class="table-grid__row unique">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">8</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Ахмат                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">22-25</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">22</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">9</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/5ef/6o1nbnwrc6ctsyl2amma082siu4k7lf3/akron234.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Акрон                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">22-26</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">21</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">10</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/69f/9aipfw790lsglkw9sy2022o32wzq8g1b/71.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Динамо                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">27-26</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">21</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">11</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/05f/ix2t20lsvvvicotq4jssi5idfywduzbk/77.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Ростов                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">15-20</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">21</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">12</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/d74/kz77ac00pf0uqrqwa2fi5pap5a2wggwm/Krylia_Sovetov_logo.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Крылья Советов                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">20-33</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">17</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">13</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/4ef/zfx8oojgbwtcqyd64cidws5mdl0q7owx/ff.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Динамо Мх                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">20-33</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">15</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">14</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/aa5/i4k223y85nlue296oevzaw2tgq7sbzld/logo_big-kopiya.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Пари Нижний Новгород                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">12-28</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">14</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">15</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/add/so23xhgqzj44qwoz6d2w27cszek5z3q9/FC_Orenburg_Logo.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Оренбург                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">17-29</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">12</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">16</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/246/wtn1kr2gv3rgm1zv2stk1e1byiovmtsy/332.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Сочи                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">16-41</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">9</div>
+                                </div>
+                                                    </div>
+                                    </div>
+                    </div>
+        <div class="matches-table__link">
+            <a class="arrow-link" href="/matches/tables/">
+                <span class="text-18 fw-500">Вся таблица</span>
+                <span class="arrow-link__icon">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+                </span>
+            </a>
+        </div>
+    </div>
+</div>                    </div>
+        <div class="sidebar__bday mb-md">
+            
+    <h4 class="birthday-title">
+        Именинники
+    </h4>
+            <div class="birthday">
+            <a href="/club/head/ibragimov-isa-magomedkhabievich/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Ибрагимов Иса Магомед-Хабиевич                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Вице-президент                        </div>
+                                        <div class="birthday__left-date text-16">
+                        19 февраля 1992                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/995740/2a86e78c36950421a2e6ec103a022d1b/iblock/de5/y9l8sw0f5hwp19rj6w7zfkoqrar3p6dc/Isa-Ibragimov.png" alt="Ибрагимов Иса Магомед-Хабиевич">
+                                    </div>
+            </a>
+        </div>
+            <div class="birthday">
+            <a href="/club/head/daudov-magomed-khozhakhmedovich/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Даудов Магомед Хожахмедович                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Почетный президент, председатель совета клуба                        </div>
+                                        <div class="birthday__left-date text-16">
+                        26 февраля 1980                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/995765/2a86e78c36950421a2e6ec103a022d1b/iblock/f8f/10umhtsw25yjrlptldtke9pour8rg1v2/Daudov.png" alt="Даудов Магомед Хожахмедович">
+                                    </div>
+            </a>
+        </div>
+            <div class="birthday">
+            <a href="/team/main/administration/yusupov-adam-khuseynovich/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Юсупов Адам Хусейнович                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Администратор                        </div>
+                                        <div class="birthday__left-date text-16">
+                        02 марта 1995                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/995779/2a86e78c36950421a2e6ec103a022d1b/iblock/991/q20x1mrk82rjtpl062pkauthptzwqbzy/YUsupov-Adam-administrator-.png" alt="Юсупов Адам Хусейнович">
+                                    </div>
+            </a>
+        </div>
+            <div class="birthday">
+            <a href="/team/main/administration/dikaev-rashid/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Дикаев Рашид Валидович                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Видеооператор                        </div>
+                                        <div class="birthday__left-date text-16">
+                        09 марта 1985                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/1003618/2a86e78c36950421a2e6ec103a022d1b/iblock/b9a/x9r1gtp0vc13srffz2sropzd2vnm70yt/dikaev.png" alt="Дикаев Рашид Валидович">
+                                    </div>
+            </a>
+        </div>
+            </div>
+
+        <div class="sidebar__widget mb-md">
+            <div class="widget-telegram">
+    <h4 class="widget-telegram__title">
+        МЫ&nbsp;в&nbsp;телеграме
+    </h4>
+    <div class="widget-telegram__wrapper">
+        <iframe class="js-widget-tg" id="tgw_657b5726851bf87a860ad204" frameborder="0" scrolling="no" horizontalscrolling="no" verticalscrolling="no" width="100%" height="540px" async></iframe>
+        <script>document.addEventListener("DOMContentLoaded",function() {
+            const widgetWrapper = document.querySelectorAll('.js-widget-tg');
+            widgetWrapper.forEach((item) => {
+                item.setAttribute("src","https://tgwidget.com/channel/v2.0/?id=657b5726851bf87a860ad204")
+            })
+        })</script>
+    </div>
+    <div class="widget-telegram__wrapper widget-telegram__wrapper--sx">
+        <iframe class="js-widget-tg" id="tgw_657b5726851bf87a860ad204" frameborder="0" scrolling="no" horizontalscrolling="no" verticalscrolling="no" width="100%" height="540px" async></iframe>
+    </div>
+</div>        </div>
+
+            </div>
+</div>
+            </div>
+            <div class="main__content-all">
+
+<div class="main-page__news-block mb-lg">
+        <div class="title-with-arrow">
+        <h2 class="text-uppercase">
+            Новости
+        </h2>
+        <div class="title-with-arrow__right">
+            <a class="arrow-link" href="/news/fc-akhmat/">
+                <span class="text-18">
+                    Все новости
+                </span>
+                    <span class="arrow-link__icon">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="main-page__news-block-wrapper">
+        <a class="preview preview--with-bg big"
+           href="/news/fc-akhmat/novosti-osnovy/akhmat-zavershil-zimnie-sbory-v-turtsii-matchem-s-baltikoy/">
+            <div class="preview__wrapper">
+                                    <div class="preview__media">
+                        <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/6a2/6a21c1fb8e2b46794e622017a59889a5/A03I9572.jpg" alt=""
+                             loading="lazy">
+                    </div>
+                                <div class="preview__bottom">
+                    <div class="preview__date text-14">
+                        18.02.2026                    </div>
+                    <h5 class="preview__title">
+                        «Ахмат» завершил зимние сборы в Турции матчем с «Балтикой»                    </h5>
+                </div>
+            </div>
+        </a>
+        <a class="preview preview--with-bg big"
+           href="/news/fc-akhmat/klub/daniil-khlusevich-pereshel-v-akhmat-/">
+            <div class="preview__wrapper">
+                                    <div class="preview__media">
+                        <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/8e0/8e0bd286d8c5dbf26ad61a8351b549b7/DaniilKHlusevich1520.jpg" alt=""
+                             loading="lazy">
+                    </div>
+                                <div class="preview__bottom">
+                    <div class="preview__date text-14">
+                        18.02.2026                    </div>
+                    <h5 class="preview__title">
+                        Даниил Хлусевич перешел в «Ахмат»                     </h5>
+                </div>
+            </div>
+        </a>
+                    <a class="preview preview--with-bg "
+               href="/news/fc-akhmat/novosti-osnovy/groznentsy-ustupili-v-utrenney-kontrolnoy-igre-v-posledniy-den-sborov/">
+                <div class="preview__wrapper">
+                                            <div class="preview__media">
+                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/de6/de6eb439d5a3858d5738ad35ebfa770b/A03I9103.jpg" alt=""
+                                 loading="lazy">
+                        </div>
+                                        <div class="preview__bottom">
+                        <div class="preview__date text-14">
+                            18.02.2026                        </div>
+                        <h5 class="preview__title">
+                            Грозненцы уступили в утренней контрольной игре в последний день сборов                        </h5>
+                    </div>
+                </div>
+            </a>
+                    <a class="preview preview--with-bg "
+               href="/news/fc-akhmat/rfs-i-rpl/rfs-provyel-sudeyskiy-seminar-dlya-fk-akhmat/">
+                <div class="preview__wrapper">
+                                            <div class="preview__media">
+                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/7e3/7e34aafa2727e96bce6db3ff5daa4f6f/seminar.jpg" alt=""
+                                 loading="lazy">
+                        </div>
+                                        <div class="preview__bottom">
+                        <div class="preview__date text-14">
+                            17.02.2026                        </div>
+                        <h5 class="preview__title">
+                            РФС провёл судейский семинар для ФК «Ахмат»                        </h5>
+                    </div>
+                </div>
+            </a>
+                    <a class="preview preview--with-bg "
+               href="/news/fc-akhmat/novosti-osnovy/podgotovka-k-sezonu-v-turtsii-blizka-k-zaversheniyu/">
+                <div class="preview__wrapper">
+                                            <div class="preview__media">
+                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/6ab/6abb3949f4e5db1cc32faaa6decc2852/patsany.jpg" alt=""
+                                 loading="lazy">
+                        </div>
+                                        <div class="preview__bottom">
+                        <div class="preview__date text-14">
+                            16.02.2026                        </div>
+                        <h5 class="preview__title">
+                            Подготовка к сезону в Турции близка к завершению                        </h5>
+                    </div>
+                </div>
+            </a>
+            </div>
+    <a class="arrow-link show-from-sx" href="/news/fc-akhmat/">
+        <span class="text-18">
+            Все новости
+        </span>
+        <span class="arrow-link__icon">
+            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+        </span>
+    </a>
+</div>
+
+<div class="main-page__matches-table mb-lg">
+            <div class="matches-table js-matches-table">
+    <div class="matches-table__wrapper">
+        <h4 class="matches-table__title">Турнирная таблица</h4>
+        <div class="matches-table__table">
+            <div class="matches-table__select">
+                <div class="custom-select">
+                    <select data-custom-select-placeholder="" class="js-select2 js-matches-table-select" style="opacity: 0">
+                                                    <option value="254035">Мир Российская Премьер-Лига - 2025/2026</option>
+                                            </select>
+                </div>
+            </div>
+                            <div class="matches-table__table-content js-matches-table-content"
+                     data-table="254035"
+                     style="display: none;">
+                                            <div class="table-grid custom-scroll js-custom-scroll">
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">1</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/4b5/jjm9q7b36malpn811fvxie24x1h6iomo/53.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Краснодар                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">37-12</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">40</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">2</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/2ff/x9nvkekkcnura0o94ex22dp5tseoknw0/FC_Zenit_logo_2023.svg.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Зенит                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">34-12</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">39</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">3</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/756/6f98uqcfthmmgfobqf0bsm1tr28i8kvz/70.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Локомотив                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">39-23</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">37</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">4</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/c72/ky1rm0kgyi8egmmmh6staqo87ywd384l/74.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    ЦСКА                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">30-17</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">36</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">5</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/127/2mdn9t95jrzuxvra1d2ptng1wh1j6jxj/emblema_22.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Балтика                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">24-7</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">35</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">6</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/714/upj4l7n6zgarcbulvc1xgsjwv047c7v6/69.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Спартак-Москва                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">26-23</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">29</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">7</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/ece/9t273672251ys83wl2xkq5kern8odxkv/76.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Рубин                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">16-22</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">23</div>
+                                </div>
+                                                            <div class="table-grid__row unique">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">8</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f7f/rikc0716yurm5vbz70s7v99o9ruh9g5m/258.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Ахмат                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">22-25</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">22</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">9</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/5ef/6o1nbnwrc6ctsyl2amma082siu4k7lf3/akron234.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Акрон                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">22-26</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">21</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">10</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/69f/9aipfw790lsglkw9sy2022o32wzq8g1b/71.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Динамо                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">27-26</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">21</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">11</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/05f/ix2t20lsvvvicotq4jssi5idfywduzbk/77.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Ростов                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">15-20</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">21</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">12</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/d74/kz77ac00pf0uqrqwa2fi5pap5a2wggwm/Krylia_Sovetov_logo.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Крылья Советов                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">20-33</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">17</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">13</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/4ef/zfx8oojgbwtcqyd64cidws5mdl0q7owx/ff.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Динамо Мх                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">20-33</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">15</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">14</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/aa5/i4k223y85nlue296oevzaw2tgq7sbzld/logo_big-kopiya.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Пари Нижний Новгород                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">12-28</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">14</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">15</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/add/so23xhgqzj44qwoz6d2w27cszek5z3q9/FC_Orenburg_Logo.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Оренбург                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">17-29</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">12</div>
+                                </div>
+                                                            <div class="table-grid__row">
+                                    <div class="table-grid__item table-grid__item-count text-14 fw-500">16</div>
+                                    <div class="table-grid__item table-grid__item-image">
+                                                                                    <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/246/wtn1kr2gv3rgm1zv2stk1e1byiovmtsy/332.png" alt="" class="match-table__img"
+                                                 loading="lazy">
+                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-name text-14 fw-500 text-uppercase">
+                                                                                    Сочи                                                                            </div>
+                                    <div class="table-grid__item table-grid__item-match-count text-14 fw-500">18</div>
+                                                                            <div class="table-grid__item table-grid__item-goals text-14 fw-500">16-41</div>
+                                                                        <div class="table-grid__item table-grid__item-points text-14 fw-500">9</div>
+                                </div>
+                                                    </div>
+                                    </div>
+                    </div>
+        <div class="matches-table__link">
+            <a class="arrow-link" href="/matches/tables/">
+                <span class="text-18 fw-500">Вся таблица</span>
+                <span class="arrow-link__icon">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+                </span>
+            </a>
+        </div>
+    </div>
+</div>    </div>
+
+<div class="main-page__video-block mb-lg">
+        <div class="title-with-arrow">
+        <h2 class="text-uppercase">
+            Новые видео
+        </h2>
+        <div class="title-with-arrow__right">
+            <a class="arrow-link" href="/media/video/">
+                <span class="text-18">
+                    Все видео
+                </span>
+                <span class="arrow-link__icon">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="main-page__video-block-wrapper">
+                    <div class="preview-media big">
+                <div class="preview-media__wrapper">
+                                            <div class="preview-media__media">
+                            <div class="preview-media__media-wrapper">
+                                <iframe src="https://vkvideo.ru/video_ext.php?oid=-83476010&id=456243309&hash=4943569af803e104&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                                <span class="preview-media__icon"></span>
+                            </div>
+                        </div>
+                                        <div class="preview-media__date text-14">
+                        16.02.2026                    </div>
+                    <h5 class="preview-media__name text-uppercase">
+                        <a href="/media/video/predsezonnaya-podgotovka-v-turtsii-blizitsya-k-zaversheniyu/">
+                            Предсезонная подготовка в Турции близится к завершению                        </a>
+                    </h5>
+                </div>
+            </div>
+                                <div class="preview-media ">
+                <div class="preview-media__wrapper">
+                                            <div class="preview-media__media">
+                            <div class="preview-media__media-wrapper">
+                                <iframe src="https://vkvideo.ru/video_ext.php?oid=-83476010&id=456243302&hash=123f90aa31ca4a6d&hd=3" width="1280" height="720" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                                <span class="preview-media__icon"></span>
+                            </div>
+                        </div>
+                                        <div class="preview-media__date text-14">
+                        15.02.2026                    </div>
+                    <h5 class="preview-media__name text-uppercase">
+                        <a href="/media/video/rabota-na-tretem-sbore-prodolzhaetsya/">
+                            Работа на третьем сборе продолжается                        </a>
+                    </h5>
+                </div>
+            </div>
+                        </div>
+    <a class="arrow-link show-from-laptop" href="/media/video/">
+        <span class="text-18">
+            Все видео
+        </span>
+        <span class="arrow-link__icon">
+            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+        </span>
+    </a>
+</div>
+
+<div class="main-page__photo-block mb-lg">
+        <div class="title-with-arrow">
+        <h2 class="text-uppercase">
+            Новые фото
+        </h2>
+        <div class="title-with-arrow__right">
+            <a class="arrow-link" href="/media/photo/">
+                <span class="text-18">
+                  Все фото
+                </span>
+                <span class="arrow-link__icon">
+                    <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="main-page__photo-block-wrapper">
+                                <a class="preview-media big" href="/media/photo/podgotovka-v-turtsii-blizka-k-zaversheniyu-den-tretego-sbora-devyatyy/">
+                <div class="preview-media__wrapper">
+                                            <div class="preview-media__media">
+                            <div class="preview-media__media-wrapper">
+                                <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/01d/01df6a9cc96c6bc0fd2d122bcf0baa60/A03I6861.jpg" alt="" loading="lazy"/>
+                            </div>
+                        </div>
+                                        <div class="preview-media__date text-14">
+                        16.02.2026                    </div>
+                    <h5 class="preview-media__name text-uppercase">
+                        Подготовка  в Турции близка к завершению, день третьего сбора девятый                    </h5>
+                </div>
+            </a>
+                                            <a class="preview-media " href="/media/photo/sudeyskiy-seminar-rfs-dlya-fk-akhmat/">
+                <div class="preview-media__wrapper">
+                                            <div class="preview-media__media">
+                            <div class="preview-media__media-wrapper">
+                                <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/f8e/f8e1ba3886bfcd148959cffe242fa314/A03I5595-kopiya.jpg" alt="" loading="lazy"/>
+                            </div>
+                        </div>
+                                        <div class="preview-media__date text-14">
+                        15.02.2026                    </div>
+                    <h5 class="preview-media__name text-uppercase">
+                        Судейский семинар РФС для ФК «Ахмат»                    </h5>
+                </div>
+            </a>
+                        </div>
+    <a class="arrow-link show-from-laptop" href="/media/photo/">
+        <span class="text-18">
+            Все фото
+        </span>
+        <span class="arrow-link__icon">
+            <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+        </span>
+    </a>
+</div>
+
+<div class="main-page__widget-and-bday mb-lg">
+    <div class="main-page__bday">
+        
+    <h4 class="birthday-title">
+        Именинники
+    </h4>
+            <div class="birthday">
+            <a href="/club/head/ibragimov-isa-magomedkhabievich/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Ибрагимов Иса Магомед-Хабиевич                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Вице-президент                        </div>
+                                        <div class="birthday__left-date text-16">
+                        19 февраля 1992                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/995740/2a86e78c36950421a2e6ec103a022d1b/iblock/de5/y9l8sw0f5hwp19rj6w7zfkoqrar3p6dc/Isa-Ibragimov.png" alt="Ибрагимов Иса Магомед-Хабиевич">
+                                    </div>
+            </a>
+        </div>
+            <div class="birthday">
+            <a href="/club/head/daudov-magomed-khozhakhmedovich/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Даудов Магомед Хожахмедович                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Почетный президент, председатель совета клуба                        </div>
+                                        <div class="birthday__left-date text-16">
+                        26 февраля 1980                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/995765/2a86e78c36950421a2e6ec103a022d1b/iblock/f8f/10umhtsw25yjrlptldtke9pour8rg1v2/Daudov.png" alt="Даудов Магомед Хожахмедович">
+                                    </div>
+            </a>
+        </div>
+            <div class="birthday">
+            <a href="/team/main/administration/yusupov-adam-khuseynovich/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Юсупов Адам Хусейнович                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Администратор                        </div>
+                                        <div class="birthday__left-date text-16">
+                        02 марта 1995                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/995779/2a86e78c36950421a2e6ec103a022d1b/iblock/991/q20x1mrk82rjtpl062pkauthptzwqbzy/YUsupov-Adam-administrator-.png" alt="Юсупов Адам Хусейнович">
+                                    </div>
+            </a>
+        </div>
+            <div class="birthday">
+            <a href="/team/main/administration/dikaev-rashid/" class="birthday__wrapper">
+                <div class="birthday__left">
+                    <h5 class="birthday__left-name">
+                        Дикаев Рашид Валидович                    </h5>
+                                            <div class="birthday__left-position text-14">
+                            Видеооператор                        </div>
+                                        <div class="birthday__left-date text-16">
+                        09 марта 1985                    </div>
+                </div>
+                <div class="birthday__right">
+                                            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/resize_cache/1003618/2a86e78c36950421a2e6ec103a022d1b/iblock/b9a/x9r1gtp0vc13srffz2sropzd2vnm70yt/dikaev.png" alt="Дикаев Рашид Валидович">
+                                    </div>
+            </a>
+        </div>
+        </div>
+    <div class="main-page__widget">
+        <div class="widget-telegram">
+    <h4 class="widget-telegram__title">
+        МЫ&nbsp;в&nbsp;телеграме
+    </h4>
+    <div class="widget-telegram__wrapper">
+        <iframe class="js-widget-tg" id="tgw_657b5726851bf87a860ad204" frameborder="0" scrolling="no" horizontalscrolling="no" verticalscrolling="no" width="100%" height="540px" async></iframe>
+        <script>document.addEventListener("DOMContentLoaded",function() {
+            const widgetWrapper = document.querySelectorAll('.js-widget-tg');
+            widgetWrapper.forEach((item) => {
+                item.setAttribute("src","https://tgwidget.com/channel/v2.0/?id=657b5726851bf87a860ad204")
+            })
+        })</script>
+    </div>
+    <div class="widget-telegram__wrapper widget-telegram__wrapper--sx">
+        <iframe class="js-widget-tg" id="tgw_657b5726851bf87a860ad204" frameborder="0" scrolling="no" horizontalscrolling="no" verticalscrolling="no" width="100%" height="540px" async></iframe>
+    </div>
+</div>    </div>
+</div>
+
+<div class="main-page__banners-under-vote mb-lg">
+    <div class="banner">
+    <a href="https://faramzan.ru/" target="_blank" class="banner__wrapper">
+        <div class="banner__item">
+            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/c4d/2zkxlvnhmvnz72ugv7kfs871u1jf9q4j/image-137.png" alt="Академия футбола «Рамзан»" loading="lazy">
+        </div>
+                    <div class="banner__text">Академия футбола «Рамзан»</div>
+            </a>
+</div><div class="banner">
+    <a href="https://akhmat-arena.ru/" target="_blank" class="banner__wrapper">
+        <div class="banner__item">
+            <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/309/iukbpnikhycemckxa9xr7r5ow989cb3o/image-137-_1_.png" alt="Ахмат арена" loading="lazy">
+        </div>
+                    <div class="banner__text">Ахмат арена</div>
+            </a>
+</div></div>
+
+<div class="main-page__academy-news mb-lg">
+    
+</div>
+
+<div class="main-page__press">
+    
+</div>
+
+            </div><!--page-content:end-->
+        </div><!--row:end-->
+            </div><!--Container:end-->
+</div><!--Main:end-->
+    <footer class="footer">
+        <button type="button" class="scroll-button-up js-scroll-button-up">
+            <div class="scroll-button-up__ic">
+                <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+            </div>
+        </button>
+            <div class="footer__partners">
+        <div class="container">
+            <div class="footer__partners-wrapper">
+                                    <a href="https://privetmir.ru/" target="_blank" class="footer__partners-item" style="--column:3;">
+                        <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/4d0/635rusvrzizaskl5jkaipw8dlxzoc1sj/langfr_560px_Mir_logo.SVG.svg.png" class="footer__partners-img"
+                             alt="Мир Партнеры"
+                             title=""
+                             loading="lazy">
+                    </a>
+                                    <a href="https://fondkadyrova.net/" target="_blank" class="footer__partners-item" style="--column:3;">
+                        <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/0cf/lhbdhsehc8u5dyrqx0xq2rterjomo5g0/achmat.png" class="footer__partners-img"
+                             alt="Фонд Ахмат Партнеры"
+                             title=""
+                             loading="lazy">
+                    </a>
+                                    <a href="https://grozny.tv/" target="_blank" class="footer__partners-item" style="--column:3;">
+                        <img src="https://770d9389-4408-474b-91b1-4eec5809b197.selstorage.ru/iblock/af4/x79jywx1bx07r1m3k8bwzrspehujvxtv/grozniy.png" class="footer__partners-img"
+                             alt="Грозный Партнеры"
+                             title=""
+                             loading="lazy">
+                    </a>
+                            </div>
+        </div>
+    </div>
+        <div class="footer__image">
+            <picture>
+                <source srcset="/_assets/img/main/footer-banner.webp" type="image/webp"/>
+                <img src="/_assets/img/main/footer-banner.jpg" alt="" loading="lazy">
+            </picture>
+        </div>
+        <div class="footer__ellipse">
+            <div class="footer__ellipse-wrapper"></div>
+        </div>
+        <div class="footer__content">
+            <div class="container">
+                <div class="footer__content-top">
+                    <div class="footer__content-left">
+                        <a href="/" class="logo">
+                            <img src="/_assets/img/main/logo.png" alt="ФК Ахмат"/>
+                        </a>
+                                                    <a href="/sitemap/" class="arrow-link">
+                                <span class="text-18">Карта сайта</span>
+                                <span class="arrow-link__icon">
+                                    <svg><use xlink:href="/_assets/img/svg-icons/ic_arrow.svg#ic-arrow"></use></svg>
+                                </span>
+                            </a>
+                                            </div>
+                    <div class="footer__content-center text-14">
+                        <div class="footer__content-center--first">
+                            <div class="text-18">Контакты:</div>
+                            <div>АНО РФК &laquo;Ахмат&raquo; (Грозный)</div>
+                            <div>г. Грозный, индекс: 364051, ул. С.Ш.Лорсанова, 3</div>
+                        </div>
+                        <div class="footer__content-center--medium">
+                            <div>
+                                <span>Офис: </span>
+                                <span>
+                                    <a href="tel:+78712224985">+7 (8712) 22 49 85</a>
+                                </span>
+                            </div>
+                            <div>
+                                <span>Бухгалтерия: </span>
+                                <span>
+                                    <a href="tel:+78712224984">+7 (8712) 22 49 84</a>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="footer__content-center--last">
+                            <div>
+                                <span>Факс: </span>
+                                <span>
+                                    <a href="tel:+78712224984">+7 (8712) 22 49 84</a>
+                                </span>
+                            </div>
+                            <div>
+                                <span>E-mail: </span>
+                                <span>
+                                    <a href="mailto:office@fc-akhmat.ru">office@fc-akhmat.ru</a>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer__content-right">
+                        
+<div class="soc-list">
+    <a href="https://vk.com/akhmatgrozny" target="_blank" class="soc-list__item">
+        <svg>
+            <use xlink:href="/_assets/img/svg-icons/ic_vk.svg#ic-vk"></use>
+        </svg>
+    </a>
+    <a href="https://t.me/akhmatgrozny" target="_blank" class="soc-list__item">
+        <svg>
+            <use xlink:href="/_assets/img/svg-icons/ic_tg.svg#ic-tg"></use>
+        </svg>
+    </a>
+</div>
+                    </div>
+                </div>
+                <div class="footer__content-bottom">
+                    <div class="footer__copy text-14">
+                        2026&nbsp;&copy; РФК АХМАТ (ГРОЗНЫЙ)
+                    </div>
+                    <div class="footer__make text-14">
+                        Разработка <a href="https://www.internet-design.ru" class="footer__svk-link" target="_blank">SVK.Digital</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+<script src="/_assets/public/js/manifest.js?af1e4cbb"></script>
+<script src="/_assets/public/js/vendor.js?e3218274"></script>
+<script src="/_assets/public/js/app.js?3cb6733d"></script>
+</body>
+</html>

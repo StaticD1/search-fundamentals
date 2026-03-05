@@ -1,0 +1,3050 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <meta content="website" property="og:type">
+    <meta name="color-scheme" content="light">
+    
+     
+    
+   
+   
+    
+   
+   
+   
+      
+    
+         
+   
+   
+   <title>ВФВ Официальный сайт ВФВ</title>
+    <meta content="ВФВ Официальный сайт ВФВ" property="og:title">
+    <meta content="Официальный сайт ВФВ" property="og:site_name">
+    <meta content="Официальный сайт ВФВ ВФВ" name="description">
+    <meta content="Официальный сайт ВФВ ВФВ" property="og:description">
+    <meta content="/assets/templates/vfr/img/600x300__main.jpg" property="og:image">
+    <meta content="/assets/templates/vfr/img/600x300__main.jpg" property="og:image:secure_url">
+    
+   
+    
+   
+
+    
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/templates/vfr/glb-favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/templates/vfr/glb-favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/templates/vfr/glb-favicon/favicon-16x16.png">
+
+    
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/assets/templates/vfr/glb-favicon/safari-pinned-tab.svg" color="#064e9f">
+    <meta name="msapplication-TileColor" content="#ffc40d">
+    <meta name="theme-color" content="#ffffff">
+
+ <base href="https://volley.ru/">
+    <meta content="https://volley.ru//" property="og:url">
+
+    <link href="/assets/templates/vfr/css/normalize/normalize.css" rel="stylesheet">
+    <link href="/assets/templates/vfr/css/vfr.css?r=23" rel="stylesheet">
+    
+   <!-- <link rel="stylesheet" href="/assets/templates/bv/js/vjs/videojs.css" />
+    <link href="/assets/templates/bv/js/vjs/videojs.js" rel="preload" as="script">
+    <link href="/assets/templates/bv/js/vjs/videojs-http-streaming.min.js" rel="preload" as="script">
+    <link href="/assets/templates/bv/js/vjs/videojs-dvr.js" rel="preload" as="script">-->
+    
+    <link href="/assets/templates/vfr/js/splide/splide.min.css" rel="stylesheet" >
+    <link href="/assets/templates/vfr/js/splide/splide.min.js" rel="preload" as="script">
+    
+    
+   
+     
+   
+    
+   
+   
+    
+    
+   
+   
+   
+        
+           
+   
+    
+   
+    <link href="/assets/templates/bv/js/appProfile/chunk-vendors.js?r=58" rel="preload" as="script">
+    <link href="/assets/templates/bv/js/appProfile/app.js?r=110" rel="preload" as="script">
+    <link href="/assets/templates/bv/js/appSlideshow/chunk-vendors.js?r=3" rel="preload" as="script">
+    <link href="/assets/templates/bv/js/appSlideshow/app.js?r=3" rel="preload" as="script">
+    <link href="/assets/templates/vfr/js/main.js?r=8" rel="preload" as="script">
+    <link href="/assets/templates/bv/js/sp5f.js?r=172" rel="preload" as="script">
+    <link href="/assets/templates/bv/js/sp5s.js?r=5" rel="preload" as="script">
+   
+   <!-- Yandex.RTB -->
+   
+<script async src='https://yandex.ru/ads/system/header-bidding.js'></script>
+<script>
+var adfoxBiddersMap = {
+  "betweenDigital": "3342591",
+  "buzzoola": "3439005",
+  "sape": "3455483",
+  "adriver": "3503211",
+"mediasniper": "3507294"
+};
+
+const w1 = window.innerWidth;
+
+var adUnits = [
+  {
+    "code": "player",//adfox_17485212379419124
+    "codeType": "instream",
+    "bids": [
+        {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1301856"
+        },
+        "adBreakTypes": [
+          "preroll",
+          "midroll",
+          "postroll"
+        ]
+      },
+      {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4842174"
+        },
+        "adBreakTypes": [
+          "preroll",
+          "midroll",
+          "postroll"
+        ]
+      },
+       {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1044901"
+        },
+        "adBreakTypes": [
+          "preroll",
+          "midroll",
+          "postroll"
+        ]
+      },
+      {
+        "bidder": "adriver",
+        "params": {
+            "placementId": "201:volley.ru_instream"
+        },
+            "adBreakTypes": [
+            "preroll",
+            "midroll",
+            "postroll"
+            ]
+        },
+        {
+            "bidder": "mediasniper",
+            "params": {
+                "placementId": "38966"
+            },
+                "adBreakTypes": [
+                "preroll",
+                "midroll",
+                "postroll"
+            ]
+        }
+    ]
+  }
+   
+  ,{
+    "code": "adv-index-1",
+    "sizes": [
+      [
+        250,
+        250
+      ]
+    ],
+    "bids": [
+      {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4872364"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1306154"
+        }
+      },
+      {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1048969"
+        }
+      }
+    ]
+  },
+   {
+    "code": "adv-index-2",
+    "sizes": [
+      [
+        300,
+        600
+      ]
+    ],
+    "bids": [
+      {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4872361"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1305768"
+        }
+      },
+      {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1048967"
+        }
+      }
+    ]
+  }
+  ,{
+    "code": "adv-index-3",
+    "sizes": [
+      [
+        320,
+        480
+      ]
+    ],
+    "bids": [
+       {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4872362"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1305769"
+        }
+      },
+      {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1048968"
+        }
+      }, {
+            "bidder": "adriver",
+            "params": {
+                "placementId": "201:volley.ru_320x480_w"
+            }
+        }, {
+            "bidder": "mediasniper",
+            "params": {
+                "placementId": "39130"
+            }
+        }
+    ]
+  }
+  
+  , {
+    "code": "mobile-adv-spawner-1",
+    "sizes": [
+       [
+        w1,
+        50
+      ],
+   [
+        w1,
+        100
+      ],
+      [
+        320,
+        100
+      ],
+[
+        320,
+        50
+      ]
+    ],
+    "bids": [
+        {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4872360"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1305767"
+        }
+      },
+      {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1048966"
+        }
+      }
+    ]
+  }
+  
+  , {
+    "code": "mobile-adv-spawner-2",
+    "sizes": [
+     [
+        w1,
+        300
+      ],
+      [
+        w1,
+        280
+      ],
+   [
+        w1,
+        250
+      ],
+      [
+        336,
+        280
+      ],
+      [
+        300,
+        250
+      ]
+    ],
+    "bids": [
+      {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4872358"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1305765"
+        }
+      },
+        {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1048947"
+        }
+      }, {
+            "bidder": "adriver",
+            "params": {
+                "placementId": "201:volley.ru_kal_m"
+            }
+       }, {
+            "bidder": "mediasniper",
+            "params": {
+                "placementId": "39125"
+            }
+        }
+    ]
+  }
+   , {
+    "code": "mobile-adv-spawner-3",
+    "sizes": [
+     [
+        w1,
+        300
+      ],
+      [
+        w1,
+        280
+      ],
+   [
+        w1,
+        250
+      ],
+      [
+        336,
+        280
+      ],
+      [
+        300,
+        250
+      ]
+    ],
+    "bids": [
+           {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4872359"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1305766"
+        }
+      },
+      {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1048965"
+        }
+      }
+    ]
+  }
+  /*, {
+    "code": "floor-adv-1",
+    "sizes": [
+      [
+        0,
+        0
+      ]
+    ],
+    "bids": [
+      {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4871443"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1305263"
+        }
+      },
+      {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1046480"
+        }
+      }
+    ]
+  }*/
+  
+  ,  {
+    "code": "floor-adv-1",
+    "sizes": [
+     [
+        w1,
+        350
+      ],
+      [
+        w1,
+        320
+      ],
+    [
+        w1,
+        300
+      ],
+    [
+        w1,
+       280
+      ],
+  [
+        w1,
+       250
+      ],
+  [
+        w1,
+       100
+      ]
+    ],
+    "bids": [
+      {
+        "bidder": "betweenDigital",
+        "params": {
+          "placementId": "4871443"
+        }
+      },
+      {
+        "bidder": "buzzoola",
+        "params": {
+          "placementId": "1305263"
+        }
+      },
+      {
+        "bidder": "sape",
+        "params": {
+          "placementId": "1046480"
+        }
+      }
+    ]
+  }
+  
+];
+
+var userTimeout = 1500;
+
+window.YaHeaderBiddingSettings = {
+   biddersMap: adfoxBiddersMap,
+   adUnits: adUnits,
+   timeout: userTimeout,
+};
+</script>
+<script>window.yaContextCb = window.yaContextCb || []</script>
+<script src='https://yandex.ru/ads/system/context.js' async></script>
+    
+    <script type="text/javascript" charset="utf-8" src="https://yandex.ru/ads/system/adsdk.js"></script>
+
+<meta name="verify-admitad" content="0628798c78" />
+<script>miniShop2Config = {"close_all_message":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","cssUrl":"\/assets\/components\/minishop2\/css\/web\/","jsUrl":"\/assets\/components\/minishop2\/js\/web\/","actionUrl":"\/assets\/components\/minishop2\/action.php","ctx":"classic","price_format":[2,"."," "],"price_format_no_zeros":true,"weight_format":[3,"."," "],"weight_format_no_zeros":true};</script>
+</head>
+<body class="body">
+<div class="main-header-wrapper" >
+    <header class="main-header wid">
+        <div class="main-header__left">
+            <div class="main-header-menu" id="main-header-menu" data-action="toggleClass:#main-header-menu,main-header-menu--active;toggleClass:#main-submenu,main-submenu--active">
+                <div class="main-header-menu__icon">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
+            </div>
+
+
+            <a href="https://volley.ru" class="main-header__logo">
+                <img src="/assets/templates/vfr/img/logo-white-simple.svg" alt="ВФВ логотип">
+            </a>
+            
+            <nav class="main-header__nav" id="nav-links">
+            
+                <a href="volleytv" class="main-header-nav__item">ВОЛЕЙБОЛ ТВ</a>
+                <a href="volleyball"  class="main-header-nav__item">ВОЛЕЙБОЛ</a>
+                <a href="https://beach.volley.ru/" class="main-header-nav__item">ПЛЯЖНЫЙ ВОЛЕЙБОЛ</a>
+                <a href="https://snow.volley.ru/" class="main-header-nav__item">ВОЛЕЙБОЛ НА СНЕГУ</a>
+                <a href="https://100.volley.ru/" class="main-header-nav__item" target="_blank">100 ЛЕТ</a>
+                <!--<a href="https://shop.volley.ru/" class="main-header-nav__item" target="_blank">МАГАЗИН</a>-->
+               <!--<a href="tickets" class="main-header-nav__item">
+                    <img src="/assets/templates/vfr/img/tickets.svg" alt="билеты" class="main-header-nav-item__img">
+                    БИЛЕТЫ</a>-->
+            
+        </nav>
+        </div>
+
+        
+        <div class="main-header__right">
+                 <div class="vs-search-container">
+
+                <button class="vs-search-trigger" aria-label="Открыть поиск" aria-expanded="false">
+                    <svg>
+                        <use href="/assets/templates/vfr/img/sp5sprite.svg#search"></use>
+                    </svg>
+                </button>
+
+
+                <form class="vs-search-form" role="search" action="search">
+                    <div class="vs-search-input-wrapper">
+                        <button type="button" class="vs-close-btn" aria-label="Закрыть поиск">
+                            <svg viewBox="0 0 24 24">
+                                <line x1="18" y1="6" x2="6" y2="18"></line>
+                                <line x1="6" y1="6" x2="18" y2="18"></line>
+                            </svg>
+                        </button>
+
+                        <div class="vs-search-icon">
+                            <svg viewBox="0 0 24 24">
+                                <circle cx="11" cy="11" r="8"></circle>
+                                <path d="m21 21-4.35-4.35"></path>
+                            </svg>
+                        </div>
+
+                        <input
+                                type="search"
+                                class="vs-search-input"
+                                placeholder="Поиск..."
+                                aria-label="Поле поиска"
+                                aria-haspopup="listbox"
+                                aria-autocomplete="list"
+                                autocomplete="off"
+                                autocapitalize="off"
+                                autocorrect="off"
+                                spellcheck="false"
+                                name="query"
+                        >
+
+                        <button type="button" class="vs-clear-btn" aria-label="Очистить">
+                            <svg viewBox="0 0 24 24">
+                                <line x1="18" y1="6" x2="6" y2="18"></line>
+                                <line x1="6" y1="6" x2="18" y2="18"></line>
+                            </svg>
+                        </button>
+
+                        <button type="submit" class="vs-submit-btn" aria-label="Выполнить поиск">
+                            <svg viewBox="0 0 24 24">
+                                <line x1="5" y1="12" x2="19" y2="12"></line>
+                                <polyline points="12 5 19 12 12 19"></polyline>
+                            </svg>
+                            <div class="vs-spinner"></div>
+                        </button>
+                    </div>
+
+                    <div class="vs-suggestions-dropdown" role="listbox">
+
+                    </div>
+                </form>
+            </div>
+            <div class="main-header__login">
+                <a href="https://volley.ru/account" class="main-header-login__link" title="Личный кабинет">
+                    <svg>
+                        <use href="/assets/templates/vfr/img/sp5sprite.svg#user"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </header>
+    <section class="main-header-subline main-header-subline--cv">
+        <div class="header-subline-nav">
+            <a href="volleyball" class="subline-nav__item">
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#home-gl"></use>
+                </svg>
+            </a>
+            
+            <a href="calendar/?volley_type=01FPWF4VD3RFE406BY16D80429" class="subline-nav__item">Календарь</a>
+            <a href="nationalteams" class="subline-nav__item">Сборные</a>
+            <a href="clubs" class="subline-nav__item">Клубы</a>
+            <a href="arenas" class="subline-nav__item">Арены</a>
+            <a href="federation/documents/official-volleyball-rules/" class="subline-nav__item">Документы</a>
+            
+            
+        </div>
+    </section>
+    <section class="main-header-subline main-header-subline--bv">
+        <div class="header-subline-nav">
+            <a href="https://volley.ru/" class="subline-nav__item">
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#home-gl"></use>
+                </svg>
+            </a>
+            <a href="https://beach.volley.ru/calendar/" class="subline-nav__item">Календарь</a>
+            <a href="https://beach.volley.ru/clubs" class="subline-nav__item">Клубы</a>
+            <a href="https://beach.volley.ru/players/" class="subline-nav__item">Игроки</a>
+            <!--<a href="https://beach.volley.ru/sponsors/" class="subline-nav__item">Спонсоры</a>-->
+            <a href="https://beach.volley.ru/arenas" class="subline-nav__item">Арены</a>
+            <a href="https://beach.volley.ru/documents/" class="subline-nav__item">Документы</a>
+            <!--<a href="https://beach.volley.ru/contacts" class="subline-nav__item">Контакты</a>-->
+            
+        </div>
+    </section>
+    <section class="main-header-subline main-header-subline--sv">
+        <div class="header-subline-nav">
+            <a href="https://volley.ru/" class="subline-nav__item">
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#home-gl"></use>
+                </svg>
+            </a>
+                <a href="https://snow.volley.ru/calendar/?tab=0" class="subline-nav__item">Календарь</a>
+                <a href="https://snow.volley.ru/clubs" class="subline-nav__item">Клубы</a>
+                <!--<a href="https://snow.volley.ru/teams" class="subline-nav__item">Команды</a>-->
+                <a href="https://snow.volley.ru/players/" class="subline-nav__item">Игроки</a>
+                <a href="https://snow.volley.ru/arenas" class="subline-nav__item">Арены</a>
+                <a href="https://snow.volley.ru/documents/" class="subline-nav__item">Документы</a>
+                <!--<a href="https://snow.volley.ru/contacts" class="subline-nav__item">Контакты</a>-->
+        </div>
+    </section>
+    <div class="main-submenu" id="main-submenu">
+        <div class="submenu-body wid">
+            <div class="submenu-col">
+                <div class="submenu-col-item show-on-mobile">
+                    <a href="volleytv" class="submenu-col-item__single-title">ВОЛЕЙБОЛ ТВ</a>
+                </div>
+                
+                <div class="submenu-col-item  hide-on-mobile">
+                    <a href="volleytv" class="submenu-col-item__single-title">
+                        Волейбол ТВ
+                    </a>
+                    
+                    <!--
+                    <div class="submenu-translations">
+                        <div class="submenu-translations__title">
+                            Популярное:
+                        </div>
+                        <a href="volleytv" class="submenu-translations__item">
+                            <svg>
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#play-circle"></use>
+                            </svg>
+                            PARI Суперлига
+                        </a>
+                        <a href="volleytv" class="submenu-translations__item">
+                            <svg>
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#play-circle"></use>
+                            </svg>
+                            Молодёжная лига
+                        </a>
+                    </div>-->
+                    
+                </div>
+                
+
+                <div class="submenu-col-item hide-on-mobile">
+                    <div class="submenu-translations">
+                        <div class="submenu-translations__title">
+                            Календарь игр:
+                        </div>
+                        <a href="calendar/" class="submenu-translations__item">
+                            <svg>
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#calendar"></use>
+                            </svg>
+                            Волейбол
+                        </a>
+                        <a href="https://beach.volley.ru/calendar/" class="submenu-translations__item">
+                            <svg>
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#calendar"></use>
+                            </svg>
+                            Пляжный волейбол
+                        </a>
+                        <a href="https://snow.volley.ru/calendar/" class="submenu-translations__item">
+                            <svg>
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#calendar"></use>
+                            </svg>
+                            Волейбол на снегу
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="submenu-col submenu-col--game-types">
+                <div class="submenu-col-item">
+                    <details class="submenu-details">
+                        <summary class="submenu-summary">
+                            <img src="/assets/templates/vfr/img/game-type/game-type--red.svg" alt="" class="submenu-summary__img">
+                            Волейбол
+                            <svg class="submenu-summary__icon">
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                            </svg>
+                        </summary>
+                        <div class="submenu-details__body submenu-details__body--cv">
+                             <a href="volleyball" class="submenu-details-body__item">
+                                <svg>
+                                    <use href="/assets/templates/vfr/img/sp5sprite.svg#home-gl"></use>
+                                </svg>
+                                Главная
+                            </a>
+                            <a href="calendar/?volley_type=01FPWF4VD3RFE406BY16D80429" class="submenu-details-body__item">Календарь</a>
+                            <a href="nationalteams" class="submenu-details-body__item">Сборные</a>
+                            <a href="clubs" class="submenu-details-body__item">Клубы</a>
+                            <a href="arenas" class="submenu-details-body__item">Арены</a>
+                            <a href="federation/documents/official-volleyball-rules/" class="submenu-details-body__item">Документы</a>
+                        </div>
+                    </details>
+                </div>
+                <div class="submenu-col-item">
+                    <details class="submenu-details">
+                        <summary class="submenu-summary">
+                            <img src="/assets/templates/vfr/img/game-type/game-type--yellow.svg" alt="" class="submenu-summary__img">
+                            Пляжный волейбол
+                            <svg class="submenu-summary__icon">
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                            </svg>
+                        </summary>
+                        <div class="submenu-details__body submenu-details__body--bv">
+                             <a href="https://beach.volley.ru/" class="submenu-details-body__item">
+                                <svg>
+                                    <use href="/assets/templates/vfr/img/sp5sprite.svg#home-gl"></use>
+                                </svg>
+                                Главная
+                            </a>
+                            <a href="https://beach.volley.ru/calendar/" class="submenu-details-body__item">Календарь</a>
+                            <a href="https://beach.volley.ru/clubs" class="submenu-details-body__item">Клубы</a>
+                            <a href="https://beach.volley.ru/players/" class="submenu-details-body__item">Игроки</a>
+                            <!--<a href="https://beach.volley.ru/sponsors/" class="submenu-details-body__item">Спонсоры</a>-->
+                            <a href="https://beach.volley.ru/arenas" class="submenu-details-body__item">Арены</a>
+                            <a href="https://beach.volley.ru/documents/" class="submenu-details-body__item">Документы</a>
+                            <!--<a href="https://beach.volley.ru/contacts" class="submenu-details-body__item">Контакты</a>-->
+                        </div>
+                    </details>
+                </div>
+                <div class="submenu-col-item">
+                    <details class="submenu-details">
+                        <summary class="submenu-summary">
+                            <img src="/assets/templates/vfr/img/game-type/game-type--light-blue.svg" alt="" class="submenu-summary__img">
+                            Волейбол на снегу
+                            <svg class="submenu-summary__icon">
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                            </svg>
+                        </summary>
+                        <div class="submenu-details__body submenu-details__body--sv">
+                             <a href="https://snow.volley.ru/" class="submenu-details-body__item">
+                                <svg>
+                                    <use href="/assets/templates/vfr/img/sp5sprite.svg#home-gl"></use>
+                                </svg>
+                                Главная
+                            </a>
+                            <a href="https://snow.volley.ru/calendar/?tab=0" class="submenu-details-body__item">Календарь</a>
+                            <a href="https://snow.volley.ru/clubs" class="submenu-details-body__item">Клубы</a>
+                            <a href="https://snow.volley.ru/teams" class="submenu-details-body__item">Команды</a>
+                            <a href="https://snow.volley.ru/players/" class="submenu-details-body__item">Игроки</a>
+                            <a href="https://snow.volley.ru/arenas" class="submenu-details-body__item">Арены</a>
+                            <a href="https://snow.volley.ru/documents/" class="submenu-details-body__item">Документы</a>
+                            <!--<a href="https://snow.volley.ru/contacts" class="submenu-details-body__item">Контакты</a>-->
+                        </div>
+                    </details>
+                </div>
+                <div class="submenu-col-item">
+                    <!--<a href="tickets" class="submenu-details-body__item submenu-details-body__item--xs">
+                        <img src="/assets/templates/vfr/img/tickets.svg" alt="билеты" class="main-header-nav-item__img">
+                        БИЛЕТЫ
+                    </a>-->
+                    
+                    <a href="/media/" class="submenu-details-body__item submenu-details-body__item--xs" target="_blank">МЕДИА</a>
+                    
+                    <a href="https://100.volley.ru/" class="submenu-details-body__item submenu-details-body__item--xs" target="_blank">100 ЛЕТ</a>
+                    <a href="https://shop.volley.ru/" class="submenu-details-body__item submenu-details-body__item--xs" target="_blank">МАГАЗИН</a>
+                    
+                </div>  
+            </div>
+            <div class="submenu-col">
+                
+                <div class="submenu-col-item">
+                    <details class="submenu-details">
+                        <summary class="submenu-summary">
+                            Федерация
+                            <svg class="submenu-summary__icon">
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                            </svg>
+                        </summary>
+                        <div class="submenu-details__body">
+                             <ul class=""><li class="first"><a href="federation/supervisory-board/" >Наблюдательный совет</a></li><li><a href="federation/topmanagement" >Руководство</a></li><li><a href="federation/structure/" >Структура</a></li><li><a href="federation/arbitrage" >Арбитраж при ВФВ</a></li><li><a href="federation/regional-federations/" >Региональные федерации</a></li><li><a href="federation/history" >История</a></li><li><a href="federation/documents/" >Документы</a></li><li><a href="federation/referees" >Арбитры</a></li><li><a href="federation/coaches/" >Тренеры</a></li><li><a href="federation/underage-competitions/" >Детско-юношеские соревнования</a></li><li><a href="federation/students-volleyball-association" >Студенческая волейбольная ассоциация</a></li><li class="last"><a href="federation/masters/" >Ветераны</a></li></ul>
+                        </div>
+                    </details>
+                </div>
+                <div class="submenu-col-item">
+                    <a href="news-archive?tag=01H4G6EM7SFMQY08VQ3M7S0Z2E" class="submenu-col-item__single-title">
+                        Новости
+                    </a>
+                </div>
+                <div class="submenu-col-item">
+                    <a href="heroic-battalion/" class="submenu-col-item__single-title">
+                        Героический батальон
+                    </a>
+                </div>
+                
+                <div class="submenu-col-item">
+                    <a href="sponsors" class="submenu-col-item__single-title">
+                        Спонсоры
+                    </a>
+                </div>
+                <div class="submenu-col-item">
+                    <a href="https://vfvakademiya.ru" class="submenu-col-item__single-title">
+                        Академия Волейбола
+                    </a>
+                </div>
+                <div class="submenu-col-item">
+                    <a href="contacts" class="submenu-col-item__single-title">
+                        Контакты
+                    </a>
+                </div>
+            </div>
+            <div class="submenu-col">
+                <div class="submenu-col-item">
+                    <details class="submenu-details">
+                        <summary class="submenu-summary">
+                            Антидопинг
+                            <svg class="submenu-summary__icon">
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                            </svg>
+                        </summary>
+                        <div class="submenu-details__body">
+                            <ul class=""><li class="first"><a href="antidoping/documents/" >Документы</a></li><li><a href="antidoping/adams" >АДАМС</a></li><li><a href="antidoping/therapeutic-use" >Терапевтическое использование</a></li><li><a href="antidoping/doping-control-room-requirements" >Требования к пункту допинг-контроля</a></li><li><a href="antidoping/antidoping-education" >Образовательные мероприятия ВФВ</a></li><li><a href="antidoping/finishing-career-and-return-to-sports" >Завершение спортивной карьеры. Возвращение в спорт</a></li><li><a href="antidoping/rusada-visual-materials" >Наглядные материалы РУСАДА</a></li><li class="last"><a href="antidoping/useful-links-and-contacts" >Полезные ссылки и контакты</a></li></ul>
+
+                        </div>
+                    </details>
+                </div>
+                <div class="submenu-col-item">
+                    <div class="submenu-translations">
+                        <a href="federation/underage-competitions/" class="submenu-translations__item">
+                            Детско-юношеские соревнования
+                        </a>
+                        <a href="federation/masters/" class="submenu-translations__item">
+                            Ветераны
+                        </a>
+                        <a href="federation/students-volleyball-association" class="submenu-translations__item">
+                            Студенческая волейбольная ассоциация
+                        </a>
+                        <a href="voleybol-sidya" class="submenu-translations__item">
+                            Волейбол сидя
+                        </a>
+                        <a href="/medicine/nauchnyy-daydzhest-sportivnoy-meditsiny">
+                            Медицина
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    
+
+</div>
+
+
+<script>
+
+    class AnimatedSearch {
+        constructor(container) {
+            this.container = container || document.querySelector('.vs-search-container');
+            this.trigger = this.container.querySelector('.vs-search-trigger');
+            this.form = this.container.querySelector('.vs-search-form');
+            this.input = this.container.querySelector('.vs-search-input');
+            this.clearBtn = this.container.querySelector('.vs-clear-btn');
+            this.closeBtn = this.container.querySelector('.vs-close-btn');
+            this.submitBtn = this.container.querySelector('.vs-submit-btn');
+            this.dropdown = this.container.querySelector('.vs-suggestions-dropdown');
+
+            this.isExpanded = false;
+            this.currentSuggestionIndex = -1;
+            this.searchTimeout = null;
+            this.suggestionClickInProgress = false;
+            this.isPageForm = this.container.classList.contains('vs-search-container--page');
+
+            this.popularSearches = [
+                'Кубок России мужчины',
+                'Кубок России женщины',
+                'Чемпионат России',
+                'Телеканал волейбол',
+                'Новости волейбола'
+            ];
+
+            this.init();
+        }
+
+        init() {
+            this.attachEventListeners();
+            console.log('Search component initialized');
+        }
+
+        attachEventListeners() {
+            if (this.trigger) {
+                this.trigger.addEventListener('click', () => this.expand());
+            }
+
+            if (this.closeBtn) {
+                this.closeBtn.addEventListener('click', () => this.collapse());
+            }
+
+            this.input.addEventListener('input', (e) => this.handleInput(e));
+            this.input.addEventListener('focus', () => this.showSuggestions());
+            this.input.addEventListener('blur', () => this.handleBlur());
+            this.input.addEventListener('keydown', (e) => this.handleKeyDown(e));
+
+            this.clearBtn.addEventListener('click', () => this.clearInput());
+
+            this.form.addEventListener('submit', (e) => this.handleSubmit(e));
+       
+            if (!this.isPageForm) {
+                document.addEventListener('click', (e) => this.handleOutsideClick(e));
+            }
+
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && this.input === document.activeElement) {
+                    this.handleEscape();
+                }
+            });
+        }
+
+        expand() {
+            if (this.isExpanded) return;
+
+            console.log('Expanding search');
+            this.isExpanded = true;
+            if (this.trigger) {
+                this.trigger.classList.add('vs-hidden');
+                this.trigger.setAttribute('aria-expanded', 'true');
+            }
+            this.form.classList.add('vs-active');
+
+            setTimeout(() => {
+                this.input.focus();
+                this.showSuggestions();
+            }, this.isPageForm ? 0 : 300);
+        }
+
+        collapse() {
+            if (!this.isExpanded) return;
+
+            console.log('Collapsing search');
+            this.isExpanded = false;
+            if (this.trigger) {
+                this.trigger.classList.remove('vs-hidden');
+                this.trigger.setAttribute('aria-expanded', 'false');
+            }
+            this.form.classList.remove('vs-active');
+            this.hideSuggestions();
+            this.clearInput();
+        }
+
+        handleInput(e) {
+            const value = e.target.value;
+
+            if (value) {
+                this.clearBtn.classList.add('vs-visible');
+            } else {
+                this.clearBtn.classList.remove('vs-visible');
+            }
+
+            clearTimeout(this.searchTimeout);
+            this.searchTimeout = setTimeout(() => {
+                this.updateSuggestions(value);
+
+                this.dropdown.classList.add('vs-active');
+            }, 150);
+        }
+
+        clearInput() {
+            console.log('Clearing input');
+            this.input.value = '';
+            this.clearBtn.classList.remove('vs-visible');
+            this.input.focus();
+            this.showSuggestions();
+        }
+
+        showSuggestions() {
+            const value = this.input.value.trim();
+            this.updateSuggestions(value);
+            this.dropdown.classList.add('vs-active');
+        }
+
+        hideSuggestions() {
+            this.dropdown.classList.remove('vs-active');
+            this.currentSuggestionIndex = -1;
+        }
+
+        updateSuggestions(query) {
+            let suggestions = [];
+
+            if (!query) {
+
+                suggestions = this.popularSearches.map(s => ({
+                    text: s,
+                    type: 'popular'
+                }));
+            } else {
+
+                const filtered = this.popularSearches
+                    .filter(s => s.toLowerCase().includes(query.toLowerCase()))
+                    .map(s => ({
+                        text: s,
+                        type: 'popular'
+                    }));
+
+                const dynamic = [
+                    `${query} трансляция`,
+                    `${query} результаты`,
+                    `${query} клуб`
+                ].map(s => ({
+                    text: s,
+                    type: 'dynamic'
+                }));
+
+                suggestions = [...filtered, ...dynamic]
+                    .filter((item, index, self) =>
+                        index === self.findIndex(i => i.text === item.text)
+                    )
+                    .slice(0, 5);
+            }
+
+            this.renderSuggestions(suggestions, query);
+        }
+
+        renderSuggestions(suggestions, query) {
+            this.dropdown.innerHTML = '';
+
+            if (suggestions.length === 0) {
+                this.dropdown.innerHTML = `
+                        <div class="vs-suggestion-item">
+                            <div class="vs-suggestion-text">Ничего не найдено</div>
+                        </div>
+                    `;
+                return;
+            }
+
+            suggestions.forEach((suggestion, index) => {
+                const item = document.createElement('div');
+                item.className = 'vs-suggestion-item';
+                item.setAttribute('role', 'option');
+
+                let highlightedText = suggestion.text;
+                if (query) {
+                    const regex = new RegExp(`(${query})`, 'gi');
+                    highlightedText = suggestion.text.replace(regex, '<mark>$1</mark>');
+                }
+
+                item.innerHTML = `
+                        <div class="vs-suggestion-icon">
+                            <svg viewBox="0 0 24 24">
+                                ${suggestion.type === 'popular'
+                    ? '<path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path>'
+                    : '<circle cx="11" cy="11" r="8"></circle><path d="m21 21-4.35-4.35"></path>'
+                }
+                            </svg>
+                        </div>
+                        <div class="vs-suggestion-text">${highlightedText}</div>
+                    `;
+
+                item.addEventListener('mousedown', (e) => {
+                    e.preventDefault();
+                    this.suggestionClickInProgress = true;
+                });
+
+                item.addEventListener('click', () => {
+                    this.selectSuggestion(suggestion.text);
+                    this.suggestionClickInProgress = false;
+                });
+
+                item.addEventListener('mouseenter', () => {
+                    this.highlightSuggestion(index);
+                });
+
+                this.dropdown.appendChild(item);
+            });
+        }
+
+        selectSuggestion(text) {
+            console.log('Selected suggestion:', text);
+            this.input.value = text;
+            this.clearBtn.classList.add('vs-visible');
+            this.hideSuggestions();
+            this.input.focus();
+        }
+
+        highlightSuggestion(index) {
+            this.dropdown.querySelectorAll('.vs-suggestion-item').forEach((item, i) => {
+                if (i === index) {
+                    item.classList.add('vs-highlighted');
+                } else {
+                    item.classList.remove('vs-highlighted');
+                }
+            });
+            this.currentSuggestionIndex = index;
+        }
+
+        handleKeyDown(e) {
+            const items = this.dropdown.querySelectorAll('.vs-suggestion-item');
+
+            switch(e.key) {
+                case 'ArrowDown':
+                    e.preventDefault();
+                    if (this.currentSuggestionIndex < items.length - 1) {
+                        this.highlightSuggestion(this.currentSuggestionIndex + 1);
+                    }
+                    break;
+
+                case 'ArrowUp':
+                    e.preventDefault();
+                    if (this.currentSuggestionIndex > 0) {
+                        this.highlightSuggestion(this.currentSuggestionIndex - 1);
+                    }
+                    break;
+
+                case 'Enter':
+                    if (this.currentSuggestionIndex >= 0) {
+                        e.preventDefault();
+                        const item = items[this.currentSuggestionIndex];
+                        const text = item.querySelector('.vs-suggestion-text').textContent;
+                        this.selectSuggestion(text);
+                    }
+                    break;
+
+                case 'Escape':
+                    e.stopPropagation();
+                    if (this.dropdown.classList.contains('vs-active')) {
+                        this.hideSuggestions();
+                    } else if (this.input.value.trim()) {
+                        this.clearInput();
+                    } else {
+                        this.collapse();
+                    }
+                    break;
+            }
+        }
+
+        handleBlur() {
+            if (!this.suggestionClickInProgress) {
+                setTimeout(() => {
+                    if (!this.suggestionClickInProgress) {
+                        this.hideSuggestions();
+                    }
+                }, 100);
+            }
+        }
+
+        handleEscape() {
+            if (this.dropdown.classList.contains('vs-active')) {
+                this.hideSuggestions();
+            } else if (this.input.value.trim()) {
+                this.clearInput();
+            } else if (this.isExpanded) {
+                this.collapse();
+            }
+        }
+
+        handleOutsideClick(e) {
+            if (!this.isPageForm && !this.container.contains(e.target) && this.isExpanded) {
+                this.collapse();
+            }
+        }
+
+        handleSubmit(e) {
+            e.preventDefault();
+            const query = this.input.value.trim();
+
+            if (!query) return;
+
+            console.log('Searching for:', query);
+
+            this.submitBtn.classList.add('vs-loading');
+            setTimeout(() => {
+                this.submitBtn.classList.remove('vs-loading');
+                console.log('Search completed');
+                this.form.submit();
+            }, 2000);
+        }
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+        // Инициализация формы поиска в хедере
+        const headerContainer = document.querySelector('.main-header__right .vs-search-container');
+        if (headerContainer) {
+            new AnimatedSearch(headerContainer);
+        }
+        
+        // Инициализация формы поиска на странице
+        const pageContainer = document.querySelector('.vs-search-container--page');
+        if (pageContainer) {
+            const pageSearch = new AnimatedSearch(pageContainer);
+            // Форма на странице всегда активна
+            pageSearch.form.classList.add('vs-active');
+            pageSearch.isExpanded = true;
+        }
+    });
+</script>
+
+
+<div class="glb-line-banner-wrapper">
+    <a href="https://shop.volley.ru/" target="_blank" class="glb-line-banner">
+        <picture>
+            <source media="(max-width: 769px)" srcset="/assets/templates/vfr/img/line/shop26-m.jpg">
+            <source media="(min-width: 768px)" srcset="/assets/templates/vfr/img/line/shop26.jpg">
+            <img alt="Официальный магазин ВФВ" src="/assets/templates/vfr/img/line/shop26.jpg"  class="glb-line-banner__img">
+        </picture>
+    </a>
+    <!--<a href="https://tickets.vc-lokomotiv.ru" target="_blank" class="glb-line-banner">
+        <picture>
+            <source media="(max-width: 769px)" srcset="/assets/templates/vfr/img/line/dec25-tickets-1-mob.png">
+            <source media="(min-width: 768px)" srcset="/assets/templates/vfr/img/line/dec25-tickets-1.png">
+            <img alt="Билеты" src="/assets/templates/vfr/img/line/dec25-tickets-1.png"  class="glb-line-banner__img">
+        </picture>
+    </a>-->
+</div> 
+
+<div class="main wid">
+    <div class="mobile-adv-spawner-1" id="mobile-adv-spawner-1"></div>
+    <!--    Main Wide-->
+    <div class="wide wide--main">
+        <!--        vfr slider        -->
+        <div class="vfr-slider">
+            <div class="vfr-slider-body">
+                <div class="vfr-slide vfr-slide--active" data-link="">
+    <picture class="vfr-slide__picture ">
+        <source srcset="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KHR8AYDDWXMC18ZYZVHS1RQN/upload-1771414680249-01KHR8AYDDWXMC18ZYZVHS1RQN--718615465.png" media="(min-width: 768px)">
+        <img src="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KHR8AYDDWXMC18ZYZVHS1RQN/upload-1771414680260-01KHR8AYDDWXMC18ZYZVHS1RQN-1216803440.png" alt="slide 0">
+    </picture>
+    <section class="vfr-slide-section">
+                                <a href="/news/01KHR8AYDDWXMC18ZYZVHS1RQN" class="vfr-slide-section__left" data-ulid="01KHR8AYDDWXMC18ZYZVHS1RQN">
+                <div class="vfr-slide-section-left__title">
+                    Кубок России по волейболу на снегу разыграют в Барнауле
+                </div>
+                <div class="vfr-slide-section-left__text">
+                    
+                </div>
+            </a>
+                        
+                
+        <div class="vfr-slide-section__right">
+            <!--<a href="#" class="vfr-slide-section-right__item">
+                Результаты, таблица
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>
+            <a href="#" class="vfr-slide-section-right__item">
+                Лучшие по статистике
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>-->
+        </div>
+    </section>
+</div>
+<div class="vfr-slide " data-link="">
+    <picture class="vfr-slide__picture ">
+        <source srcset="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KHG85WXRY2GF0T6VTKTW14CZ/upload-1771146136420-01KHG85WXRY2GF0T6VTKTW14CZ--756323643.jpg" media="(min-width: 768px)">
+        <img src="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KHG85WXRY2GF0T6VTKTW14CZ/upload-1771146136423-01KHG85WXRY2GF0T6VTKTW14CZ-1425833754.jpg" alt="slide 0">
+    </picture>
+    <section class="vfr-slide-section">
+                                <a href="/news/01KHG85WXRY2GF0T6VTKTW14CZ" class="vfr-slide-section__left" data-ulid="01KHG85WXRY2GF0T6VTKTW14CZ">
+                <div class="vfr-slide-section-left__title">
+                    Суперлига. Женщины, 23 тур
+                </div>
+                <div class="vfr-slide-section-left__text">
+                    
+                </div>
+            </a>
+                        
+                
+        <div class="vfr-slide-section__right">
+            <!--<a href="#" class="vfr-slide-section-right__item">
+                Результаты, таблица
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>
+            <a href="#" class="vfr-slide-section-right__item">
+                Лучшие по статистике
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>-->
+        </div>
+    </section>
+</div>
+<div class="vfr-slide " data-link="">
+    <picture class="vfr-slide__picture ">
+        <source srcset="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KHENPW0YAC6T0M7K3V931GR1/upload-1771092921222-01KHENPW0YAC6T0M7K3V931GR1--398113105.jpg" media="(min-width: 768px)">
+        <img src="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KHENPW0YAC6T0M7K3V931GR1/upload-1771092921227-01KHENPW0YAC6T0M7K3V931GR1--354541456.jpg" alt="slide 0">
+    </picture>
+    <section class="vfr-slide-section">
+                                <a href="/news/01KHENPW0YAC6T0M7K3V931GR1" class="vfr-slide-section__left" data-ulid="01KHENPW0YAC6T0M7K3V931GR1">
+                <div class="vfr-slide-section-left__title">
+                    Суперлига. Мужчины, 25 тур
+                </div>
+                <div class="vfr-slide-section-left__text">
+                    
+                </div>
+            </a>
+                        
+                
+        <div class="vfr-slide-section__right">
+            <!--<a href="#" class="vfr-slide-section-right__item">
+                Результаты, таблица
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>
+            <a href="#" class="vfr-slide-section-right__item">
+                Лучшие по статистике
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>-->
+        </div>
+    </section>
+</div>
+<div class="vfr-slide " data-link="">
+    <picture class="vfr-slide__picture ">
+        <source srcset="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KH3716CS5X4N0CQPQ9PM06CW/upload-1770708415260-01KH3716CS5X4N0CQPQ9PM06CW--939053649.jpg" media="(min-width: 768px)">
+        <img src="https://cdn.online.volley.ru/assets/images/uploads/VLNews/01KH3716CS5X4N0CQPQ9PM06CW/upload-1770708415264-01KH3716CS5X4N0CQPQ9PM06CW-1772719792.jpg" alt="slide 0">
+    </picture>
+    <section class="vfr-slide-section">
+                                <a href="/news/01KH3716CS5X4N0CQPQ9PM06CW" class="vfr-slide-section__left" data-ulid="01KH3716CS5X4N0CQPQ9PM06CW">
+                <div class="vfr-slide-section-left__title">
+                    Суперлига. Женщины, 22 тур
+                </div>
+                <div class="vfr-slide-section-left__text">
+                    
+                </div>
+            </a>
+                        
+                
+        <div class="vfr-slide-section__right">
+            <!--<a href="#" class="vfr-slide-section-right__item">
+                Результаты, таблица
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>
+            <a href="#" class="vfr-slide-section-right__item">
+                Лучшие по статистике
+                <svg>
+                    <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                </svg>
+            </a>-->
+        </div>
+    </section>
+</div>
+                   
+                
+            </div>
+            <div class="vfr-slider-footer">
+                <div class="nav-buttons">
+                    <button class="vfr-slider-btn" onclick="changeSlide(0)">Волейбол на снегу</button>
+<button class="vfr-slider-btn" onclick="changeSlide(1)">Суперлига (жен)</button>
+<button class="vfr-slider-btn" onclick="changeSlide(2)">Суперлига (муж)</button>
+<button class="vfr-slider-btn" onclick="changeSlide(3)">Суперлига (жен)</button>
+                    
+                   
+                </div>
+            </div>
+        </div>
+        <!--        /vfr slider        -->
+        <div class="wide__mcal">
+            <div class="mcal-tab-nav">
+
+                <div class="mcal-tab mcal-tab--active" onclick="mcalTab(event, 'mcal-tab1')">
+                    <svg>
+                        <use href="/assets/templates/vfr/img/sp5sprite.svg#list"></use>
+                    </svg>
+                    Ближайшие
+                </div>
+                <div class="mcal-tab" onclick="mcalTab(event, 'mcal-tab2')">
+                    <svg>
+                        <use href="/assets/templates/vfr/img/sp5sprite.svg#calendar"></use>
+                    </svg>
+                    Календарь
+                </div>
+
+            </div>
+            <div id="mcal-tab1" class="mcal-tabcontent mcal-tabcontent--active">
+                <div class="cnlb">
+                    <!--<div class="cnlb-header">
+                        <div class="cnlb-header__title">
+                            КАЛЕНДАРЬ МЕРОПРИЯТИЙ
+                        </div>
+                    </div>-->
+                    <div class="cnlb-body" >
+                        <a href="https://volley.ru/calendar/01JYNKJXHV21DY0J482NBM0SVZ/current" class="cnlb-line">
+
+    <div class="cnlb-line__title" data-vt="01FPWF4VD3RFE406BY16D80429">
+        Чемпионат России 2026 
+        <!--(ЧР 2026)-->
+                (Женщины)    </div>
+    <div class="cnlb-bottom-line">
+       <!-- <div class="cnlb-line__gender">
+                        ЖЕНЩИНЫ        </div>-->
+        <div class="cnlb-line__date">
+            <div class="cnlb-line-date__start">04.10</div>
+            <div class="cnlb-line-date__separator">—</div>
+            <div class="cnlb-line-date__end">24.05</div>
+        </div>
+        <div class="cnlb-line__league" data-l="Суперлига">
+            <div style="display:flex;align-items:center;gap:var(--gf);"><div class="mcal-activity mcal-activity--cv"></div>Суперлига</div>
+        </div>
+    </div>
+</a><a href="https://volley.ru/calendar/01JYGFSGNBJZ0G0CNQFRFJ0ADA/current" class="cnlb-line">
+
+    <div class="cnlb-line__title" data-vt="01FPWF4VD3RFE406BY16D80429">
+        Чемпионат России 2026 
+        <!--(ЧР 2026)-->
+        (Мужчины)            </div>
+    <div class="cnlb-bottom-line">
+       <!-- <div class="cnlb-line__gender">
+            МУЖЧИНЫ                    </div>-->
+        <div class="cnlb-line__date">
+            <div class="cnlb-line-date__start">18.10</div>
+            <div class="cnlb-line-date__separator">—</div>
+            <div class="cnlb-line-date__end">24.05</div>
+        </div>
+        <div class="cnlb-line__league" data-l="Суперлига">
+            <div style="display:flex;align-items:center;gap:var(--gf);"><div class="mcal-activity mcal-activity--cv"></div>Суперлига</div>
+        </div>
+    </div>
+</a><a href="https://volley.ru/calendar/01K0BZ1GA951X01S21MCVV01X7/current" class="cnlb-line">
+
+    <div class="cnlb-line__title" data-vt="01FPWF4VD3RFE406BY16D80429">
+        Чемпионат России 2026 
+        <!--(МЛ 2026)-->
+                (Женщины)    </div>
+    <div class="cnlb-bottom-line">
+       <!-- <div class="cnlb-line__gender">
+                        ЖЕНЩИНЫ        </div>-->
+        <div class="cnlb-line__date">
+            <div class="cnlb-line-date__start">16.09</div>
+            <div class="cnlb-line-date__separator">—</div>
+            <div class="cnlb-line-date__end">26.03</div>
+        </div>
+        <div class="cnlb-line__league" data-l="ГЕОТЕК Молодёжная лига">
+            <div style="display:flex;align-items:center;gap:var(--gf);"><div class="mcal-activity mcal-activity--cv"></div>ГЕОТЕК Молодёжная лига</div>
+        </div>
+    </div>
+</a><a href="https://volley.ru/calendar/01K0BQRQ5Q13B309KYQCFK09NQ/current" class="cnlb-line">
+
+    <div class="cnlb-line__title" data-vt="01FPWF4VD3RFE406BY16D80429">
+        Чемпионат России 2026 
+        <!--(МЛ 2026)-->
+        (Мужчины)            </div>
+    <div class="cnlb-bottom-line">
+       <!-- <div class="cnlb-line__gender">
+            МУЖЧИНЫ                    </div>-->
+        <div class="cnlb-line__date">
+            <div class="cnlb-line-date__start">29.09</div>
+            <div class="cnlb-line-date__separator">—</div>
+            <div class="cnlb-line-date__end">19.04</div>
+        </div>
+        <div class="cnlb-line__league" data-l="ГЕОТЕК Молодёжная лига">
+            <div style="display:flex;align-items:center;gap:var(--gf);"><div class="mcal-activity mcal-activity--cv"></div>ГЕОТЕК Молодёжная лига</div>
+        </div>
+    </div>
+</a>
+                        
+                        
+                        
+   
+                    </div>
+                    <div class="cnlb-footer">
+                        <a href="calendar/" class="btn btn--s btn--anim">
+                            Посмотреть все
+                            <svg>
+                                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+                            </svg>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+            <div id="mcal-tab2" class="mcal-tabcontent volley-calendar">
+
+                <script>
+    
+    function volleycalendar(opt) {
+        const o = opt || {}
+        const data = o.data || []
+        const weekDays = [
+            {title:'ПН',weekend: false}
+            ,{title:'ВТ',weekend: false}
+            ,{title:'СР',weekend: false}
+            ,{title:'ЧТ',weekend: false}
+            ,{title:'ПТ',weekend: false}
+            ,{title:'СБ',weekend: true}
+            ,{title:'ВС',weekend: true}
+        ];
+        const zeroPad = (num, places) => String(num).padStart(places, '0')
+        const selector = o.selector||'.volley-calendar'
+        const containers = document.querySelectorAll(selector);
+        const date = new Date();
+        const currentDate = new Date();
+        if (window.__callendarMonth !== undefined) {
+            date.setDate(1);
+            date.setMonth(window.__callendarMonth);
+        }
+        window.__callendarMonth = date.getMonth();
+        if (window.__callendarYear !== undefined) {
+            date.setYear(window.__callendarYear);
+        }
+        window.__callendarYear = date.getFullYear()
+        const month = date.toLocaleString('default', { month: 'long' }).toUpperCase();
+        const days = [];
+        const tmpDate = new Date(date.getFullYear(), date.getMonth(), 1);
+        const firstDay = tmpDate.getDay()==0?6:(tmpDate.getDay()-1);//in rus
+        tmpDate.setMonth(date.getMonth()+1, 0);
+        const lastDate = tmpDate.getDate();
+        tmpDate.setMonth(date.getMonth(), 0);
+        const prevMonthLastDate = tmpDate.getDate();
+        let dayIndex = 1;
+        let nextMonthDay = 1;
+        let prevMonthDay = prevMonthLastDate-firstDay+1;
+        const prevMonth = new Date(date.getFullYear(), date.getMonth(), 1);
+        prevMonth.setMonth(date.getMonth()-1);
+        const nextMonth = new Date(date.getFullYear(), date.getMonth(), 1);
+        nextMonth.setMonth(date.getMonth()+1);
+        for (let i = 0; i<42;i++) {
+            
+            if((i>= firstDay) && (dayIndex<= lastDate)) {
+                let dpast = false;
+                if (currentDate.getFullYear()<window.__callendarYear) {
+                    dpast = false;
+                } else if (currentDate.getFullYear()>window.__callendarYear) {
+                    dpast = true;
+                } else {
+                    if (currentDate.getMonth()==window.__callendarMonth) {
+                        dpast = dayIndex < currentDate.getDate();
+                    } else if (currentDate.getMonth()<window.__callendarMonth) {
+                        dpast = false;
+                    } else {
+                        dpast = true;
+                    }
+                }
+                days.push({
+                    title: dayIndex
+                    ,prevMonth: false
+                    ,nextMonth: false
+                    ,today: dayIndex == currentDate.getDate() && currentDate.getMonth()==window.__callendarMonth && currentDate.getFullYear() == window.__callendarYear
+                    ,past: dpast
+                    ,acts:[]
+                    ,key: `${date.getFullYear()}-${zeroPad(date.getMonth()+1,2)}-${zeroPad(dayIndex,2)}`
+                });
+                dayIndex += 1;
+            } else {
+                let title = '-';
+                let month = prevMonth;
+                let key = `${month.getFullYear()}-${zeroPad(month.getMonth()+1,2)}-${zeroPad(prevMonthDay,2)}`
+                if (i < firstDay) {
+                    title = prevMonthDay;
+                    prevMonthDay += 1;
+                    
+                }
+                if (dayIndex > lastDate) {
+                    month = nextMonth;
+                    key = `${month.getFullYear()}-${zeroPad(month.getMonth()+1,2)}-${zeroPad(nextMonthDay,2)}`
+                    title = nextMonthDay;
+                    nextMonthDay += 1;
+                    
+                }
+                days.push({
+                title: title
+                ,prevMonth: i< firstDay
+                ,nextMonth: i>lastDate
+                ,past: false
+                ,today: false
+                ,key:key
+                ,acts:[]
+            });
+            }
+            
+        }
+        let realDays = []
+        if (data.length > 0) {
+            realDays = days.map((el)=>{
+                const found = data.filter((d)=>d.key == el.key);
+                if (found.length > 0) {
+                    return Object.assign(el, found[0]);
+                }
+                return el;
+            });
+        } else {
+            realDays = days;
+        }
+        realDays = realDays || [];
+        containers.forEach((el) => {
+            el.innerHTML = '';
+            const calendar = document.createElement('div');
+            calendar.classList.add('mcal');
+            const ch = document.createElement('div');
+            ch.classList.add('mcal-header');
+            ch.innerHTML = `<button class="btn btn--mcal" id="month-prev"><svg>
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-left"></use>
+            </svg></button><span>${month} ${date.getFullYear()}</span><button class="btn btn--mcal" id="month-next"><svg>
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+            </svg></button>`;
+            const cb = document.createElement('div');
+            cb.classList.add('mcal-body');
+            weekDays.forEach((d) => {
+                const wdNode = document.createElement('div');
+                wdNode.innerHTML = d.title;
+                wdNode.classList.add(d.weekend?'mcal-weekend':'mcal-workday');
+                cb.appendChild(wdNode);
+            });
+            realDays.forEach((d) => {
+               const mdNode = document.createElement('a');
+               mdNode.classList.add('mcal-d');
+               mdNode.href = `${o.url}?date=${d.key}&showgames=-1`;
+               const mdN = document.createElement('div');
+               mdN.classList.add('mcal-d__numb');
+               mdN.innerHTML = d.title;
+               mdNode.appendChild(mdN);
+               const mdB = document.createElement('div');
+               mdB.classList.add('mcal-d__body');
+               let acts = d.acts || [];
+               if (!Array.isArray(acts)) {
+                   acts = Object.values(acts);
+               }
+               let type = '';
+                let ki = 0;
+               acts.forEach((a) => {
+                   const aN = document.createElement('div');
+                   aN.classList.add('mcal-activity');
+                   
+                   if (a.beach) {
+                       aN.classList.add('mcal-activity--bv');
+                       ki++;
+                       type = '01FPWF5FT8E1311F0EEZ160YGF';
+                   }
+                   if (a.snow) {
+                       aN.classList.add('mcal-activity--sv');
+                       ki++;
+                       type = '01FPWF5T78TXJ21W79H9VB0BF0';
+                   }
+                   if (a.volley) {
+                       aN.classList.add('mcal-activity--cv');
+                       ki++;
+                       type = '01FPWF4VD3RFE406BY16D80429';
+                   }
+                   mdB.appendChild(aN);
+               })
+               if (ki == 1) {
+                   mdNode.href += `&volley_type=${type}`
+               } else if (ki > 1) {
+                   mdNode.href += `&volley_type=`
+               }
+               mdNode.appendChild(mdB);
+               if (d.today) {
+                   mdNode.classList.add('mcal-d--today');
+               }
+               if (d.prevMonth) {
+                   mdNode.classList.add('mcal-d--past');
+                   mdNode.classList.add('mcal-d--past-month');
+               }
+               if (d.nextMonth) {
+                   mdNode.classList.add('mcal-d--future-month');
+               }
+               if (d.past) {
+                   mdNode.classList.add('mcal-d--past');
+               }
+               cb.appendChild(mdNode);
+            });
+            const cf = document.createElement('div');
+            cf.classList.add('mcal-footer');
+            cf.innerHTML = '<div class="mcal-footer-col"><div class="mcal-footer__item">Игры:</div></div><div class="mcal-footer-col"><div class="mcal-footer__item"><div class="mcal-activity mcal-activity--cv"></div>Волейбол</div><div class="mcal-footer__item"><div class="mcal-activity mcal-activity--bv"></div>Пляжный волейбол</div><div class="mcal-footer__item"><div class="mcal-activity mcal-activity--sv"></div>Волейбол на снегу</div></div>';
+            calendar.appendChild(ch);
+            calendar.appendChild(cb);
+            calendar.appendChild(cf);
+            el.appendChild(calendar);
+            const onMonthPrevClick = function() {
+                window.__callendarMonth -= 1;
+                if (window.__callendarMonth < 0) {
+                    window.__callendarMonth = 11;
+                    window.__callendarYear -= 1;
+                }
+                volleycalendar({data:opt.data, url: opt.url});
+            };
+            const onMonthNextClick = function() {
+                window.__callendarMonth += 1;
+                if (window.__callendarMonth > 11) {
+                    window.__callendarMonth = 0;
+                    window.__callendarYear += 1;
+                }
+                volleycalendar({data:opt.data, url: opt.url});
+            };
+            setTimeout(() => {
+                const mp = document.querySelector('#month-prev');
+                const mn = document.querySelector('#month-next');
+                if (mp) {
+                    mp.addEventListener('click',onMonthPrevClick);
+                }
+                if (mn) {
+                    mn.addEventListener('click',onMonthNextClick);
+                }
+            }, 50);
+        });
+       
+    }
+    
+    
+</script>
+                <script>
+                    var __days = [{"key":"2024-12-02","acts":[{"volley":true}]},{"key":"2024-12-03","acts":[{"volley":true}]},{"key":"2024-12-04","acts":[{"volley":true}]},{"key":"2024-12-05","acts":[{"volley":true}]},{"key":"2024-12-06","acts":[{"volley":true}]},{"key":"2024-12-07","acts":[{"volley":true}]},{"key":"2024-12-08","acts":[{"volley":true}]},{"key":"2024-12-09","acts":[{"volley":true}]},{"key":"2024-12-10","acts":[{"volley":true}]},{"key":"2024-12-11","acts":[{"volley":true}]},{"key":"2024-12-12","acts":[{"volley":true}]},{"key":"2024-12-13","acts":[{"volley":true}]},{"key":"2024-12-14","acts":[{"volley":true}]},{"key":"2024-12-15","acts":[{"volley":true}]},{"key":"2024-12-16","acts":[{"volley":true}]},{"key":"2024-12-17","acts":[{"volley":true}]},{"key":"2024-12-18","acts":[{"volley":true}]},{"key":"2024-12-19","acts":[{"volley":true}]},{"key":"2024-12-20","acts":[{"volley":true},{"snow":true}]},{"key":"2024-12-21","acts":[{"volley":true},{"snow":true}]},{"key":"2024-12-22","acts":[{"volley":true},{"snow":true}]},{"key":"2024-12-23","acts":[{"volley":true}]},{"key":"2024-12-24","acts":[{"volley":true}]},{"key":"2024-12-25","acts":[{"volley":true}]},{"key":"2024-12-26","acts":[{"volley":true}]},{"key":"2024-12-27","acts":[{"volley":true}]},{"key":"2024-12-28","acts":[{"volley":true}]},{"key":"2024-12-29","acts":[{"volley":true}]},{"key":"2025-01-05","acts":[{"volley":true}]},{"key":"2025-01-06","acts":[{"volley":true}]},{"key":"2025-01-07","acts":[{"volley":true}]},{"key":"2025-01-08","acts":[{"volley":true}]},{"key":"2025-01-09","acts":[{"volley":true}]},{"key":"2025-01-10","acts":[{"volley":true}]},{"key":"2025-01-11","acts":[{"volley":true}]},{"key":"2025-01-12","acts":[{"volley":true}]},{"key":"2025-01-13","acts":[{"volley":true}]},{"key":"2025-01-14","acts":[{"volley":true}]},{"key":"2025-01-15","acts":[{"volley":true}]},{"key":"2025-01-16","acts":[{"volley":true}]},{"key":"2025-01-17","acts":[{"volley":true},{"snow":true}]},{"key":"2025-01-18","acts":[{"volley":true},{"snow":true}]},{"key":"2025-01-19","acts":[{"volley":true},{"snow":true}]},{"key":"2025-01-20","acts":[{"volley":true}]},{"key":"2025-01-21","acts":[{"volley":true}]},{"key":"2025-01-22","acts":[{"volley":true}]},{"key":"2025-01-23","acts":[{"volley":true}]},{"key":"2025-01-24","acts":[{"volley":true}]},{"key":"2025-01-25","acts":[{"volley":true}]},{"key":"2025-01-26","acts":[{"volley":true}]},{"key":"2025-01-27","acts":[{"volley":true}]},{"key":"2025-01-28","acts":[{"volley":true}]},{"key":"2025-01-29","acts":[{"volley":true}]},{"key":"2025-01-30","acts":[{"volley":true},{"snow":true}]},{"key":"2025-01-31","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-01","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-02","acts":[{"volley":true}]},{"key":"2025-02-03","acts":[{"volley":true}]},{"key":"2025-02-04","acts":[{"volley":true}]},{"key":"2025-02-05","acts":[{"volley":true}]},{"key":"2025-02-06","acts":[{"volley":true}]},{"key":"2025-02-07","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-08","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-09","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-10","acts":[{"volley":true}]},{"key":"2025-02-13","acts":[{"volley":true}]},{"key":"2025-02-14","acts":[{"volley":true}]},{"key":"2025-02-15","acts":[{"volley":true}]},{"key":"2025-02-16","acts":[{"volley":true}]},{"key":"2025-02-17","acts":[{"volley":true}]},{"key":"2025-02-18","acts":[{"volley":true}]},{"key":"2025-02-19","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-20","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-21","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-22","acts":[{"volley":true},{"snow":true}]},{"key":"2025-02-23","acts":[{"volley":true}]},{"key":"2025-02-24","acts":[{"volley":true}]},{"key":"2025-02-25","acts":[{"volley":true}]},{"key":"2025-02-26","acts":[{"volley":true}]},{"key":"2025-02-27","acts":[{"volley":true}]},{"key":"2025-02-28","acts":[{"volley":true}]},{"key":"2025-03-01","acts":[{"volley":true}]},{"key":"2025-03-02","acts":[{"volley":true}]},{"key":"2025-03-03","acts":[{"volley":true}]},{"key":"2025-03-04","acts":[{"volley":true}]},{"key":"2025-03-05","acts":[{"volley":true}]},{"key":"2025-03-06","acts":[{"volley":true}]},{"key":"2025-03-07","acts":[{"volley":true}]},{"key":"2025-03-08","acts":[{"volley":true}]},{"key":"2025-03-09","acts":[{"volley":true}]},{"key":"2025-03-10","acts":[{"volley":true}]},{"key":"2025-03-11","acts":[{"volley":true}]},{"key":"2025-03-12","acts":[{"volley":true}]},{"key":"2025-03-13","acts":[{"volley":true}]},{"key":"2025-03-14","acts":[{"volley":true},{"snow":true}]},{"key":"2025-03-15","acts":[{"volley":true},{"snow":true}]},{"key":"2025-03-16","acts":[{"volley":true},{"snow":true}]},{"key":"2025-03-17","acts":[{"volley":true}]},{"key":"2025-03-18","acts":[{"volley":true}]},{"key":"2025-03-19","acts":[{"volley":true}]},{"key":"2025-03-20","acts":[{"volley":true},{"beach":true}]},{"key":"2025-03-21","acts":{"0":{"volley":true},"3":{"beach":true},"4":{"snow":true}}},{"key":"2025-03-22","acts":{"0":{"volley":true},"3":{"beach":true},"4":{"snow":true}}},{"key":"2025-03-23","acts":{"0":{"volley":true},"3":{"beach":true},"4":{"snow":true}}},{"key":"2025-03-24","acts":[{"volley":true}]},{"key":"2025-03-25","acts":[{"volley":true}]},{"key":"2025-03-26","acts":[{"volley":true}]},{"key":"2025-03-27","acts":[{"volley":true}]},{"key":"2025-03-28","acts":[{"volley":true}]},{"key":"2025-03-29","acts":[{"volley":true}]},{"key":"2025-03-30","acts":[{"volley":true}]},{"key":"2025-03-31","acts":[{"volley":true}]},{"key":"2025-04-01","acts":[{"volley":true}]},{"key":"2025-04-02","acts":[{"volley":true}]},{"key":"2025-04-03","acts":[{"volley":true}]},{"key":"2025-04-04","acts":[{"volley":true}]},{"key":"2025-04-05","acts":[{"volley":true}]},{"key":"2025-04-06","acts":[{"volley":true}]},{"key":"2025-04-07","acts":[{"volley":true}]},{"key":"2025-04-08","acts":[{"volley":true}]},{"key":"2025-04-09","acts":[{"volley":true}]},{"key":"2025-04-10","acts":[{"volley":true}]},{"key":"2025-04-11","acts":[{"volley":true},{"snow":true}]},{"key":"2025-04-12","acts":[{"volley":true},{"snow":true}]},{"key":"2025-04-13","acts":[{"volley":true},{"snow":true}]},{"key":"2025-04-14","acts":[{"volley":true}]},{"key":"2025-04-15","acts":[{"volley":true}]},{"key":"2025-04-16","acts":[{"volley":true}]},{"key":"2025-04-17","acts":[{"volley":true}]},{"key":"2025-04-18","acts":[{"volley":true}]},{"key":"2025-04-19","acts":[{"volley":true}]},{"key":"2025-04-20","acts":[{"volley":true}]},{"key":"2025-04-21","acts":[{"volley":true}]},{"key":"2025-04-22","acts":[{"volley":true}]},{"key":"2025-04-23","acts":[{"volley":true}]},{"key":"2025-04-24","acts":[{"volley":true}]},{"key":"2025-04-25","acts":[{"volley":true}]},{"key":"2025-04-26","acts":[{"volley":true}]},{"key":"2025-04-27","acts":[{"volley":true}]},{"key":"2025-04-28","acts":[{"volley":true}]},{"key":"2025-04-29","acts":[{"volley":true}]},{"key":"2025-04-30","acts":[{"volley":true}]},{"key":"2025-05-01","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-02","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-03","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-04","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-05","acts":[{"volley":true}]},{"key":"2025-05-06","acts":[{"volley":true}]},{"key":"2025-05-07","acts":[{"volley":true}]},{"key":"2025-05-08","acts":[{"volley":true}]},{"key":"2025-05-09","acts":[{"volley":true}]},{"key":"2025-05-10","acts":[{"volley":true}]},{"key":"2025-05-11","acts":[{"volley":true}]},{"key":"2025-05-12","acts":[{"volley":true}]},{"key":"2025-05-13","acts":[{"volley":true}]},{"key":"2025-05-14","acts":[{"volley":true}]},{"key":"2025-05-15","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-16","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-17","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-18","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-19","acts":[{"volley":true}]},{"key":"2025-05-20","acts":[{"volley":true}]},{"key":"2025-05-21","acts":[{"volley":true}]},{"key":"2025-05-22","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-23","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-24","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-25","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-26","acts":[{"volley":true}]},{"key":"2025-05-27","acts":[{"volley":true}]},{"key":"2025-05-29","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-30","acts":[{"volley":true},{"beach":true}]},{"key":"2025-05-31","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-01","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-05","acts":[{"beach":true}]},{"key":"2025-06-06","acts":[{"beach":true}]},{"key":"2025-06-07","acts":[{"beach":true}]},{"key":"2025-06-08","acts":[{"beach":true}]},{"key":"2025-06-09","acts":[{"volley":true}]},{"key":"2025-06-10","acts":[{"volley":true}]},{"key":"2025-06-11","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-12","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-13","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-14","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-15","acts":[{"beach":true}]},{"key":"2025-06-16","acts":[{"volley":true}]},{"key":"2025-06-17","acts":[{"volley":true}]},{"key":"2025-06-18","acts":[{"volley":true}]},{"key":"2025-06-19","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-20","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-21","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-22","acts":[{"beach":true}]},{"key":"2025-06-24","acts":[{"volley":true}]},{"key":"2025-06-25","acts":[{"volley":true}]},{"key":"2025-06-26","acts":[{"beach":true}]},{"key":"2025-06-27","acts":[{"beach":true}]},{"key":"2025-06-28","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-29","acts":[{"volley":true},{"beach":true}]},{"key":"2025-06-30","acts":[{"volley":true}]},{"key":"2025-07-01","acts":[{"volley":true}]},{"key":"2025-07-02","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-03","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-04","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-05","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-06","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-08","acts":[{"volley":true}]},{"key":"2025-07-09","acts":[{"volley":true}]},{"key":"2025-07-10","acts":[{"beach":true}]},{"key":"2025-07-11","acts":[{"beach":true}]},{"key":"2025-07-12","acts":[{"beach":true}]},{"key":"2025-07-13","acts":[{"beach":true}]},{"key":"2025-07-14","acts":[{"volley":true}]},{"key":"2025-07-15","acts":[{"volley":true}]},{"key":"2025-07-16","acts":[{"volley":true}]},{"key":"2025-07-17","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-18","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-19","acts":[{"beach":true}]},{"key":"2025-07-20","acts":[{"volley":true},{"beach":true}]},{"key":"2025-07-21","acts":[{"volley":true}]},{"key":"2025-07-24","acts":[{"beach":true}]},{"key":"2025-07-25","acts":[{"beach":true}]},{"key":"2025-07-26","acts":[{"beach":true}]},{"key":"2025-07-27","acts":[{"beach":true}]},{"key":"2025-07-28","acts":[{"beach":true}]},{"key":"2025-07-29","acts":[{"beach":true}]},{"key":"2025-08-01","acts":[{"beach":true}]},{"key":"2025-08-02","acts":[{"beach":true}]},{"key":"2025-08-03","acts":[{"beach":true}]},{"key":"2025-08-04","acts":[{"beach":true}]},{"key":"2025-08-05","acts":[{"beach":true}]},{"key":"2025-08-06","acts":[{"beach":true}]},{"key":"2025-08-07","acts":[{"beach":true}]},{"key":"2025-08-08","acts":[{"beach":true}]},{"key":"2025-08-10","acts":[{"beach":true}]},{"key":"2025-08-11","acts":[{"beach":true}]},{"key":"2025-08-12","acts":[{"beach":true}]},{"key":"2025-08-13","acts":[{"beach":true}]},{"key":"2025-08-14","acts":[{"beach":true}]},{"key":"2025-08-15","acts":[{"volley":true},{"beach":true}]},{"key":"2025-08-16","acts":[{"volley":true},{"beach":true}]},{"key":"2025-08-17","acts":[{"volley":true},{"beach":true}]},{"key":"2025-08-18","acts":[{"beach":true}]},{"key":"2025-08-19","acts":[{"beach":true}]},{"key":"2025-08-20","acts":[{"beach":true}]},{"key":"2025-08-21","acts":[{"volley":true},{"beach":true}]},{"key":"2025-08-22","acts":[{"volley":true},{"beach":true}]},{"key":"2025-08-23","acts":[{"volley":true},{"beach":true}]},{"key":"2025-08-24","acts":[{"volley":true}]},{"key":"2025-08-26","acts":[{"volley":true}]},{"key":"2025-08-27","acts":[{"volley":true}]},{"key":"2025-08-28","acts":[{"volley":true}]},{"key":"2025-08-29","acts":[{"volley":true}]},{"key":"2025-08-30","acts":[{"volley":true}]},{"key":"2025-08-31","acts":[{"volley":true}]},{"key":"2025-09-02","acts":[{"volley":true}]},{"key":"2025-09-03","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-04","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-05","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-06","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-07","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-08","acts":[{"volley":true}]},{"key":"2025-09-10","acts":[{"volley":true}]},{"key":"2025-09-11","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-12","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-13","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-14","acts":[{"volley":true},{"beach":true}]},{"key":"2025-09-15","acts":[{"volley":true}]},{"key":"2025-09-16","acts":[{"volley":true}]},{"key":"2025-09-17","acts":[{"volley":true}]},{"key":"2025-09-18","acts":[{"volley":true}]},{"key":"2025-09-19","acts":[{"volley":true}]},{"key":"2025-09-20","acts":[{"volley":true}]},{"key":"2025-09-21","acts":[{"volley":true}]},{"key":"2025-09-22","acts":[{"volley":true}]},{"key":"2025-09-23","acts":[{"volley":true}]},{"key":"2025-09-24","acts":[{"volley":true}]},{"key":"2025-09-25","acts":[{"volley":true}]},{"key":"2025-09-26","acts":[{"volley":true}]},{"key":"2025-09-27","acts":[{"volley":true}]},{"key":"2025-09-28","acts":[{"volley":true}]},{"key":"2025-09-29","acts":[{"volley":true}]},{"key":"2025-09-30","acts":[{"volley":true}]},{"key":"2025-10-01","acts":[{"volley":true}]},{"key":"2025-10-03","acts":[{"volley":true}]},{"key":"2025-10-04","acts":[{"volley":true}]},{"key":"2025-10-05","acts":[{"volley":true}]},{"key":"2025-10-06","acts":[{"volley":true}]},{"key":"2025-10-07","acts":[{"volley":true}]},{"key":"2025-10-08","acts":[{"volley":true}]},{"key":"2025-10-09","acts":[{"volley":true}]},{"key":"2025-10-10","acts":[{"volley":true}]},{"key":"2025-10-11","acts":[{"volley":true}]},{"key":"2025-10-12","acts":[{"volley":true}]},{"key":"2025-10-13","acts":[{"volley":true}]},{"key":"2025-10-14","acts":[{"volley":true}]},{"key":"2025-10-15","acts":[{"volley":true}]},{"key":"2025-10-16","acts":[{"volley":true}]},{"key":"2025-10-17","acts":[{"volley":true}]},{"key":"2025-10-18","acts":[{"volley":true}]},{"key":"2025-10-19","acts":[{"volley":true}]},{"key":"2025-10-20","acts":[{"volley":true}]},{"key":"2025-10-21","acts":[{"volley":true}]},{"key":"2025-10-22","acts":[{"volley":true}]},{"key":"2025-10-23","acts":[{"volley":true}]},{"key":"2025-10-24","acts":[{"volley":true}]},{"key":"2025-10-25","acts":[{"volley":true}]},{"key":"2025-10-26","acts":[{"volley":true}]},{"key":"2025-10-27","acts":[{"volley":true},{"beach":true}]},{"key":"2025-10-28","acts":[{"volley":true},{"beach":true}]},{"key":"2025-10-29","acts":[{"volley":true},{"beach":true}]},{"key":"2025-10-30","acts":[{"volley":true},{"beach":true}]},{"key":"2025-10-31","acts":[{"volley":true}]},{"key":"2025-11-01","acts":[{"volley":true}]},{"key":"2025-11-02","acts":[{"volley":true}]},{"key":"2025-11-03","acts":[{"volley":true}]},{"key":"2025-11-04","acts":[{"volley":true}]},{"key":"2025-11-05","acts":[{"volley":true}]},{"key":"2025-11-06","acts":[{"volley":true}]},{"key":"2025-11-07","acts":[{"volley":true}]},{"key":"2025-11-08","acts":[{"volley":true}]},{"key":"2025-11-09","acts":[{"volley":true}]},{"key":"2025-11-10","acts":[{"volley":true}]},{"key":"2025-11-11","acts":[{"volley":true}]},{"key":"2025-11-12","acts":[{"volley":true}]},{"key":"2025-11-13","acts":[{"volley":true}]},{"key":"2025-11-14","acts":[{"volley":true},{"snow":true}]},{"key":"2025-11-15","acts":[{"volley":true},{"snow":true}]},{"key":"2025-11-16","acts":[{"volley":true},{"snow":true}]},{"key":"2025-11-17","acts":[{"volley":true}]},{"key":"2025-11-18","acts":[{"volley":true}]},{"key":"2025-11-19","acts":[{"volley":true}]},{"key":"2025-11-20","acts":[{"volley":true}]},{"key":"2025-11-21","acts":[{"volley":true}]},{"key":"2025-11-22","acts":[{"volley":true}]},{"key":"2025-11-23","acts":[{"volley":true}]},{"key":"2025-11-24","acts":[{"volley":true}]},{"key":"2025-11-25","acts":[{"volley":true}]},{"key":"2025-11-26","acts":[{"volley":true}]},{"key":"2025-11-27","acts":[{"volley":true}]},{"key":"2025-11-28","acts":[{"volley":true}]},{"key":"2025-11-29","acts":[{"volley":true}]},{"key":"2025-11-30","acts":[{"volley":true}]},{"key":"2025-12-01","acts":[{"volley":true}]},{"key":"2025-12-02","acts":[{"volley":true}]},{"key":"2025-12-03","acts":[{"volley":true}]},{"key":"2025-12-04","acts":[{"volley":true}]},{"key":"2025-12-05","acts":[{"volley":true}]},{"key":"2025-12-06","acts":[{"volley":true}]},{"key":"2025-12-07","acts":[{"volley":true}]},{"key":"2025-12-08","acts":[{"volley":true}]},{"key":"2025-12-09","acts":[{"volley":true}]},{"key":"2025-12-10","acts":[{"volley":true}]},{"key":"2025-12-11","acts":[{"volley":true}]},{"key":"2025-12-12","acts":[{"volley":true}]},{"key":"2025-12-13","acts":[{"volley":true}]},{"key":"2025-12-14","acts":[{"volley":true}]},{"key":"2025-12-15","acts":[{"volley":true}]},{"key":"2025-12-16","acts":[{"volley":true}]},{"key":"2025-12-17","acts":[{"volley":true}]},{"key":"2025-12-18","acts":[{"volley":true}]},{"key":"2025-12-19","acts":[{"volley":true},{"snow":true}]},{"key":"2025-12-20","acts":[{"volley":true},{"snow":true}]},{"key":"2025-12-21","acts":[{"volley":true},{"snow":true}]},{"key":"2025-12-22","acts":[{"volley":true}]},{"key":"2025-12-23","acts":[{"volley":true}]},{"key":"2025-12-24","acts":[{"volley":true}]},{"key":"2025-12-25","acts":[{"volley":true}]},{"key":"2025-12-26","acts":[{"volley":true}]},{"key":"2025-12-27","acts":[{"volley":true}]},{"key":"2025-12-28","acts":[{"volley":true}]},{"key":"2025-12-29","acts":[{"volley":true}]},{"key":"2025-12-30","acts":[{"volley":true}]},{"key":"2026-01-04","acts":[{"volley":true}]},{"key":"2026-01-05","acts":[{"volley":true}]},{"key":"2026-01-06","acts":[{"volley":true}]},{"key":"2026-01-07","acts":[{"volley":true}]},{"key":"2026-01-08","acts":[{"volley":true}]},{"key":"2026-01-09","acts":[{"volley":true}]},{"key":"2026-01-10","acts":[{"volley":true}]},{"key":"2026-01-11","acts":[{"volley":true}]},{"key":"2026-01-12","acts":[{"volley":true}]},{"key":"2026-01-13","acts":[{"volley":true}]},{"key":"2026-01-14","acts":[{"volley":true}]},{"key":"2026-01-15","acts":[{"volley":true}]},{"key":"2026-01-16","acts":[{"volley":true}]},{"key":"2026-01-17","acts":[{"volley":true}]},{"key":"2026-01-18","acts":[{"volley":true}]},{"key":"2026-01-19","acts":[{"volley":true}]},{"key":"2026-01-20","acts":[{"volley":true}]},{"key":"2026-01-21","acts":[{"volley":true}]},{"key":"2026-01-22","acts":[{"volley":true}]},{"key":"2026-01-23","acts":[{"volley":true}]},{"key":"2026-01-24","acts":[{"volley":true},{"beach":true}]},{"key":"2026-01-25","acts":[{"volley":true},{"beach":true}]},{"key":"2026-01-26","acts":[{"volley":true},{"beach":true}]},{"key":"2026-01-27","acts":[{"volley":true},{"beach":true}]},{"key":"2026-01-28","acts":[{"volley":true}]},{"key":"2026-01-29","acts":[{"volley":true}]},{"key":"2026-01-30","acts":[{"volley":true},{"snow":true}]},{"key":"2026-01-31","acts":[{"volley":true},{"snow":true}]},{"key":"2026-02-01","acts":[{"volley":true},{"snow":true}]},{"key":"2026-02-02","acts":[{"volley":true}]},{"key":"2026-02-03","acts":[{"volley":true}]},{"key":"2026-02-04","acts":[{"volley":true}]},{"key":"2026-02-05","acts":[{"volley":true},{"snow":true}]},{"key":"2026-02-06","acts":[{"volley":true},{"snow":true}]},{"key":"2026-02-07","acts":[{"volley":true},{"beach":true},{"snow":true}]},{"key":"2026-02-08","acts":[{"volley":true}]},{"key":"2026-02-09","acts":[{"volley":true}]},{"key":"2026-02-10","acts":[{"volley":true}]},{"key":"2026-02-11","acts":[{"volley":true}]},{"key":"2026-02-12","acts":[{"volley":true}]},{"key":"2026-02-13","acts":[{"volley":true}]},{"key":"2026-02-14","acts":[{"volley":true},{"beach":true}]},{"key":"2026-02-15","acts":[{"volley":true}]},{"key":"2026-02-16","acts":[{"volley":true}]},{"key":"2026-02-17","acts":[{"volley":true}]},{"key":"2026-02-18","acts":[{"volley":true}]},{"key":"2026-02-19","acts":[{"volley":true}]},{"key":"2026-02-20","acts":[{"volley":true},{"snow":true}]},{"key":"2026-02-21","acts":[{"volley":true},{"snow":true}]},{"key":"2026-02-22","acts":[{"volley":true},{"snow":true}]},{"key":"2026-02-23","acts":[{"volley":true}]},{"key":"2026-02-24","acts":[{"volley":true}]},{"key":"2026-02-25","acts":[{"volley":true}]},{"key":"2026-02-26","acts":[{"volley":true}]},{"key":"2026-02-27","acts":[{"volley":true}]},{"key":"2026-02-28","acts":[{"volley":true}]},{"key":"2026-03-01","acts":[{"volley":true}]},{"key":"2026-03-02","acts":[{"volley":true}]},{"key":"2026-03-03","acts":[{"volley":true}]},{"key":"2026-03-04","acts":[{"volley":true}]},{"key":"2026-03-05","acts":[{"volley":true}]},{"key":"2026-03-06","acts":[{"volley":true}]},{"key":"2026-03-07","acts":[{"volley":true}]},{"key":"2026-03-08","acts":[{"volley":true}]},{"key":"2026-03-09","acts":[{"volley":true}]},{"key":"2026-03-10","acts":[{"volley":true}]},{"key":"2026-03-11","acts":[{"volley":true}]},{"key":"2026-03-12","acts":[{"volley":true}]},{"key":"2026-03-13","acts":[{"volley":true}]},{"key":"2026-03-14","acts":[{"volley":true}]},{"key":"2026-03-15","acts":[{"volley":true}]},{"key":"2026-03-16","acts":[{"volley":true}]},{"key":"2026-03-20","acts":[{"volley":true}]},{"key":"2026-03-21","acts":[{"volley":true}]},{"key":"2026-03-22","acts":[{"volley":true}]},{"key":"2026-03-24","acts":[{"volley":true}]},{"key":"2026-03-25","acts":[{"volley":true}]},{"key":"2026-03-26","acts":[{"volley":true}]},{"key":"2026-03-27","acts":[{"volley":true}]},{"key":"2026-03-28","acts":[{"volley":true}]},{"key":"2026-03-29","acts":[{"volley":true}]},{"key":"2026-04-04","acts":[{"volley":true},{"snow":true}]},{"key":"2026-04-05","acts":[{"volley":true},{"snow":true}]},{"key":"2026-04-07","acts":[{"volley":true}]},{"key":"2026-04-08","acts":[{"volley":true}]},{"key":"2026-04-09","acts":[{"volley":true}]},{"key":"2026-04-10","acts":[{"volley":true}]},{"key":"2026-04-11","acts":[{"volley":true}]},{"key":"2026-04-12","acts":[{"volley":true}]},{"key":"2026-04-13","acts":[{"volley":true}]},{"key":"2026-04-18","acts":[{"volley":true}]},{"key":"2026-04-19","acts":[{"volley":true}]},{"key":"2026-04-21","acts":[{"volley":true}]},{"key":"2026-04-22","acts":[{"volley":true}]},{"key":"2026-04-23","acts":[{"volley":true},{"beach":true}]},{"key":"2026-04-25","acts":[{"volley":true},{"beach":true}]},{"key":"2026-04-26","acts":[{"volley":true},{"beach":true}]},{"key":"2026-04-27","acts":[{"volley":true}]},{"key":"2026-05-02","acts":[{"volley":true}]},{"key":"2026-05-03","acts":[{"volley":true}]},{"key":"2026-05-09","acts":[{"volley":true}]},{"key":"2026-05-10","acts":[{"volley":true}]},{"key":"2026-12-01","acts":[{"volley":true}]},{"key":"2025-07-31","acts":[{"beach":true}]},{"key":"2026-04-03","acts":[{"snow":true}]},{"key":"2026-04-24","acts":[{"beach":true}]},{"key":"2026-05-14","acts":[{"beach":true}]},{"key":"2026-05-15","acts":[{"beach":true}]},{"key":"2026-05-16","acts":[{"beach":true}]},{"key":"2026-05-17","acts":[{"beach":true}]},{"key":"2026-05-21","acts":[{"beach":true}]},{"key":"2026-05-22","acts":[{"beach":true}]},{"key":"2026-05-23","acts":[{"beach":true}]},{"key":"2026-05-24","acts":[{"beach":true}]},{"key":"2026-05-28","acts":[{"beach":true}]},{"key":"2026-05-29","acts":[{"beach":true}]},{"key":"2026-05-30","acts":[{"beach":true}]},{"key":"2026-05-31","acts":[{"beach":true}]},{"key":"2026-06-04","acts":[{"beach":true}]},{"key":"2026-06-05","acts":[{"beach":true}]},{"key":"2026-06-06","acts":[{"beach":true}]},{"key":"2026-06-07","acts":[{"beach":true}]},{"key":"2026-06-11","acts":[{"beach":true}]},{"key":"2026-06-12","acts":[{"beach":true}]},{"key":"2026-06-13","acts":[{"beach":true}]},{"key":"2026-06-14","acts":[{"beach":true}]},{"key":"2026-06-17","acts":[{"beach":true}]},{"key":"2026-06-18","acts":[{"beach":true}]},{"key":"2026-06-19","acts":[{"beach":true}]},{"key":"2026-06-20","acts":[{"beach":true}]},{"key":"2026-06-21","acts":[{"beach":true}]},{"key":"2026-07-01","acts":[{"beach":true}]},{"key":"2026-07-02","acts":[{"beach":true}]},{"key":"2026-07-03","acts":[{"beach":true}]},{"key":"2026-07-04","acts":[{"beach":true}]},{"key":"2026-07-08","acts":[{"beach":true}]},{"key":"2026-07-09","acts":[{"beach":true}]},{"key":"2026-07-10","acts":[{"beach":true}]},{"key":"2026-07-11","acts":[{"beach":true}]},{"key":"2026-07-23","acts":[{"beach":true}]},{"key":"2026-07-24","acts":[{"beach":true}]},{"key":"2026-07-25","acts":[{"beach":true}]},{"key":"2026-07-26","acts":[{"beach":true}]},{"key":"2026-07-30","acts":[{"beach":true}]},{"key":"2026-07-31","acts":[{"beach":true}]},{"key":"2026-08-01","acts":[{"beach":true}]},{"key":"2026-08-02","acts":[{"beach":true}]},{"key":"2026-08-04","acts":[{"beach":true}]},{"key":"2026-08-05","acts":[{"beach":true}]},{"key":"2026-08-06","acts":[{"beach":true}]},{"key":"2026-08-07","acts":[{"beach":true}]},{"key":"2026-08-08","acts":[{"beach":true}]},{"key":"2026-08-09","acts":[{"beach":true}]},{"key":"2026-08-10","acts":[{"beach":true}]},{"key":"2026-08-11","acts":[{"beach":true}]},{"key":"2026-08-12","acts":[{"beach":true}]},{"key":"2026-08-13","acts":[{"beach":true}]},{"key":"2026-08-14","acts":[{"beach":true}]},{"key":"2026-08-15","acts":[{"beach":true}]},{"key":"2026-08-16","acts":[{"beach":true}]},{"key":"2026-08-17","acts":[{"beach":true}]},{"key":"2026-08-18","acts":[{"beach":true}]},{"key":"2026-08-19","acts":[{"beach":true}]},{"key":"2026-08-20","acts":[{"beach":true}]},{"key":"2026-08-21","acts":[{"beach":true}]},{"key":"2026-08-22","acts":[{"beach":true}]},{"key":"2026-08-23","acts":[{"beach":true}]},{"key":"2026-08-26","acts":[{"beach":true}]},{"key":"2026-08-27","acts":[{"beach":true}]},{"key":"2026-08-28","acts":[{"beach":true}]},{"key":"2026-08-29","acts":[{"beach":true}]},{"key":"2026-09-03","acts":[{"beach":true}]},{"key":"2026-09-04","acts":[{"beach":true}]},{"key":"2026-09-05","acts":[{"beach":true}]},{"key":"2026-09-06","acts":[{"beach":true}]},{"key":"2026-09-17","acts":[{"beach":true}]},{"key":"2026-09-18","acts":[{"beach":true}]},{"key":"2026-09-19","acts":[{"beach":true}]},{"key":"2026-09-20","acts":[{"beach":true}]}];
+                    volleycalendar({data:__days, url: 'archive'});
+                </script>
+                
+            </div>
+        </div>
+    </div>
+    <!--    /Main Wide-->
+    <div class="mobile-adv-spawner-2" id="mobile-adv-spawner-2"></div>  
+        <!-- Rutube Video -->
+    <section class="index-video-section">
+        <div class="index-video-section__header">
+            
+            <img src="/assets/templates/vfr/img/volley-tv-logo.svg" alt="Телеканал Волейбол" class="index-video-section-header__logo">
+            
+            <div class="index-video-section-header__prog">
+                <a href="/news/01JA3F3FMWZ8E20KKPVVWQ06ZP#d-19022026">Программа передач</a>
+            </div>
+        </div>
+        <div class="main-video-adv-cell">
+            <div class="video-responsive-downscale-wrapper">
+            <div class="video-responsive video-responsive--index">
+           
+      <iframe
+        width="720"
+        height="405"
+        src="https://rutube.ru/play/embed/cc1b56aa4955a144f324ad58998513bb?autoplay=1"
+        frameBorder="0"
+        allow="clipboard-write; autoplay"
+        webkitAllowFullScreen
+        mozallowfullscreen
+        allowFullScreen
+        autoplay
+      ></iframe>
+     </div>
+         <div class="tar fsn cg" style="padding:4px 0;">Вещание осуществляется в тестовом режиме</div>
+        </div>
+            <div id="adv-index-3" class="adv-index-3" ></div>
+        </div>
+    </section>
+<!-- /Rutube Video -->
+
+    <!-- Main Translations -->
+    
+    
+    <!--    /Main Translations-->
+
+    <!--    Main News -->
+        <section class="main-news-section">
+        <h2 class="main__h2">
+            Новости
+        </h2>
+        <div class="grid-c-5 main-news-grid">
+         <a href="https://volley.ru/news/01KHR8AYDDWXMC18ZYZVHS1RQN" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHR8AYDDWXMC18ZYZVHS1RQN/upload-1771414680260-01KHR8AYDDWXMC18ZYZVHS1RQN-1216803440_600x0_773.png" class="glb-news-card__img" alt="Фото Кубок России по волейболу на снегу разыграют в Барнауле" title="Кубок России по волейболу на снегу разыграют в Барнауле">
+    <div class="glb-news-card__title">
+        Кубок России по волейболу на снегу разыграют в Барнауле
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            18.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол на снегу        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Турниры        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHQXG081TTYV081DHA2G12QZ" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHQXG081TTYV081DHA2G12QZ/upload-1771403090535-01KHQXG081TTYV081DHA2G12QZ--826708193_600x0_036.jpg" class="glb-news-card__img" alt="Фото Телеканал «Волейбол» выиграл премию «Большая цифра»" title="Телеканал «Волейбол» выиграл премию «Большая цифра»">
+    <div class="glb-news-card__title">
+        Телеканал «Волейбол» выиграл премию «Большая цифра»
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            18.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол на снегу        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Пляжный волейбол        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHQP477Y7M300XF9S1H5092T" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHQP477Y7M300XF9S1H5092T/upload-1771395815120-01KHQP477Y7M300XF9S1H5092T-1872001964_600x0_036.jpg" class="glb-news-card__img" alt="Фото Поздравление И.В. Бугаенкову" title="Поздравление И.В. Бугаенкову">
+    <div class="glb-news-card__title">
+        Поздравление И.В. Бугаенкову
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            18.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHN61DER1DM80QQ1CN7S18GM" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHN61DER1DM80QQ1CN7S18GM/upload-1771311320935-01KHN61DER1DM80QQ1CN7S18GM--594171197_600x0_036.jpg" class="glb-news-card__img" alt="Фото Поздравление Д.А. Артюхову" title="Поздравление Д.А. Артюхову">
+    <div class="glb-news-card__title">
+        Поздравление Д.А. Артюхову
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            17.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол на снегу        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Пляжный волейбол        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHG85WXRY2GF0T6VTKTW14CZ" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHG85WXRY2GF0T6VTKTW14CZ/upload-1771146136423-01KHG85WXRY2GF0T6VTKTW14CZ-1425833754_600x0_036.jpg" class="glb-news-card__img" alt="Фото Суперлига. Женщины, 23 тур" title="Суперлига. Женщины, 23 тур">
+    <div class="glb-news-card__title">
+        Суперлига. Женщины, 23 тур
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            17.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Турниры        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHENPW0YAC6T0M7K3V931GR1" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHENPW0YAC6T0M7K3V931GR1/upload-1771092921227-01KHENPW0YAC6T0M7K3V931GR1--354541456_600x0_036.jpg" class="glb-news-card__img" alt="Фото Суперлига. Мужчины, 25 тур" title="Суперлига. Мужчины, 25 тур">
+    <div class="glb-news-card__title">
+        Суперлига. Мужчины, 25 тур
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            17.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Турниры        </div>
+                
+    </div>
+</a><a href="/assets/images/uploads/VLNews/01KHJYDG0QP0DF1M400PT411G0/upload-1771236173949-01KHJYDG0QP0DF1M400PT411G0--1134689642.pdf" class="glb-news-card" target="_blank">
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHJYDG0QP0DF1M400PT411G0/upload-1771236173943-01KHJYDG0QP0DF1M400PT411G0-618812473_600x0_036.jpg" class="glb-news-card__img" alt="Фото Решение Директората от 16.02.2025. Финалы за 11-14 места ГЕОТЕК Молодёжной лиги. Девушки" title="Решение Директората от 16.02.2025. Финалы за 11-14 места ГЕОТЕК Молодёжной лиги. Девушки">
+    <div class="glb-news-card__title">
+        Решение Директората от 16.02.2025. Финалы за 11-14 места ГЕОТЕК Молодёжной лиги. Девушки
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            16.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHGKP5Q5W3YT1VFKT9TH15TH" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHGKP5Q5W3YT1VFKT9TH15TH/upload-1771157893635-01KHGKP5Q5W3YT1VFKT9TH15TH--2096149018_600x0_036.jpg" class="glb-news-card__img" alt="Фото Финалы Первенства среди юношей и девушек до 18 лет в Костроме и Анапе" title="Финалы Первенства среди юношей и девушек до 18 лет в Костроме и Анапе">
+    <div class="glb-news-card__title">
+        Финалы Первенства среди юношей и девушек до 18 лет в Костроме и Анапе
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            15.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Юниоры        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHDSQ82N7HT20CTPVFFH14A5" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHDSQ82N7HT20CTPVFFH14A5/upload-1771063662026-01KHDSQ82N7HT20CTPVFFH14A5--189960501_600x0_036.jpg" class="glb-news-card__img" alt="Фото Высшая лига «А». Женщины, 9 тур. Тюмень " title="Высшая лига «А». Женщины, 9 тур. Тюмень ">
+    <div class="glb-news-card__title">
+        Высшая лига «А». Женщины, 9 тур. Тюмень 
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            14.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Турниры        </div>
+                
+    </div>
+</a><a href="https://volley.ru/news/01KHDRZXDKWBTF1J52Q2HE011S" class="glb-news-card" >
+    <img src="https://cdn.online.volley.ru/assets/cache_image/uploads/VLNews/01KHDRZXDKWBTF1J52Q2HE011S/upload-1771062833131-01KHDRZXDKWBTF1J52Q2HE011S--1143790198_600x0_036.jpg" class="glb-news-card__img" alt="Фото Высшая лига «А». Женщины, 9 тур. Анапа" title="Высшая лига «А». Женщины, 9 тур. Анапа">
+    <div class="glb-news-card__title">
+        Высшая лига «А». Женщины, 9 тур. Анапа
+    </div>    
+    <div class="glb-news-card__desc">
+            </div>
+    <div class="glb-news-card__footer" data-args="Array">
+        <div class="glb-news-card__date" >
+            14.02.2026        </div>
+                 <div class="glb-news-card__tag">
+            Волейбол        </div>
+                 <div class="glb-news-card__tag">
+            Новости ВФВ        </div>
+                 <div class="glb-news-card__tag">
+            Турниры        </div>
+                
+    </div>
+</a>
+                   <div id="adv-index-1-x" class="adv-index-1-x"></div>
+        </div>
+        <div class="main-news-footer">
+            <a href="/news?tag=01H4G6EM7SFMQY08VQ3M7S0Z2E" class="news-arch-btn">Все новости<svg>
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+            </svg></a>
+        </div>
+    </section>
+    <section class="main-news-section">
+        <div class="main-news-adv-cell">
+            <div id="adv-index-2-x" class="adv-index-2-x"></div>
+            <div><h3 class="main__h3">
+            Обзор прессы
+        </h3>
+        <div class="main-news-line-grid">
+         <a href="/news/01KHR0NC7R9JPD0VY40W9V0Q4R" class="glb-news-card" >
+    <div class="glb-news-card__title">
+        Legalbet. Пляжный волейбол в Анапе в феврале — как это выглядит?
+    </div>    
+    <div class="glb-news-card__desc">
+        Репортаж о сборе сборной России по пляжке
+    </div>
+    <div class="glb-news-card__footer">
+        <div class="glb-news-card__date">
+            18.02.2026
+        </div>
+                 <div class="glb-news-card__tag">
+            Обзор прессы        </div>
+                
+    </div>
+</a>
+<a href="/news/01KHJQ53ZP62MV1RKGX3CA01WX" class="glb-news-card" >
+    <div class="glb-news-card__title">
+        Чемпионат. Эту «Уралочку» не остановить! 
+    </div>    
+    <div class="glb-news-card__desc">
+        Команда Карполя обыграла всех призёров Суперлиги
+    </div>
+    <div class="glb-news-card__footer">
+        <div class="glb-news-card__date">
+            15.02.2026
+        </div>
+                 <div class="glb-news-card__tag">
+            Обзор прессы        </div>
+                
+    </div>
+</a>
+<a href="/news/01KHJQNW8ADJ021REWX70H07J5" class="glb-news-card" >
+    <div class="glb-news-card__title">
+        Российская газета. "Зенит-Казань" первым вышел в четвертьфинал волейбольной Суперлиги
+    </div>    
+    <div class="glb-news-card__desc">
+        Регулярный чемпионат мужской российской Суперлиги постепенно выходит на финишную прямую
+    </div>
+    <div class="glb-news-card__footer">
+        <div class="glb-news-card__date">
+            14.02.2026
+        </div>
+                 <div class="glb-news-card__tag">
+            Обзор прессы        </div>
+                
+    </div>
+</a>
+<a href="/news/01KHJPTGA3BX781Z40AP901DKZ" class="glb-news-card" >
+    <div class="glb-news-card__title">
+        Чемпионат. «Уралочка» дрогнула, но устояла
+    </div>    
+    <div class="glb-news-card__desc">
+        Главные события 22-го тура женской Суперлиги
+    </div>
+    <div class="glb-news-card__footer">
+        <div class="glb-news-card__date">
+            14.02.2026
+        </div>
+                 <div class="glb-news-card__tag">
+            Обзор прессы        </div>
+                
+    </div>
+</a>
+<a href="/news/01KHJPAGS5MXSG1XADZZEW11QK" class="glb-news-card" >
+    <div class="glb-news-card__title">
+        Чемпионат. Колодинский начал с победы
+    </div>    
+    <div class="glb-news-card__desc">
+        Главные события 24-го тура мужской Суперлиги
+    </div>
+    <div class="glb-news-card__footer">
+        <div class="glb-news-card__date">
+            14.02.2026
+        </div>
+                 <div class="glb-news-card__tag">
+            Обзор прессы        </div>
+                
+    </div>
+</a>
+        </div>
+        <div class="main-news-footer">
+            <a href="/news?tag=01H2WBEHMVXQ1T1ERYAGWT0P1P" class="news-arch-btn">Все обзоры<svg>
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+            </svg></a>
+        </div>
+        </div>
+        </div>
+        
+    </section>
+
+    <!--    /Main News -->
+    <div class="mobile-adv-spawner-3-x" id="mobile-adv-spawner-3-x"></div>
+    
+    <section class="main-media-section">
+        
+        <h3 class="main__h3">
+            Медиа
+        </h3>
+        <div class="grid-c-5 main-media-grid">
+       <a href="https://volley.ru/calendar/01JYNKJXHV21DY0J482NBM0SVZ/photos?tab=3" class="album">
+    
+    <div class="album__img-wrapper">
+        <img src="/assets/cache_image/uploads/VLCompetition/01JYNKJXHV21DY0J482NBM0SVZ/upload-1759772244475-01JYNKJXHV21DY0J482NBM0SVZ-1982784204_300x0_928.jpg" title="Чемпионат России 2026" class="album__img">
+    </div>
+    <div class="album__title">
+        Чемпионат России 2026 Суперлига
+                (Женщины) 
+    </div>
+    <div class="album__date">
+        04.10.2025 — 24.05.2026    </div>
+</a><a href="https://volley.ru/calendar/01K0BQRQ5Q13B309KYQCFK09NQ/photos?tab=3" class="album">
+    
+    <div class="album__img-wrapper">
+        <img src="/assets/cache_image/uploads/VLCompetition/01K0BQRQ5Q13B309KYQCFK09NQ/upload-1759421435485-01K0BQRQ5Q13B309KYQCFK09NQ-1565920401_300x0_928.jpg" title="Чемпионат России 2026" class="album__img">
+    </div>
+    <div class="album__title">
+        Чемпионат России 2026 <br>ГЕОТЕК Молодёжная лига
+        (Мужчины)         
+    </div>
+    <div class="album__date">
+        29.09.2025 — 19.04.2026    </div>
+</a><a href="https://volley.ru/calendar/01K0BZ1GA951X01S21MCVV01X7/photos?tab=3" class="album">
+    
+    <div class="album__img-wrapper">
+        <img src="/assets/cache_image/uploads/VLCompetition/01K0BZ1GA951X01S21MCVV01X7/upload-1759421363610-01K0BZ1GA951X01S21MCVV01X7--1868353884_300x0_928.jpg" title="Чемпионат России 2026" class="album__img">
+    </div>
+    <div class="album__title">
+        Чемпионат России 2026 <br>ГЕОТЕК Молодёжная лига
+                (Женщины) 
+    </div>
+    <div class="album__date">
+        16.09.2025 — 26.03.2026    </div>
+</a><a href="https://volley.ru/calendar/01K06HAJT897G11NK0JQCE1R3S/photos?tab=3" class="album">
+    
+    <div class="album__img-wrapper">
+        <img src="/assets/cache_image/uploads/VLCompetition/01K06HAJT897G11NK0JQCE1R3S/upload-1759420954948-01K06HAJT897G11NK0JQCE1R3S-2039278915_300x0_928.jpg" title="Кубок Победы" class="album__img">
+    </div>
+    <div class="album__title">
+        Кубок Победы 
+        (Мужчины)         
+    </div>
+    <div class="album__date">
+        14.09.2025 — 12.10.2025    </div>
+</a><a href="https://volley.ru/calendar/01K06SA8REN8WN0VFQN57P1PD8/photos?tab=3" class="album">
+    
+    <div class="album__img-wrapper">
+        <img src="/assets/cache_image/uploads/VLCompetition/01K06SA8REN8WN0VFQN57P1PD8/upload-1759421072570-01K06SA8REN8WN0VFQN57P1PD8--1077069196_300x0_928.jpg" title="Кубок России 2026" class="album__img">
+    </div>
+    <div class="album__title">
+        Кубок России 2026 
+                (Женщины) 
+    </div>
+    <div class="album__date">
+        11.09.2025 — 03.05.2026    </div>
+</a>    
+        </div>
+        <div class="main-media-footer">
+             <a href="media/photos" class="news-arch-btn">Все медиа<svg>
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#chevron-right"></use>
+            </svg></a>
+        </div>
+        
+    </section>
+    
+    
+    <!--    Main Partners-->
+    <section class="main-partners">
+        <h2 class="main__h2">
+            
+            ПАРТНЁРЫ
+        </h2>
+        <div class="main-partners-body">
+            <a href="https://detisport.org/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/detisport.png" alt="">
+            </a>
+            <a href="https://www.minsport.gov.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/ms.png" alt="">
+            </a>
+            <a href="https://olympic.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/okm.png" alt="">
+            </a>
+            <a href="https://rusada.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/rusada.png" alt="">
+            </a>
+            <a href="https://si-hotel.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/sihotel.png" alt="">
+            </a>
+            <!--<a href="https://tvstart.ru/ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/startlive.png" alt="">
+            </a>-->
+            <a href="https://www.volleygrad.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/volleygrad.png" alt="">
+            </a>
+            <a href="https://volleyservice.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/vs.png" alt="">
+            </a>
+            
+            <a href="https://pobeda.onf.ru/requirements/sborvoleybolisty" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/nf.svg" alt="">
+            </a>
+            
+            <a href="https://www.cev.eu/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/cev.png" alt="">
+            </a>
+            
+            
+            <a href="https://www.fivb.com/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/fivb.png" alt="">
+            </a>
+            
+            
+            <a href="https://kino.tricolor.ru/sport/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/tricolor-sport.svg" alt="Триколор спорт">
+            </a>
+            <a href="https://shop.volley.ru" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/volar.svg" alt="Волар">
+            </a>
+            
+            <a href="https://legalbet.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/legalbet.png" alt="legalbet">
+            </a>
+            
+            <a href="https://exenza.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/exenza.svg" alt="exenza">
+            </a>
+            
+            <a href="https://www.vorgolmsk.ru/" class="partners-item">
+                <img src="/assets/templates/vfr/img/partners/vorgol.svg" alt="природная вода vorgol">
+            </a>
+            
+        </div>
+    </section>
+<!--    / Main Partners-->
+    
+    <!--    Main Sponsors-->
+    <section class="main-sponsors">
+        <h2 class="main__h2">
+            
+            СПОНСОРЫ
+        </h2>
+        <div class="main-sponsors-body">
+             <a class="main-sponsors-body__item" href="https://gazprom.ru?erid=j1SVHyf64mqfdyau6">
+    <img src="/assets/images/uploads/VLSponsor/01FW8WV4VD0XKW0TNMHQ2K1D9C/upload-1686818957068-01FW8WV4VD0XKW0TNMHQ2K1D9C--453031498.svg?&t=j1SVHyf64mqfdyau6" alt="Газпром спонсор">
+</a>
+<a class="main-sponsors-body__item" href="https://vtb.ru?erid=j1SVHyf64mqfdyau7">
+    <img src="/assets/images/uploads/VLSponsor/01FW8WPTYJ92TH04JZZ54X09PC/upload-1683536302302-01FW8WPTYJ92TH04JZZ54X09PC-764223194.svg?&t=j1SVHyf64mqfdyau7" alt="ВТБ спонсор">
+</a>
+<a class="main-sponsors-body__item" href="https://www.unicon.ru?erid=">
+    <img src="/assets/images/uploads/VLSponsor/01GZVKHD4YDVXQ1DKK2Z890S7V/upload-1683479919763-01GZVKHD4YDVXQ1DKK2Z890S7V-787178760.svg?&t=" alt="БДО ЮНИКОН спонсор">
+</a>
+<a class="main-sponsors-body__item" href="https://www.avrorasystems.com/ru?erid=">
+    <img src="/assets/images/uploads/VLSponsor/01FW8WVA9ZJD7V0JT3XHD70TQC/upload-1683479962921-01FW8WVA9ZJD7V0JT3XHD70TQC--512837161.svg?&t=" alt="АО КОЦЕРН НПО АВРОРА спонсор">
+</a>
+<a class="main-sponsors-body__item" href="https://megafon.ru?erid=">
+    <img src="/assets/images/uploads/VLSponsor/01FW8WPAXC3ZHG1K99J31K1VRF/upload-1686818986299-01FW8WPAXC3ZHG1K99J31K1VRF--1585532663.svg?&t=" alt="Мегафон спонсор">
+</a>
+<a class="main-sponsors-body__item" href="https://ektosintez.ru/?erid=">
+    <img src="/assets/images/uploads/VLSponsor/01HDKMV59BAHY512TQPNVW14X3/upload-1698248998380-01HDKMV59BAHY512TQPNVW14X3-1731994224.svg?&t=" alt="Эктосинтез спонсор">
+</a>
+            
+        </div>
+    </section>
+<!--    /Main Sponsors-->
+    
+    <!-- Anti-Doping -->
+    <section class="grid-c-4 main-ad-banners">
+        <a href="soobshchit-o-stavkedogovornom-matche" class="ad-banner">
+            <img src="/assets/templates/vfr/img/icons/icon-dog.svg" alt="Сообщить о ставке или договорном матче" class="ad-banner__img">
+            <span  class="ad-banner__text">
+                Сообщить о ставке/ договорном матче
+            </span>
+            <svg class="ad-banner__ext">
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#external-link"></use>
+            </svg>
+        </a>
+        <a href="https://rusada.ru/doping-control/investigations/report-about-doping/" target="_blank" class="ad-banner">
+            <img src="/assets/templates/vfr/img/icons/icon-ad.svg" alt="CООБЩИТЬ О ДОПИНГЕ" class="ad-banner__img">
+            <span  class="ad-banner__text">
+                CООБЩИТЬ 
+                О ДОПИНГЕ
+            </span>
+            <svg class="ad-banner__ext">
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#external-link"></use>
+            </svg>
+        </a>
+        <a href="https://list.rusada.ru/" target="_blank" class="ad-banner">
+            <img src="/assets/templates/vfr/img/icons/icon-cm.svg" alt="ПРОВЕРИТЬ ЛЕКАРСТВО" class="ad-banner__img">
+            <span class="ad-banner__text">
+                ПРОВЕРИТЬ
+                ЛЕКАРСТВО
+            </span>
+            
+            <svg class="ad-banner__ext">
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#external-link"></use>
+            </svg>
+        </a>
+        <a href="https://course.rusada.ru/" target="_blank" class="ad-banner">
+            <img src="/assets/templates/vfr/img/icons/icon-ae.svg" alt="ПОЛУЧИТЬ АНТИДОПИНГОВОЕ ОБРАЗОВАНИЕ" class="ad-banner__img">
+            <span class="ad-banner__text">
+                ПОЛУЧИТЬ
+                АНТИДОПИНГОВОЕ
+                ОБРАЗОВАНИЕ
+            </span>
+            
+            <svg class="ad-banner__ext">
+                <use href="/assets/templates/vfr/img/sp5sprite.svg#external-link"></use>
+            </svg>
+        </a>
+    </section>
+    <!-- /Anti-Doping -->
+
+
+
+</div>
+
+
+<div class="footer-wrapper">
+    <footer class="footer wid">
+        <div class="footer__left">
+            <div class="footer__logo">
+                <img src="/assets/templates/vfr/img/logo.svg" alt="Всероссийская федерация волейбола" class="footer__logo">
+            </div>
+            <div class="footer__desc">
+                 &copy;&nbsp;Все права на любые материалы, опубликованные на сайте, защищены в соответствии с российским и международным законодательством об интеллектуальной собственности. <br>
+                Любое использование текстовых, фото, аудио и видеоматериалов возможно только с согласия правообладателя.
+                
+            </div>
+        </div>
+        <div class="footer__center">
+            <img src="/assets/templates/vfr/img/mark.svg" alt="6+" class="footer-center__icon">
+            <nav class="footer-nav">
+                 <a href="/pravila-priema-i-vozvrata-platezhey">Правила приема и возврата платежей</a>
+                
+                
+                
+               
+                
+                
+
+                <a href="/privacy-policy">Политика конфиденциальности ВФВ</a>
+                
+                <a href="https://volley.ru/payment">Оплата</a>
+                
+                
+                <a href="soobshchit-o-stavkedogovornom-matche">Сообщить о ставке/договорном матче</a>
+                <a href="smi">Редакция</a>
+                <!--<a href="https://old.volley.ru">Все содержание прошлой версии сайта сохранится на домене old.volley.ru</a>-->
+            </nav>
+
+
+        </div>
+        <div class="footer__right">
+            <div class="footer-social">
+                <div class="footer-social__col">
+                    <a href="https://vk.com/volleyvfv" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#vk"></use>
+                        </svg>
+                        volleyVFV
+                    </a>
+                    <a href="https://t.me/volleyVFV" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#telegram"></use>
+                        </svg>
+                        volleyVFV
+                    </a>
+                    <a href="https://zen.yandex.ru/id/6159c2632f8357479a57b7a4 " class="footer-social__item"
+                       target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#zen"></use>
+                        </svg>
+                        zen
+                    </a>
+
+                    <a href="https://vk.com/beachvolleyru" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#vk"></use>
+                        </svg>
+                        beachvolleyru
+                    </a>
+                    <a href="https://vk.com/studvolley" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#vk"></use>
+                        </svg>
+                        studvolley
+                    </a>
+                    
+                    <!--                        footer nav                    -->
+                    <nav>
+
+                    </nav>
+                </div>
+                <div class="footer-social__col">
+                    <a href="https://www.youtube.com/channel/UCquDF_Y8J5yTHwA_erY5xlQ/featured"
+                       class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#youtube"></use>
+                        </svg>
+                        Beach VolleyRu
+                    </a>
+                    <a href="https://www.youtube.com/channel/UC-MwQL22JqgIfoA4lYGEBfQ" class="footer-social__item"
+                       target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#youtube"></use>
+                        </svg>
+                        VolleyRu Live
+                    </a>
+                    <a href="https://rutube.ru/channel/23493179/" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#rutube"></use>
+                        </svg>
+                        ВФВ rutube
+                    </a>
+                    <a href="https://vk.com/snowvolleyru" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#vk"></use>
+                        </svg>
+                        snowvolleyru
+                    </a>
+                    
+                </div>
+                <div class="footer-social__col">
+                    <a href="https://t.me/volleySuperleague " class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#telegram"></use>
+                        </svg>
+                        volleySuperleague
+                    </a>
+                    <a href="https://vk.com/volleysuperleague" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#vk"></use>
+                        </svg>
+                        volleysuperleague
+                    </a>
+                    
+                    <a href="https://t.me/mlvolleyru" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#telegram"></use>
+                        </svg>
+                        mlvolleyru
+                    </a>
+                     <a href="https://vk.com/mlvolleyru" class="footer-social__item" target="_blank">
+                        <svg class="spif">
+                            <use href="/assets/templates/vfr/img/sp5share.svg#vk"></use>
+                        </svg>
+                        mlvolleyru
+                    </a>
+                    </div>
+            </div>
+
+        </div>
+
+    </footer>
+    <!-- Yandex.RTB R-A-2010712-5 -->
+
+<script>
+
+function getDeviceInfo() {
+  const dpr = window.devicePixelRatio || 1;
+  
+  return {
+    // CSS pixels (учитывают масштабирование)
+    cssWidth: window.innerWidth,
+    cssHeight: window.innerHeight,
+    
+    // Физические пиксели
+    physicalWidth: window.innerWidth * dpr,
+    physicalHeight: window.innerHeight * dpr,
+    
+    // Screen размеры
+    screenWidth: screen.width,
+    screenHeight: screen.height,
+    
+    // DPR
+    pixelRatio: dpr,
+    
+    // Capabilities
+    hasTouch: 'ontouchstart' in window || navigator.maxTouchPoints > 0,
+    hasOrientation: typeof window.orientation !== "undefined"
+  };
+}
+
+function isMobileDevice() {
+  const info = getDeviceInfo();
+  const ua = navigator.userAgent || navigator.vendor || window.opera;
+  const mobileRegex = /android|iphone|ipad|ipod|blackberry|iemobile|opera mini|mobile|tablet/i;
+  // Используем CSS pixels - они уже учитывают масштабирование
+  console.table(info);
+  const isSmallScreen = info.cssWidth < 768;
+  //const isSmallScreen = Math.min(info.cssWidth, info.cssHeight) < 760;
+  const isTouchAndMedium = info.hasTouch && info.cssWidth <= 1024;
+  
+  return mobileRegex.test(ua) || isSmallScreen || isTouchAndMedium || info.hasOrientation;
+}
+
+
+function showFloorAdv() {
+    /*window.yaContextCb.push(()=>{
+    	Ya.Context.AdvManager.render({
+    		"blockId": "R-A-2010712-5",
+    		"type": "floorAd"
+    	})
+    });*/
+     const isMobile = isMobileDevice();
+     if (isMobile) {
+        const floorContainer = document.querySelector('#floor-adv-1');
+        if (!floorContainer) {
+            const fcn = document.createElement('div');
+            fcn.id = 'floor-adv-1';
+            document.body.appendChild(fcn);
+        }
+        window.yaContextCb.push(()=>{
+            Ya.adfoxCode.create({
+                ownerId: 715902,
+                containerId: 'floor-adv-1',
+                params: {
+                    p1: 'dlecd',
+                    p2: 'jpqr'
+                }
+            })
+        });
+     }
+    if (window.location.hostname.includes('beach.volley.ru')) {
+        window.yaContextCb.push(()=>{
+        	Ya.Context.AdvManager.render({
+        		"blockId": "R-A-2010713-2",
+        		"type": "floorAd"
+        	})
+        });
+    }
+    const newsBanner = document.querySelector('#yandex_rtb_R-A-2010712-14');
+    if (newsBanner) {
+        window.yaContextCb.push(()=>{
+        	Ya.Context.AdvManager.render({
+        		"blockId": "R-A-2010712-14",
+        		"renderTo": "yandex_rtb_R-A-2010712-14"
+        	})
+        });
+    }
+    const photosBanner = document.querySelector('#yandex_rtb_R-A-2010712-12');
+    if (photosBanner) {
+        window.yaContextCb.push(()=>{
+        	Ya.Context.AdvManager.render({
+        		"blockId": "R-A-2010712-12",
+        		"renderTo": "yandex_rtb_R-A-2010712-12"
+        	});
+        });
+    }
+    
+
+}
+
+function showPPD() {
+    if (window.__ppd && window.__ppd == 1) {
+                            /*const cis = document.querySelectorAll('.main-content-internal');
+                            cis.forEach((ci) => {
+                                ci.innerHTML = '<img src="/assets/templates/vfr/img/nas-sports-premium.jpg">';
+                            });
+                            const cis2 = document.querySelectorAll('main.main');
+                            cis2.forEach((ci) => {
+                                ci.innerHTML = '<img src="/assets/templates/vfr/img/nas-sports-premium.jpg">';
+                            });*/
+                             const cis2 = document.querySelectorAll('.video-responsive');
+                            cis2.forEach((ci) => {
+                                ci.innerHTML = '<img src="/assets/templates/vfr/img/vietnam-sports-premium-2.jpg">';
+                            });
+                        }
+}
+
+function showAdv() {
+    const place = document.querySelector('#yandex_rtb_R-A-2010712-7');
+    if (place) {
+        window.yaContextCb.push(()=>{
+        	Ya.Context.AdvManager.render({
+        		"blockId": "R-A-2010712-7",
+        		"renderTo": "yandex_rtb_R-A-2010712-7"
+        	})
+        });
+    }
+    
+    const forceAdv = document.querySelectorAll('.force-adv');
+    if (forceAdv.length > 0 ) {
+        
+        Ya.Context.AdvManager.render({
+    		"blockId": "R-A-2010712-6",
+    		"renderTo": "yandex_rtb_R-A-2010712-6"
+    	});
+    }
+    const isMobile = isMobileDevice();
+    if (!isMobile) {
+        const advIndex1 = document.querySelectorAll('.adv-index-1');
+        advIndex1.forEach((el) => {
+            /*250x250*/
+            if (el.previousElementSibling) {
+                el.previousElementSibling.style.display = 'none';
+            }
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+                    ownerId: 715902,
+                    containerId: el.id,
+                    params: {
+                        p1: 'dlbhm',
+                        p2: 'jpjn'
+                    }
+                })
+            });
+            
+        });
+                
+        const advIndex2 = document.querySelectorAll('.adv-index-2');
+        advIndex2.forEach((el) => {
+            el.parentElement.classList.add('main-news-adv-cell--active');
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+                    ownerId: 715902,
+                    containerId: el.id,
+                    params: {
+                         p1: 'dlbhs',
+                            p2: 'jpju'
+                    }
+                })
+            });
+        });
+        const advIndex3 = document.querySelectorAll('.adv-index-3');
+        if (advIndex3.length > 0) {
+            const playerWrappers = document.querySelectorAll('.video-responsive-downscale-wrapper');
+            playerWrappers.forEach((el) => {
+            
+                el.classList.remove('video-responsive-downscale-wrapper');
+            });
+        }
+        advIndex3.forEach((el) => {
+            el.parentElement.classList.add('main-video-adv-cell--active');
+            window.yaContextCb.push(()=>{
+                 Ya.adfoxCode.create({
+                    ownerId: 715902,
+                    containerId: el.id,
+                    params: {
+                        p1: 'dlbht',
+                        p2: 'jpjv'
+                    }
+                })
+            });
+        });
+    } else {
+        const advIndex1 = document.querySelectorAll('.adv-index-1');
+        advIndex1.forEach((el) => {
+            el.style.height = '';
+        });
+        const mobAdvIndex1 = document.querySelectorAll('.mobile-adv-spawner-1');
+        if (mobAdvIndex1.length > 0) {
+            const banners = document.querySelectorAll('.glb-line-banner-wrapper');
+            banners.forEach((b) => {
+                b.remove();
+            });
+
+        }
+        mobAdvIndex1.forEach((el) => {
+                        //el.style['margin-top'] = '60px';
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+                    ownerId: 715902,
+                    containerId: el.id,
+                    params: {
+                         p1: 'dlbhr',
+                        p2: 'jpjt'
+                    }
+                })
+            });
+            
+        });
+        const mobAdvIndex2 = document.querySelectorAll('.mobile-adv-spawner-2');
+        mobAdvIndex2.forEach((el) => {
+            
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+                    ownerId: 715902,
+                    containerId: el.id,
+                    params: {
+                        p1: 'dlbhp',
+                        p2: 'jpjr'
+                    }
+                })
+            });
+            
+        });
+        const mobAdvIndex3 = document.querySelectorAll('.mobile-adv-spawner-3');
+        mobAdvIndex3.forEach((el) => {
+            
+            window.yaContextCb.push(()=>{
+                Ya.adfoxCode.create({
+                    ownerId: 715902,
+                    containerId: el.id,
+                    params: {
+                         p1: 'dlbhq',
+                        p2: 'jpjs'
+                    }
+                })
+            });
+            
+        });
+    }
+   
+
+    const banners = document.querySelectorAll('.calendar-banner');
+    let bIndex = 0;
+    banners.forEach((b) => {
+        if (!b.id) {
+            b.id = 'calendar-banner-'+bIndex;
+            bIndex++;
+        }
+        setTimeout(function() {
+            window.yaContextCb.push(()=>{
+            	Ya.Context.AdvManager.render({
+            		"blockId": "R-A-2010712-7",
+            		"renderTo":  b.id
+            	})
+            });
+        }, 50);
+        
+    });
+    
+    const banners2 = document.querySelectorAll('.games-banner');
+    let bIndex2 = 0;
+    banners2.forEach((b) => {
+        if (!b.id) {
+            b.id = 'games-banner-'+bIndex2;
+            bIndex2++;
+        }
+        setTimeout(function() {
+            window.yaContextCb.push(()=>{
+            	Ya.Context.AdvManager.render({
+            		"blockId": "R-A-2010712-11",
+            		"renderTo":  b.id
+            	})
+            });
+        }, 50);
+        
+    });
+}
+window.addEventListener('DOMContentLoaded', function () {
+    hideScore(null, true);
+    const iframe = sp5ssoStorage('https://volley.ru/sso', 'https://volley.ru');
+    //const iframe = sp5ssoStorage('https://volley.ru/sso', window.location.origin);
+    async function getToken() {
+        const t= await iframe.getTokenAsync();
+        window.VFR_TOKEN = t;
+    }
+    //getToken();
+    setTimeout(function () {
+        iframe.getToken((t) => {
+            window.VFR_TOKEN = t;
+        });
+    }, 50);
+
+    fetch('/api/profile?r='+Math.random())
+            .then(response => response.json())
+            .then(data => {
+                
+                if (!data.success) {
+                    showRegPanel(false);
+                    showFloorAdv();
+                    showAdv();
+                    showPPD();
+                }
+                var uid = (data.object || {'id': -1}).id || -1;
+                function cb() {
+                    if (window.startplayer) {
+                        startplayer(startplayerurl, data.object!=undefined, (data.object!=undefined && data.object.vip==1));
+                        //startplayer(startplayerurl, data.object?(data.object.vip == 1):false);
+                        if (window['pjs']) {
+                            if (window.__gameId) {
+                                let player = window['pjs'];
+                                if (player.api == undefined) {
+                                    player = playerjs['player'];
+                                }
+                                window.__uid = uid;
+                                if (player && player.api) {
+                                    player.api('tracking_id', window.__gameId);
+                                    player.api('user_id', uid);
+                                }
+                            }
+                        }
+                    }
+                }
+                var s=document.createElement('script');
+                s.type = 'text/javascript';
+                //s.src = '/api/vjs?r=6';
+                s.src = '/api/vjs?r='+ Math.random();
+                s.onreadystatechange = function() {
+    	            if (s.readyState === 'loaded' ||
+    	                s.readyState === 'complete') {
+    	                s.onreadystatechange = null;
+    	                cb ();
+    	            }
+    	        };
+                s.onload = cb;
+                document.head.appendChild(s);
+                const avs = document.querySelectorAll('.main-header__login');
+                avs.forEach((av) => {
+                    av.classList.remove('main-header__login--vip');
+                    av.classList.remove('main-header__login--auth');
+                    
+                });
+                if (data.object) {
+                    
+                    const wps = document.querySelectorAll('.warning-register-needed');
+                    wps.forEach((wp)=>{
+                        wp.remove();
+                    });
+                    if (window.startplayerurl && window.startplayerurl) {
+                        window.startplayerurl = window.startplayerurl.replace(atob('X3VucmVnaXN0ZXJlZA=='),'').replace(atob('LnMzNjA='),'').replace(atob('LnM0ODA='),'');
+                        
+                    }
+                    if (data.object.vip == 1) {
+                        //const avs = document.querySelectorAll('.main-header__login');
+                        avs.forEach((av) => {
+                            av.classList.remove('main-header__login--auth');
+                            av.classList.add('main-header__login--vip');
+
+                        });
+                        var css = '.hide-on-vip { display: none; }',
+                            head = document.head || document.getElementsByTagName('head')[0],
+                            style = document.createElement('style');
+                        
+                        head.appendChild(style);
+                        
+                        style.type = 'text/css';
+                        if (style.styleSheet){
+                          // This is required for IE8 and below.
+                          style.styleSheet.cssText = css;
+                        } else {
+                          style.appendChild(document.createTextNode(css));
+                        }
+                    } else {
+                        avs.forEach((av) => {
+                            av.classList.remove('main-header__login--vip');
+                            av.classList.add('main-header__login--auth');
+                        });
+                        showRegPanel(true);
+                        showFloorAdv();
+                        showAdv();
+                        showPPD();
+                        
+                    }
+                    window.__VFVPROFILE = data.object;
+                    hideScore(data.object.hide_score==1, false);
+                } else {
+                    hideScore(false, false);
+                }
+                if (data.object && data.object.cdnld == 1) {
+                    const footer = document.querySelector('footer');
+                    if (footer) {
+                        const el = document.createElement('a');
+                        el.href="/api/allow/";
+                        el.innerHTML = 'Download';
+                        footer.appendChild(el);
+                    }
+                }
+            })
+            .catch(error => {
+                console.log('Error:', error);
+                if (error instanceof ReferenceError) {
+
+                    showFloorAdv();
+                    showAdv();
+                    showRegPanel(false);
+                }
+                
+            })
+            .finally(() => {
+                
+            });
+});
+function showRegPanel(registered) {
+    const videoAnchor = document.querySelector('#player-set-buttons');
+    if (videoAnchor) {
+        const panel = document.createElement('div');
+        panel.className = 'warning-register-needed';
+        if (registered) {
+            videoAnchor.style.display='';
+            panel.innerHTML = `Трансляции в <svg class="warning-register-needed__icon"><use href="/assets/templates/vfr/img/sp5fill.svg#hd"></use></svg> качестве доступны в подписке <a href="https://volley.ru/account?reference=${window.location.href}"><img src="/assets/templates/vfr/img/premium-logotype.svg" title="Волейбол премиум"></a> <a href="https://volley.ru/account?reference=${window.location.href}">Оформить подписку</a>`;
+            
+        } else {
+            panel.innerHTML = `Для улучшения качества видео, пожалуйста, <a href="https://volley.ru/login?reference=${window.location.href}">войдите на сайт</a>`;
+        }
+        //panel.innerHTML = `Чтобы смотреть видео в хорошем качестве, пожалуйста <a href="https://volley.ru/login?reference=${window.location.href}">войдите на сайт</a>.`;
+        videoAnchor.parentNode.insertBefore(panel, videoAnchor.nextSibling);
+        
+    }
+}
+
+function onScoreElClick(e) {
+    const spoilers = document.querySelectorAll('.spoiler');
+    const revealed = document.querySelectorAll('.revealed');
+    if (e.currentTarget.classList.contains('spoiler')) {
+        spoilers.forEach((el) =>{
+            el.classList.remove('spoiler');
+            el.classList.add('revealed');
+        });
+
+        
+    } else if (e.currentTarget.classList.contains('revealed')) {
+        revealed.forEach((el) =>{
+            el.classList.remove('revealed');
+            el.classList.add('spoiler');
+        });
+    
+    }
+}
+
+function hideScore(hide, stateUnknown) {
+    const gDataPanel = document.querySelectorAll('.ginfo-data, .ginfo-line, .ginfo');
+    gDataPanel.forEach((el) => {
+        el.style.visibility = stateUnknown?'hidden':'visible';
+    });
+    function processScoreEl(el) {
+        if (stateUnknown) {
+            el.style.visibility = 'hidden';
+        } else {
+            el.style.visibility = null;
+        }
+        if (hide) {
+            el.classList.add('spoiler');
+            el.removeEventListener('click', onScoreElClick);
+            el.addEventListener('click', onScoreElClick);
+        }else {
+            if (el.classList.contains('spoiler')) {
+                el.classList.remove('spoiler');
+                el.removeEventListener('click', onScoreElClick);
+            }
+        }
+    }
+    const matchScore = document.querySelectorAll('.ginfo-data__score, .result-card-col__score-numb');
+    matchScore.forEach((el) => {
+        processScoreEl(el);
+    });
+    const setScore = document.querySelectorAll('.ginfo-rounds__score, .result-table-col__sets-stats-numb');
+    setScore.forEach((el) => {
+        processScoreEl(el);
+    });
+}
+
+var gebi = document.getElementById.bind(document);
+</script>
+
+<!-- Top.Mail.Ru counter -->
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3668099", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3668099;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
+<script>
+    
+
+
+// Array of banners
+const banners = [
+  {
+    big: '/assets/templates/vfr/img/line/shop26.jpg',
+    small: '/assets/templates/vfr/img/line/shop26-m.jpg',
+    link: 'https://shop.volley.ru/'
+  },
+  {
+    big: '/assets/templates/vfr/img/line/shop26.jpg',
+    small: '/assets/templates/vfr/img/line/shop26-m.jpg',
+    link: 'https://shop.volley.ru/'
+  },
+  /* {
+    big: '/assets/templates/vfr/img/line/dec25-tickets-1.png',
+    small: '/assets/templates/vfr/img/line/dec25-tickets-1-mob.png',
+    link: 'https://tickets.vc-lokomotiv.ru'
+  },
+  
+  {
+    big: '/assets/templates/vfr/img/line/dec25-tickets-2.png',
+    small: '/assets/templates/vfr/img/line/dec25-tickets-2-mob.png',
+    link: 'https://clck.ru/3QfWbk'
+  },*/
+  // add more banners here...
+];
+
+function rotateBanner() {
+
+    document.querySelectorAll('.mobile-adv-spawner-1').forEach((b) => {
+        b.remove();
+    });
+  const storageKey = 'vfvBannerIndex';
+  
+  // Load last shown index
+  let index = parseInt(localStorage.getItem(storageKey) || '0', 10);
+
+  // Calculate next banner index
+  index = (index + 1) % banners.length;
+
+  // Save new index
+  localStorage.setItem(storageKey, index);
+
+  const banner = banners[index];
+
+  // Select DOM elements
+  const bannerLink = document.querySelector('.glb-line-banner');
+  const sourceSmall = document.querySelector('source[media*="max-width"]');
+  const sourceBig = document.querySelector('source[media*="min-width"]');
+  const img = document.querySelector('.glb-line-banner__img');
+
+  // Update banner
+  if (bannerLink) {
+      bannerLink.href = banner.link;
+      sourceSmall.srcset = banner.small;
+      sourceBig.srcset = banner.big;
+      img.src = banner.big;
+      img.alt = 'Banner'; // optional
+  }
+}
+
+// Run on page load
+document.addEventListener('DOMContentLoaded', rotateBanner);
+</script>
+
+
+</div>
+
+<script src="/assets/templates/bv/js/appProfile/chunk-vendors.js?r=58"></script>
+<script src="/assets/templates/bv/js/appProfile/app.js?r=110"></script>
+<script src="/assets/templates/vfr/js/main.js?r=8"></script>
+<script src="/assets/templates/bv/js/sp5f.js?r=172"></script>
+<script src="/assets/templates/bv/js/sp5s.js?r=5"></script>
+    <!--<script src="/assets/templates/bv/js/vjs/videojs.js"></script>
+    <script src="/assets/templates/bv/js/vjs/videojs-http-streaming.min.js"></script>
+    <script src="/assets/templates/bv/js/vjs/videojs-dvr.js"></script>-->
+    <script src="/assets/templates/vfr/js/splide/splide.min.js"></script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(75082582, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/75082582" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+</body>
+</html>

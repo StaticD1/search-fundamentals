@@ -22,12 +22,14 @@ configurations {
 
 repositories {
     mavenCentral()
+    maven { url 'https://jitpack.io' }
 }
 
 dependencies {
     implementation 'org.springframework.boot:spring-boot-starter'
-    implementation 'org.jsoup:jsoup:1.15.4'
+    implementation 'org.jsoup:jsoup:1.18.3'
     implementation 'org.apache.lucene:lucene-core:8.11.2'
+    implementation 'com.github.demidko:aot:2021.09.19'
     implementation 'org.apache.lucene:lucene-analyzers-common:8.11.2'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'

@@ -1,0 +1,2947 @@
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link rel="stylesheet" href="/bitrix/templates/base/css/js/air-datepicker.min.css?1771451971">
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<link href="/bitrix/cache/css/s1/base/template_0794d4c691a82a4c8a574d44174045b2/template_0794d4c691a82a4c8a574d44174045b2_v1.css?1770109410114615" type="text/css"  data-template-style="true" rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+
+<script type="text/javascript" src="/bitrix/js/main/core/core.min.js?1701955956219752"></script>
+
+<script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','UTF_MODE':'Y','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1771451971','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'ea5783e2eae06cafefa8de7ca0e42773'});</script>
+
+
+<script type="text/javascript">BX.setJSList(['/bitrix/templates/base/js/jquery-2.2.4.min.js','/bitrix/templates/base/js/air-datepicker.min.js','/bitrix/templates/base/js/base.js','/bitrix/templates/base/js/parallax.min.js','/bitrix/templates/base/js/owl.carousel.min.js','/bitrix/templates/base/js/jquery.bxslider.min.js','/bitrix/templates/base/js/jquery.fancybox.js','/bitrix/templates/base/components/ma/form/faq/script.js','/bitrix/templates/base/js/jquery.formstyler.min.js','/bitrix/components/bitrix/map.yandex.view/templates/.default/script.js']);</script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/templates/base/main-styles.css','/bitrix/templates/base/css/pages/main.css','/bitrix/templates/base/components/ma/carousel/main/style.css','/bitrix/templates/base/css/js/owl.carousel.css','/bitrix/templates/base/components/ma/menu/top/style.css','/bitrix/templates/base/components/bitrix/news.list/main/style.css','/bitrix/templates/base/components/bitrix/news.list/last-main/style.css','/bitrix/templates/base/css/js/jquery.bxslider.css','/bitrix/templates/base/components/bitrix/catalog.section/mainpage_gallery/style.css','/bitrix/templates/base/css/js/jquery.fancybox.min.css','/bitrix/templates/base/components/bitrix/catalog.section/mainpage_video/style.css','/bitrix/components/bitrix/system.show_message/templates/.default/style.css','/bitrix/templates/base/components/ma/form/faq/style.css','/bitrix/templates/base/css/js/jquery.formstyler.css','/bitrix/components/bitrix/map.yandex.system/templates/.default/style.css','/bitrix/templates/base/components/ma/menu/bottom_menu/style.css','/bitrix/templates/base/styles.css','/bitrix/templates/base/template_styles.css']);</script>
+
+
+<script type="text/javascript"  src="/bitrix/cache/js/s1/base/template_3c28317edee7fb76ef68625319f7cc5e/template_3c28317edee7fb76ef68625319f7cc5e_v1.js?1765808689342915"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "f4139061d48cf041dbc35783f31c38b4"]); _ba.push(["host", "rusada.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+        <title>РУСАДА | За честный и здоровый спорт</title>
+        <meta property="og:image" content="/bitrix/templates/base/img/logo.jpg">
+                    <meta name="yandex-verification" content="3f355ffa66eec533" />
+            </head>
+    <body class="main-page">
+<!--    <div class="old-site">-->
+<!--        <div class="row">-->
+<!--            <div class="col-xs-12">--><!--</div>-->
+<!--        </div>-->
+<!--    </div>-->
+                <div class="main-slider">
+                <div class="owl-carousel" id="main_slider">
+                    <div class="item" >
+                <div class="image">
+                    <img src="/upload/iblock/931/page-bg-2-en.jpg" />
+                </div>
+                <div class="image-mask">
+                    <img src="/upload/iblock/931/page-bg-2-en.jpg" />
+                </div>
+                <div class="wrap-container">
+                    <div class="container">
+                        <div class="left">
+                                                        <div class="title"> </div>
+                                                                                                                <div class="links">
+                                                                    <a href="/calendar-events/" id="calendar-events-btn">
+                                        <i class="icon"></i>
+                                        <span>Календарь событий</span>
+                                    </a><br>
+                                                                <a href="/doping-control/investigations/report-about-doping/" id="doping" title="Сообщить о допинге">
+                                    <i class="icon"></i>
+                                    <span>Сообщить о допинге</span>
+                                </a><br><br>
+                                <a href="/substances/bad/" id="bad" title="РУСАДА против БАД">
+                                    <i class="icon"></i>
+                                    <span>РУСАДА против БАД</span>
+                                </a><br>
+                                <a href="https://rusada.ru/substances/check-the-medicine/anti-doping.php" target="_blank" id="check-drug">
+                                    <i class="icon"></i>
+                                    <span>Проверить лекарство</span>
+                                </a><br>
+                                <a href="#" id="idk">
+                                    <i class="icon"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+    <script>
+        $(document).ready(function(){
+            $("#main_slider").owlCarousel({
+                items: 1,
+                dots: true,
+                responsive: {
+                    1270: {
+                        nav: true
+                    }
+                }
+            });
+        });
+    </script>
+            <div class="links">
+                                    <a href="/calendar-events/" id="calendar-events-btn">
+                        <i class="icon"></i>
+                        <span>Календарь событий</span>
+                    </a><br>
+                                <a href="https://list.rusada.ru/" target="_blank" id="check-drug">
+                    <i class="icon"></i>
+                    <span>Проверить лекарство</span>
+                </a><br>
+                <a href="/doping-control/investigations/report-about-doping/" id="doping">
+                    <i class="icon"></i>
+                    <span>Сообщить о допинге</span>
+                </a><br>
+                <a href="/substances/bad/" id="bad" title="РУСАДА против БАД">
+                    <i class="icon"></i>
+                    <span>РУСАДА против БАД</span>
+                </a><br>
+                <a href="/testing/become-an-idk/" id="idk">
+                    <i class="icon"></i>
+                    <span>Стать ИДК</span>
+                </a>
+            </div>
+        </div>
+        <header class="main-page">
+        <div class="container">
+            <div class="row">
+                <div class="header-bg"></div>
+                <div class="logo col-xs-5 col-sm-4 col-md-3">
+                    <div class="bg"></div>
+                    <a href="/">
+                        <img src="/bitrix/templates/base/img/logo.png">
+                    </a>
+                </div>
+                <div class="contacts col-xs-7 col-sm-8 col-md-9">
+                    <span class="item email">
+                        <i class="icon"></i>
+                        <a href="mailto:rusada@rusada.ru">rusada@rusada.ru</a>                    </span>
+                    <span class="item phone">
+<!--                        <i class="icon"></i>-->
+                        <span class="delimiter"></span>&nbsp;+7 (499) 271-77-61 <br>                    </span>
+                    <a href="/search" class="icon search"></a>
+                    <div class="lang">
+                                                    <span>RU</span> /
+                            <a href="/en/">EN</a>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <nav class="g-menu container">
+            <div class="button">
+                <a href="javascript:void(0);" onclick="$('body').toggleClass('opened-menu');">
+                    <span></span>
+                    <span></span>
+                </a>
+            </div>
+            
+<ul class="top-menu ru">
+
+
+			
+			
+			
+							<li ><a href="/about/" class="root-item">О нас</a>
+					<ul class="root-item ">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/mission/" >Миссия</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/controls/" >Органы управления</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/committees/" >Комитеты</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/ambassadors/" >Амбассадоры РУСАДА</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/ethics-officer/" >Офицер по этике</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/reports/" >Отчеты</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/gallery/" >Галерея</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/vacancies/" >Вакансии</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/documents/" >Документы</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/about/contacts/" >Контакты</a></li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li ><a href="/athletes/" class="root-item">Спортсменам</a>
+					<ul class="root-item ">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/rights-and-obligations/" >Права и обязанности</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/anti-doping-rules-violations/" >Нарушение антидопинговых правил</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/online-course.php" >Онлайн-курс</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/testing-pools-and-location-information/" >Пулы тестирования и информация о местонахождении</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/adams/" >АДАМС</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/test-procedure/" >Процедура тестирования</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/disqualification-period/" >Период дисквалификации</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/athletes/retirement" >Завершение и возобновление карьеры</a></li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li ><a href="/federations_leagues/" class="root-item">Федерациям и <br> лигам</a>
+					<ul class="root-item  second-line">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/federations_leagues/all_russian_sports_federations/" >Общероссийским спортивным федерациям</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/federations_leagues/regionals/" >Региональным спортивным федерациям</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/federations_leagues/professional_sports_leagues/" >Профессиональным спортивным лигам</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/federations_leagues/international_sports_federations/" >Международным спортивным федерациям</a></li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li ><a href="/doping-control/" class="root-item">Допинг-контроль</a>
+					<ul class="root-item ">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/doping-control/testing/" >Тестирование</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/doping-control/analysis-of-samples/" >Анализ проб</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/doping-control/investigations/" >Расследования</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/doping-control/results-management/" >Обработка результатов</a></li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+				
+									<li ><a href="/disqualifications/" class="root-item">Дисквалификации</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+							<li ><a href="/education/" class="root-item">Просвещение</a>
+					<ul class="root-item ">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/scientific-conference-2026/" >Научная конференция</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/educational-programs/" >Реализуемые программы</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/online-training/" >Онлайн-курс</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/training-course-code-of-ethics-rusada/" >Курс по этике</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/ratings.php" >Регионы</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/for-children/" >Проект РУСАДА детям</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/materials/" >Памятки</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/request-an-educational-seminar/" >Запросить мероприятие</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/education/contact-Information/" >Контактная информация</a></li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li ><a href="/substances/" class="root-item">Препараты</a>
+					<ul class="root-item ">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/substances/prohibited-list/" >Запрещенный список</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/substances/check-the-medicine/anti-doping.php" >Проверить лекарство</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/substances/tue/" >ТИ</a></li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/substances/questions-answers/" >Задать вопрос</a></li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li ><a href="/news/" class="root-item">Новости</a>
+					<ul class="root-item ">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li ><a href="/news/dajdzhest-novostej/" >Дайджест новостей</a></li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+				
+									<li ><a href="/library/" class="root-item">Библиотека</a></li>
+					
+				
+		
+	
+	
+
+
+
+</ul>
+
+        </nav>
+            </header>
+             <!--<div class="border-news">--> <!--    <div class="container">--> <!--        <div class="text">--> <!--            --> <!--        </div>--> <!--    </div>--> <!--</div>-->
+
+<div class="container">
+	<div class="main-title">
+		 Антидопинговые программы РАА&nbsp;«РУСАДА», включая тестирование спортсменов, реализуются в полном объёме в соответствии с ранее разработанным планом
+	</div>
+</div>
+<div class="more-text">
+	<div class="container">
+		<p>
+			 Напоминаем спортсменам, включённым в пулы тестирования, о необходимости своевременно предоставлять и обновлять информацию о местонахождении в системе АДАМС, во избежание возможного нарушения антидопинговых правил.<br><br> 
+РУСАДА всегда открыто для ваших вопросов. Мы за честный и чистый спорт!<br><br>
+Наши контакты:<br>
+e-mail: rusada@rusada.ru,<br> 
+тел. + 7 (499) 271-77-61​
+		</p>
+	</div>
+</div>
+<div class="more-text" align="center">
+	<p>
+		<b>Мы готовы ответить на ваши вопросы. Просьба направлять обращения на почту rusada@rusada.ru</b>
+	</p>
+	<p>	
+		<a href="/about/documents/obrabotka-personalnykh-dannykh/"><strong>Информация об обработке персональных данных лиц, участвующих в организованных спортивных мероприятиях</strong></a>
+	</p>
+</div>
+<div class="news">
+	<div class="container">
+		<div class="main-title">
+			 Новости		</div>
+		<div class="row">
+			<div class="col-md-8 col-sm-12">
+				<div class="news-main-title">
+					 Главное				</div>
+				 <div class="news-list owl-carousel">
+		<div class="news-item" id="bx_3218110189_11261">
+		            <div class="image">
+                                    <a href="/news/sanktsiya/bodybuilding130226_5/">
+                        <img
+                            src="/upload/iblock/215/kw3ppyjcudb20830ubrf0o0174ij9lkf/Ban.png"
+                            alt=""
+                            title=""
+                        />
+                    </a>
+                            </div>
+                <div class="info">
+            <div class="top">
+                                    <span class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </span>
+                                            </div>
+                            <div class="date">13.02<br>2026</div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/bodybuilding130226_5/">Бодибилдинг</a>
+                                    </div>
+                                        <div class="preview"><p style="text-align: justify;">
+	<span style="color: #262626;">Комиссия по предварительному рассмотрению случаев нарушений антидопинговых правил РАА&nbsp;«РУСАДА» приняла решение дисквалифицировать спортсмена Николаева Дениса (вид спорта – бодибилдинг) за нарушение, предусмотренное п.&nbsp;4.1 и п. 4.2 Общероссийских антидопинговых правил, в связи с обнаружением в его допинг-пробе субстанций 19-норандростерона, 19-норэтиохоланолона, метаболита дростанолона, метаболита местеролона, болденона&nbsp; его метаболита, метаболита тренболона, относящихся к классу&nbsp;S1.1 Запрещенного списка ВАДА 2025 г., кленбутерола, относящегося к классу&nbsp;S1.2 Запрещенного списка ВАДА 2025 г., гидрохлоротиазида и его метаболита, относящихся к классу&nbsp;S5 Запрещенного списка ВАДА 2025 г. К спортсмену была применена санкция в виде дисквалификации на 6 лет, начиная с даты вынесения решения, а именно с 19 января 2026 года, с зачетом отбытого срока временного отстранения, а именно с 8 декабря 2025 года.</span>
+</p></div>
+                        <div class="read-more">
+                <a href="/news/sanktsiya/bodybuilding130226_5/">+ Читать далее</a>
+            </div>
+        </div>
+	</div>
+		<div class="news-item" id="bx_3218110189_11259">
+		            <div class="image">
+                                    <a href="/news/sanktsiya/bodybuilding130226_4/">
+                        <img
+                            src="/upload/iblock/82d/aqmk1970ccdwffxpg8v5srzobee1i2pq/Ban.png"
+                            alt=""
+                            title=""
+                        />
+                    </a>
+                            </div>
+                <div class="info">
+            <div class="top">
+                                    <span class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </span>
+                                            </div>
+                            <div class="date">13.02<br>2026</div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/bodybuilding130226_4/">Бодибилдинг</a>
+                                    </div>
+                                        <div class="preview"><p style="text-align: justify;">
+	<span style="color: #262626;">Комиссия по предварительному рассмотрению случаев нарушений антидопинговых правил РАА&nbsp;«РУСАДА» приняла решение дисквалифицировать спортсмена Драничникова Андрея (вид спорта – бодибилдинг) за нарушение, предусмотренное п.&nbsp;4.1 и п. 4.2 Общероссийских антидопинговых правил, в связи с обнаружением в его допинг-пробе субстанций 19-норандростерона, 19-норэтиохоланолона, метаболита дростанолона, относящихся к классу&nbsp;S1.1 Запрещенного списка ВАДА 2025 г., гидрохлоротиазида и его метаболита, относящихся к классу&nbsp;S5 Запрещенного списка ВАДА 2025 г. К спортсмену была применена санкция в виде дисквалификации на 6 лет, начиная с даты вынесения решения, а именно с 19 января 2026 года, с зачетом отбытого срока временного отстранения, а именно с 8 декабря 2025 года.</span>
+</p></div>
+                        <div class="read-more">
+                <a href="/news/sanktsiya/bodybuilding130226_4/">+ Читать далее</a>
+            </div>
+        </div>
+	</div>
+		<div class="news-item" id="bx_3218110189_11258">
+		            <div class="image">
+                                    <a href="/news/sanktsiya/bodybuilding130226_3/">
+                        <img
+                            src="/upload/iblock/87e/gi0po1e0bkt3lgagtllh8ga6d3j17n45/Ban.png"
+                            alt=""
+                            title=""
+                        />
+                    </a>
+                            </div>
+                <div class="info">
+            <div class="top">
+                                    <span class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </span>
+                                            </div>
+                            <div class="date">13.02<br>2026</div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/bodybuilding130226_3/">Бодибилдинг</a>
+                                    </div>
+                                        <div class="preview"><p style="text-align: justify;">
+	<span style="color: #262626;">Комиссия по предварительному рассмотрению случаев нарушений антидопинговых правил РАА&nbsp;«РУСАДА» приняла решение дисквалифицировать спортсмена Беляева Марка (вид спорта – бодибилдинг) за нарушение, предусмотренное п.&nbsp;4.1 и п. 4.2 Общероссийских антидопинговых правил, в связи с обнаружением в его допинг-пробе субстанций 19-норандростерона, метаболита дростанолона, болденона и его метаболита, относящихся к классу&nbsp;S1.1 Запрещенного списка ВАДА 2025 г., гидрохлоротиазида и его метаболита, относящихся к классу&nbsp;S5 Запрещенного списка ВАДА 2025 г. К спортсмену была применена санкция в виде дисквалификации на 6 лет, начиная с даты вынесения решения, а именно с 19 января 2026 года, с зачетом отбытого срока временного отстранения, а именно с 8 декабря 2025 года.</span>
+</p></div>
+                        <div class="read-more">
+                <a href="/news/sanktsiya/bodybuilding130226_3/">+ Читать далее</a>
+            </div>
+        </div>
+	</div>
+		<div class="news-item" id="bx_3218110189_11255">
+		            <div class="image">
+                                    <a href="/news/sanktsiya/bodybuilding130226_2/">
+                        <img
+                            src="/upload/iblock/e54/sstyektz68oktqn38agzboqzjg9ece3w/Ban.png"
+                            alt=""
+                            title=""
+                        />
+                    </a>
+                            </div>
+                <div class="info">
+            <div class="top">
+                                    <span class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </span>
+                                            </div>
+                            <div class="date">13.02<br>2026</div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/bodybuilding130226_2/">Бодибилдинг</a>
+                                    </div>
+                                        <div class="preview"><p style="text-align: justify;">
+	<span style="color: #262626;">Комиссия по предварительному рассмотрению случаев нарушений антидопинговых правил РАА&nbsp;«РУСАДА» приняла решение дисквалифицировать спортсмена Павловского Артема (вид спорта – бодибилдинг) за нарушение, предусмотренное п.&nbsp;4.3 Общероссийских антидопинговых правил, в связи с отказом от сдачи допинг-пробы. К спортсмену была применена санкция в виде дисквалификации на 6 лет, начиная с даты вынесения решения, а именно с 19 января 2026 года, с зачетом отбытого срока временного отстранения, а именно с 7 ноября 2025 года.</span>
+</p></div>
+                        <div class="read-more">
+                <a href="/news/sanktsiya/bodybuilding130226_2/">+ Читать далее</a>
+            </div>
+        </div>
+	</div>
+</div>
+<div class="more-news">
+    <a href="/news/">Больше новостей</a>
+</div>
+<script>
+    
+    window.slider_1285027780 = false;
+
+    $(window).on('load', function(){
+        newsSlider(this);
+
+        $(this).resize(function(){
+            newsSlider(this);
+        });
+
+    });
+
+    function newsSlider(window){
+        var width = parseInt($(window).width()),
+            px = 1200;
+        if(width <= px && window.slider_1285027780 == false){
+            $(".news-list").owlCarousel({
+                items: 1,
+                nav: true
+            });
+            window.slider_1285027780 = true;
+        } else if(width > px) {
+            $('.news-list').owlCarousel('destroy');
+            window.slider_1285027780 = false;
+        }
+    }
+</script>
+				<div class="news-main-subscribe">
+					 <div class="subscribe-form">
+    <div class="title">Подписаться на новости</div>
+    <form class="form" onsubmit="return subscribe(this);">
+        <input type="text" name="email" placeholder="Ваш E-mail">
+        <button></button>
+    </form>
+</div>				</div>
+			</div>
+			<div class="col-md-4 col-xs-12">
+				<div class="last-news">
+					<div class="last-news-main-title">
+						 Последние новости					</div>
+					 <div class="last-news-list">
+		<div class="news-item row" id="bx_651765591_11254">
+        <div class="left col-xs-4">
+                            <div class="date">13.02.2026</div>
+                                        <div class="image">
+                                            <a href="/news/sanktsiya/bodybuilding130226/">
+                            <img
+                                    src="/upload/resize_cache/iblock/3f7/uujrtkxw9q1d3ib9cuy3tn6hh9zniubi/100_65_2/Ban.png"
+                                    alt=""
+                                    title=""
+                            />
+                        </a>
+                                    </div>
+                    </div>
+        <div class="right col-xs-8">
+                            <div class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/bodybuilding130226/">Бодибилдинг</a>
+                                    </div>
+                        <div class="info">
+                            </div>
+                    </div>
+	</div>
+		<div class="news-item row" id="bx_651765591_11252">
+        <div class="left col-xs-4">
+                            <div class="date">13.02.2026</div>
+                                        <div class="image">
+                                            <a href="/news/sanktsiya/para-powerlifting130226/">
+                            <img
+                                    src="/upload/resize_cache/iblock/117/o429189nzb5p7mqrigsjgiucs9d87jwe/100_65_2/Ban.png"
+                                    alt=""
+                                    title=""
+                            />
+                        </a>
+                                    </div>
+                    </div>
+        <div class="right col-xs-8">
+                            <div class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/para-powerlifting130226/">Пауэрлифтинг (ПОДА)</a>
+                                    </div>
+                        <div class="info">
+                            </div>
+                    </div>
+	</div>
+		<div class="news-item row" id="bx_651765591_11249">
+        <div class="left col-xs-4">
+                            <div class="date">13.02.2026</div>
+                                        <div class="image">
+                                            <a href="/news/sanktsiya/hockey130226/">
+                            <img
+                                    src="/upload/resize_cache/iblock/2d1/m5n2p094hnnnasmc26vyx5v9efbfpp59/100_65_2/Ban.png"
+                                    alt=""
+                                    title=""
+                            />
+                        </a>
+                                    </div>
+                    </div>
+        <div class="right col-xs-8">
+                            <div class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/hockey130226/">Хоккей</a>
+                                    </div>
+                        <div class="info">
+                            </div>
+                    </div>
+	</div>
+		<div class="news-item row" id="bx_651765591_11247">
+        <div class="left col-xs-4">
+                            <div class="date">13.02.2026</div>
+                                        <div class="image">
+                                            <a href="/news/sanktsiya/athletics130226/">
+                            <img
+                                    src="/upload/resize_cache/iblock/917/bn9bthqq3gzl0b2qj1g6ues9foc2f8wf/100_65_2/Ban.png"
+                                    alt=""
+                                    title=""
+                            />
+                        </a>
+                                    </div>
+                    </div>
+        <div class="right col-xs-8">
+                            <div class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/athletics130226/">Легкая атлетика</a>
+                                    </div>
+                        <div class="info">
+                            </div>
+                    </div>
+	</div>
+		<div class="news-item row" id="bx_651765591_11207">
+        <div class="left col-xs-4">
+                            <div class="date">03.02.2026</div>
+                                        <div class="image">
+                                            <a href="/news/sanktsiya/weightlifting020226/">
+                            <img
+                                    src="/upload/resize_cache/iblock/bb9/leli9j2oe9rtlog8m706mubkzvarj8ky/100_65_2/Ban.png"
+                                    alt=""
+                                    title=""
+                            />
+                        </a>
+                                    </div>
+                    </div>
+        <div class="right col-xs-8">
+                            <div class="section">
+                    <a href="/news/sanktsiya/">Санкция</a>
+                </div>
+                                        <div class="title">
+                                            <a href="/news/sanktsiya/weightlifting020226/">Тяжелая атлетика</a>
+                                    </div>
+                        <div class="info">
+                            </div>
+                    </div>
+	</div>
+</div>
+<script>
+    
+    window.slider_1824516322 = false;
+
+    $(window).on('load', function(){
+        lastNewsSlider(this);
+
+        $(this).resize(function(){
+            lastNewsSlider(this);
+        });
+
+    });
+
+    function lastNewsSlider(window){
+        var width = parseInt($(window).width()),
+            px = 992;
+        if(width >= px && window.slider_1824516322 == false){
+            window.slider_1824516322 = $(".last-news-list").bxSlider({
+                mode: 'vertical',
+                pager: false,
+                minSlides: 3,
+                maxSlides: 3,
+                infiniteLoop: false
+            });
+        } else if(width < px && window.slider_1824516322) {
+            window.slider_1824516322.destroySlider();
+            window.slider_1824516322 = false;
+        }
+    }
+</script>
+				</div>
+				<div style="text-align: center;">
+ <br>
+ <br>
+				</div>
+				 				<div class="last-news">
+					 <div class="subscribe-form">
+    <div class="title">Подписаться на новости</div>
+    <form class="form" onsubmit="return subscribe(this);">
+        <input type="text" name="email" placeholder="Ваш E-mail">
+        <button></button>
+    </form>
+</div>				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="athletes-and-doctors">
+	<div class="container">
+		<div class="main-title">
+			 Спортсменам и врачам		</div>
+		<div class="content">
+			<div class="more-text">
+				 <p>Мы собрали самые важные и полезные инструментарии для спортсменов и врачей, чтобы вы всегда могли пользоваться нашими удобными сервисами. Кто осведемлен, тот вооружен и готов побеждать!</p>			</div>
+			<div class="container">
+				<div class="row blocks">
+					<div class="item col-sm-12 col-md-6">
+						<div class="wrap">
+							<div class="inner">
+ <i class="icon icon-1"></i>
+								<div class="title">
+									 <a href="/athletes/adams/">ADAMS</a>								</div>
+								<div class="body">
+									 Всем спортсменам, входящим в пулы тестирования, необходимо своевременно предоставить информацию о местоположении в системе АДАМС								</div>
+							</div>
+						</div>
+						<div class="arrow">
+							<div class="link">
+ <a href="javascript:void(0);" onclick="showBlock(this);"> <i class="icon"></i> </a>
+							</div>
+							<div class="body">
+								<div class="inner">
+									 Всем спортсменам, входящим в пулы тестирования, необходимо своевременно предоставить информацию о местоположении в системе АДАМС								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item col-sm-12 col-md-6">
+						<div class="wrap">
+							<div class="inner">
+ <i class="icon icon-2"></i>
+								<div class="title">
+									 <a target="_blank" href="https://list.rusada.ru/">Проверить лекарство</a>								</div>
+								<div class="body">
+									 Проверьте любое лекарство или препарат на наличие запрещенных в нем субстанций в 1 клик								</div>
+							</div>
+						</div>
+						<div class="arrow">
+							<div class="link">
+ <a href="javascript:void(0);" onclick="showBlock(this);"> <i class="icon"></i> </a>
+							</div>
+							<div class="body">
+								<div class="inner">
+									 Проверьте любое лекарство или препарат на наличие запрещенных в нем субстанций в 1 клик								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item col-sm-12 col-md-6">
+						<div class="wrap">
+							<div class="inner">
+ <i class="icon icon-3"></i>
+								<div class="title">
+									 <a href="https://course.rusada.ru/" target="_blank">Онлайн-образование</a>								</div>
+								<div class="body">
+									 Получить знания в области антидопинга теперь ещё проще и удобнее.								</div>
+							</div>
+						</div>
+						<div class="arrow">
+							<div class="link">
+ <a href="javascript:void(0);" onclick="showBlock(this);"> <i class="icon"></i> </a>
+							</div>
+							<div class="body">
+								<div class="inner">
+									 Получить знания в области антидопинга теперь ещё проще и удобнее.								</div>
+							</div>
+						</div>
+					</div>
+					<div class="item col-sm-12 col-md-6">
+						<div class="wrap">
+							<div class="inner">
+ <i class="icon icon-4"></i>
+								<div class="title">
+									 <a href="http://quiz.wada-ama.org/">PLAY TRUE</a>								</div>
+								<div class="body">
+									 Играй честно! Пройдите тест на знание антидопинговых правил!<br>								</div>
+							</div>
+						</div>
+						<div class="arrow">
+							<div class="link">
+ <a href="javascript:void(0);" onclick="showBlock(this);"> <i class="icon"></i> </a>
+							</div>
+							<div class="body">
+								<div class="inner">
+									 Играй честно! Пройдите тест на знание антидопинговых правил!<br>								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	 <script>
+        function showBlock(link) {
+            $(link).closest('.item').toggleClass('opened');
+            return false;
+        }
+
+        function buildBlocks() {
+            var wrap = $('.athletes-and-doctors .content .blocks .item .wrap > .inner'),
+                h = 0;
+
+            wrap.css('height', 'auto');
+
+            wrap.each(function () {
+                var _h = parseInt($(this).height());
+                if (h < _h) {
+                    h = _h;
+                }
+            });
+
+            wrap.height(h);
+        }
+
+        $(window).on('load', function () {
+            buildBlocks();
+
+            $(this).resize(function () {
+                buildBlocks();
+            });
+
+        });
+
+    </script>
+</div>
+
+<div class="parallax" data-parallax="scroll" data-image-src="/bitrix/templates/base/img/parallax.jpg">
+    <table>
+        <tr>
+            <td>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-1 col-md-2"></div>
+                        <div class="col-xs-10 col-md-8">
+                            <div class="text">
+                                <div class="quotes">
+                                    <img src="/bitrix/templates/base/img/quotes.png" alt="">
+                                </div>
+                                <div class="inner">
+                                    Секрет успеха - это верность своей цели.                                </div>
+                            </div>
+                            <div class="col-xs-1 col-md-2"></div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+<script>
+    $('.parallax').parallax({
+        imageSrc: '/bitrix/templates/base/img/parallax.jpg',
+        zIndex: 10
+    });
+</script>
+<div class="activities">
+    <div class="container">
+        <div class="main-title">Направления деятельности</div>
+        <div class="content">
+            <div class="text">
+                            </div>
+        </div>
+                <div class="activities-tabs">
+            <div class="titles">
+                                                    <div class="item activity-item-13 active">
+                        <a href="javascript:void(0);" onclick="showActivity(13);">
+                            <i class="icon" id="activity-icon-13"></i>
+                        </a>
+                        <div class="name">
+                            <a href="javascript:void(0);" onclick="showActivity(13);">Планирование и проведение тестирования</a>
+                        </div>
+                        <div class="preview">
+                            <div class="text"><p>
+	 Основной задачей РУСАДА является защита права спортсменов на участие в спортивных соревнованиях, свободных от допинга. С этой целью РУСАДА разрабатывает план тестирования спортсменов в различных видах спорта, который основан на оценке рисков использования допинга в этих дисциплинах и на требованиях Международных стандартов и технических документов Всемирного антидопингового агентства.
+</p>
+ Как национальное антидопинговое агентство РУСАДА обладает полномочиями по тестированию всех российских спортсменов и может проводить отбор проб как на территории Российской Федерации, так и за ее пределами. Тестирование проводится с целью получения доказательств соблюдения (или несоблюдения) спортсменами антидопинговых правил и может быть как соревновательным, так и внесоревновательным.<br></div>
+                                                    </div>
+                    </div>
+                                    <div class="item activity-item-14">
+                        <a href="javascript:void(0);" onclick="showActivity(14);">
+                            <i class="icon" id="activity-icon-14"></i>
+                        </a>
+                        <div class="name">
+                            <a href="javascript:void(0);" onclick="showActivity(14);">Образовательные программы</a>
+                        </div>
+                        <div class="preview">
+                            <div class="text"><p>
+	 В соответствии со Всемирным антидопинговым кодексом, Международным стандартом по образованию и Общероссийскими антидопинговыми правилами РУСАДА реализует информационно-образовательные антидопинговые программы.
+</p>
+<p>
+	 РУСАДА определяет целевые группы и разрабатывает план в области образования в строгом соответствии с требованиями указанных нормативных документов.
+</p></div>
+                                                    </div>
+                    </div>
+                                    <div class="item activity-item-15">
+                        <a href="javascript:void(0);" onclick="showActivity(15);">
+                            <i class="icon" id="activity-icon-15"></i>
+                        </a>
+                        <div class="name">
+                            <a href="javascript:void(0);" onclick="showActivity(15);">Обработка результатов</a>
+                        </div>
+                        <div class="preview">
+                            <div class="text">При получении информации о неблагоприятном результате анализа или ином нарушении антидопинговых правил РУСАДА обязано инициировать процедуру обработки результатов, основной целью которой является однозначное установление факта нарушения и, при необходимости, определение наказания в соответствии с требованиями Всемирного антидопингового кодекса.</div>
+                                                    </div>
+                    </div>
+                                    <div class="item activity-item-202">
+                        <a href="javascript:void(0);" onclick="showActivity(202);">
+                            <i class="icon" id="activity-icon-202"></i>
+                        </a>
+                        <div class="name">
+                            <a href="javascript:void(0);" onclick="showActivity(202);">Расследования</a>
+                        </div>
+                        <div class="preview">
+                            <div class="text">Расследование фактов возможных нарушений антидопинговых правил – одно из основных направлений деятельности Агентства.<br />
+<br />
+Команда отдела по расследованиям применяет на практике обширный опыт расследований различных нарушений. Деятельность Отдела регламентируется законодательством РФ, Общероссийскими антидопинговыми правилами, Международным Стандартом по тестированиям и расследованиям.<br />
+<br />
+Отдел занимается сбором и анализом информации, поступившей из различных источников, проверкой такой информации, а также оперативным реагированием в случаях, не терпящих отлагательств. Также отдел занимается работой с информаторами и осведомителями, сохраняя их конфиденциальность и поощряя стремление оказать содействие в борьбе с допингом в спорте.</div>
+                                                    </div>
+                    </div>
+                                    <div class="item activity-item-157">
+                        <a href="javascript:void(0);" onclick="showActivity(157);">
+                            <i class="icon" id="activity-icon-157"></i>
+                        </a>
+                        <div class="name">
+                            <a href="javascript:void(0);" onclick="showActivity(157);">Терапевтическое использование</a>
+                        </div>
+                        <div class="preview">
+                            <div class="text">В соответствии с Международным стандартом по терапевтическому использованию, спортсмен имеет право использовать субстанции или методы из Запрещенного списка для лечения при наличии разрешения на терапевтическое использование (ТИ).<br>
+ <br>
+ Спортсмены, которые не являются спортсменами международного уровня, должны подавать запросы на ТИ в РУСАДА. Спортсмены международного уровня должны подавать запросы на ТИ в соответствующие международные спортивные федерации.<br>
+ <br>
+ <a href="http://list.rusada.ru/">Проверить лекарство</a><br></div>
+                                                    </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="activities-tabs">
+        <div class="bodies">
+                                    <div class="row activity-row-13 active">
+                <div class="col-md-6">
+                    <div class="image">
+                                                                                <img src="/upload/iblock/b85/activity-1.jpg" alt="Планирование и проведение тестирования">
+                                                <div class="count">01</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="info">
+                            <div class="title">Планирование и проведение тестирования</div>
+                            <div class="preview"><p>
+	 Основной задачей РУСАДА является защита права спортсменов на участие в спортивных соревнованиях, свободных от допинга. С этой целью РУСАДА разрабатывает план тестирования спортсменов в различных видах спорта, который основан на оценке рисков использования допинга в этих дисциплинах и на требованиях Международных стандартов и технических документов Всемирного антидопингового агентства.
+</p>
+ Как национальное антидопинговое агентство РУСАДА обладает полномочиями по тестированию всех российских спортсменов и может проводить отбор проб как на территории Российской Федерации, так и за ее пределами. Тестирование проводится с целью получения доказательств соблюдения (или несоблюдения) спортсменами антидопинговых правил и может быть как соревновательным, так и внесоревновательным.<br></div>
+                            <div class="more">
+                                                                    <div class="more">
+                                        <a href="/doping-control/testing/">Больше информации</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="row activity-row-14">
+                <div class="col-md-6">
+                    <div class="image">
+                                                                                <img src="/upload/iblock/895/activity-1.jpg" alt="Образовательные программы">
+                                                <div class="count">02</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="info">
+                            <div class="title">Образовательные программы</div>
+                            <div class="preview"><p>
+	 В соответствии со Всемирным антидопинговым кодексом, Международным стандартом по образованию и Общероссийскими антидопинговыми правилами РУСАДА реализует информационно-образовательные антидопинговые программы.
+</p>
+<p>
+	 РУСАДА определяет целевые группы и разрабатывает план в области образования в строгом соответствии с требованиями указанных нормативных документов.
+</p></div>
+                            <div class="more">
+                                                                    <div class="more">
+                                        <a href="/education/educational-programs/">Больше информации</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="row activity-row-15">
+                <div class="col-md-6">
+                    <div class="image">
+                                                                                <img src="/upload/iblock/fed/activity-1.jpg" alt="Обработка результатов">
+                                                <div class="count">03</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="info">
+                            <div class="title">Обработка результатов</div>
+                            <div class="preview">При получении информации о неблагоприятном результате анализа или ином нарушении антидопинговых правил РУСАДА обязано инициировать процедуру обработки результатов, основной целью которой является однозначное установление факта нарушения и, при необходимости, определение наказания в соответствии с требованиями Всемирного антидопингового кодекса.</div>
+                            <div class="more">
+                                                                    <div class="more">
+                                        <a href="/doping-control/results-management/">Больше информации</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="row activity-row-202">
+                <div class="col-md-6">
+                    <div class="image">
+                                                                                <img src="/upload/iblock/3fb/activity-1.jpg" alt="Расследования">
+                                                <div class="count">04</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="info">
+                            <div class="title">Расследования</div>
+                            <div class="preview">Расследование фактов возможных нарушений антидопинговых правил – одно из основных направлений деятельности Агентства.<br />
+<br />
+Команда отдела по расследованиям применяет на практике обширный опыт расследований различных нарушений. Деятельность Отдела регламентируется законодательством РФ, Общероссийскими антидопинговыми правилами, Международным Стандартом по тестированиям и расследованиям.<br />
+<br />
+Отдел занимается сбором и анализом информации, поступившей из различных источников, проверкой такой информации, а также оперативным реагированием в случаях, не терпящих отлагательств. Также отдел занимается работой с информаторами и осведомителями, сохраняя их конфиденциальность и поощряя стремление оказать содействие в борьбе с допингом в спорте.</div>
+                            <div class="more">
+                                                                    <div class="more">
+                                        <a href="/doping-control/investigations/">Больше информации</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                        <div class="row activity-row-157">
+                <div class="col-md-6">
+                    <div class="image">
+                                                                                <img src="/upload/iblock/deb/activity-1.jpg" alt="Терапевтическое использование">
+                                                <div class="count">05</div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row">
+                        <div class="info">
+                            <div class="title">Терапевтическое использование</div>
+                            <div class="preview">В соответствии с Международным стандартом по терапевтическому использованию, спортсмен имеет право использовать субстанции или методы из Запрещенного списка для лечения при наличии разрешения на терапевтическое использование (ТИ).<br>
+ <br>
+ Спортсмены, которые не являются спортсменами международного уровня, должны подавать запросы на ТИ в РУСАДА. Спортсмены международного уровня должны подавать запросы на ТИ в соответствующие международные спортивные федерации.<br>
+ <br>
+ <a href="http://list.rusada.ru/">Проверить лекарство</a><br></div>
+                            <div class="more">
+                                                                    <div class="more">
+                                        <a href="/substances/tue/">Больше информации</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script>
+        function showActivity(ID) {
+            $('.activities-tabs .titles .item').removeClass('active');
+            $('.activities-tabs .titles .activity-item-'+ID).addClass('active');
+            $('.activities-tabs .bodies .row').removeClass('active');
+            $('.activities-tabs .bodies .activity-row-'+ID).addClass('active');
+        }
+    </script>
+</div>
+<div class="gallery">
+	<div class="container">
+		<div class="main-title">
+			 Фото и видео		</div>
+	</div>
+	<div class="g-tabs">
+		<div class="tabs-titles">
+			<div class="container">
+				<div class="inner">
+ <a href="javascript:void(0);" class="active">
+					Фото </a> <a href="javascript:void(0);">
+					Видео </a>
+				</div>
+			</div>
+		</div>
+		<div class="tabs-bodies">
+			<div class="body active">
+				         <div class="owl-carousel gallery-slider" id="gallery-slider-172978407">
+                                    <div class="item">
+                    <a href="/upload/resize_cache/iblock/543/awqtzd1rkw5c9i4pt7m48z7vjb3nwbbx/1200_1200_1/12.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/543/awqtzd1rkw5c9i4pt7m48z7vjb3nwbbx/600_290_0/12.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/728/lpzgslngghyo0n4oozf5b0d66vlxqzn6/1200_1200_1/13.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/728/lpzgslngghyo0n4oozf5b0d66vlxqzn6/600_290_0/13.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/e14/q5epgjdt4vos86tjhmtmsul1sp691b7b/1200_1200_1/_54.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/e14/q5epgjdt4vos86tjhmtmsul1sp691b7b/600_290_0/_54.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/c8d/12uiph4bqs622p27j6ar8396ixey6ttr/1200_1200_1/_109.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/c8d/12uiph4bqs622p27j6ar8396ixey6ttr/600_290_0/_109.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/bc0/fox0l6zlrs8ljj1y0rx59eo0hmiqkb06/1200_1200_1/_508.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/bc0/fox0l6zlrs8ljj1y0rx59eo0hmiqkb06/600_290_0/_508.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/495/anego7ujshzcg34w0p8xd7dehs3568gg/1200_1200_1/IMG_0566.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/495/anego7ujshzcg34w0p8xd7dehs3568gg/600_290_0/IMG_0566.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/1c1/2frq3ib23vwo160hh705nwj7juu0swzo/1200_1200_1/15.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/1c1/2frq3ib23vwo160hh705nwj7juu0swzo/600_290_0/15.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/iblock/e45/3d8g97r0cwiouujdubmxpfg7jbcb4ewj/IMG_0427.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/e45/3d8g97r0cwiouujdubmxpfg7jbcb4ewj/600_290_0/IMG_0427.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/d51/ch9js1cs8fnl51zqjyzixgkovigqvppz/1200_1200_1/16.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/d51/ch9js1cs8fnl51zqjyzixgkovigqvppz/600_290_0/16.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/7fa/oap671e5b4wj93bebxdyvvnlwau598th/1200_1200_1/TASS_77663475.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/7fa/oap671e5b4wj93bebxdyvvnlwau598th/600_290_0/TASS_77663475.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/81c/lxy2v80w9wa0kfohkyqm09reht1babay/1200_1200_1/17.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/81c/lxy2v80w9wa0kfohkyqm09reht1babay/600_290_0/17.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/5ce/jyvcimlwgkwdhl0hivkih94hs0t88jlw/1200_1200_1/07.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/5ce/jyvcimlwgkwdhl0hivkih94hs0t88jlw/600_290_0/07.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/f3e/cpojsjo8jpc5q9uvgi4dbz9yxjatqtj0/1200_1200_1/08.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/f3e/cpojsjo8jpc5q9uvgi4dbz9yxjatqtj0/600_290_0/08.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/ea2/t3hqyw6epo3h6lqm6bt0iz5i5x3emyen/1200_1200_1/09.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/ea2/t3hqyw6epo3h6lqm6bt0iz5i5x3emyen/600_290_0/09.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/c37/1no5bnbej1v97dv66yqvfd50jd802r0z/1200_1200_1/11.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/c37/1no5bnbej1v97dv66yqvfd50jd802r0z/600_290_0/11.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/bb9/0ea2muvgt1t3d9qyxgyrxiqp94it2abc/1200_1200_1/02.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/bb9/0ea2muvgt1t3d9qyxgyrxiqp94it2abc/600_290_0/02.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/850/higq67tb2q9bg1mfegcpre9k1b3l5tzo/1200_1200_1/photo_2024_10_04_09_29_12.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/850/higq67tb2q9bg1mfegcpre9k1b3l5tzo/600_290_0/photo_2024_10_04_09_29_12.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/d3b/wh3d11epm4fu08ow4iyo8dgx511titr1/1200_1200_1/06.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/d3b/wh3d11epm4fu08ow4iyo8dgx511titr1/600_290_0/06.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/354/e9i47eekkok09xd6f37tbp77p6od7x1w/1200_1200_1/05.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/354/e9i47eekkok09xd6f37tbp77p6od7x1w/600_290_0/05.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/0a5/jc6tcbs71f8vtgdj2f2wmorv33zxgwx1/1200_1200_1/04.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/0a5/jc6tcbs71f8vtgdj2f2wmorv33zxgwx1/600_290_0/04.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/bab/3iswfnc5xxdzob0pejkol6h1ax5b2vvz/1200_1200_1/10.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/bab/3iswfnc5xxdzob0pejkol6h1ax5b2vvz/600_290_0/10.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/fc0/tr1du2wjpjy5ap7h9s3ohnwj2mqq9n1y/1200_1200_1/NKON0960.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/fc0/tr1du2wjpjy5ap7h9s3ohnwj2mqq9n1y/600_290_0/NKON0960.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/ae7/lanvu7xl1sjlllzj3dts4cns9fz52za5/1200_1200_1/NKON0060.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/ae7/lanvu7xl1sjlllzj3dts4cns9fz52za5/600_290_0/NKON0060.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/1da/zbutc0n3nor200knbdx6w3x8vus9yk21/1200_1200_1/NKON0870.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/1da/zbutc0n3nor200knbdx6w3x8vus9yk21/600_290_0/NKON0870.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/264/ivei2q2igrs5f0py921paubi0yvzyhgq/1200_1200_1/NKON1884.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/264/ivei2q2igrs5f0py921paubi0yvzyhgq/600_290_0/NKON1884.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/1ca/xalhg9lbhtb55blfw00qncuh1z65epa1/1200_1200_1/NKON0824.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/1ca/xalhg9lbhtb55blfw00qncuh1z65epa1/600_290_0/NKON0824.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/99f/k9a3ncu9qhffqztqklih5zrprqd4ra69/1200_1200_1/NKON1547.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/99f/k9a3ncu9qhffqztqklih5zrprqd4ra69/600_290_0/NKON1547.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/442/7b0dtthdbm9ys3vks33tqlbowmoo0cms/1200_1200_1/NKON0669.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/442/7b0dtthdbm9ys3vks33tqlbowmoo0cms/600_290_0/NKON0669.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/38a/s4539t3vuvnthfp9mf31ddzb1y8jfaqm/1200_1200_1/18.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/38a/s4539t3vuvnthfp9mf31ddzb1y8jfaqm/600_290_0/18.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/539/jmm30ubah54tdfvddw8khi8tov2516bi/1200_1200_1/19.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/539/jmm30ubah54tdfvddw8khi8tov2516bi/600_290_0/19.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/8f4/c1jwh35xr1olcjfzcsg9sk8rigcwp5xf/1200_1200_1/PSX_20240520_131232.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/8f4/c1jwh35xr1olcjfzcsg9sk8rigcwp5xf/600_290_0/PSX_20240520_131232.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/9a7/9rpeflcl2171eo3ezqgwnih7tkiaihd7/1200_1200_1/NKON9102.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/9a7/9rpeflcl2171eo3ezqgwnih7tkiaihd7/600_290_0/NKON9102.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/iblock/c88/jgr54q7sgxzwffrs2gmuomw6syriahlj/photo_2022_09_30_11_54_09-_3_.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/c88/jgr54q7sgxzwffrs2gmuomw6syriahlj/600_290_0/photo_2022_09_30_11_54_09-_3_.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/168/xh7hlqowrm5ydszvsuuxf87rbda4fvj8/1200_1200_1/PLO_4061.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/168/xh7hlqowrm5ydszvsuuxf87rbda4fvj8/600_290_0/PLO_4061.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/835/dzuk31zbewq4jx4a76ch37de6fhfxbjv/1200_1200_1/PLO_4576.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/835/dzuk31zbewq4jx4a76ch37de6fhfxbjv/600_290_0/PLO_4576.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/94b/zlpcl198a8ysqd04n5ea00drrsewp630/1200_1200_1/PLO_3871.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/94b/zlpcl198a8ysqd04n5ea00drrsewp630/600_290_0/PLO_3871.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/cac/lr93ycxaw2e3i2sh8684y7t0ssssp8y8/1200_1200_1/PLO_9635.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/cac/lr93ycxaw2e3i2sh8684y7t0ssssp8y8/600_290_0/PLO_9635.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/c06/zlfwqhu35tqn553uu7le0oy4fgmols6x/1200_1200_1/123.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/c06/zlfwqhu35tqn553uu7le0oy4fgmols6x/600_290_0/123.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/669/hcwx8jqhdmqo8ti982fxagjsuzgnwv0o/1200_1200_1/NKON6245.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/669/hcwx8jqhdmqo8ti982fxagjsuzgnwv0o/600_290_0/NKON6245.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/594/i6fekoeh2hhzs47et6687oda34gind3e/1200_1200_1/NKON6970.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/594/i6fekoeh2hhzs47et6687oda34gind3e/600_290_0/NKON6970.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/214/wcsf39jonzi1t690c652jxjv6z0qmx1t/1200_1200_1/PAH_1528-kopiya.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/214/wcsf39jonzi1t690c652jxjv6z0qmx1t/600_290_0/PAH_1528-kopiya.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/dfb/ycd69yv5dufx6cmj1ir2qxn8pf1g7is6/1200_1200_1/PSX_20230921_174440.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/dfb/ycd69yv5dufx6cmj1ir2qxn8pf1g7is6/600_290_0/PSX_20230921_174440.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/1b4/2cejc8znwfp7tfvid3xybzlv7kwohoc0/1200_1200_1/PSX_20230921_174343.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/1b4/2cejc8znwfp7tfvid3xybzlv7kwohoc0/600_290_0/PSX_20230921_174343.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/39a/030wc1yl5bvy8y0yafp0at0110nq5642/1200_1200_1/PAH_1241 копия.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/39a/030wc1yl5bvy8y0yafp0at0110nq5642/600_290_0/PAH_1241 копия.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/902/tdgqu1w0e1c6f7yygur4k5gtnzdpi82c/1200_1200_1/Persona_20230922_153922.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/902/tdgqu1w0e1c6f7yygur4k5gtnzdpi82c/600_290_0/Persona_20230922_153922.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/e60/gm5rvj8b0azhnudj1o2zx04893go368e/1200_1200_1/photo_2024_06_30_10_19_52.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/e60/gm5rvj8b0azhnudj1o2zx04893go368e/600_290_0/photo_2024_06_30_10_19_52.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/21b/jnj751mhfrxnrz1iriatu8n06ufei6b7/1200_1200_1/021.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/21b/jnj751mhfrxnrz1iriatu8n06ufei6b7/600_290_0/021.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/743/3ebqh1ko0ojbx3bbkw73i517aewu47zs/1200_1200_1/IMG_1683.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/743/3ebqh1ko0ojbx3bbkw73i517aewu47zs/600_290_0/IMG_1683.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/72a/2pubb0htojsd7jbmast61y3cjf1k20wc/1200_1200_1/PLO_4448.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/72a/2pubb0htojsd7jbmast61y3cjf1k20wc/600_290_0/PLO_4448.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/80f/nru60gsw4rwfvn0o5gm07px4ifzx6xiv/1200_1200_1/photo_2024_06_30_10_20_23.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/80f/nru60gsw4rwfvn0o5gm07px4ifzx6xiv/600_290_0/photo_2024_06_30_10_20_23.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/6d5/2yppeccwuyis0v6mup41rqi0672lk8ba/1200_1200_1/002.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/6d5/2yppeccwuyis0v6mup41rqi0672lk8ba/600_290_0/002.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/cb4/1200_1200_1/IMG_5704.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/cb4/600_290_0/IMG_5704.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/40f/wogmk1akrk4fcp32gvm4rc9b9x5yykql/1200_1200_1/007.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/40f/wogmk1akrk4fcp32gvm4rc9b9x5yykql/600_290_0/007.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/e92/ghthu3xpyu6veie2hjnjij0su8qh828n/1200_1200_1/NKON5768.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/e92/ghthu3xpyu6veie2hjnjij0su8qh828n/600_290_0/NKON5768.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/32e/4r0ssuog8wv73sh9a5pnhz51bcsu8p86/1200_1200_1/NKON6042.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/32e/4r0ssuog8wv73sh9a5pnhz51bcsu8p86/600_290_0/NKON6042.jpg">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/c8a/r4mn1l0sv1tw9mv13l7tzmwo9etnzxo7/1200_1200_1/2_web.png" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/c8a/r4mn1l0sv1tw9mv13l7tzmwo9etnzxo7/600_290_0/2_web.png">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/iblock/50a/7zcg8ciba780t02mgriuqxxfkelzfvag/PLO_3443.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/50a/7zcg8ciba780t02mgriuqxxfkelzfvag/600_290_0/PLO_3443.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/iblock/247/i9xgm8uiwnf619yge1h833ni3i3blp6a/PLO_3480.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/247/i9xgm8uiwnf619yge1h833ni3i3blp6a/600_290_0/PLO_3480.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/a96/18osc19ac806vvxc7mhx7ke428nsh3ky/1200_1200_1/PLO_5741.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/a96/18osc19ac806vvxc7mhx7ke428nsh3ky/600_290_0/PLO_5741.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/resize_cache/iblock/abf/1200_1200_1/IMG_6274.JPG" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/abf/600_290_0/IMG_6274.JPG">
+                    </a>
+                </div>
+                            <div class="item">
+                    <a href="/upload/iblock/c11/vpxs2hcf0197gs5v2wbemrgut343j8ya/55e349e1_2057_42ae_96e8_513b288cc473.jpg" data-fancybox="gallery">
+                        <img src="/upload/resize_cache/iblock/c11/vpxs2hcf0197gs5v2wbemrgut343j8ya/600_290_0/55e349e1_2057_42ae_96e8_513b288cc473.jpg">
+                    </a>
+                </div>
+                        </div>
+    <div class="container">
+        <div class="gallery-more-photo">
+            <a href="/about/gallery/">Больше фото</a>
+        </div>
+    </div>
+    <script>
+        $(window).load(function(){
+            $("#gallery-slider-172978407").owlCarousel({
+                loop: true,
+                autoWidth: true,
+                autoplay: true,
+                dots: false,
+                autoplaySpeed: 1000,
+                margin: 6
+            });
+        });
+    </script>
+<script>
+    $(document).ready(function(){
+        $("[data-fancybox]").fancybox();
+    });
+</script>
+			</div>
+			<div class="body">
+				         <div class="container">
+        <div class="owl-carousel video-slider" id="video-slider-488122475">
+                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239604&hd=2&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239680&hd=2&hash=443118b3be70929a&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239480&hd=2&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239467&hd=2&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239466&hd=2&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239481&hd=2&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239593&hd=2&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                                                                    <div class="item" id="bx_1970176138_">
+                        <iframe src="https://vkvideo.ru/video_ext.php?oid=-104098097&id=456239592&hd=2&autoplay=1" width="853" height="480" style="background-color: #000" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>                    </div>
+                                    </div>
+        <div class="video-more">
+            <a href="/about/gallery/?section=video">Больше видео</a>
+        </div>
+    </div>
+    <script>
+        $(window).load(function(){
+            $("#video-slider-488122475").owlCarousel({
+                items: 1,
+                dots: false,
+                nav: true
+            });
+        });
+    </script>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="faq">
+	<div class="container">
+		<div class="main-title">
+			 РУСАДА всегда рядом с честным спортом		</div>
+		<div class="text">
+			 Ознакомьтесь с основными ответами на часто задачаемые вопросы. Если вы не нашли нужного ответа, просто напишите нам через форму обратной связи, указав тему вашего вопроса.		</div>
+		<div class="row">
+			<div class="col-xs-12 col-md-7">
+				 
+<p><font class="errortext">Раздел не найден.</font></p>			</div>
+			<div class="col-xs-12 col-md-5">
+				 <div id="form-wrap-8-40075726">
+
+
+
+	<div class="b-faq-form b-faq-form_8">
+		<form method="post" action="/ajax/ask-question/" enctype="multipart/form-data" onsubmit="return askQuestion(this);">
+
+							<div class="b-faq-form_item" id="i-message-form-item-9">
+
+											<label for="i-message-form-field-9">Ваше имя <span class="required">*</span></label>
+					
+											<div class="b-faq-form_field b-faq-form_text">
+							<input id="i-message-form-field-9" class="inputtext" name="FIELD_9" type="text" value="" />
+						</div>
+					
+					
+					
+				</div>
+							<div class="b-faq-form_item" id="i-message-form-item-10">
+
+											<label for="i-message-form-field-10">Ваш e-mail <span class="required">*</span></label>
+					
+											<div class="b-faq-form_field b-faq-form_text">
+							<input id="i-message-form-field-10" class="inputtext" name="FIELD_10" type="text" value="" />
+						</div>
+					
+					
+					
+				</div>
+							<div class="b-faq-form_item" id="i-message-form-item-11">
+
+					
+											<div class="b-faq-form_field b-faq-form_dropdown">
+							<select id="i-message-form-field-11" class="select" name="FIELD_11">
+								<option>Тема</option>
+                                									<option value="16">Препараты</option>
+																	<option value="6">Другое</option>
+															</select>
+						</div>
+					
+					
+					
+				</div>
+							<div class="b-faq-form_item" id="i-message-form-item-12">
+
+											<label for="i-message-form-field-12">Ваш вопрос <span class="required">*</span></label>
+					
+											<div class="b-faq-form_field b-faq-form_textarea">
+							<textarea id="i-message-form-field-12" class="textarea" name="FIELD_12"></textarea>
+						</div>
+					
+					
+					
+				</div>
+			
+			<div class="b-faq-form_submit">
+				<input class="g-button" type="submit" value="Отправить" />
+			</div>
+
+		</form>
+	</div>
+
+    <script>
+
+        var _formBlock = $('#form-wrap-8-40075726'),
+            elements = _formBlock.find('input[type="text"], textarea'),
+            labels = _formBlock.find('label');
+
+        elements.focus(function(){
+            var _this = $(this),
+                label = _this.closest('.b-faq-form_item').find('label');
+
+            label.hide();
+        });
+
+        elements.blur(function(){
+            var _this = $(this),
+                val = _this.val(),
+                label = _this.closest('.b-faq-form_item').find('label');
+
+            if(val == ''){
+                label.show();
+            }
+
+        });
+
+        labels.click(function(){
+            var _this = $(this),
+                el = _this.closest('.b-faq-form_item').find('input[type="text"], textarea');
+
+            _this.hide();
+            el.focus();
+
+        });
+
+        _formBlock.find('select').styler();
+
+        function askQuestion(form) {
+            var _this = $(form),
+                url = _this.attr('action'),
+                data = new FormData(form);
+
+            $.ajax({
+                type: 'post',
+                url: url,
+                data: data,
+                cache: false,
+                processData: false,
+                contentType: false,
+                success: function(data){
+                    $('#form-wrap-8-40075726').replaceWith(data);
+                }
+            });
+            return false;
+        }
+    </script>
+</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="map">
+	<div class="contacts">
+		<div class="container">
+			<div class="inner">
+				 <h3>Контакты</h3>
+<table>
+<tbody>
+<tr>
+	<td>
+ <img alt="1.png" src="/upload/medialibrary/96a/1.png" title="1.png">
+	</td>
+	<td>
+		 125284, г. Москва, ул. Беговая, д. 6А
+	</td>
+</tr>
+<tr>
+	<td>
+ <img alt="2.png" src="/upload/medialibrary/207/2.png" title="2.png">
+	</td>
+	<td>
+		 +7 (499) 271-77-61 <br>
+	</td>
+</tr>
+<tr>
+	<td>
+ <img alt="3.png" src="/upload/medialibrary/d7c/3.png" title="3.png">
+	</td>
+	<td>
+ <a href="mailto:rusada@rusada.ru">rusada@rusada.ru</a>
+	</td>
+</tr>
+</tbody>
+</table>			</div>
+		</div>
+	</div>
+	<div class="map-inner">
+		 <script type="text/javascript">
+function BX_SetPlacemarks_map(map)
+{
+	if(typeof window["BX_YMapAddPlacemark"] != 'function')
+	{
+		/* If component's result was cached as html,
+		 * script.js will not been loaded next time.
+		 * let's do it manualy.
+		*/
+
+		(function(d, s, id)
+		{
+			var js, bx_ym = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "/bitrix/components/bitrix/map.yandex.view/templates/.default/script.js";
+			bx_ym.parentNode.insertBefore(js, bx_ym);
+		}(document, 'script', 'bx-ya-map-js'));
+
+		var ymWaitIntervalId = setInterval( function(){
+				if(typeof window["BX_YMapAddPlacemark"] == 'function')
+				{
+					BX_SetPlacemarks_map(map);
+					clearInterval(ymWaitIntervalId);
+				}
+			}, 300
+		);
+
+		return;
+	}
+
+	var arObjects = {PLACEMARKS:[],POLYLINES:[]};
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'37.55658635582','LAT':'55.776179394126','TEXT':''});
+}
+</script>
+<div class="bx-yandex-view-layout">
+	<div class="bx-yandex-view-map">
+		<script>
+			var script = document.createElement('script');
+			script.src = 'https://api-maps.yandex.ru/2.0/?load=package.full&mode=release&lang=ru-RU&wizard=bitrix';
+			(document.head || document.documentElement).appendChild(script);
+			script.onload = function () {
+				this.parentNode.removeChild(script);
+			};
+		</script>
+		<script type="text/javascript">
+
+if (!window.GLOBAL_arMapObjects)
+	window.GLOBAL_arMapObjects = {};
+
+function init_map()
+{
+	if (!window.ymaps)
+		return;
+
+	var node = BX("BX_YMAP_map");
+	node.innerHTML = '';
+
+	var map = window.GLOBAL_arMapObjects['map'] = new ymaps.Map(node, {
+		center: [55.776336617148, 37.554526419296],
+		zoom: 16,
+		type: 'yandex#map'
+	});
+
+	if (map.behaviors.isEnabled("scrollZoom"))
+		map.behaviors.disable("scrollZoom");
+	map.behaviors.enable("dblClickZoom");
+	map.behaviors.enable("drag");
+	if (map.behaviors.isEnabled("rightMouseButtonMagnifier"))
+		map.behaviors.disable("rightMouseButtonMagnifier");
+	if (window.BX_SetPlacemarks_map)
+	{
+		window.BX_SetPlacemarks_map(map);
+	}
+}
+
+(function bx_ymaps_waiter(){
+	if(typeof ymaps !== 'undefined')
+		ymaps.ready(init_map);
+	else
+		setTimeout(bx_ymaps_waiter, 100);
+})();
+
+
+/* if map inits in hidden block (display:none)
+*  after the block showed
+*  for properly showing map this function must be called
+*/
+function BXMapYandexAfterShow(mapId)
+{
+	if(window.GLOBAL_arMapObjects[mapId] !== undefined)
+		window.GLOBAL_arMapObjects[mapId].container.fitToViewport();
+}
+
+</script>
+<div id="BX_YMAP_map" class="bx-yandex-map" style="height: 520px; width: 100%;max-width: 100%;">загрузка карты...</div>	</div>
+</div>
+	</div>
+</div>
+ <br>                <div class="container">
+        <div class="row">
+                                        </div>
+        </div>
+        <footer>
+            <div class="container top-container">
+                <div class="row">
+                    <div class="contacts col-xs-12 col-sm-4">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="/bitrix/templates/base/img/bottom-logo.png">
+                            </a>
+                        </div>
+                        <div class="text">
+                            <span style="font-size: 18px;"></span>125284, г. Москва, ул. Беговая, д. 6А <br>
+ <br>
+ +7 (499) 271-77-61<br>
+ <br>
+ <a href="mailto:rusada@rusada.ru">rusada@rusada.ru</a>                        </div>
+                        <div class="copy">&copy; Копирование любых материалов с сайта допустимо только с разрешения правообладателя.</div>
+                        <div class="privacy-policy">
+                            <a href="/upload/medialibrary/616/policy.pdf" target="_blank"></a>
+                        </div>
+                    </div>
+                    <div class="menu col-sm-8">
+                        <div class="g-menu row">
+                            <div class="item col-xs-12 col-sm-3">
+                                
+<ul class="ul-deep-1 bottom-menu">
+
+
+			
+			
+			
+							<li class="li-deep-1 li-item-about li-deep-1-first">
+					<a href="/about/" class="a-deep-1 a-item-about a-deep-1-first">О нас<span class="ico"></span></a>
+					<ul class="ul-deep-2">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-mission li-deep-2-first">
+						<a href="/about/mission/"class="a-deep-2 a-item-about-mission a-deep-2-first">Миссия<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-controls">
+						<a href="/about/controls/"class="a-deep-2 a-item-about-controls">Органы управления<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-committees">
+						<a href="/about/committees/"class="a-deep-2 a-item-about-committees">Комитеты<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-ambassadors">
+						<a href="/about/ambassadors/"class="a-deep-2 a-item-about-ambassadors">Амбассадоры РУСАДА<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-ethics-officer">
+						<a href="/about/ethics-officer/"class="a-deep-2 a-item-about-ethics-officer">Офицер по этике<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-reports">
+						<a href="/about/reports/"class="a-deep-2 a-item-about-reports">Отчеты<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-gallery">
+						<a href="/about/gallery/"class="a-deep-2 a-item-about-gallery">Галерея<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-vacancies">
+						<a href="/about/vacancies/"class="a-deep-2 a-item-about-vacancies">Вакансии<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-documents">
+						<a href="/about/documents/"class="a-deep-2 a-item-about-documents">Документы<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-about-contacts li-deep-2-last">
+						<a href="/about/contacts/"class="a-deep-2 a-item-about-contacts a-deep-2-last">Контакты<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li class="li-deep-1 li-item-athletes li-deep-1-last">
+					<a href="/athletes/" class="a-deep-1 a-item-athletes a-deep-1-last">Спортсменам<span class="ico"></span></a>
+					<ul class="ul-deep-2">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-rights-and-obligations li-deep-2-first">
+						<a href="/athletes/rights-and-obligations/"class="a-deep-2 a-item-athletes-rights-and-obligations a-deep-2-first">Права и обязанности<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-anti-doping-rules-violations">
+						<a href="/athletes/anti-doping-rules-violations/"class="a-deep-2 a-item-athletes-anti-doping-rules-violations">Нарушение антидопинговых правил<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-online-course.ph">
+						<a href="/athletes/online-course.php"class="a-deep-2 a-item-athletes-online-course.ph">Онлайн-курс<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-testing-pools-and-location-information">
+						<a href="/athletes/testing-pools-and-location-information/"class="a-deep-2 a-item-athletes-testing-pools-and-location-information">Пулы тестирования и информация о местонахождении<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-adams">
+						<a href="/athletes/adams/"class="a-deep-2 a-item-athletes-adams">АДАМС<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-test-procedure">
+						<a href="/athletes/test-procedure/"class="a-deep-2 a-item-athletes-test-procedure">Процедура тестирования<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-disqualification-period">
+						<a href="/athletes/disqualification-period/"class="a-deep-2 a-item-athletes-disqualification-period">Период дисквалификации<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-athletes-retiremen li-deep-2-last">
+						<a href="/athletes/retirement"class="a-deep-2 a-item-athletes-retiremen a-deep-2-last">Завершение и возобновление карьеры<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+	</ul></li>
+</ul>
+
+                            </div>
+                            <div class="item col-xs-12 col-sm-3">
+                                
+<ul class="ul-deep-1 bottom-menu">
+
+
+			
+			
+			
+							<li class="li-deep-1 li-item-substances li-deep-1-first">
+					<a href="/substances/" class="a-deep-1 a-item-substances a-deep-1-first">Препараты<span class="ico"></span></a>
+					<ul class="ul-deep-2">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-substances-prohibited-list li-deep-2-first">
+						<a href="/substances/prohibited-list/"class="a-deep-2 a-item-substances-prohibited-list a-deep-2-first">Запрещенный список<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-substances-check-the-medicine-anti-doping.ph">
+						<a href="/substances/check-the-medicine/anti-doping.php"class="a-deep-2 a-item-substances-check-the-medicine-anti-doping.ph">Проверить лекарство<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-substances-tue">
+						<a href="/substances/tue/"class="a-deep-2 a-item-substances-tue">ТИ<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-substances-questions-answers li-deep-2-last">
+						<a href="/substances/questions-answers/"class="a-deep-2 a-item-substances-questions-answers a-deep-2-last">Задать вопрос<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li class="li-deep-1 li-item-doping-control li-deep-1-last">
+					<a href="/doping-control/" class="a-deep-1 a-item-doping-control a-deep-1-last">Допинг-контроль<span class="ico"></span></a>
+					<ul class="ul-deep-2">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-doping-control-testing li-deep-2-first">
+						<a href="/doping-control/testing/"class="a-deep-2 a-item-doping-control-testing a-deep-2-first">Тестирование<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-doping-control-analysis-of-samples">
+						<a href="/doping-control/analysis-of-samples/"class="a-deep-2 a-item-doping-control-analysis-of-samples">Анализ проб<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-doping-control-investigations">
+						<a href="/doping-control/investigations/"class="a-deep-2 a-item-doping-control-investigations">Расследования<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-doping-control-results-management li-deep-2-last">
+						<a href="/doping-control/results-management/"class="a-deep-2 a-item-doping-control-results-management a-deep-2-last">Обработка результатов<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+	</ul></li>
+</ul>
+
+                            </div>
+                            <div class="item col-xs-12 col-sm-3">
+                                
+<ul class="ul-deep-1 bottom-menu">
+
+
+			
+			
+			
+							<li class="li-deep-1 li-item-education li-deep-1-first">
+					<a href="/education/" class="a-deep-1 a-item-education a-deep-1-first">Просвещение<span class="ico"></span></a>
+					<ul class="ul-deep-2">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-scientific-conference-2026 li-deep-2-first">
+						<a href="/education/scientific-conference-2026/"class="a-deep-2 a-item-education-scientific-conference-2026 a-deep-2-first">Научная конференция<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-educational-programs">
+						<a href="/education/educational-programs/"class="a-deep-2 a-item-education-educational-programs">Реализуемые программы<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-online-training">
+						<a href="/education/online-training/"class="a-deep-2 a-item-education-online-training">Онлайн-курс<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-training-course-code-of-ethics-rusada">
+						<a href="/education/training-course-code-of-ethics-rusada/"class="a-deep-2 a-item-education-training-course-code-of-ethics-rusada">Курс по этике<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-ratings.ph">
+						<a href="/education/ratings.php"class="a-deep-2 a-item-education-ratings.ph">Регионы<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-for-children">
+						<a href="/education/for-children/"class="a-deep-2 a-item-education-for-children">Проект РУСАДА детям<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-materials">
+						<a href="/education/materials/"class="a-deep-2 a-item-education-materials">Памятки<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-request-an-educational-seminar">
+						<a href="/education/request-an-educational-seminar/"class="a-deep-2 a-item-education-request-an-educational-seminar">Запросить мероприятие<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-education-contact-Information li-deep-2-last">
+						<a href="/education/contact-Information/"class="a-deep-2 a-item-education-contact-Information a-deep-2-last">Контактная информация<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+					</ul></li>			
+			
+							<li class="li-deep-1 li-item-news li-deep-1-last">
+					<a href="/news/" class="a-deep-1 a-item-news a-deep-1-last">Новости<span class="ico"></span></a>
+					<ul class="ul-deep-2">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-news-dajdzhest-novostej li-deep-2-first">
+						<a href="/news/dajdzhest-novostej/"class="a-deep-2 a-item-news-dajdzhest-novostej a-deep-2-first">Дайджест новостей<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+	</ul></li>
+</ul>
+
+                            </div>
+                            <div class="item col-xs-12 col-sm-3">
+                                
+<ul class="ul-deep-1 bottom-menu">
+
+
+			
+			
+			
+							<li class="li-deep-1 li-item-documents li-deep-1-first">
+					<a href="/documents/" class="a-deep-1 a-item-documents a-deep-1-first">Документы<span class="ico"></span></a>
+					<ul class="ul-deep-2">
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-documents-dokumenty-rusada li-deep-2-first">
+						<a href="/documents/dokumenty-rusada/"class="a-deep-2 a-item-documents-dokumenty-rusada a-deep-2-first">Документы РУСАДА<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-documents-all-russian-anti-doping-rules">
+						<a href="/documents/all-russian-anti-doping-rules/"class="a-deep-2 a-item-documents-all-russian-anti-doping-rules">Общероссийские антидопинговые правила<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-documents-wada-code-and-other-international-standards">
+						<a href="/documents/wada-code-and-other-international-standards/"class="a-deep-2 a-item-documents-wada-code-and-other-international-standards">Кодекс и другие международные стандарты ВАДА<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-documents-pravila-krupnykh-sportivnykh-meropriyatiy">
+						<a href="/documents/pravila-krupnykh-sportivnykh-meropriyatiy/"class="a-deep-2 a-item-documents-pravila-krupnykh-sportivnykh-meropriyatiy">Антидопинговые правила крупных спортивных мероприятий<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-documents-normativno-pravovye-akty">
+						<a href="/documents/normativno-pravovye-akty/"class="a-deep-2 a-item-documents-normativno-pravovye-akty">Нормативно-правовые акты<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-documents-obrabotka-personalnykh-dannykh">
+						<a href="/documents/obrabotka-personalnykh-dannykh/"class="a-deep-2 a-item-documents-obrabotka-personalnykh-dannykh">Обработка персональных данных<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+			
+			
+			
+				
+									<li class="li-deep-2 li-item-documents-strategiya-raa-rusada-2024-2027 li-deep-2-last">
+						<a href="/documents/strategiya-raa-rusada-2024-2027/"class="a-deep-2 a-item-documents-strategiya-raa-rusada-2024-2027 a-deep-2-last">Стратегия РАА &quot;РУСАДА&quot; 2024-2027<span class="ico"></span></a>
+					</li>
+					
+				
+		
+	
+	
+
+
+	</ul></li>
+</ul>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="g-clear"></div>
+            </div>
+            <div class="container bottom-container">
+                <div class="subscribe-form">
+    <div class="title">Подписаться на новости РУСАДА</div>
+    <form class="form" onsubmit="return subscribe(this);">
+        <input type="text" name="email" placeholder="Ваш E-mail">
+        <button></button>
+    </form>
+</div>                <div class="social">
+    <a href="http://vk.com/rusada" target="_blank" class="vk"> <i class="icon VK"></i> </a>
+    <a
+            href="https://t.me/rusada_russia" target="_blank" class="tm"> <i class="icon TM"></i> </a>
+    </div>               <div class="developers">
+                    <div class="dev">
+                        <span>Поддержка сайта:</span>
+                        <a href="https://www.webit.ru/" target="_blank">
+                            <img width="80" src="/bitrix/templates/base/img/webit-logo.svg">
+                        </a>
+                    </div>
+                    <div class="dev">
+                        <span>Разработка сайта:</span>
+                        <a href="http://webfam.ru" target="_blank">
+                            <img width="88" src="/bitrix/templates/base/img/wf.png">
+                        </a>
+                    </div>
+               </div>
+            </div>
+        </footer>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(45731676, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/45731676" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+        <div class="preloader"></div>
+        <script>
+            window._preloader = $('.preloader');
+        </script>
+        <div class="float-social">
+            <div class="social">
+    <a href="http://vk.com/rusada" target="_blank" class="vk"> <i class="icon VK"></i> </a>
+    <a
+            href="https://t.me/rusada_russia" target="_blank" class="tm"> <i class="icon TM"></i> </a>
+    </div>        </div>
+        
+        <!-- Если нужно что попап по умлочанию был скрыт, нужно добавить класс hidden -->
+        			<div class="cookies hidden" id="cookies">
+				<span class="cookies__title">Используем файлы «cookie»</span>
+				<div class="cookies__desc">
+					<p>
+						РАА «РУСАДА» защищает персональные данные пользователей и использует файлы cookies (куки) только для персонализации сервисов, чтобы оптимизировать работу и функциональность этого сайта.
+						<br>
+						Запретить обработку cookies можно в настройках Вашего браузера.
+					</p>
+					<p>
+						Продолжая пользоваться сайтом, вы даете <a target="_blank" href="/bitrix/templates/base/files/processing-of-personal-data.pdf">Согласие на использование файлов cookies (куки)</a>. Пожалуйста ознакомьтесь с <a href="/bitrix/templates/base/files/personal-policy.pdf" target="_blank">Условиями обработки персональных данных</a> и <a href="/bitrix/templates/base/files/cookies-policy.pdf" target="_blank">Политикой cookies</a>.
+					</p>
+					<p>
+						Нажимая "Принять все", вы даете согласие на использование всех файлов cookie.
+					</p>
+				</div>
+				<div class="cookies__strip">
+					<button type="button" class="cookies__btn" id="accept-cookies" >Принять все</button>
+				</div>
+			</div>
+		    </body>
+</html>

@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-155879511-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-155879511-1');
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(98589597, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/98589597" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+            <base href="/" />
+    <meta charset="UTF-8">
+    <title>Новости спорта, фото и видео, результаты матчей - Спортивная панорама</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Результаты последних матчей по футболу, хоккею, биатлону, теннису и других соревнований. Актуальная и официальная информация со спортивных событий на сайте газеты &quot;Спортивная панорама&quot;.">
+    <!--The Open Graph protocol-->
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:url" content="https://sportpanorama.by/">
+    <meta property="og:title" content="Новости спорта, фото и видео, результаты матчей">
+    <meta property="og:image" content="https://sportpanorama.by/sharesport.jpg">
+    <meta property="og:image:height" content="1024">
+    <meta property="og:image:width" content="578">
+        <meta property="og:description" content="Результаты последних матчей по футболу, хоккею, биатлону, теннису и других соревнований. Актуальная и официальная информация со спортивных событий на сайте газеты &quot;Спортивная панорама&quot;.">
+    <meta property="og:site_name" content="Спортивная панорама">
+    <!--Favicon-->
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+    <meta name="application-name" content="Спортивная панорама" />
+    <meta name="msapplication-TileColor" content="#FFFFFF" />
+    <meta name="msapplication-TileImage" content="mstile-144x144.png" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+    <link href="/Content/site/css/styles?v=bkbiPDVMr3Ynse76ZipeU88pGW7JjP86YsAkkJvXMTI1" rel="stylesheet"/>
+
+</head>
+<body data-ng-app="clientApp">
+        <section class="top-promo expandToggle" style="background-image: url('Files/Thumbnails/basketbolisty-minska-oderzhali-chetvertuiu-pobedu-v-igrakh-chempionata-edinoi-molodezhnoi-ligi-vtb/cover.png');">
+            <header class="header search">
+                <div class="header-main">
+                    <a href="/" class="logo">
+                        <img src="/Content/site/img/logo-new.png" alt="Спортивная панорама">
+                    </a>
+                    <ul class="main-menu">
+
+                        
+
+    <li class="main-menu-item ">
+        <a href="/news">Новости спорта</a>
+    </li>
+    <li class="main-menu-item ">
+        <a href="/tourism">Внутренний туризм</a>
+    </li>
+    <li class="main-menu-item ">
+        <a href="/prof">Специалистам</a>
+    </li>
+    <li class="main-menu-item ">
+        <a href="/zozh">ЗОЖ</a>
+    </li>
+<li class="main-menu-item ">
+    <a href="/search">Поиск</a>
+    <svg class="main-menu-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12.5 12.5L14.9922 14.9922M13.5833 9.79167C13.5833 11.8857 11.8857 13.5833 9.79167 13.5833C7.69759 13.5833 6 11.8857 6 9.79167C6 7.69759 7.69759 6 9.79167 6C11.8857 6 13.5833 7.69759 13.5833 9.79167Z" stroke="" stroke-opacity="0.75" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="round" />
+    </svg>
+</li>
+                        <li class="main-menu-btn" id="menuExpand">
+                            <span class="text">МЕНЮ</span>
+                            <span class="menu-sandwich">
+                                <span class="sdw1"></span>
+                                <span class="sdw2"></span>
+                                <span class="sdw3"></span>
+                            </span>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="expand-menu">
+                    <div class="main-part">
+                        <ul class="main-menu">
+                            
+
+    <li class="main-menu-item ">
+        <a href="/news">Новости спорта</a>
+    </li>
+    <li class="main-menu-item ">
+        <a href="/tourism">Внутренний туризм</a>
+    </li>
+    <li class="main-menu-item ">
+        <a href="/prof">Специалистам</a>
+    </li>
+    <li class="main-menu-item ">
+        <a href="/zozh">ЗОЖ</a>
+    </li>
+<li class="main-menu-item ">
+    <a href="/search">Поиск</a>
+    <svg class="main-menu-icon" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12.5 12.5L14.9922 14.9922M13.5833 9.79167C13.5833 11.8857 11.8857 13.5833 9.79167 13.5833C7.69759 13.5833 6 11.8857 6 9.79167C6 7.69759 7.69759 6 9.79167 6C11.8857 6 13.5833 7.69759 13.5833 9.79167Z" stroke="" stroke-opacity="0.75" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="round" />
+    </svg>
+</li>
+                            
+                        </ul>
+                        <div class="menu-right">
+                            <ul class="cat-menu">
+                                        <li class="cat-menu-item">
+            <a href="/news/khokkei-lub">Хоккей</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/lubitelyam-biathlon">Биатлон</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/lyzhnye-gonki">Лыжные гонки</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/konkobezhnyi-sport">Конькобежный спорт</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/football">Футбол</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/plavanie">Плавание</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/drugie-vidy-amateurs">Другие виды</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/olimpic-games">Олимпиада</a>
+        </li>
+    <li>&nbsp;</li>
+        <li class="cat-menu-item">
+            <a href="/news/legkaia-atletika">Легкая атлетика</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/basketbol-lub">Баскетбол</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/velosport-lub">Велоспорт</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/f-1-am">Ф-1</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/pliazhnyi-futbol">Пляжный футбол</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/fans-turizm">Туризм</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/lubitelyam-edinobor">Единоборства</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/zimnie-vidy">Зимние виды</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/rowing">Гребля</a>
+        </li>
+
+                            </ul>
+                            <div class="footer-menu">
+                                <p>
+                                    <a href="/about" class="footer-link">О проекте</a>
+                                </p>
+                                <p>
+                                    <a href="/contacts" class="footer-link">Обратная связь</a>
+                                </p>
+                                <p>
+                                    <a href="/subscription" class="footer-link">Подписка</a>
+                                </p>
+                                <p>
+                                    <a href="/advertising" class="footer-link">Реклама</a>
+                                </p>
+                                <div class="socials">
+    
+    <a href="https://www.instagram.com/sportpanorama_by_" class="soc-link inst" target="_blank">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle r="17" fill="white" cx="18" cy="18"></circle>
+            <path d="M22.2199 9.44813C21.0996 9.41079 20.7635 9.37344 17.9627 9.37344C15.1618 9.37344 14.8257 9.37344 13.7054 9.44813C10.8672 9.56017 9.52282 10.9419 9.41079 13.7427C9.37344 14.8631 9.3361 15.1992 9.3361 18C9.3361 20.8008 9.3361 21.1369 9.41079 22.2573C9.52282 25.0581 10.8672 26.4398 13.7054 26.5519C14.8257 26.5892 15.1618 26.6266 17.9627 26.6266C20.7635 26.6266 21.0996 26.6266 22.2199 26.5519C25.0581 26.4398 26.4025 25.0581 26.5145 22.2573C26.5519 21.1369 26.5892 20.8008 26.5892 18C26.5892 15.1992 26.5892 14.8631 26.5145 13.7427C26.4025 10.9419 25.0954 9.59751 22.2199 9.44813ZM18 23.3776C15.0124 23.3776 12.6224 20.9502 12.6224 18C12.6224 15.0124 15.0498 12.6224 18 12.6224C20.9502 12.6224 23.3776 15.0498 23.3776 18C23.3776 20.9502 20.9876 23.3776 18 23.3776ZM23.6017 13.668C22.8921 13.668 22.332 13.1079 22.332 12.3983C22.332 11.6888 22.8921 11.1286 23.6017 11.1286C24.3112 11.1286 24.8714 11.6888 24.8714 12.3983C24.8714 13.0705 24.3112 13.668 23.6017 13.668ZM21.5104 18C21.5104 19.9419 19.9419 21.5104 18 21.5104C16.0581 21.5104 14.4896 19.9419 14.4896 18C14.4896 16.0581 16.0581 14.4896 18 14.4896C19.9419 14.4896 21.5104 16.0581 21.5104 18ZM18 0C8.06639 0 0 8.06639 0 18C0 27.9336 8.06639 36 18 36C27.9336 36 36 27.9336 36 18C36 8.06639 27.9336 0 18 0ZM28.4191 22.332C28.2697 26.1411 26.1411 28.2697 22.332 28.4191C21.2116 28.4564 20.8382 28.4938 18 28.4938C15.1618 28.4938 14.7884 28.4938 13.668 28.4191C9.85892 28.2697 7.73029 26.1411 7.54357 22.332C7.50622 21.2116 7.46888 20.8382 7.46888 18C7.46888 15.1618 7.46888 14.7884 7.54357 13.668C7.73029 9.85892 9.82158 7.73029 13.668 7.58091C14.7884 7.54357 15.1618 7.50622 18 7.50622C20.8382 7.50622 21.2116 7.50622 22.332 7.58091C26.1411 7.76763 28.2697 9.89627 28.4191 13.668C28.4564 14.7884 28.4938 15.1618 28.4938 18C28.4938 20.8382 28.4938 21.2116 28.4191 22.332Z" />
+        </svg>
+    </a>
+    <a href="https://t.me/sportpanoramaby" class="soc-link tg" target="_blank">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle r="17" fill="white" cx="18" cy="18"></circle>
+            <path d="M18,36C8,36,0,28,0,18S8,0,18,0s18,8,18,18S28,36,18,36z M27.5,9.7c-0.2-0.2-0.4-0.2-0.7-0.1 c-3.7,1.4-15,5.6-19.6,7.3C7,17,6.7,17.2,6.8,17.5c0,0.4,0.2,0.6,0.5,0.7c2.1,0.6,4.8,1.4,4.8,1.4s1.3,3.8,1.9,5.8 c0.1,0.2,0.3,0.4,0.5,0.5c0.2,0.1,0.5,0,0.7-0.2c1.1-1,2.7-2.5,2.7-2.5s3.1,2.3,4.9,3.5c0.2,0.2,0.6,0.2,1,0.1 c0.3-0.1,0.5-0.4,0.6-0.7c0.8-3.6,2.6-12.7,3.3-15.9C27.8,10.1,27.7,9.8,27.5,9.7z M15,21l-0.3,3.1l-1.5-4.9c0,0,6.7-4.3,10.4-6.7 c0.1-0.1,0.3,0,0.4,0.1c0.1,0.1,0.1,0.2-0.1,0.4C20.7,15.9,15,21,15,21z" />
+        </svg>
+    </a>
+    
+</div>
+                            </div>
+                            <div class="search-wrapper menu-search" data-search-wrapper data-search-mobile="true">
+                                <button class="search-close" data-search-close>
+                                    <svg width="9" height="13" viewBox="0 0 9 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M4.49221 6.36377L8.61006 2.24591L6.36396 -0.000192463L0 6.36377L6.36396 12.7277L8.61007 10.4816L4.49221 6.36377Z" fill="white" />
+                                    </svg>
+                                </button>
+                                <form class="search" data-search action="/search">
+                                    <div class="search-head">
+                                        <input class="search-input" type="text" name="text" placeholder="Поиск">
+                                        <button class="search-button search-submit" type="submit">
+                                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M12.5 12.5L14.9922 14.9922M13.5833 9.79167C13.5833 11.8857 11.8857 13.5833 9.79167 13.5833C7.69759 13.5833 6 11.8857 6 9.79167C6 7.69759 7.69759 6 9.79167 6C11.8857 6 13.5833 7.69759 13.5833 9.79167Z" stroke="" stroke-opacity="0.75" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="round" />
+                                            </svg>
+                                        </button>
+                                        <button class="search-button search-clean" type="button" data-search-clear>
+                                            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <rect width="12.1368" height="1.5" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 6.06055 14.6426)" fill="" />
+                                                <rect x="6.06055" y="5" width="12.1368" height="1.5" transform="rotate(45 6.06055 5)" fill="" />
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="info-part">
+                        <div class="info-column">
+                            <h5 class="def-headline">Главный редактор:</h5>
+                            <p class="def-content">
+                                <span>Зданович Владимир Александрович</span>
+                                
+                                <span>&nbsp;|&nbsp;</span>
+                                <a href="mailto:info@sportpanorama.by">info@sportpanorama.by</a>
+                            </p>
+                        </div>
+                        <div class="info-column">
+                            <h5 class="def-headline">Размещение рекламы:</h5>
+                            <p class="def-content">
+                                <a href="mailto:sportpanorama.by@gmail.com">sportpanorama.by@gmail.com</a>
+                            </p>
+                        </div>
+                        <div class="info-column">
+                            <h5 class="def-headline mb">Подписка:</h5>
+<form action="" class="b-subscribe-form header-menu-form" data-ng-controller="subscribeController">
+    <input name="__RequestVerificationToken" type="hidden" value="S6BIw2KlwRQLYyxT2IE00ajANHHglb_BbgcTTLOS9nUXoO7pV7dDGWU_enXuyqGoudh_A2dG_NWtL5_jix3NqRMX9SU1" />
+    <!-- .success || .error-->
+    <input class="subscribe-input" data-ng-model="email" data-val="true" data-val-email="Неверно заполнен e-mail" data-val-required="Пожалуйста, укажите e-mail" id="Email" name="Email" placeholder="Введите ваш email" type="text" value="" />
+    <input type="submit" class="b-button subscribe-submit" value="подписаться" data-ng-click="subscribe($event)"/>
+    <span class="field-validation-valid error-message" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+    <p class="success-message">Подписка оформлена! Ждите наших новостей</p>
+</form>
+
+                        </div>
+                    </div>
+                </div>
+            </header>
+            
+        <article class="main-slider slider-on">
+            <div class="main-slider-item" data-bg="url('Files/Thumbnails/basketbolisty-minska-oderzhali-chetvertuiu-pobedu-v-igrakh-chempionata-edinoi-molodezhnoi-ligi-vtb/cover.png')">
+                <a href="/news" class="b-slider-hashtag">#новости спорта</a>
+                <h2 class="b-slider-headline"><a href="/news/basketbolisty-minska-oderzhali-chetvertuiu-pobedu-v-igrakh-chempionata-edinoi-molodezhnoi-ligi-vtb">Баскетболисты &#171;МИНСКА&#187; одержали четвертую победу в играх чемпионата Единой молодежной лиги ВТБ</a></h2>
+            </div>
+            <div class="main-slider-item" data-bg="url('https://sportpanorama.by/Files/IMG_7487.jpeg')">
+                <a href="/news" class="b-slider-hashtag">#новости спорта</a>
+                <h2 class="b-slider-headline"><a href="/news/oleg-vasilev-vika-byla-ne-v-svoei-tarelke-eto-realnaia-olimpiada-i-nervy-skazalis">Олег Васильев: &#171;Вика была не в своей тарелке. Это реальная Олимпиада, и нервы сказались&#187;</a></h2>
+            </div>
+            <div class="main-slider-item" data-bg="url('https://sportpanorama.by/Files/Хоккей/A2uhY-Q4Nu7Lb3WqU9JlqhDDrVLKxBxqcjVEjz3yGKnae-jRloxjQKVDr-CbzMcJzxHlNcNy8bAlo8cSJGVxuFqz.jpeg')">
+                <a href="/news" class="b-slider-hashtag">#новости спорта</a>
+                <h2 class="b-slider-headline"><a href="/news/khokkeisty-minskogo-dinamo-na-svoem-ldu-oderzhali-pobedu-nad-spartakom-6-1">Хоккеисты минского &#171;Динамо&#187; на своем льду одержали победу над &#171;Спартаком&#187; (6:1).</a></h2>
+            </div>
+    </article>
+
+
+        </section>
+            <section class="categories-menu">
+                <ul class="cat-menu-line">
+                    
+    
+
+        <li class="cat-menu-item">
+            <a href="/news/khokkei-lub">Хоккей</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/lubitelyam-biathlon">Биатлон</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/lyzhnye-gonki">Лыжные гонки</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/konkobezhnyi-sport">Конькобежный спорт</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/football">Футбол</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/plavanie">Плавание</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/drugie-vidy-amateurs">Другие виды</a>
+        </li>
+        <li class="cat-menu-item">
+            <a href="/news/olimpic-games">Олимпиада</a>
+        </li>
+        <li class="cat-menu-item other">
+            <a id="expandMenu" href="#">Другое</a>
+        </li>
+
+
+                </ul>
+            </section>
+    <section class="main-content right-column-white-shape bottom-boxes">
+        
+
+
+
+<section class="right-side-column">
+    <section class="content-section">
+        <h2 class="b-def-headline">
+            <a href="#">
+                <span class="icon">
+                    <svg width="34" height="14" viewBox="0 0 34 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M15 0.00012207L0 7.5345V13.5813L15 6.08824V0.00012207Z" />
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M24 0.953247L11.0001 7.48299V13.5321L24 7.03812V0.953247Z" />
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M34 2.00003L24 7.02295V13.0698L34 8.07439V2.00003Z" />
+                    </svg>
+                </span>
+                Последнее
+            </a>
+        </h2>
+        
+
+<div class="content-right-column-grid">
+    <div class="l-side">
+        <div class="b-default-news-item large">
+            <a href="/news/khokkeisty-minskogo-dinamo-na-svoem-ldu-oderzhali-pobedu-nad-spartakom-6-1" class="pic">
+                <img src="Files/Thumbnails/khokkeisty-minskogo-dinamo-na-svoem-ldu-oderzhali-pobedu-nad-spartakom-6-1/A2uhY-Q4Nu7Lb3WqU9JlqhDDrVLKxBxqcjVEjz3yGKnae-jRloxjQKVDr-CbzMcJzxHlNcNy8bAlo8cSJGVxuFqz-preview650x430.jpeg" alt="Хоккеисты минского &#171;Динамо&#187; на своем льду одержали победу над &#171;Спартаком&#187; (6:1).">
+            </a>
+            <span class="news-info">
+                <span class="date">Вчера</span>
+                <a href="/news/khokkei-lub" class="hashtag">#Хоккей</a>
+            </span>
+            <a href="/news/khokkeisty-minskogo-dinamo-na-svoem-ldu-oderzhali-pobedu-nad-spartakom-6-1" class="news-headline">
+                Хоккеисты минского &#171;Динамо&#187; на своем льду одержали победу над &#171;Спартаком&#187; (6:1).
+            </a>
+            <a href="/news/khokkeisty-minskogo-dinamo-na-svoem-ldu-oderzhali-pobedu-nad-spartakom-6-1" class="news-description">
+                Убедительный реванш за недавнее поражение в Москве!
+            </a>
+        </div>
+    </div>
+    <div class="r-side">
+            <div class="with-pic-wrap">
+        <div class="b-default-news-item">
+            <a href="/news/basketbolisty-minska-oderzhali-chetvertuiu-pobedu-v-igrakh-chempionata-edinoi-molodezhnoi-ligi-vtb" class="pic">
+                <img src="Files/Thumbnails/basketbolisty-minska-oderzhali-chetvertuiu-pobedu-v-igrakh-chempionata-edinoi-molodezhnoi-ligi-vtb/tszm875sgz2vauujvi0qss0dhvmahsh8 (1)-preview300x200.jpg" alt="Баскетболисты &#171;МИНСКА&#187; одержали четвертую победу в играх чемпионата Единой молодежной лиги ВТБ">
+            </a>
+            <span class="news-info">
+                <span class="date">Вчера</span>
+                <a href="/news/basketbol-lub" class="hashtag">#Баскетбол</a>
+            </span>
+            <a href="/news/basketbolisty-minska-oderzhali-chetvertuiu-pobedu-v-igrakh-chempionata-edinoi-molodezhnoi-ligi-vtb" class="news-headline">
+                Баскетболисты &#171;МИНСКА&#187; одержали четвертую победу в играх чемпионата Единой молодежной лиги ВТБ
+            </a>
+        </div>
+            </div>
+            <div class="other-wrap">
+    <div class="b-default-news-item">
+        <span class="news-info">
+            <span class="date">Вчера</span>
+            <a href="/news/olimpic-games" class="hashtag">#Олимпиада</a>
+        </span>
+        <a href="/news/oleg-vasilev-vika-byla-ne-v-svoei-tarelke-eto-realnaia-olimpiada-i-nervy-skazalis" class="news-headline">
+            Олег Васильев: &#171;Вика была не в своей тарелке. Это реальная Олимпиада, и нервы сказались&#187;
+        </a>
+    </div>
+    <div class="b-default-news-item">
+        <span class="news-info">
+            <span class="date">Вчера</span>
+            <a href="/news/olimpic-games" class="hashtag">#Олимпиада</a>
+        </span>
+        <a href="/news/mariia-shkanova-zavershila-vystuplenie-v-slalome-olimpiade" class="news-headline">
+            Мария Шканова завершила выступление в слаломе Олимпиаде
+        </a>
+    </div>
+            </div>
+    </div>
+</div>
+
+<div class="content-three-columns-grid">
+        <div class="column">
+                    <div class="b-default-news-item">
+            <a href="/news/pereneseny-zhenskie-kvalifikatcionnye-sorevnovaniia-v-lyzhnoi-akrobatike-na-olimpiade-v-italii" class="pic">
+                <img src="Files/Thumbnails/pereneseny-zhenskie-kvalifikatcionnye-sorevnovaniia-v-lyzhnoi-akrobatike-na-olimpiade-v-italii/thumb_rect-preview300x200.png" alt="Перенесены женские квалификационные соревнования в лыжной акробатике на Олимпиаде в Италии">
+            </a>
+            <span class="news-info">
+                <span class="date">17.02.2026</span>
+                <a href="/news/fristail" class="hashtag">#Фристайл</a>
+            </span>
+            <a href="/news/pereneseny-zhenskie-kvalifikatcionnye-sorevnovaniia-v-lyzhnoi-akrobatike-na-olimpiade-v-italii" class="news-headline">
+                Перенесены женские квалификационные соревнования в лыжной акробатике на Олимпиаде в Италии
+            </a>
+        </div>
+
+        </div>
+        <div class="column">
+                    <div class="b-default-news-item">
+            <a href="/news/belorusskaia-konkobezhka-marina-zueva-ofitcialno-vystupit-v-mass-starte-olimpiiskikh-igr-v-italii" class="pic">
+                <img src="Files/Thumbnails/belorusskaia-konkobezhka-marina-zueva-ofitcialno-vystupit-v-mass-starte-olimpiiskikh-igr-v-italii/thumb_rect-preview300x200.png" alt="Белорусская конькобежка Марина Зуева официально выступит в масс-старте Олимпийских игр в Италии">
+            </a>
+            <span class="news-info">
+                <span class="date">17.02.2026</span>
+                <a href="/news/konkobezhnyi-sport" class="hashtag">#Конькобежный спорт</a>
+            </span>
+            <a href="/news/belorusskaia-konkobezhka-marina-zueva-ofitcialno-vystupit-v-mass-starte-olimpiiskikh-igr-v-italii" class="news-headline">
+                Белорусская конькобежка Марина Зуева официально выступит в масс-старте Олимпийских игр в Италии
+            </a>
+        </div>
+
+        </div>
+        <div class="column">
+                    <div class="b-default-news-item">
+            <a href="/news/v-raubichakh-proidut-otkrytyi-chempionat-i-pervenstvo-belarusi-po-biatlonu" class="pic">
+                <img src="Files/Thumbnails/v-raubichakh-proidut-otkrytyi-chempionat-i-pervenstvo-belarusi-po-biatlonu/thumb_rect-preview300x200.png" alt="В Раубичах пройдут открытый чемпионат и первенство Беларуси по биатлону">
+            </a>
+            <span class="news-info">
+                <span class="date">17.02.2026</span>
+                <a href="/news/lubitelyam-biathlon" class="hashtag">#Биатлон</a>
+            </span>
+            <a href="/news/v-raubichakh-proidut-otkrytyi-chempionat-i-pervenstvo-belarusi-po-biatlonu" class="news-headline">
+                В Раубичах пройдут открытый чемпионат и первенство Беларуси по биатлону
+            </a>
+        </div>
+
+        </div>
+</div>
+<div class="content-right-column-grid">
+    <div class="l-side">
+        <div class="b-default-news-item large">
+            <a href="/news/livino-v-snezhnom-plenu-start-zhenskoi-akrobatiki-otkladyvaetsia" class="pic">
+                <img src="Files/Thumbnails/livino-v-snezhnom-plenu-start-zhenskoi-akrobatiki-otkladyvaetsia/IMG_7444-preview650x430.jpeg" alt="Ливиньо в снежном плену: старт женской акробатики откладывается">
+            </a>
+            <span class="news-info">
+                <span class="date">17.02.2026</span>
+                <a href="/news/olimpic-games" class="hashtag">#Олимпиада</a>
+            </span>
+            <a href="/news/livino-v-snezhnom-plenu-start-zhenskoi-akrobatiki-otkladyvaetsia" class="news-headline">
+                Ливиньо в снежном плену: старт женской акробатики откладывается
+            </a>
+            <a href="/news/livino-v-snezhnom-plenu-start-zhenskoi-akrobatiki-otkladyvaetsia" class="news-description">
+                В итальянском Ливиньо разыгралась непогода. Из-за обильного снегопада организаторы вынуждены переносить старт квалификации в лыжной акробатике.
+            </a>
+        </div>
+    </div>
+    <div class="r-side">
+        <div class="wrap">
+    <div class="b-default-news-item">
+        <span class="news-info">
+            <span class="date">17.02.2026</span>
+            <a href="/news" class="hashtag">#Новости спорта</a>
+        </span>
+        <a href="/news/segodnia-chetyre-beloruski-vystupiat-na-olimpiade-v-italii" class="news-headline">
+            Сегодня четыре белоруски выступят на Олимпиаде в Италии
+        </a>
+    </div>
+    <div class="b-default-news-item">
+        <span class="news-info">
+            <span class="date">16.02.2026</span>
+            <a href="/news/tennis-am" class="hashtag">#Теннис</a>
+        </span>
+        <a href="/news/sasnovich-ustupila-v-1-32-finala-turnira-wta-v-dubae" class="news-headline">
+            Саснович уступила в 1/32 финала турнира WTA в Дубае
+        </a>
+    </div>
+        </div>
+        <div class="b-default-news-item">
+            <a href="/news/belorusskoe-dziudo-dominiruet-v-afrike-11-medalei-na-african-open" class="pic">
+                <img src="Files/Thumbnails/belorusskoe-dziudo-dominiruet-v-afrike-11-medalei-na-african-open/IMG_7412-preview300x200.jpeg" alt="Белорусское дзюдо доминирует в Африке: 11 медалей на &#171;African Open&#187;">
+            </a>
+            <span class="news-info">
+                <span class="date">16.02.2026</span>
+                <a href="/news/dziudo" class="hashtag">#дзюдо</a>
+            </span>
+            <a href="/news/belorusskoe-dziudo-dominiruet-v-afrike-11-medalei-na-african-open" class="news-headline">
+                Белорусское дзюдо доминирует в Африке: 11 медалей на &#171;African Open&#187;
+            </a>
+        </div>
+    </div>
+</div>
+
+        
+        <div class="content-right-column-grid">
+            <div class="l-side">
+        <div class="b-default-news-item large">
+            <a href="/news/sobolenko-vne-konkurentcii-sasnovich-idet-vverkh-svezhii-reiting-wta" class="pic">
+                <img src="Files/Thumbnails/sobolenko-vne-konkurentcii-sasnovich-idet-vverkh-svezhii-reiting-wta/IMG_7413-preview650x430.jpeg" alt="Соболенко — вне конкуренции, Саснович идет вверх: свежий рейтинг WTA">
+            </a>
+            <span class="news-info">
+                <span class="date">16.02.2026</span>
+                <a href="/news/tennis-am" class="hashtag">#Теннис</a>
+            </span>
+            <a href="/news/sobolenko-vne-konkurentcii-sasnovich-idet-vverkh-svezhii-reiting-wta" class="news-headline">
+                Соболенко — вне конкуренции, Саснович идет вверх: свежий рейтинг WTA
+            </a>
+            <a href="/news/sobolenko-vne-konkurentcii-sasnovich-idet-vverkh-svezhii-reiting-wta" class="news-description">
+                Опубликована обновленная версия мирового рейтинга Женской теннисной ассоциации. Наша Арина Соболенко продолжает уверенно возглавлять гонку, увеличивая отрыв от преследовательниц.
+            </a>
+        </div>
+            </div>
+            <div class="r-side">
+        <div class="b-default-news-item">
+            <a href="/news/khokkeisty-minskogo-dinamo-v-gostevom-matche-poterpeli-porazhenie-ot-spartaka-3-4" class="pic">
+                <img src="Files/Thumbnails/khokkeisty-minskogo-dinamo-v-gostevom-matche-poterpeli-porazhenie-ot-spartaka-3-4/4JFzy1ZfJ6jSGOfubgSYVr9Wd8OB7cCGG30WNpEtDgQ_TIWHMsex-OQQHt5OhjWfJwC0sXZty34g_oCsScklg8fA-preview300x200.jpeg" alt="Хоккеисты минского &#171;Динамо&#187; в гостевом матче потерпели поражение от &#171;Спартака&#187; (3:4)">
+            </a>
+            <span class="news-info">
+                <span class="date">15.02.2026</span>
+                <a href="/news/khokkei-lub" class="hashtag">#Хоккей</a>
+            </span>
+            <a href="/news/khokkeisty-minskogo-dinamo-v-gostevom-matche-poterpeli-porazhenie-ot-spartaka-3-4" class="news-headline">
+                Хоккеисты минского &#171;Динамо&#187; в гостевом матче потерпели поражение от &#171;Спартака&#187; (3:4)
+            </a>
+        </div>
+        <div class="b-default-news-item">
+            <a href="/news/vasilina-khondoshko-bronzovyi-prizer-pervogo-etapa-kubka-mira-po-sinkhronnomu-plavaniiu" class="pic">
+                <img src="Files/Thumbnails/vasilina-khondoshko-bronzovyi-prizer-pervogo-etapa-kubka-mira-po-sinkhronnomu-plavaniiu/ ыпып-preview300x200.jpg" alt="Василина Хондошко – бронзовый призер первого этапа Кубка мира по синхронному плаванию">
+            </a>
+            <span class="news-info">
+                <span class="date">15.02.2026</span>
+                <a href="/news/vodnye-vidy" class="hashtag">#Водные виды</a>
+            </span>
+            <a href="/news/vasilina-khondoshko-bronzovyi-prizer-pervogo-etapa-kubka-mira-po-sinkhronnomu-plavaniiu" class="news-headline">
+                Василина Хондошко – бронзовый призер первого этапа Кубка мира по синхронному плаванию
+            </a>
+        </div>
+            </div>
+        </div>
+        
+    </section>
+    
+    
+<aside class="right-column">
+            <h2 class="b-def-headline"><a href="/actual">Актуальное</a></h2>
+        <div class="mobile-slider">
+                <div class="b-default-news-item">
+                    <a href="/actual/kkhl/turnirnaia-tablitcakhl" class="pic">
+                        <img src="Files/Thumbnails/turnirnaia-tablitcakhl/кхл-preview470x310.jpg" alt="Турнирная таблица">
+                    </a>
+                    <span class="news-info">
+                        <a href="/actual/kkhl" class="hashtag">#КХЛ</a>
+                    </span>
+                    <a href="/actual/kkhl/turnirnaia-tablitcakhl" class="news-headline">
+                        Турнирная таблица
+                    </a>
+                </div>
+                <div class="b-default-news-item">
+                    <a href="/actual/betera-ekstraliga/turnirnaia-tablitcaliga" class="pic">
+                        <img src="Files/Thumbnails/turnirnaia-tablitcaliga/betera экстра-лига-preview470x310.jpg" alt="Турнирная таблица">
+                    </a>
+                    <span class="news-info">
+                        <a href="/actual/betera-ekstraliga" class="hashtag">#BETERA-ЭКСТРАЛИГА</a>
+                    </span>
+                    <a href="/actual/betera-ekstraliga/turnirnaia-tablitcaliga" class="news-headline">
+                        Турнирная таблица
+                    </a>
+                </div>
+            
+                <div class="b-default-news-item">
+                    <a href="/actual/atp-tour/mirovoi-reitingatp" class="pic">
+                        <img src="Files/Thumbnails/mirovoi-reitingatp/thumb_rect-preview470x310.png" alt="Мировой рейтинг">
+                    </a>
+                    <span class="news-info">
+                        <a href="/actual/atp-tour" class="hashtag">#ATP TOUR</a>
+                    </span>
+                    <a href="/actual/atp-tour/mirovoi-reitingatp" class="news-headline">
+                        Мировой рейтинг
+                    </a>
+                </div>
+                <div class="b-default-news-item">
+                    <a href="/actual/wta/mirovoi-reitingwta" class="pic">
+                        <img src="Files/Thumbnails/mirovoi-reitingwta/WTA-preview470x310.png" alt="Мировой рейтинг">
+                    </a>
+                    <span class="news-info">
+                        <a href="/actual/wta" class="hashtag">#WTA</a>
+                    </span>
+                    <a href="/actual/wta/mirovoi-reitingwta" class="news-headline">
+                        Мировой рейтинг
+                    </a>
+                </div>
+                <div class="b-default-news-item">
+                    <a href="/actual/chempionat-belarusi-vysshaia-liga/turnirnaia-tablitca-chempbel" class="pic">
+                        <img src="Files/Thumbnails/turnirnaia-tablitca-chempbel/Беларусбанк высшая лига-preview470x310.jpg" alt="Турнирная таблица">
+                    </a>
+                    <span class="news-info">
+                        <a href="/actual/chempionat-belarusi-vysshaia-liga" class="hashtag">#Чемпионат Беларуси. Высшая лига</a>
+                    </span>
+                    <a href="/actual/chempionat-belarusi-vysshaia-liga/turnirnaia-tablitca-chempbel" class="news-headline">
+                        Турнирная таблица
+                    </a>
+                </div>
+            
+        </div>
+</aside>
+</section>
+<section class="b-bottom-plates-section">
+        <div class="plate">
+                <h3 class="b-def-headline">
+        <a href="/archive">
+            <span class="icon">
+                <svg width="33" height="14" viewBox="0 0 33 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.43965 0.108894L4.50076 11.2993L9.91898 13.9839L9.88254 2.8057L4.43965 0.108894Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M13.5418 5.79357e-05L13.475 11.1905L18.8622 13.9368L18.9535 2.75888L13.5418 5.79357e-05Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M22.4705 0.000204444L22.4931 11.1908L27.902 13.894L27.904 2.71572L22.4705 0.000204444Z" />
+                </svg>
+            </span>
+            архив
+        </a>
+    </h3>
+    <div class="b-archive">
+        <div class="side" style="background-image: url('https://sportpanorama.by/Files/архив 2026/arena-0112.jpg')"></div>
+        <div class="side">
+            <div class="info">
+                <span class="date">6 февраля</span>
+                <span class="num">№10</span>
+            </div>
+            
+            <a href="https://sportpanorama.by/Files/архив 2026/10.pdf" target="_blank" class="archive-headline">
+                Милан зовет
+            </a>
+
+            
+
+            <a href="https://sportpanorama.by/Files/архив 2026/10.pdf" class="b-button download" target="_blank">скачать pdf</a>
+        </div>
+    </div>
+
+        </div>
+    <div class="plate">
+        <h3 class="b-def-headline">
+    <span class="icon">
+        <svg width="34" height="18" viewBox="0 0 34 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M10 6.01172L0 11.0346V17.0815L10 12.0861V6.01172Z"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M22 0L12 5.02292V11.0697L22 6.07436V0Z"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M34 5.5L24 10.5229V16.5697L34 11.5744V5.5Z"></path>
+        </svg>
+    </span>
+    подписка
+</h3>
+<div class="b-subscription" data-ng-controller="subscribeController">
+    <form action="" class="b-subscribe-form">
+        <input name="__RequestVerificationToken" type="hidden" value="_piq7WmFx_m9IZkGV024iotkhP141Ylv1id2T-8GoW5_5zVokoON3KhaGkbLEGAg9F768LmKzmesXDO-8Wf_aWon0g81" />
+        <!-- .success || .error-->
+        <input class="subscribe-input" data-ng-model="email" data-val="true" data-val-email="Неверно заполнен e-mail" data-val-required="Пожалуйста, укажите e-mail" id="Email" name="Email" placeholder="Введите ваш email" type="text" value="" />
+        <input type="submit" class="b-button subscribe-submit" value="подписаться" data-ng-click="subscribe($event)" />
+        <span class="field-validation-valid error-message" data-valmsg-for="Email" data-valmsg-replace="true"></span>
+        <p class="success-message">Подписка оформлена! Ждите наших новостей</p>
+    </form>
+</div>
+    </div>
+</section>
+
+
+
+
+    </section>
+    
+
+    
+        <section class="wide-content-section">
+            <section class="b-wide-article" style="background-image: url('https://sportpanorama.by/Files/sections/sportsfans/fans-2.jpg')">
+                <div class="wide-article-content">
+                    <div class="article-link-wrap">
+                        <a href="/news" class="article-name">Новости спорта</a>
+                        <div class="article-description">
+                                <p>Хоккеисты минского &#171;Динамо&#187; на своем льду одержали победу над &#171;Спартаком&#187; (6:1).</p>
+                                <p>Баскетболисты &#171;МИНСКА&#187; одержали четвертую победу в играх чемпионата Единой молодежной лиги ВТБ</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </section>
+
+    <footer class="footer">
+        <section class="footer-top">
+            <div class="footer-top-content">
+                <div class="left-content">
+                    <div class="copy">
+                        &copy; 2019 - 2026 «Спортивная панорама»
+                    </div>
+                    <div class="licence">
+                        <p>Учреждение "Редакция газеты "Спортивная Панорама". УНП 100897481. Режим оказания услуг - круглосуточно.</p>
+                        <p>220004, Беларусь, Минск, проспект Победителей 23/1, пом. 904</p>
+                        
+                    </div>
+                </div>
+                <div class="info-column menu">
+                    <p>
+                        <a href="/about" class="footer-link">О проекте</a>
+                    </p>
+                    <p>
+                        <a href="/contacts" class="footer-link">Обратная связь</a>
+                    </p>
+                    <p>
+                        <a href="/subscription" class="footer-link">Подписка</a>
+                    </p>
+                    <p>
+                        <a href="/advertising" class="footer-link">Реклама</a>
+                    </p>
+                    <div class="socials">
+    
+    <a href="https://www.instagram.com/sportpanorama_by_" class="soc-link inst" target="_blank">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle r="17" fill="white" cx="18" cy="18"></circle>
+            <path d="M22.2199 9.44813C21.0996 9.41079 20.7635 9.37344 17.9627 9.37344C15.1618 9.37344 14.8257 9.37344 13.7054 9.44813C10.8672 9.56017 9.52282 10.9419 9.41079 13.7427C9.37344 14.8631 9.3361 15.1992 9.3361 18C9.3361 20.8008 9.3361 21.1369 9.41079 22.2573C9.52282 25.0581 10.8672 26.4398 13.7054 26.5519C14.8257 26.5892 15.1618 26.6266 17.9627 26.6266C20.7635 26.6266 21.0996 26.6266 22.2199 26.5519C25.0581 26.4398 26.4025 25.0581 26.5145 22.2573C26.5519 21.1369 26.5892 20.8008 26.5892 18C26.5892 15.1992 26.5892 14.8631 26.5145 13.7427C26.4025 10.9419 25.0954 9.59751 22.2199 9.44813ZM18 23.3776C15.0124 23.3776 12.6224 20.9502 12.6224 18C12.6224 15.0124 15.0498 12.6224 18 12.6224C20.9502 12.6224 23.3776 15.0498 23.3776 18C23.3776 20.9502 20.9876 23.3776 18 23.3776ZM23.6017 13.668C22.8921 13.668 22.332 13.1079 22.332 12.3983C22.332 11.6888 22.8921 11.1286 23.6017 11.1286C24.3112 11.1286 24.8714 11.6888 24.8714 12.3983C24.8714 13.0705 24.3112 13.668 23.6017 13.668ZM21.5104 18C21.5104 19.9419 19.9419 21.5104 18 21.5104C16.0581 21.5104 14.4896 19.9419 14.4896 18C14.4896 16.0581 16.0581 14.4896 18 14.4896C19.9419 14.4896 21.5104 16.0581 21.5104 18ZM18 0C8.06639 0 0 8.06639 0 18C0 27.9336 8.06639 36 18 36C27.9336 36 36 27.9336 36 18C36 8.06639 27.9336 0 18 0ZM28.4191 22.332C28.2697 26.1411 26.1411 28.2697 22.332 28.4191C21.2116 28.4564 20.8382 28.4938 18 28.4938C15.1618 28.4938 14.7884 28.4938 13.668 28.4191C9.85892 28.2697 7.73029 26.1411 7.54357 22.332C7.50622 21.2116 7.46888 20.8382 7.46888 18C7.46888 15.1618 7.46888 14.7884 7.54357 13.668C7.73029 9.85892 9.82158 7.73029 13.668 7.58091C14.7884 7.54357 15.1618 7.50622 18 7.50622C20.8382 7.50622 21.2116 7.50622 22.332 7.58091C26.1411 7.76763 28.2697 9.89627 28.4191 13.668C28.4564 14.7884 28.4938 15.1618 28.4938 18C28.4938 20.8382 28.4938 21.2116 28.4191 22.332Z" />
+        </svg>
+    </a>
+    <a href="https://t.me/sportpanoramaby" class="soc-link tg" target="_blank">
+        <svg width="36" height="36" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle r="17" fill="white" cx="18" cy="18"></circle>
+            <path d="M18,36C8,36,0,28,0,18S8,0,18,0s18,8,18,18S28,36,18,36z M27.5,9.7c-0.2-0.2-0.4-0.2-0.7-0.1 c-3.7,1.4-15,5.6-19.6,7.3C7,17,6.7,17.2,6.8,17.5c0,0.4,0.2,0.6,0.5,0.7c2.1,0.6,4.8,1.4,4.8,1.4s1.3,3.8,1.9,5.8 c0.1,0.2,0.3,0.4,0.5,0.5c0.2,0.1,0.5,0,0.7-0.2c1.1-1,2.7-2.5,2.7-2.5s3.1,2.3,4.9,3.5c0.2,0.2,0.6,0.2,1,0.1 c0.3-0.1,0.5-0.4,0.6-0.7c0.8-3.6,2.6-12.7,3.3-15.9C27.8,10.1,27.7,9.8,27.5,9.7z M15,21l-0.3,3.1l-1.5-4.9c0,0,6.7-4.3,10.4-6.7 c0.1-0.1,0.3,0,0.4,0.1c0.1,0.1,0.1,0.2-0.1,0.4C20.7,15.9,15,21,15,21z" />
+        </svg>
+    </a>
+    
+</div>
+                </div>
+                <div class="info-column add">
+                    <h5 class="def-headline">Размещение рекламы:</h5>
+                    <p class="def-content">
+                        <a href="mailto:sportpanorama.by@gmail.com">sportpanorama.by@gmail.com</a>
+                    </p>
+                </div>
+                <div class="info-column main-editor">
+                    <h5 class="def-headline">Главный редактор:</h5>
+                    <p class="def-content">
+                        <span>Зданович Владимир Александрович</span>
+                         <br>
+                        <a href="mailto:info@sportpanorama.by">info@sportpanorama.by</a>
+                    </p>
+                </div>
+            </div>
+            <div class="footer-top-partners">
+                
+            </div>
+        </section>
+        <section class="footer-bottom">
+            <a href="https://pras.by" target="_blank" class="made-by">
+                <svg width="85" height="21" viewBox="0 0 85 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M77.8934 20.4249C81.6792 20.4249 84.7482 17.2948 84.7482 13.4337C84.7482 9.57249 81.6792 6.44238 77.8934 6.44238C74.1076 6.44238 71.0386 9.57249 71.0386 13.4337C71.0386 17.2948 74.1076 20.4249 77.8934 20.4249Z" />
+                    <path d="M56.2232 6.46982C56.7614 4.73644 58.3759 3.4653 60.2454 3.4653H68.1199C68.8281 3.4653 69.3946 2.88751 69.3946 2.16527C69.3946 1.44303 68.8281 0.865234 68.1199 0.865234H60.2454C56.5064 0.865234 53.4756 3.95642 53.4756 7.76985V9.06988H66.647C66.1088 10.861 64.4659 12.1611 62.6248 12.1611H54.7786C54.0704 12.1611 53.5039 12.7389 53.5039 13.4611C53.5039 14.1833 54.0704 14.7611 54.7786 14.7611H62.6248C66.3637 14.7611 69.3946 11.6122 69.3946 7.76985V6.46982H56.2232Z" />
+                    <path d="M45.0349 0.865234H42.6839C38.9449 0.865234 35.8857 3.95642 35.8857 7.76985V13.49C35.8857 14.2122 36.4523 14.79 37.1604 14.79C37.8685 14.79 38.435 14.2122 38.435 13.49V9.06988H49.2554V13.49C49.2554 14.2122 49.8219 14.79 50.5301 14.79C51.2382 14.79 51.8047 14.2122 51.8047 13.49V7.76985C51.8047 3.95642 48.7739 0.865234 45.0349 0.865234ZM38.6333 6.46982C39.1715 4.73644 40.7861 3.4653 42.6556 3.4653H45.0066C46.9044 3.4653 48.4906 4.73644 49.0288 6.46982H38.6333Z" />
+                    <path d="M34.2427 7.76985C34.2427 3.95642 31.2119 0.865234 27.4729 0.865234H25.1219C21.3829 0.865234 18.3237 3.95642 18.3237 7.76985V13.49C18.3237 14.2122 18.8902 14.79 19.5984 14.79C20.3065 14.79 20.873 14.2122 20.873 13.49V9.06988H25.4335L32.175 14.5011C32.4016 14.7034 32.6848 14.79 32.9681 14.79C33.3363 14.79 33.7045 14.6167 33.9595 14.2989C34.3844 13.75 34.2994 12.9122 33.7612 12.4789L29.5407 9.06988H34.2427V7.76985ZM21.0713 6.46982C21.6095 4.73644 23.2241 3.4653 25.1219 3.4653H27.4729C29.3707 3.4653 30.957 4.73644 31.4951 6.46982H21.0713Z" />
+                    <path d="M9.88257 0.865234H2.03637C1.32823 0.865234 0.761719 1.44303 0.761719 2.16527C0.761719 2.88751 1.32823 3.4653 2.03637 3.4653H9.88257C11.7804 3.4653 13.3666 4.73644 13.9048 6.46982H3.25437H0.761719V13.49C0.761719 14.2122 1.32823 14.79 2.03637 14.79C2.74451 14.79 3.31102 14.2122 3.31102 13.49V9.06988H16.6807V7.76985C16.6807 3.95642 13.6215 0.865234 9.88257 0.865234Z" />
+                </svg>
+            </a>
+            <span class="made-by">
+                <span>
+                    <a href="https://pras.by/ru/solutions/portals" target="_blank"><span>Разработка спортивного портала</span></a><span>—</span><a href="https://pras.by" target="_blank"><span>компания PRAS</span></a>
+                </span>
+            </span>
+        </section>
+    </footer>
+    <script src="/bundles/jquery?v=8Oos0avDZyPg-cbyVzvkIfERIE1DGSe3sRQdCSYrgEQ1"></script>
+
+    <script src="/bundles/jqueryval?v=Oaipzkoagm3IXeNi2xAv94Z9A4qZD_zgQ2Gu1c5GeQo1"></script>
+
+    <script src="/bundles/scripts?v=ZlzHa0udfihoJ9avCLrDwJDWT4YPMkPQFMEL9v6OwOA1"></script>
+
+    <script src="/bundles/angular-client?v=Z18H7lrQupfXsWFfNUid4NW5G3ipcqLvfcyjEcNYBy01"></script>
+
+    
+</body>
+</html>

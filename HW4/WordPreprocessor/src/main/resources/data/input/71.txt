@@ -1,0 +1,1490 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+	<title>Федерация Хоккея России</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/local/components/tournament/nextprev-matches.widget/templates/.default/style.css?17665589343073" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/fhr/src/css/bootstrap.min.css?150237359466710" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/fhr/css/styles.css?1523016234312113" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/fhr/css/fhr.css?163671874510454" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/fhr/template_styles.css?17509473664100" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript" src="/local/templates/fhr/src/js/modernizr.js?14981639807177"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/jquery.js?149816398085580"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/bootstrap.min.js?149816398019560"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/jquery.fancybox.min.js?149816398043150"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/slick.min.js?149816398041953"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/jquery.maskedinput.min.js?14981639804324"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/jquery.autocomplete.min.js?149816398013098"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/bootstrap-datepicker.min.js?149816398032825"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/locales/bootstrap-datepicker.ru.js?1498163980892"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/chosen.jquery.min.js?149816398028456"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/starwars.js?14981639809625"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/jquery.mCustomScrollbar.concat.min.js?149816398045479"></script>
+<script type="text/javascript" src="/local/templates/fhr/js/jquery.form.min.js?150159845315248"></script>
+<script type="text/javascript" src="/local/templates/fhr/js/jquery.validate.min.js?150159811523070"></script>
+<script type="text/javascript" src="/local/templates/fhr/src/js/user.js?172711216412107"></script>
+<script type="text/javascript" src="/local/templates/fhr/js/fhr.js?17401605654308"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "aca5efb5df0470105b34933191b37880"]); _ba.push(["host", "fhr.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+	<script src="https://use.fontawesome.com/d5d0a4f9c3.js"></script>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/local/templates/fhr/images/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/local/templates/fhr/images/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/local/templates/fhr/images/favicon/favicon-16x16.png">
+		<link rel="mask-icon" href="/local/templates/fhr/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#ffffff">
+    <script src="https://smartcaptcha.yandexcloud.net/captcha.js" defer></script>
+
+    <script type="text/javascript">
+        (function() {
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = 'https://tracking.datadrivenpromotion.com/tracking/counter?condition=ZG9tYWluPXNwYi5rYXNzaXIucnUmaWQ9MjY0&document_url='+ encodeURIComponent(document.URL);
+            var d = document.getElementsByTagName('script')[0];
+            d.parentNode.insertBefore(s, d);
+        })();
+    </script>
+</head>
+<body>
+	<div id="bxpanel"></div>
+
+	<div class="header">
+					<div class="logo"></div>
+		
+		<form class="header-search" method="get" action="/search/">
+			<div class="header-search-content">
+				<button type="submit" class="search-icon"></button>
+				<input type="text" class="search-input" name="q" placeholder="Поиск по сайту" value="" />
+				<a href="#" class="search-close search-toggle">&times;</a>
+			</div>
+		</form>
+
+		<div class="header-top">
+			<ul class="header-top-menu">
+				<li><a href="https://www.minsport.gov.ru/" target="_blank">Минспорт</a></li>
+<li><a href="http://www.iihf.com/" target="_blank">ИИХФ</a></li>
+<li><a href="http://www.khl.ru/" target="_blank">КХЛ</a></li>
+<li><a href="http://www.vhlru.ru/" target="_blank">ВХЛ</a></li>
+<li><a href="http://whl.khl.ru/" target="_blank">ЖХЛ</a></li>
+<li><a href="http://mhl.khl.ru/" target="_blank">МХЛ</a></li>
+<li><a href="http://nmhl.fhr.ru/" target="_blank">НМХЛ</a></li>
+<li><a href="http://shlru.ru/" target="_blank">СХЛ</a></li>
+<li><a href="https://junior.fhr.ru/" target="_blank">ДЮС</a></li>
+<li><a href="https://играйвроссии.рф" target="_blank">ИВР</a></li>
+<li><a href="https://xhl.ru/" target="_blank">XHL.ru</a></li>
+<li><a href="https://vks.fhr.ru/" target="_blank">ВКС</a></li>				<li class="menu-socials">
+					<a href="https://vk.com/fhr" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>
+<!--<a href="https://www.facebook.com/Russiahockey/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>-->
+<a href="https://twitter.com/russiahockey" target="_blank"  class="menu-socials__twitter">
+    <svg width="12px" height="12px" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" />
+    </svg>
+</a>
+<a href="https://ok.ru/russiahockey" target="_blank"><i class="fa fa-odnoklassniki" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/c/RussiaHockey" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+<!--<a href="https://www.instagram.com/russiahockey/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
+
+    <a href="https://vb.me/russia_hockey_pw"  target="_blank" >
+        <span class="menu-socials__viber">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 631.99 666.43"  width="17px" height="17px">
+                    <defs>
+                        <style>
+                            .viber-1{fill:#fff;}.viber-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:16.86px;}
+                        </style>
+                    </defs>
+                    <path class="viber-1"
+                          d="M560.65,65C544.09,49.72,477.17,1.14,328.11.48c0,0-175.78-10.6-261.47,68C18.94,116.19,2.16,186,.39,272.55S-3.67,521.3,152.68,565.28l.15,0-.1,67.11s-1,27.17,16.89,32.71c21.64,6.72,34.34-13.93,55-36.19,11.34-12.22,27-30.17,38.8-43.89,106.93,9,189.17-11.57,198.51-14.61,21.59-7,143.76-22.65,163.63-184.84C646.07,218.4,615.64,112.66,560.65,65Zm18.12,308.58C562,509,462.91,517.51,444.64,523.37c-7.77,2.5-80,20.47-170.83,14.54,0,0-67.68,81.65-88.82,102.88-3.3,3.32-7.18,4.66-9.77,4-3.64-.89-4.64-5.2-4.6-11.5.06-9,.58-111.52.58-111.52s-.08,0,0,0C38.94,485.05,46.65,347,48.15,274.71S63.23,143.2,103.57,103.37c72.48-65.65,221.79-55.84,221.79-55.84,126.09.55,186.51,38.52,200.52,51.24C572.4,138.6,596.1,233.91,578.77,373.54Z"/>
+                    <path class="viber-2" d="M389.47,268.77q-2.46-49.59-50.38-52.09"/>
+                    <path class="viber-2" d="M432.72,283.27q1-46.2-27.37-77.2c-19-20.74-45.3-32.16-79.05-34.63"/>
+                    <path class="viber-2" d="M477,300.59q-.61-80.17-47.91-126.28t-117.65-46.6"/>
+                    <path class="viber-1"
+                          d="M340.76,381.68s11.85,1,18.23-6.86l12.44-15.65c6-7.76,20.48-12.71,34.66-4.81A366.67,366.67,0,0,1,437,374.1c9.41,6.92,28.68,23,28.74,23,9.18,7.75,11.3,19.13,5.05,31.13,0,.07-.05.19-.05.25a129.81,129.81,0,0,1-25.89,31.88c-.12.06-.12.12-.23.18q-13.38,11.18-26.29,12.71a17.39,17.39,0,0,1-3.84.24,35,35,0,0,1-11.18-1.72l-.28-.41c-13.26-3.74-35.4-13.1-72.27-33.44a430.39,430.39,0,0,1-60.72-40.11,318.31,318.31,0,0,1-27.31-24.22l-.92-.92-.92-.92h0l-.92-.93c-.31-.3-.61-.61-.92-.92a318.31,318.31,0,0,1-24.22-27.31,430.83,430.83,0,0,1-40.11-60.71c-20.34-36.88-29.7-59-33.44-72.28l-.41-.28a35,35,0,0,1-1.71-11.18,16.87,16.87,0,0,1,.23-3.84Q141,181.42,152.12,168c.06-.11.12-.11.18-.23a129.53,129.53,0,0,1,31.88-25.88c.06,0,.18-.06.25-.06,12-6.25,23.38-4.13,31.12,5,.06.06,16.11,19.33,23,28.74a366.67,366.67,0,0,1,19.74,30.94c7.9,14.17,2.95,28.68-4.81,34.66l-15.65,12.44c-7.9,6.38-6.86,18.23-6.86,18.23S254.15,359.57,340.76,381.68Z"/>
+                </svg>
+
+        </span>
+
+    </a>
+
+
+        <a href="https://t.me/rusicehockey"  target="_blank" >
+      <span class="menu-socials__telegram">
+        <svg fill="#000000" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 30 30" width="20px" height="20px"><path d="M 25.154297 3.984375 C 24.829241 3.998716 24.526384 4.0933979 24.259766 4.2011719 C 24.010014 4.3016357 23.055766 4.7109106 21.552734 5.3554688 C 20.048394 6.0005882 18.056479 6.855779 15.931641 7.7695312 C 11.681964 9.5970359 6.9042108 11.654169 4.4570312 12.707031 C 4.3650097 12.746607 4.0439208 12.849183 3.703125 13.115234 C 3.3623292 13.381286 3 13.932585 3 14.546875 C 3 15.042215 3.2360676 15.534319 3.5332031 15.828125 C 3.8303386 16.121931 4.144747 16.267067 4.4140625 16.376953 C 5.3912284 16.775666 8.4218473 18.015862 8.9941406 18.25 C 9.195546 18.866983 10.29249 22.222526 10.546875 23.044922 C 10.714568 23.587626 10.874198 23.927519 11.082031 24.197266 C 11.185948 24.332139 11.306743 24.45034 11.453125 24.542969 C 11.511635 24.579989 11.575789 24.608506 11.640625 24.634766 L 11.644531 24.636719 C 11.659471 24.642719 11.67235 24.652903 11.6875 24.658203 C 11.716082 24.668202 11.735202 24.669403 11.773438 24.677734 C 11.925762 24.726927 12.079549 24.757812 12.216797 24.757812 C 12.80196 24.757814 13.160156 24.435547 13.160156 24.435547 L 13.181641 24.419922 L 16.191406 21.816406 L 19.841797 25.269531 C 19.893193 25.342209 20.372542 26 21.429688 26 C 22.057386 26 22.555319 25.685026 22.875 25.349609 C 23.194681 25.014192 23.393848 24.661807 23.478516 24.21875 L 23.478516 24.216797 C 23.557706 23.798129 26.921875 6.5273437 26.921875 6.5273438 L 26.916016 6.5507812 C 27.014496 6.1012683 27.040303 5.6826405 26.931641 5.2695312 C 26.822973 4.8564222 26.536648 4.4608905 26.181641 4.2480469 C 25.826669 4.0352506 25.479353 3.9700339 25.154297 3.984375 z M 24.966797 6.0742188 C 24.961997 6.1034038 24.970391 6.0887279 24.962891 6.1230469 L 24.960938 6.1347656 L 24.958984 6.1464844 C 24.958984 6.1464844 21.636486 23.196371 21.513672 23.845703 C 21.522658 23.796665 21.481573 23.894167 21.439453 23.953125 C 21.379901 23.91208 21.257812 23.859375 21.257812 23.859375 L 21.238281 23.837891 L 16.251953 19.121094 L 12.726562 22.167969 L 13.775391 17.96875 C 13.775391 17.96875 20.331562 11.182109 20.726562 10.787109 C 21.044563 10.471109 21.111328 10.360953 21.111328 10.251953 C 21.111328 10.105953 21.035234 10 20.865234 10 C 20.712234 10 20.506484 10.14875 20.396484 10.21875 C 18.963383 11.132295 12.671823 14.799141 9.8515625 16.439453 C 9.4033769 16.256034 6.2896636 14.981472 5.234375 14.550781 C 5.242365 14.547281 5.2397349 14.548522 5.2480469 14.544922 C 7.6958673 13.491784 12.47163 11.434667 16.720703 9.6074219 C 18.84524 8.6937992 20.838669 7.8379587 22.341797 7.1933594 C 23.821781 6.5586849 24.850125 6.1218894 24.966797 6.0742188 z"/></svg>
+      </span>
+</a>
+
+
+				</li>
+				<li><a href="/business/">Партнеры</a></li>
+<!--<li><a href="/hockey-of-russia/licensing/">Лицензирование</a></li>-->
+<!--<li><a href="https://redmachine.ru/shops/" target="_blank">Магазины</a></li>-->
+<li><a href="/hockey-of-russia/contacts/">Контакты</a></li>			</ul>
+			<div class="header-top-ctrls">
+				<!--a href="#" class="auth-link">Вход</a-->
+				<a href="http://en.fhr.ru/" class="switch-lang">en</a>			</div>
+		</div>
+
+		<div class="header-bottom">
+			<button class="menu-toggle"><span></span></button>
+			<div class="header-bottom-ctrls">
+				<a href="#" class="search-icon search-toggle"></a>
+				<a href="https://redmachine.ru" class="cart-icon"   target="_blank"></a>
+					<a href="https://widget.kassir.ru/?type=A&key=c3c713e7-5509-bf7d-b0e6-f204ee5ea583&domain=msk.kassir.ru&id=247345"  class="tickets-icon hidden-lg hidden-md" id="_ticket_link"  target="_blank"></a>
+<script>
+	
+/* 	$("#_ticket_link").on("click",function(event) {
+		var w = 800;
+		var h = 600
+		 var y = window.top.outerHeight / 2 + window.top.screenY - ( h / 2);
+         var x = window.top.outerWidth / 2 + window.top.screenX - ( w / 2);
+	
+	
+		window.open("https://widget.kassir.ru/?type=A&key=c3c713e7-5509-bf7d-b0e6-f204ee5ea583&domain=msk.kassir.ru&id=247345", "",  "location=no,width="+w+",height="+h+",scrollbars=yes,top="+y+",left="+x+",resizable = no");
+		return false;
+	});  */
+</script>
+
+			</div>
+
+			
+<!--<script src="https://msk.kassir.ru/start-frame.js"></script>-->
+<script src="https://widget.kassir.ru/summoner/summoner.es.js"></script>
+	<ul class="header-bottom-menu">
+					<li>
+			
+				<div class="dropdown">
+					<a href="/news/" class="touch-link" data-toggle="dropdown">Новости</a>
+					<a  href="/news/"  class="no-touch-link ">Новости</a>
+					<div class="dropdown-menu">
+						<ul class="dropdown-menu-list">													
+															<li><a href="/news/"   >Все новости</a></li>
+															<li><a href="/news/main/"   >Главная тема</a></li>
+															<li><a href="/news/medicine/"   >Медицина</a></li>
+															<li><a href="/news/legends/"   >Наши легенды</a></li>
+															<li><a href="/news/nppkh/"   >НППХ</a></li>
+															<li><a href="/news/interview/"   >Прямая речь</a></li>
+															<li><a href="/news/khokkey-v-shkolu/"   >Хоккей в школу</a></li>
+															<li><a href="/news/amateur-khokkey/"   >Массовый хоккей</a></li>
+															<li><a href="/news/istorii-legend-khokkeya/"   >Истории легенд хоккея</a></li>
+															<li><a href="/media/photo/"   >Фото</a></li>
+															<li><a href="/media/video/"   >Видео</a></li>
+															<li><a href="/news/accreditation/"   >Аккредитация</a></li>
+														
+						</ul>
+					</div>
+				</div>
+
+						</li>
+					<li>
+			
+				<a  href="/matchcenter/"    >Матч-центр                </a>
+
+
+						</li>
+					<li>
+			
+				<div class="dropdown">
+					<a href="/hockey-of-russia/red-machine/" class="touch-link" data-toggle="dropdown">Красная машина</a>
+					<a  href="#"  class="no-touch-link ">Красная машина</a>
+					<div class="dropdown-menu">
+						<ul class="dropdown-menu-list">													
+															<li><a href="/news/nppkh/"   >НППХ</a></li>
+															<li><a href="/red-machine/hockey-in-school/"   >Хоккей в школу</a></li>
+														
+						</ul>
+					</div>
+				</div>
+
+						</li>
+					<li>
+			
+				<div class="dropdown">
+					<a href="/history-of-hockey/" class="touch-link" data-toggle="dropdown">История хоккея</a>
+					<a  href="#"  class="no-touch-link ">История хоккея</a>
+					<div class="dropdown-menu">
+						<ul class="dropdown-menu-list">													
+															<li><a href="/olympics/"   >Олимпийские игры</a></li>
+															<li><a href="/country-chempionats/"   >Чемпионаты страны</a></li>
+															<li><a href="/world-championship/"   >Чемпионаты мира</a></li>
+															<li><a href="https://75.fhr.ru/"   target="_blank">75 лет</a></li>
+															<li><a href="https://summitseries72.fhr.ru/"   target="_blank">50 лет Суперсерии-72</a></li>
+														
+						</ul>
+					</div>
+				</div>
+
+						</li>
+					<li>
+			
+				<div class="dropdown">
+					<a href="/hockey-of-russia/" class="touch-link" data-toggle="dropdown">ФХР</a>
+					<a  href="#"  class="no-touch-link ">ФХР</a>
+					<div class="dropdown-menu">
+						<ul class="dropdown-menu-list">													
+															<li><a href="/hockey-of-russia/goals-and-objectives/"   >Цели и задачи</a></li>
+															<li><a href="/hockey-of-russia/direction/"   >Руководство</a></li>
+															<li><a href="/hockey-of-russia/structure/"   >Структура</a></li>
+															<li><a href="/hockey-of-russia/docs/"   >Документы</a></li>
+															<li><a href="/hockey-of-russia/theory-methodology/"   >Теория и методика</a></li>
+															<li><a href="/hockey-of-russia/trainer-sertification/"   >Сертификация тренеров</a></li>
+															<li><a href="/hockey-of-russia/innovation-program/"   >Инновационная программа</a></li>
+															<li><a href="/reestr-lig/"   >Реестр лиг</a></li>
+															<li><a href="/hockey-of-russia/contacts/"   >Контакты</a></li>
+														
+						</ul>
+					</div>
+				</div>
+
+						</li>
+					<li>
+			
+				<a  href="/antidoping/#"    >Антидопинг                </a>
+
+
+						</li>
+					<li>
+			
+				<a  href="https://widget.kassir.ru/?type=S&key=01b286a8-e09e-a02c-a746-1c74223a5829&domain=msk.kassir.ru&id=10814"  style="color:#d52b1e;" id="ticket_link_menu" target="_blank"     >Билеты                </a>
+
+
+						</li>
+				                    <li class="header-bottom-menu--hotline" style="display: inline-block" >
+                <a href="/hotline/"><img src="/local/templates/fhr/images/hotline/hotline0.png" style="height:30px"/></a>
+            </li>
+
+            <li class="header-bottom-menu--hotline" style="display: none" >
+                <a href="https://msk.kassir.ru/frame/entry/index?key=078682d3-26a8-acba-dd9c-951b34364239&type=A&id=13481736" id="_ticket_link_menu"><img src="/local/templates/fhr/images/ticket_button.png" style="height:30px"/></a>
+            </li>
+            <li class="header-bottom-menu--translation" style="display: none">
+                <a href="/news/item/84413/"><img src="/local/templates/fhr/images/translations.png" style="height:30px"/></a>
+            </li>
+        	</ul>
+
+<script>
+
+ 	$("#ticket_link_menu").on("click",function(event) {
+      //  event.preventDefault();
+                /*window.kassirWidget.summon({
+            url: 'https://widget.kassir.ru/?type=A&key=5877737a-f094-d263-8dc2-15df3359fce3&domain=spb.kassir.ru&id=145909'
+        });*/
+      //  console.dir(window.ksr);
+          window.ksr.summon();
+        //console.dir(window.kassirWidget);
+         //window.kassirWidget.summon()
+           ///window.ksr.summon( { width: 1000, height: 1000 } );
+        
+		return false;
+		/*var w = 800;
+		var h = 600
+		 var y = window.top.outerHeight / 2 + window.top.screenY - ( h / 2);
+         var x = window.top.outerWidth / 2 + window.top.screenX - ( w / 2);
+	
+	
+		window.open($(this).attr('href'), "",  "location=no,width="+w+",height="+h+",scrollbars=yes,top="+y+",left="+x+",resizable = no");
+		return false; */
+	}); 
+</script>
+
+		</div>
+	</div>
+
+	<div class="mobile-menu">
+		<div class="mobile-menu-top">
+
+			
+	<ul>
+					<li>
+			
+                                   <a href="#menu_0"  data-toggle="collapse" class="collapsed">Новости</a>
+                    <div class="collapse" id="menu_0">
+                 					<ul>
+													<li><a href="/news/"  >Все новости</a></li>
+													<li><a href="/news/main/"  >Главная тема</a></li>
+													<li><a href="/news/medicine/"  >Медицина</a></li>
+													<li><a href="/news/world-hockey/"  >Мировой хоккей</a></li>
+													<li><a href="/news/legends/"  >Наши легенды</a></li>
+													<li><a href="/news/clubs/"  >Новости команд</a></li>
+													<li><a href="/news/regional/"  >Новости регионов</a></li>
+													<li><a href="/news/teams/"  >Новости сборных</a></li>
+													<li><a href="/news/federation/"  >Новости Федерации</a></li>
+													<li><a href="/news/nppkh/"  >НППХ</a></li>
+													<li><a href="/news/press/"  >Пресс-релизы</a></li>
+													<li><a href="/news/interview/"  >Прямая речь</a></li>
+													<li><a href="/news/khokkey-v-shkolu/"  >Хоккей в школу</a></li>
+													<li><a href="/news/ispolnyaem-mechty/"  >Хоккей России исполняет мечты</a></li>
+													<li><a href="/news/amateur-khokkey/"  >Массовый хоккей</a></li>
+													<li><a href="/news/istorii-legend-khokkeya/"  >Истории легенд хоккея</a></li>
+													<li><a href="/media/photo/"  >Фото</a></li>
+													<li><a href="/media/video/"  >Видео</a></li>
+													<li><a href="/news/accreditation/"  >Аккредитация</a></li>
+											</ul>
+				</div>
+
+						</li>
+					<li>
+			
+				<a href="/matchcenter/" >Матч-центр</a>
+
+						</li>
+					<li>
+			
+                                   <a href="#menu_21"  data-toggle="collapse" class="collapsed">Красная машина</a>
+                    <div class="collapse" id="menu_21">
+                 					<ul>
+													<li><a href="/news/nppkh/"  >НППХ</a></li>
+													<li><a href="/red-machine/hockey-in-school/"  >Хоккей в школу</a></li>
+											</ul>
+				</div>
+
+						</li>
+					<li>
+			
+                                   <a href="#menu_24"  data-toggle="collapse" class="collapsed">История хоккея</a>
+                    <div class="collapse" id="menu_24">
+                 					<ul>
+													<li><a href="/olympics/"  >Олимпийские игры</a></li>
+													<li><a href="/country-chempionats/"  >Чемпионаты страны</a></li>
+													<li><a href="/world-championship/"  >Чемпионаты мира</a></li>
+													<li><a href="https://75.fhr.ru/"  target="_blank">75 лет</a></li>
+													<li><a href="https://summitseries72.fhr.ru/"  target="_blank">50 лет Суперсерии-72</a></li>
+											</ul>
+				</div>
+
+						</li>
+					<li>
+			
+                                   <a href="#menu_30"  data-toggle="collapse" class="collapsed">ФХР</a>
+                    <div class="collapse" id="menu_30">
+                 					<ul>
+													<li><a href="/hockey-of-russia/goals-and-objectives/"  >Цели и задачи</a></li>
+													<li><a href="/hockey-of-russia/direction/"  >Руководство</a></li>
+													<li><a href="/hockey-of-russia/structure/"  >Структура</a></li>
+													<li><a href="/hockey-of-russia/docs/"  >Документы</a></li>
+													<li><a href="/hockey-of-russia/theory-methodology/"  >Теория и методика</a></li>
+													<li><a href="/hockey-of-russia/trainer-sertification/"  >Сертификация тренеров</a></li>
+													<li><a href="/hockey-of-russia/innovation-program/"  >Инновационная программа</a></li>
+													<li><a href="/reestr-lig/"  >Реестр лиг</a></li>
+													<li><a href="/hockey-of-russia/contacts/"  >Контакты</a></li>
+											</ul>
+				</div>
+
+						</li>
+					<li>
+			
+				<a href="/antidoping/#" >Антидопинг</a>
+
+						</li>
+					<li>
+			
+				<a href="https://widget.kassir.ru/?type=S&key=01b286a8-e09e-a02c-a746-1c74223a5829&domain=msk.kassir.ru&id=10814" >Билеты</a>
+
+						</li>
+						<!--<li>
+	 	  <a href="/hockeydreams/">Исполняем мечты</a>  
+        </li>-->
+			<li>
+				<a href="/hotline/">Горячая линия</a>
+			</li>
+          <!--<li>
+             <a href="https://msk.kassir.ru/frame/entry/index?key=9eb8ab25-77fc-9b10-d1e7-74db8bbcc8ba&type=A&id=2488714" id="_ticket_link_menu">Купить билеты</a>
+         </li>-->
+				
+	</ul>
+
+		</div>
+		<div class="mobile-menu-bottom">
+			<div class="row">
+				<div class="col-xs-6">
+					<ul>
+						<li><a href="https://www.minsport.gov.ru/" target="_blank">Минспорт</a></li>
+<li><a href="http://www.iihf.com/" target="_blank">ИИХФ</a></li>
+<li><a href="http://www.khl.ru/" target="_blank">КХЛ</a></li>
+<li><a href="http://www.vhlru.ru/" target="_blank">ВХЛ</a></li>
+<li><a href="http://whl.khl.ru/" target="_blank">ЖХЛ</a></li>
+<li><a href="http://mhl.khl.ru/" target="_blank">МХЛ</a></li>
+<li><a href="http://nmhl.fhr.ru/" target="_blank">НМХЛ</a></li>
+<li><a href="http://shlru.ru/" target="_blank">СХЛ</a></li>
+<li><a href="https://junior.fhr.ru/" target="_blank">ДЮС</a></li>
+<li><a href="https://играйвроссии.рф" target="_blank">ИВР</a></li>
+<li><a href="https://xhl.ru/" target="_blank">XHL.ru</a></li>
+<li><a href="https://vks.fhr.ru/" target="_blank">ВКС</a></li>					</ul>
+				</div>
+				<div class="col-xs-6">
+					<ul>
+						<li><a href="/business/">Партнеры</a></li>
+<!--<li><a href="/hockey-of-russia/licensing/">Лицензирование</a></li>-->
+<!--<li><a href="https://redmachine.ru/shops/" target="_blank">Магазины</a></li>-->
+<li><a href="/hockey-of-russia/contacts/">Контакты</a></li>					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="main-content">
+
+		
+			
+	<br/><br/>
+
+
+		
+
+
+	<div class="main-top-atricles">
+		<div class="container">
+			<div class="articles-row">
+				<div class="row">
+					<div class="col-md-4 col-sm-6">
+
+                        <a href="/matchcenter/"
+   class="match-widget">
+    <div class="match-widget__title">
+        Турниры    </div>
+
+            <div class="match-widget__tournaments">
+                            <div class="match-widget__tournament_item">
+                    <div class="match-widget__tournament-name">3х3 Кубок Будущего 2026</div>
+                    <div class="match-widget__tournament-date">05.02.2026 - 05.02.2026</div>
+                </div>
+                            <div class="match-widget__tournament_item">
+                    <div class="match-widget__tournament-name">Кубок Будущего 2026</div>
+                    <div class="match-widget__tournament-date">04.02.2026 - 07.02.2026</div>
+                </div>
+                    </div>
+        <div class="match-widget__footer">
+
+                    <div class="match-widget__date">
+                            </div>
+                        <div class="match-widget__mc">
+            Матч-центр        </div>
+    </div>
+</a>
+                        
+						
+					</div>
+					<div class="col-md-8 col-sm-6">
+						
+	<div class="mutliple-articles">
+		<div class="row">
+			<div class="col-md-6 hidden-sm hidden-xs">
+				<div class="mutliple-articles-images">
+											<a href="/news/item/118402/" class="list-img active" style="background-image: url('/upload/resize_cache/iblock/27f/500_500_2/5233539013526885075.jpg');"></a>
+											<a href="/news/item/118374/" class="list-img " style="background-image: url('/upload/resize_cache/iblock/a9e/500_500_2/IMG_8553.JPG');"></a>
+											<a href="/news/item/118372/" class="list-img " style="background-image: url('/upload/iblock/abb/2026_02_1.jpg');"></a>
+											<a href="/news/item/118361/" class="list-img " style="background-image: url('/upload/resize_cache/iblock/daa/500_500_2/Afisha_KP_4.jpg');"></a>
+									</div>
+			</div>
+			<div class="col-md-6">
+				<div class="mutliple-articles-list-wrap">
+					<div class="articles-header">ГЛАВНЫЕ ТЕМЫ</div>
+					<ul class="mutliple-articles-list">
+												<li><a href="/news/item/118402/" class="hovered">Президент ФХР принял руководителей чеченского хоккея</a></li>
+												<li><a href="/news/item/118374/" class="">Владислав Третьяк совершил рабочую поездку в Екатеринбург</a></li>
+												<li><a href="/news/item/118372/" class="">КЛАТЧЕР. АЛЕКСАНДРУ СЕМАКУ – 60!</a></li>
+												<li><a href="/news/item/118361/" class="">Кубок поколения 2026 пройдет в Санкт-Петербурге</a></li>
+											</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+					</div>
+				</div>
+			</div>
+			<div class="articles-row">
+				<div class="row">
+					<div class="col-md-4 col-sm-6 col-md-push-8 col-sm-push-6">
+                        <a href="/matchcenter/tournament/780/match/3720/"
+   class="match-widget">
+    <div class="match-widget__title">
+        Прошедший матч    </div>
+
+            <div class="match-widget__tournament">Eurasia Jastar Cup 2026</div>
+        <div class="match-widget__content">
+            <div class="match-widget__items">
+                                    <div class="match-widget__item">
+                        <div class="match-widget__item-team match-widget__item-team--home">
+                            Казахстан U18                        </div>
+                        <div class="match-widget__item-center">
+                                                            <div class="match-widget__item-score">
+                                    <div class="match-widget__item-score-value">
+                                        4                                    </div>
+                                    <div class="match-widget__item-score-sep">:</div>
+                                    <div class="match-widget__item-score-value">
+                                        1                                    </div>
+                                                                    </div>
+                                                    </div>
+                        <div class="match-widget__item-team match-widget__item-team--guest">
+                            Россия U16                        </div>
+                    </div>
+                            </div>
+        </div>
+        <div class="match-widget__footer">
+
+                    <div class="match-widget__date">
+                05.02.2026            </div>
+                            <div class="match-widget__location">
+                Казахстан, Астана, Барыс Арена            </div>
+                <div class="match-widget__mc">
+            Матч-центр        </div>
+    </div>
+</a>
+
+                        
+						
+					</div>
+					<div class="col-md-8 col-sm-6 col-md-pull-4 col-sm-pull-6">
+
+						
+						<div class="large-article">
+	<div class="row">
+				<div class="col-md-6 hidden-xs hidden-sm">
+			<div class="mutliple-articles-images">
+				<a href="/news/item/118367/" class="article-img" style="background-image: url('/upload/resize_cache/iblock/204/500_500_2/DMR_1407.jpg')"></a>
+			</div>
+		</div>
+		<div class="col-md-6">
+			<div class="mutliple-articles-list-wrap">
+				<div class="articles-header">ПРЯМАЯ РЕЧЬ</div>
+				<a href="/news/item/118367/" class="article-title">
+					Наши юниоры показали,  что готовы побеждать сильных соперников				</a>
+				<div class="article-announce"></div>
+				<div class="article-date">10.02.2026</div>
+			</div>
+		</div>
+			</div>
+</div>
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="partner-block adv-ajax" data-url="/local/templates/fhr/includes/ajax/adv.php?TYPE=32"></div>
+
+	<div class="tournaments-main" style="display:none">
+		<h2>Турниры</h2>
+		<div class="container">
+			<div class="tournaments-main-nav">
+				<div class="tournaments-main-switch">
+					<!-- <a href="#" class="active" data-id="TOURNAMENTS">ТУРНИРЫ</a> | --> <a href="#"  class="active" data-id="TEAMS">СБОРНЫЕ</a>
+				</div>
+				<div class="tournament-main-view">
+					<a href="#" class="list-view" data-id="LIST"><span></span></a>
+					<a href="#" class="block-view active" data-id="BLOCK"><span></span></a>
+				</div>
+			</div>
+
+			<div class="tournaments-main-container size-container custom-horizontal-scroll" id="tournamentsScroll">
+				<div class="tournaments-main-inner"></div>
+			</div>
+
+		</div>
+	</div>
+
+	<div class="main-news">
+		<h2>ВСЕ НОВОСТИ</h2>
+		<div class="container">
+			<div class="main-news-container">
+				<div class="news-main-col">
+					
+					
+	<h4 class="red">ОФИЦИАЛЬНЫЕ НОВОСТИ</h4>
+	<ul class="news-main-list">
+			<li>
+			<div class="news-date">16.02</div>
+			<a href="/news/item/99002/">Поздравляем Алексея Морозова!</a>
+		</li>
+			<li>
+			<div class="news-date">13.02</div>
+			<a href="/news/item/118377/">Не стало Александра Филиппова</a>
+		</li>
+			<li>
+			<div class="news-date">11.02</div>
+			<a href="/news/item/3529/">Поздравляем Бориса Майорова!</a>
+		</li>
+			<li>
+			<div class="news-date">07.02</div>
+			<a href="/news/item/118020/">«Получилась хорошая, стратегическая победа». Главный тренер и капитан сборной России U18 – о победе над молодежной сборной Беларуси.</a>
+		</li>
+		</ul>
+
+				</div>
+				<div class="news-main-col birthday-col">
+					<h4 class="white">ДНИ РОЖДЕНИЯ</h4>
+<div class="birthday-list custom-vertical-scroll" id="birthdayScroll">
+	<div class="birthday-list-inner">
+		<ul class="news-main-list">
+			
+				
+				<li>
+					<div class="news-date">19.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Кароян Лилит</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">19.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Гоголев Павел</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">19.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Новикова Алёна</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">19.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Попихин Евгений</span><!--/a-->
+					<div class="player-position">Тренер</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">19.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Кукштель Павел</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">19.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Колмыкова Светлана</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">19.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Науменков Михаил</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">20.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Пеньковский Артём</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">20.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Бакика Владимир</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">20.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Аверкин Игорь</span><!--/a-->
+					<div class="player-position">Тренер</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">20.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Дюбанок Инна</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">20.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Бывальцев Алексей</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">21.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Зборовский Сергей</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">21.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Волков Виктор</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">21.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Проскуряков Илья</span><!--/a-->
+					<div class="player-position">Вратарь</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">21.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Новожилов Павел</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">21.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Грачёв Евгений</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Ионин Владимир</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Бодров Денис</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Самсонов Илья</span><!--/a-->
+					<div class="player-position">Вратарь</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Злобин Антон</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Куликов Константин</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Таратухин Андрей</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Юрьев Кирилл</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Квочко Илья</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Проскурнин Андрей</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Яковенко Александр</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">22.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Квартальнов Никита</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Креган Александр</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Леонов Артём</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Буйван Семен</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Климкина Анна</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Науменко Валерий</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Окоряк Владислав</span><!--/a-->
+					<div class="player-position">Вратарь</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Дьяков Иван</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">23.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Чечелев Даниил</span><!--/a-->
+					<div class="player-position">Вратарь</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">24.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Ковалёв Алексей</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">24.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Харькин Никита</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">24.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Каштанов Иван</span><!--/a-->
+					<div class="player-position">Нападающий</div>
+				
+				</li>
+
+			
+				
+				<li>
+					<div class="news-date">24.02</div>
+					<!--a href="#" class="player-name"--><span class="player-name">Пашинин Максим</span><!--/a-->
+					<div class="player-position">Защитник</div>
+				
+				</li>
+
+					</ul>
+	</div>
+</div>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<form class="subscribe js-validate" method="post" method="post" action="/local/templates/fhr/includes/ajax/block_subscribe.php">
+
+	<input type="hidden" name="sessid" id="sessid" value="a6eb92251efbd117b7107f0d56abf646" />
+	<input type="hidden" name="send_submit" value="Y" />
+	<input type="hidden" name="lang" value="ru" />
+
+	<h2>БУДЬТЕ В КУРСЕ ПОСЛЕДНИХ СОБЫТИЙ</h2>
+
+	<div class="subscribe-field ajaxForm" style="padding-right: 0px;">
+		<input type="email" placeholder="Ваш e-mail (личный)" name="subscribe_email" style="display: none;" />
+		<input type="email" placeholder="Ваш e-mail (личный)" name="subscribe_email_t" data-rule-required="true" data-rule-email="true" />
+		<button type="submit" class="btn btn-red">ПОДПИСАТЬСЯ</button>
+	</div>
+    <div class="subscribe_agree">* нажимая кнопку «Подписаться» Вы предоставляете свое <a href="/upload/fhr/soglasie-podpiska-na-novosti.pdf" target="_blank">согласие на обработку персональных данных</a></div>
+
+</form>
+ 
+
+	<div class="partner-block adv-ajax" data-url="/local/templates/fhr/includes/ajax/adv.php?TYPE=30"></div>
+
+	<div class="media-main">
+		<h2>ФОТО И ВИДЕО</h2>
+		
+	<div class="media-main-grid custom-horizontal-scroll hidden-xs" id="mediaScroll">
+		<div class="media-grid-content">
+
+									<div class="grid-col ">
+							<a href="/media/photo/3153/" class="media-grid-item photo-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/b31/500_500_2/DMR_4369.jpg');"></div>
+								<div class="photo-item-content">
+									<div class="title">Кубок Будущего 2026. Беларусь U20 – Россия U18 / Февраль 2026</div>
+									<div class="photoes-amount">
+										47 ФОТОГРАФИЙ									</div>
+								</div>
+							</a>
+													<a href="/media/photo/3154/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/322/500_500_2/DMR_3161.jpg');"></div>
+								<div class="photo-caption">Кубок Будущего 2026. Беларусь U18 – Россия U17 / Февраль 2026</div>
+							</a>
+						</div>
+												<div class="grid-col ">
+							<a href="/media/photo/3150/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/7c3/500_500_2/DMR_9999.jpg');"></div>
+								<div class="photo-caption">Кубок Будущего 2026. Россия U18 – Россия U17 / Февраль 2026</div>
+							</a>
+													<a href="/media/video/item/114038/" class="media-grid-item photo-item video-item">
+								<div class="img" style="background-image: url('/upload/iblock/78b/DMR_7124.jpg');"><div class="play-icon"></div></div>
+								<div class="photo-item-content">
+									<div class="title">Торжественная церемония введения в Зал славы 06.06.2025</div>
+									<span class="video-link">Видео</span>
+								</div>
+							</a>
+						</div>
+												<div class="grid-col ">
+							<a href="/media/photo/3151/" class="media-grid-item photo-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/f12/500_500_2/DMR_4690.jpg');"></div>
+								<div class="photo-item-content">
+									<div class="title">Кубок Будущего 2026. Беларусь U20 – Россия U17 / Февраль 2026</div>
+									<div class="photoes-amount">
+										77 ФОТОГРАФИЙ									</div>
+								</div>
+							</a>
+													<a href="/media/photo/3149/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/ebf/500_500_2/DMR_9943.jpg');"></div>
+								<div class="photo-caption">Россия U18 – Россия U17. Товарищеский матч / Январь 2026</div>
+							</a>
+						</div>
+												<div class="grid-col hidden-xs">
+							<a href="/media/photo/3146/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/1d7/500_500_2/DMR_8998.jpg');"></div>
+								<div class="photo-caption">Товарищеский матч: Россия U16 – Динамо U17 – 2:0 / Январь 2026</div>
+							</a>
+													<a href="/media/video/item/107925/" class="media-grid-item photo-item video-item">
+								<div class="img" style="background-image: url('/upload/iblock/120/bel_rus25_FSD_9569.jpg');"><div class="play-icon"></div></div>
+								<div class="photo-item-content">
+									<div class="title">Лига Ставок Большой тур Сборной 2024. Россия - Белоруссия в Минске. Лучшие моменты 11.05.2024</div>
+									<span class="video-link">Видео</span>
+								</div>
+							</a>
+						</div>
+												<div class="grid-col hidden-xs">
+							<a href="/media/photo/3145/" class="media-grid-item photo-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/1f7/500_500_2/DMR_6558.jpg');"></div>
+								<div class="photo-item-content">
+									<div class="title">Мастер-класс Романа Ротенберга для сборной России U16</div>
+									<div class="photoes-amount">
+										81 ФОТОГРАФИЯ									</div>
+								</div>
+							</a>
+													<a href="/media/photo/3143/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/0bc/500_500_2/DMR_3111.jpg');"></div>
+								<div class="photo-caption">Россия U16 – МАХ-1 U16. Товарищеский матч. Декабрь 2025</div>
+							</a>
+						</div>
+												<div class="grid-col hidden-xs">
+							<a href="/media/photo/3142/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/c03/500_500_2/DMR_0438.jpg');"></div>
+								<div class="photo-caption">Кубок Первого канала. Россия – Казахстан. Декабрь 2025</div>
+							</a>
+													<a href="/media/video/item/107632/" class="media-grid-item photo-item video-item">
+								<div class="img" style="background-image: url('/upload/iblock/eb0/rus25_bel_FSD_5684.jpg');"><div class="play-icon"></div></div>
+								<div class="photo-item-content">
+									<div class="title">Лига Ставок Большой тур Сборной 2024. Тула. Россия - Белоруссия. Лучшие моменты 09.05.2024</div>
+									<span class="video-link">Видео</span>
+								</div>
+							</a>
+						</div>
+												<div class="grid-col hidden-xs">
+							<a href="/media/photo/3141/" class="media-grid-item photo-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/f64/500_500_2/VNB_9991.jpg');"></div>
+								<div class="photo-item-content">
+									<div class="title">Товарищеский матч женских сборных в Новогорске. Декабрь 2025</div>
+									<div class="photoes-amount">
+										46 ФОТОГРАФИЙ									</div>
+								</div>
+							</a>
+													<a href="/media/photo/3140/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/57d/500_500_2/DMR_8710.jpg');"></div>
+								<div class="photo-caption">Кубок Первого канала. Россия – Беларусь. Декабрь 2025</div>
+							</a>
+						</div>
+												<div class="grid-col hidden-xs">
+							<a href="/media/photo/3139/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/5ac/500_500_2/DMR_5211.jpg');"></div>
+								<div class="photo-caption">Церемония введения в Зал славы отечественного хоккея. Декабрь 2025</div>
+							</a>
+													<a href="/media/video/item/107543/" class="media-grid-item photo-item video-item">
+								<div class="img" style="background-image: url('/upload/iblock/a9f/rus25_bel_FSD_7378.jpg');"><div class="play-icon"></div></div>
+								<div class="photo-item-content">
+									<div class="title">Лига Ставок Большой тур Сборной 2024. Россия - Белоруссия. Лучшие моменты 06.05.2024</div>
+									<span class="video-link">Видео</span>
+								</div>
+							</a>
+						</div>
+												<div class="grid-col hidden-xs">
+							<a href="/media/photo/3138/" class="media-grid-item photo-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/10b/500_500_2/DMR_3847.jpg');"></div>
+								<div class="photo-item-content">
+									<div class="title">Мастер-шоу сборной России. Декабрь 2025</div>
+									<div class="photoes-amount">
+										108 ФОТОГРАФИЙ									</div>
+								</div>
+							</a>
+													<a href="/media/photo/3137/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/1ee/500_500_2/DMR_9559.jpg');"></div>
+								<div class="photo-caption">3х3 Кубок Первого канала. Декабрь 2025</div>
+							</a>
+						</div>
+												<div class="grid-col hidden-xs">
+							<a href="/media/photo/3136/" class="media-grid-item photo-large-item">
+								<div class="img" style="background-image: url('/upload/resize_cache/iblock/343/500_500_2/DMR_8489.jpg');"></div>
+								<div class="photo-caption">«3х3 Кубок Первого канала. Дети». Декабрь 2025</div>
+							</a>
+													<a href="/media/video/item/107313/" class="media-grid-item photo-item video-item">
+								<div class="img" style="background-image: url('/upload/iblock/4b1/rus25_bel_FSD_3212.jpg');"><div class="play-icon"></div></div>
+								<div class="photo-item-content">
+									<div class="title">Лига Ставок Большой тур Сборной 2024. Россия - Белоруссия. Лучшие моменты 04.05.2024</div>
+									<span class="video-link">Видео</span>
+								</div>
+							</a>
+						</div>
+						
+		</div>
+	</div>
+
+
+
+	<div class="hidden-lg hidden-md hidden-sm" id="photosliderindex">
+
+		
+			
+			<div class="slide-photos">
+				<a href="/media/photo/3153/">
+					<div class="picture-photos" style="background-image: url(/upload/resize_cache/iblock/b31/500_300_2/DMR_4369.jpg);"></div>
+					<div class="caption-photos">Кубок Будущего 2026. Беларусь U20 – Россия U18 / Февраль 2026</div>
+				</a>
+			</div>
+
+		
+			
+			<div class="slide-photos">
+				<a href="/media/photo/3154/">
+					<div class="picture-photos" style="background-image: url(/upload/resize_cache/iblock/322/500_300_2/DMR_3161.jpg);"></div>
+					<div class="caption-photos">Кубок Будущего 2026. Беларусь U18 – Россия U17 / Февраль 2026</div>
+				</a>
+			</div>
+
+		
+			
+			<div class="slide-photos">
+				<a href="/media/photo/3150/">
+					<div class="picture-photos" style="background-image: url(/upload/resize_cache/iblock/7c3/500_300_2/DMR_9999.jpg);"></div>
+					<div class="caption-photos">Кубок Будущего 2026. Россия U18 – Россия U17 / Февраль 2026</div>
+				</a>
+			</div>
+
+		
+			
+			<div class="slide-photos">
+				<a href="/media/video/item/114038/">
+					<div class="picture-photos" style="background-image: url(/upload/iblock/78b/DMR_7124.jpg);"></div>
+					<div class="caption-photos">Торжественная церемония введения в Зал славы</div>
+				</a>
+			</div>
+
+		
+			
+			<div class="slide-photos">
+				<a href="/media/photo/3151/">
+					<div class="picture-photos" style="background-image: url(/upload/resize_cache/iblock/f12/500_300_2/DMR_4690.jpg);"></div>
+					<div class="caption-photos">Кубок Будущего 2026. Беларусь U20 – Россия U17 / Февраль 2026</div>
+				</a>
+			</div>
+
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+	</div>
+
+
+	<script>
+		$(document).ready(function () {
+			$photosliderindex = $('#photosliderindex');
+			$photosliderindex .on('init', function(event, slick, direction){
+				$(event.target).prev('.slides-amount').find('.total').html(slick.slideCount);
+			});
+			$photosliderindex.slick({
+				dots: true,
+				arrows: false,
+				infinite: true,
+				autoplay: true,
+				autoplaySpeed: 5000000,
+				speed: 500,
+				slidesToShow:1,
+				slidesToScroll: 1,
+				responsive: [
+					{
+						breakpoint: 544,
+						settings: {
+							adaptiveHeight: true
+						}
+					}
+				]
+			});
+		});
+	</script>
+
+
+	</div>
+
+	
+
+	
+	<div class="partner-block adv-ajax" data-url="/local/templates/fhr/includes/ajax/adv.php?TYPE=38" style="margin: 30px auto;"></div>
+ 
+	
+
+	<div class="partners-bottom">
+		<h2>Партнеры и спонсоры</h2>
+		<div class="container">
+			<div class="partners-list">
+								<a href="https://www.nornickel.ru" target="_blank" data-id="44317" style="display: block;margin:0 auto 30px auto">
+                    <img src="/upload/iblock/f54/604x114.png">
+                </a>
+								<a href="http://rolf.ru/" target="_blank" data-id="115405" >
+                    <img src="/upload/iblock/3f6/ROLF.png">
+                </a>
+								<a href="https://www.tbank.ru" target="_blank" data-id="110307" >
+                    <img src="/upload/iblock/76b/T_BANK_120_48.png">
+                </a>
+								<a href="http://henderson.ru/" target="_blank" data-id="26408" >
+                    <img src="/upload/iblock/847/HENDERSON_120x48px.png">
+                </a>
+							</div>
+		</div>
+	</div>
+
+
+
+
+</div>
+
+
+<div class="footer">
+	<div class="footer-top">
+		<div class="footer-container">
+
+			
+    <div class="footer-menu">
+        <div class="footer-menu-col">
+            <ul class="footer-menu-section">
+                <li><a href="/news/" class="footer-menu-title">Новости</a></li>
+                <li><a href="/news/">Все новости</a></li>
+                <li><a href="/news/main/">Главная тема</a></li>
+                <li><a href="/news/medicine/">Медицина</a></li>
+                <li><a href="/news/world-hockey/">Мировой хоккей</a></li>
+                <li><a href="/news/legends/">Наши легенды</a></li>
+                <li><a href="/news/clubs/">Новости команд</a></li>
+                <li><a href="/news/regional/">Новости регионов</a></li>
+                <li><a href="/news/teams/">Новости сборных</a></li>
+                <li><a href="/news/federation/">Новости Федерации</a></li>
+                <li><a href="/news/nppkh/">НППХ</a></li>
+                <li><a href="/news/press/">Пресс-релизы</a></li>
+                <li><a href="/news/interview/">Прямая речь</a></li>
+                <li><a href="/news/khokkey-v-shkolu/">Хоккей в школу</a></li>
+                <li><a href="/news/ispolnyaem-mechty/">Хоккей России исполняет мечты</a></li>
+                <li><a href="/news/amateur-khokkey/">Массовый хоккей</a></li>
+                <li><a href="/news/istorii-legend-khokkeya/">Истории легенд хоккея</a></li>
+                <li><a href="/media/photo/">Фото</a></li>
+                <li><a href="/media/video/">Видео</a></li>
+                <li><a href="/news/accreditation/">Аккредитация</a></li>
+
+
+            </ul>
+        </div>
+        <div class="footer-menu-col">
+            <ul class="footer-menu-section">
+                <li><a href="/tournaments/" class="footer-menu-title">Турниры</a></li>
+                <li><a href="/tournaments/?type=25">Кубок Первого канала</a></li>
+                <li><a href="/tournaments/?type=26">3x3 Кубок Первого Канала</a></li>
+                <li><a href="/tournaments/?type=29">Кубок Будущего (СПб)</a></li>
+                <li><a href="/tournaments/?type=30">3х3 Кубок Будущего (СПб)</a></li>
+                <li><a href="/tournaments/?type=7">Международные турниры</a></li>
+                <li><a href="https://junior.fhr.ru/">Детско-юношеские соревнования</a></li>
+                <li><a href="/matchcenter/" class="footer-menu-title">Матч-центр</a></li>
+                <li><a href="https://widget.kassir.ru/?type=S&amp;key=01b286a8-e09e-a02c-a746-1c74223a5829&amp;domain=msk.kassir.ru&amp;id=10814" class="footer-menu-title">Билеты</a></li>
+            </ul>
+        </div>
+        <div class="footer-menu-col">
+            <ul class="footer-menu-section">
+                <li><a href="/history-of-hockey/" class="footer-menu-title">История хоккея</a></li>
+                <li><a href="/olympics/">Олимпийские игры</a></li>
+                <li><a href="/country-chempionats/">Чемпионаты страны</a></li>
+                <li><a href="/world-championship/">Чемпионаты мира</a></li>
+                <li><a href="https://75.fhr.ru/">75 лет</a></li>
+                <li><a href="https://summitseries72.fhr.ru/">50 лет Суперсерии-72</a></li>
+                <li><a href="/hockey-of-russia/red-machine/" class="footer-menu-title">Красная машина</a></li>
+                <li><a href="/news/nppkh/">НППХ</a></li>
+                <li><a href="/red-machine/hockey-in-school/">Хоккей в школу</a></li>
+            </ul>
+        </div>
+        <div class="footer-menu-col">
+            <ul class="footer-menu-section">
+                <li><a href="/hockey-of-russia/" class="footer-menu-title">ФХР</a></li>
+                <li><a href="https://fhr.ru/hockey-of-russia/docs/antidoping/" class="footer-menu-title">Антидопинг</a></li>
+                <li><a href="/hockey-of-russia/goals-and-objectives/">Цели и задачи</a></li>
+                <li><a href="/hockey-of-russia/direction/">Руководство</a></li>
+                <li><a href="/hockey-of-russia/structure/">Структура</a></li>
+                <li><a href="/hockey-of-russia/docs/">Документы</a></li>
+                <li><a href="/hockey-of-russia/theory-methodology/">Теория и методика</a></li>
+                <li><a href="/hockey-of-russia/trainer-sertification/">Сертификация тренеров</a></li>
+                <li><a href="/hockey-of-russia/innovation-program/">Инновационная программа</a></li>
+                <li><a href="/reestr-lig/">Реестр лиг</a></li>
+                <li><a href="/hockey-of-russia/contacts/">Контакты</a></li>
+            </ul>
+        </div>
+    </div>
+
+		</div>
+	</div>
+	<div class="footer-bottom">
+		<div class="footer-container">
+			<div class="row">
+				<div class="col-sm-4 col-md-5">
+					<div class="footer-contacts">
+						<p>
+ <a href="tel:+74956477111">+7 (495) 647-71-11</a>
+</p>
+<p>
+ <a href="mailto:fhr@fhr.ru">fhr@fhr.ru</a>
+</p>
+<p>
+	 Юридический адрес: 119270, Россия, Москва, Лужнецкая наб., д. 8 с. 1
+</p>
+<p>
+	 Фактический адрес: 115280, Россия, Москва, Автозаводская ул., д. 21 к. 1
+</p>					</div>
+				</div>
+				<div class="col-sm-4 col-md-2">
+					<div class="logo-footer">
+						<img src="/local/templates/fhr/images/logo-bottom.svg" alt="" />
+					</div>
+				</div>
+				<div class="col-sm-4 col-md-5 footer-copyright">
+					<div class="copyright">
+						<div class="footer-socials">
+							<a href="https://vk.com/fhr" target="_blank"><i class="fa fa-vk" aria-hidden="true"></i></a>
+<!--<a href="https://www.facebook.com/Russiahockey/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>-->
+<a href="https://twitter.com/russiahockey" target="_blank"  class="menu-socials__twitter">
+    <svg width="12px" height="12px" viewBox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" />
+    </svg>
+</a>
+<a href="https://ok.ru/russiahockey" target="_blank"><i class="fa fa-odnoklassniki" aria-hidden="true"></i></a>
+<a href="https://www.youtube.com/c/RussiaHockey" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+<!--<a href="https://www.instagram.com/russiahockey/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>-->
+
+    <a href="https://vb.me/russia_hockey_pw"  target="_blank" >
+        <span class="menu-socials__viber">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 631.99 666.43"  width="17px" height="17px">
+                    <defs>
+                        <style>
+                            .viber-1{fill:#fff;}.viber-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:16.86px;}
+                        </style>
+                    </defs>
+                    <path class="viber-1"
+                          d="M560.65,65C544.09,49.72,477.17,1.14,328.11.48c0,0-175.78-10.6-261.47,68C18.94,116.19,2.16,186,.39,272.55S-3.67,521.3,152.68,565.28l.15,0-.1,67.11s-1,27.17,16.89,32.71c21.64,6.72,34.34-13.93,55-36.19,11.34-12.22,27-30.17,38.8-43.89,106.93,9,189.17-11.57,198.51-14.61,21.59-7,143.76-22.65,163.63-184.84C646.07,218.4,615.64,112.66,560.65,65Zm18.12,308.58C562,509,462.91,517.51,444.64,523.37c-7.77,2.5-80,20.47-170.83,14.54,0,0-67.68,81.65-88.82,102.88-3.3,3.32-7.18,4.66-9.77,4-3.64-.89-4.64-5.2-4.6-11.5.06-9,.58-111.52.58-111.52s-.08,0,0,0C38.94,485.05,46.65,347,48.15,274.71S63.23,143.2,103.57,103.37c72.48-65.65,221.79-55.84,221.79-55.84,126.09.55,186.51,38.52,200.52,51.24C572.4,138.6,596.1,233.91,578.77,373.54Z"/>
+                    <path class="viber-2" d="M389.47,268.77q-2.46-49.59-50.38-52.09"/>
+                    <path class="viber-2" d="M432.72,283.27q1-46.2-27.37-77.2c-19-20.74-45.3-32.16-79.05-34.63"/>
+                    <path class="viber-2" d="M477,300.59q-.61-80.17-47.91-126.28t-117.65-46.6"/>
+                    <path class="viber-1"
+                          d="M340.76,381.68s11.85,1,18.23-6.86l12.44-15.65c6-7.76,20.48-12.71,34.66-4.81A366.67,366.67,0,0,1,437,374.1c9.41,6.92,28.68,23,28.74,23,9.18,7.75,11.3,19.13,5.05,31.13,0,.07-.05.19-.05.25a129.81,129.81,0,0,1-25.89,31.88c-.12.06-.12.12-.23.18q-13.38,11.18-26.29,12.71a17.39,17.39,0,0,1-3.84.24,35,35,0,0,1-11.18-1.72l-.28-.41c-13.26-3.74-35.4-13.1-72.27-33.44a430.39,430.39,0,0,1-60.72-40.11,318.31,318.31,0,0,1-27.31-24.22l-.92-.92-.92-.92h0l-.92-.93c-.31-.3-.61-.61-.92-.92a318.31,318.31,0,0,1-24.22-27.31,430.83,430.83,0,0,1-40.11-60.71c-20.34-36.88-29.7-59-33.44-72.28l-.41-.28a35,35,0,0,1-1.71-11.18,16.87,16.87,0,0,1,.23-3.84Q141,181.42,152.12,168c.06-.11.12-.11.18-.23a129.53,129.53,0,0,1,31.88-25.88c.06,0,.18-.06.25-.06,12-6.25,23.38-4.13,31.12,5,.06.06,16.11,19.33,23,28.74a366.67,366.67,0,0,1,19.74,30.94c7.9,14.17,2.95,28.68-4.81,34.66l-15.65,12.44c-7.9,6.38-6.86,18.23-6.86,18.23S254.15,359.57,340.76,381.68Z"/>
+                </svg>
+
+        </span>
+
+    </a>
+
+
+        <a href="https://t.me/rusicehockey"  target="_blank" >
+      <span class="menu-socials__telegram">
+        <svg fill="#000000" xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 30 30" width="20px" height="20px"><path d="M 25.154297 3.984375 C 24.829241 3.998716 24.526384 4.0933979 24.259766 4.2011719 C 24.010014 4.3016357 23.055766 4.7109106 21.552734 5.3554688 C 20.048394 6.0005882 18.056479 6.855779 15.931641 7.7695312 C 11.681964 9.5970359 6.9042108 11.654169 4.4570312 12.707031 C 4.3650097 12.746607 4.0439208 12.849183 3.703125 13.115234 C 3.3623292 13.381286 3 13.932585 3 14.546875 C 3 15.042215 3.2360676 15.534319 3.5332031 15.828125 C 3.8303386 16.121931 4.144747 16.267067 4.4140625 16.376953 C 5.3912284 16.775666 8.4218473 18.015862 8.9941406 18.25 C 9.195546 18.866983 10.29249 22.222526 10.546875 23.044922 C 10.714568 23.587626 10.874198 23.927519 11.082031 24.197266 C 11.185948 24.332139 11.306743 24.45034 11.453125 24.542969 C 11.511635 24.579989 11.575789 24.608506 11.640625 24.634766 L 11.644531 24.636719 C 11.659471 24.642719 11.67235 24.652903 11.6875 24.658203 C 11.716082 24.668202 11.735202 24.669403 11.773438 24.677734 C 11.925762 24.726927 12.079549 24.757812 12.216797 24.757812 C 12.80196 24.757814 13.160156 24.435547 13.160156 24.435547 L 13.181641 24.419922 L 16.191406 21.816406 L 19.841797 25.269531 C 19.893193 25.342209 20.372542 26 21.429688 26 C 22.057386 26 22.555319 25.685026 22.875 25.349609 C 23.194681 25.014192 23.393848 24.661807 23.478516 24.21875 L 23.478516 24.216797 C 23.557706 23.798129 26.921875 6.5273437 26.921875 6.5273438 L 26.916016 6.5507812 C 27.014496 6.1012683 27.040303 5.6826405 26.931641 5.2695312 C 26.822973 4.8564222 26.536648 4.4608905 26.181641 4.2480469 C 25.826669 4.0352506 25.479353 3.9700339 25.154297 3.984375 z M 24.966797 6.0742188 C 24.961997 6.1034038 24.970391 6.0887279 24.962891 6.1230469 L 24.960938 6.1347656 L 24.958984 6.1464844 C 24.958984 6.1464844 21.636486 23.196371 21.513672 23.845703 C 21.522658 23.796665 21.481573 23.894167 21.439453 23.953125 C 21.379901 23.91208 21.257812 23.859375 21.257812 23.859375 L 21.238281 23.837891 L 16.251953 19.121094 L 12.726562 22.167969 L 13.775391 17.96875 C 13.775391 17.96875 20.331562 11.182109 20.726562 10.787109 C 21.044563 10.471109 21.111328 10.360953 21.111328 10.251953 C 21.111328 10.105953 21.035234 10 20.865234 10 C 20.712234 10 20.506484 10.14875 20.396484 10.21875 C 18.963383 11.132295 12.671823 14.799141 9.8515625 16.439453 C 9.4033769 16.256034 6.2896636 14.981472 5.234375 14.550781 C 5.242365 14.547281 5.2397349 14.548522 5.2480469 14.544922 C 7.6958673 13.491784 12.47163 11.434667 16.720703 9.6074219 C 18.84524 8.6937992 20.838669 7.8379587 22.341797 7.1933594 C 23.821781 6.5586849 24.850125 6.1218894 24.966797 6.0742188 z"/></svg>
+      </span>
+</a>
+
+
+						</div>
+
+                        <div class="footer-politic">
+                            <a href="https://fhr.ru/upload/fhr/Politika_FHR_v_otnoshenii_obrabotki_personalnikh_dannikh.pdf">Политика ФХР в отношении обработки и защиты персональных данных</a><br/>
+                            <a href="/hockey-of-russia/docs/informatsiya-o-raspredelenii-sredstv-ot-azartnykh-igr/">Информация о распределении средств от азартных игр</a>
+                        </div>
+
+						<div class="copyright-text">
+							При использовании материалов ссылка на официальный сайт Федерации хоккея России обязательна © 1991—2026						</div>
+						<div class="footer-bottom-links">
+							<!--a href="/privacy/">Политика конфиденциальности</a><br-->
+							<!--a href="/sitemap/">Карта сайта</a-->
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function () {
+			try {
+				w.yaCounter2651089 = new Ya.Metrika({
+					id: 2651089,
+					webvisor: true,
+					clickmap: true,
+					trackLinks: true
+				});
+			} catch (e) {
+			}
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () {
+				n.parentNode.insertBefore(s, n);
+			};
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else {
+			f();
+		}
+	})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript>
+	<div><img src="//mc.yandex.ru/watch/2651089" style="position:absolute; left:-9999px;" alt=""/></div>
+</noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+</body>
+</html>

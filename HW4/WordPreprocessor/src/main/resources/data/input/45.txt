@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="ru" class="no-js">
+
+<head>
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- Favicon-->
+	<link rel="shortcut icon" href="img/fav.png">
+	<!-- Author Meta -->
+	<meta name="author" content="CodePixar">
+	<!-- Meta Description -->
+	<meta name="description" content="">
+	<!-- Meta Keyword -->
+	<meta name="keywords" content="">
+	<!-- meta character set -->
+	<meta charset="UTF-8">
+	<!-- Site Title -->
+	<title>Othersport</title>
+	<!--
+		CSS
+		============================================= -->
+	<link rel="stylesheet" href="css/linearicons.css">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="css/themify-icons.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<link rel="stylesheet" href="css/nice-select.css">
+	<link rel="stylesheet" href="css/nouislider.min.css">
+	<link rel="stylesheet" href="css/ion.rangeSlider.css" />
+	<link rel="stylesheet" href="css/ion.rangeSlider.skinFlat.css" />
+	<link rel="stylesheet" href="css/magnific-popup.css">
+	<link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+
+	<!-- Start Header Area -->
+	<header class="header_area sticky-header">
+		<div class="main_menu">
+			<nav class="navbar navbar-expand-lg navbar-light main_box">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<a class="navbar-brand logo_h" href="index.html"><img src="img/logo.png" alt=""></a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+			</nav>
+		</div>
+		<div class="search_input" id="search_input_box">
+			<div class="container">
+				<form class="d-flex justify-content-between">
+					<input type="text" class="form-control" id="search_input" placeholder="Введите запрос">
+					<button type="submit" class="btn"></button>
+					<span class="lnr lnr-cross" id="close_search" title="Закрыть поиск"></span>
+				</form>
+			</div>
+		</div>
+	</header>
+	<!-- End Header Area -->
+
+    
+    
+	<!-- start banner Area -->
+	<section class="banner-area">
+		<div class="container">
+			<div class="row fullscreen align-items-center justify-content-start">
+				<div class="col-lg-12">
+					<div class="active-banner-slider owl-carousel">
+						<!-- single-slide -->
+						<div class="row single-slide align-items-center d-flex">
+							<div class="col-lg-5 col-md-12 col-sm-12">
+								<div class="banner-content">
+									<h1>Лучшие спортивные <br>сайты</h1>
+									<p>Ежедневно сотни тысяч пользователей заходят на свои любимые интернет-ресурсы, чтобы найти актуальную, полезную информацию, соответствующую его интересам.</p>
+                                    <br>
+                                    <p>Если сайт на постоянной основе публикует интересные новые статьи, то пользователь остается с ресурсом надолго, продолжая посещать его изо дня в день. Наверное, каждый из нас имеет свои сайты в закладках браузера. Сегодня мы поговорим о лучших сайтах в области спорта, которые чаще всего посещают юзеры из России и стран СНГ</p>
+									</div>
+							</div>
+							<div class="col-lg-7">
+								<div class="banner-img">
+									<img class="img-fluid img-adaptive" src="img/banner/banner-img.png" alt="">
+								</div>
+							</div>
+						</div>
+						<!-- single-slide -->
+						<div class="row single-slide align-items-center d-flex">
+							<div class="col-lg-5 col-md-12 col-sm-12">
+								<div class="banner-content">
+									<h1>Актуальная информация <br>о спорте</h1>
+									<p>Поиск надежной и проверенной информации - головная боль для любителей спорта. Часто приходится верить первым источникам, а посе расстраиваться из-за действий "желтой" прессы. На нашем сайте вы сможете находить только проверенные новости из мира футбола, хоккея, баскетбола, волейбола и прочих видов спорта</p>
+								</div>
+							</div>
+							<div class="col-lg-7">
+								<div class="banner-img-2">
+									<img class="img-fluid" src="img/banner/banner-img-2.png" alt="">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- End banner Area -->
+
+	<!-- start features Area -->
+	
+    <section class="features-area section_gap">
+		<div class="container">
+			<div class="row features-inner">
+				<!-- single features -->
+				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="single-features">
+						<div class="f-icon">
+							<img src="img/features/f-icon1.png" alt="">
+						</div>
+						<h6>Последние новости</h6>
+						<p>Актуальные события в мире спорта</p>
+					</div>
+				</div>
+				<!-- single features -->
+				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="single-features">
+						<div class="f-icon">
+							<img src="img/features/f-icon2.png" alt="">
+						</div>
+						<h6>Трансферы Live</h6>
+						<p>Узнайте обо всех переходах первыми</p>
+					</div>
+				</div>
+				<!-- single features -->
+				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="single-features">
+						<div class="f-icon">
+							<img src="img/features/f-icon3.png" alt="">
+						</div>
+						<h6>Бонусы</h6>
+						<p>Подборки акций и бонусов</p>
+					</div>
+				</div>
+				<!-- single features -->
+				<div class="col-lg-3 col-md-6 col-sm-12">
+					<div class="single-features">
+						<div class="f-icon">
+							<img src="img/features/f-icon4.png" alt="">
+						</div>
+						<h6>Отзывы</h6>
+						<p>Мнение реальных пользователей о популярных спортивных сайтах</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- end features Area -->
+    
+     <!-- Start quotes -->
+    <container class="quotes">
+    		<div class="container-2">
+			
+				<div class="col-lg-12">
+					<div class="active-banner-slider owl-carousel">
+						<!-- single-slide-1 -->
+						<div class="row single-slide align-items-center d-flex">
+							
+                            <div class="col-lg-12">
+								<div class="banner-content-2">
+									
+									<p>"Спасительной силой в нашем мире является спорт - над ним по-прежнему реет флаг оптимизма, здесь соблюдают правила и уважают противника независимо от того, на чьей стороне победа" (Джон Голсуорси)
+                                    </p>
+									</div>
+							</div>
+							
+						</div>
+						<!-- single-slide-2 -->
+						<div class="row single-slide align-items-center d-flex">
+							
+                            <div class="col-lg-12">
+								<div class="banner-content-2">
+									
+									<p>"Спорт очень хорошо помогает избавиться от всех вредных привычек" (Жан Поль Бельмондо)
+                                    </p>
+									</div>
+							</div>
+							
+						</div>
+                        <!-- single-slide-3 -->
+						<div class="row single-slide align-items-center d-flex">
+							
+                            <div class="col-lg-12">
+								<div class="banner-content-2">
+									
+									<p>"В спорте, как и в казино, выиграть случайно очень трудно" (Георгий Александров)
+                                    </p>
+									</div>
+							</div>
+							
+						</div>
+                        <!-- single-slide-4 -->
+						<div class="row single-slide align-items-center d-flex">
+							
+                            <div class="col-lg-12">
+								<div class="banner-content-2">
+									
+									<p>"Люди ошибаются, считая спортсменами великих олимпийцев. Спортсменом является каждый. Если у вас есть тело, то вы - спортсмен" (Фил Найт)
+                                    </p>
+									</div>
+							</div>
+							
+						</div>
+                        <!-- single-slide-5 -->
+						<div class="row single-slide align-items-center d-flex">
+							
+                            <div class="col-lg-12">
+								<div class="banner-content-2">
+									
+									<p>"Спорт – реклама физкультуры: ценой здоровья некоторых улучшается здоровье многих" (Илья Шевелев)
+                                    </p>
+									</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</container>	
+	
+    
+     <!-- end quotes -->
+    
+    <!-- Start info about -->
+    <section class="banner-area-2">
+		<div class="container">
+			<div class="row fullscreen align-items-center ">
+				<div class="col-lg-12">
+					<div class="active-banner-slider owl-carousel">
+						<!-- single-slide -->
+						<div class="row single-slide align-items-center d-flex">
+							<div class="col-lg-7">
+								<div class="banner-img-3">
+									<img class="img-fluid" src="img/banner/banner-img-3.png" alt="">
+								</div>
+							</div>
+                            <div class="col-lg-5 col-md-12">
+								<div class="banner-content">
+									<h1>Трансляции матчей</h1>
+									<p>Мы собираем лучшие сервисы для просмотра матчей футбольных мачтей РФПЛ, АПЛ, Лиги 1, ЛА Лиги, Серии А, а также хоккейных, теннисных, баскетбольных событий.
+                                    </p>
+                                    <p>В отличие от популярных бродкастеров, на нашем сайте их можно смотреть совершенно бесплатно в режиме Live.
+                                
+                                    Мы предлагаем как текстовые, так и видео-трансляции
+                                    </p>
+									</div>
+							</div>
+							
+						</div>
+						<!-- single-slide -->
+						<div class="row single-slide align-items-center d-flex">
+							
+							<div class="col-lg-7">
+								<div class="banner-img-4">
+									<img class="img-fluid" src="img/banner/banner-img-4.png" alt="">
+								</div>
+							</div>
+                            <div class="col-lg-5 col-md-12">
+								<div class="banner-content">
+									<h1>Интервью со <br>звездами спорта</h1>
+									<p>У нас нет собственных корреспондентов, однако мы стараемся раньше всех получить горячие новости, и предложить их пользователям.</p>
+                                    
+                                    <p>Интервью до и после матчей, новости трансферов, личная жизнь спортсменов - все это привлекает не меньше внимания, чем то, что происходит на поле.
+                                    </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+    <!-- End info Area -->
+	<!-- Start category Area -->
+    
+	<section class="category-area">
+		<div class="container">
+            <div class="popular">
+                <h5>Рейтинг спортивных сайтов 2020 года</h5>
+            </div>
+            
+			<div class="row justify-content-center">
+				<div class="col-lg-12 col-md-12">
+					<div class="row">
+                        
+						<div class="col-lg-12 col-md-12">
+                            <h6>1 место - <a target="_blank" href="https://www.championat.com/">Чемпионат</a></h6>
+							<div class="single-deal">
+                                
+								<div class="overlay"></div>
+								<img class="img-fluid w-100" src="img/category/c10.jpg" alt="">
+								<a href="img/category/c10.jpg" class="img-pop-up" target="_blank">
+									<div class="deal-details">
+										<h6 class="deal-title">Чемпионат</h6>
+									</div>
+								</a>
+							</div>
+						</div>
+                        
+                        <div class="col-lg-12 col-md-12">
+							<div class="services">
+								<div class="overlay-1">
+								
+                                <p>Бесспорный лидер нашего рейтинга спортивных онлайн-ресурсов в рунете. Многие издания и пользователи называли "Чемпионат" главным спортивным ресурсом страны. Славится сайт авторским контентом, эксклюзивными интервью, трансляциями и "закулисными" новостями. У него удобный интерфейс и хороший дизайн, регулярный обновления и проверенная информация. А по посещаемости ему точно нет равных.</p>
+                                <p>Портал начал работу в 2005 году, в первое время выпуская новость исключительно о футболе. В 2007 году, прямо к <a  href="https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%85%D0%BE%D0%BA%D0%BA%D0%B5%D1%8E_%D1%81_%D1%88%D0%B0%D0%B9%D0%B1%D0%BE%D0%B9_2007" >Чемпионату мира</a>, был подключен еще и хоккей, а позже - баскетбол и теннис.
+                                Сегодня же этому ресурсу действительно нет равных. В сутки на этот ресурс заходит не менее 859 тысяч человек.
+                                </p>
+                                    </div>
+							</div>
+						</div>
+                        
+                        <div class="col-lg-12 col-md-12">
+							
+                                <h6>2 место - <a target="_blank" href="https://www.sport-express.ru/">Спорт Экспресс</a></h6>
+                            <div class="single-deal">
+								<div class="overlay"></div>
+								<img class="img-fluid w-100" src="img/category/c9.jpg" alt="">
+								<a href="img/category/c9.jpg" class="img-pop-up" target="_blank">
+									<div class="deal-details">
+										<h6 class="deal-title">Спорт Экспресс</h6>
+									</div>
+								</a>
+							</div>
+						</div>
+                        <div class="col-lg-12 col-md-12">
+							<div class="services">
+								<div class="overlay-1">
+								
+                                <p>Печатная версия сайта много лет находится в списке самых востребованных изданий о спорте среди стран с русскоговорящим населением. Как только интернет получил развитие в этих странах, газета запустила онлайн-версию своих новостей. Контента здесь даже больше, чем в печатном варианте, а его качество не хуже. Любые обзоры тут появляются максимально быстро. На сайтах есть и короткие новостные заметки, и полноценные статьи.
+                                </p>
+                                <p>Очевидно, что сегодня читать новости онлайн гораздо удобнее, поэтому веб-версия газеты имеет гораздо более обширную аудиторию, нежели печатная. Более того, на базе редакции выпускаются подкасты и о различных видов спорта с приглашенными экспертами.</p>	
+                                    </div>
+							</div>
+						</div>
+                       
+                        
+                        <div class="col-lg-12 col-md-12">
+							
+                                <h6>3 место - <a target="_blank" href="https://news.sportbox.ru/">Sportbox</a>
+                            </h6>
+                            <div class="single-deal">
+								<div class="overlay"></div>
+								<img class="img-fluid w-100" src="img/category/c8.jpg" alt="">
+								<a href="img/category/c8.jpg" class="img-pop-up" target="_blank">
+									<div class="deal-details">
+										<h6 class="deal-title">Sportbox</h6>
+									</div>
+								</a>
+							</div>
+						</div>
+                        
+                        <div class="col-lg-12 col-md-12">
+							<div class="services">
+								<div class="overlay-1">
+								
+                                <p>Этот ресурс стабильно входит в десятки самых посещаемых в интернете среди русскоговорящих людей. Славится он своими лайв-трансляциями всех главных событий из мира спорта, записанными важными моментами матчей, быстрым реагированием на какие-либо новости и интересной подачей материала. Новости тут обновляются несколько раз в сутки, поэтому пользователи заходят на портал ежедневно.
+                                </p>
+                               <p>Сайт принадлежит холдингу "Матч!", однако ведет самостоятельную политику, и практически никак не зависит от Газпром-медиа. Пользователи могут следить за новостями не только непосредственно на сайте, но и в социальных сетях, таких как Instagram, Twitter, VK, Facebook.
+                                </p>
+                                    </div>
+							</div>
+						</div>
+                        
+                         <div class="col-lg-12 col-md-12">
+							
+                                <h6>4 место - <a target="_blank" href="https://www.gazeta.ru/sport/">Газета.ru</a></h6>
+                             <div class="single-deal">
+								<div class="overlay"></div>
+								<img class="img-fluid w-100" src="img/category/c7.jpg" alt="">
+								<a href="img/category/c7.jpg" class="img-pop-up" target="_blank">
+									<div class="deal-details">
+										<h6 class="deal-title">Газета Ру</h6>
+									</div>
+								</a>
+							</div>
+						</div>
+                        
+                        
+                        <div class="col-lg-12 col-md-12">
+							<div class="services">
+								<div class="overlay-1">
+								
+                                <p>На четвертой строчке рейтинга оказался не весь сайт, а только спортивный раздел средства массовой информации. В нем трудятся профессиональные журналисты, которые делают мастерские заголовки, находят цепляющие материалы, оттого сайт и становится интересным. Большая часть заметок о российских спортсменах. Уникальных пользователей в сутки на сайте не менее 191 тысячи.
+                                </p>
+                                <p>Стоит отметить, что новости, размещаемые на портале, касаются не только спорта, но и других аспектов жизни: политика, экономика, здоровье, общественная жизнь. Однако спорту посвящена львиная доля текстового пространства.
+                                </p>
+                                    </div>
+							</div>
+						</div>
+                        <div class="col-lg-12 col-md-12">
+							
+                                <h6>5 место - <a target="_blank" href="https://matchtv.ru/">Матч ТВ</a></h6>
+                            <div class="single-deal">
+								<div class="overlay"></div>
+								<img class="img-fluid w-100" src="img/category/c1.jpg" alt="">
+								<a href="img/category/c1.jpg" class="img-pop-up" target="_blank">
+									<div class="deal-details">
+										<h6 class="deal-title">Матч ТВ</h6>
+									</div>
+								</a>
+							</div>
+						</div>
+                        
+                        <div class="col-lg-12 col-md-12 overlay-2">
+							<div class="services">
+								<div class="overlay-1">
+								
+                                <p>Сайт спортивного канала на ТВ становится не менее популярным, чем передачи на самом канале. На сайте размещаются анонсы предстоящих событий, можно посмотреть прямой эфир игр, результаты и обзоры, почитать комментарии экспертов. Каждый вид спортивных событий находится в своей "ячейке", чтобы юзерам было легче искать. Дизайнерские решения сайта тоже на высоте. Каждый день его просматривает почти 159 тысяч человек.
+                                </p>
+                                <p class="end">Ресурс, как и одноименный телеканал, был не раз замешан в скандалах, связанных с пустой тратой выделенных средств, а также копированием спортивных передач как из-за рубежа, так и у популярных блогеров.
+                                </p>
+                                    </div>
+							</div>
+						</div>
+                        
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+    
+	<!-- End category Area -->
+    
+    
+    
+	<!-- start footer Area -->
+	<footer class="footer-area section_gap">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6  col-md-6 col-sm-6">
+					<div class="single-footer-widget">
+						<h6>О нас</h6>
+						<p>
+							Наш сайт помогает любителям спорта находить качественные ресурсы с новостями о футболе, хоккее, баскетболе и других играх.
+						</p>
+					</div>
+				</div>
+				
+				
+				<div class="col-lg-6 col-md-6 col-sm-6">
+					<div class="single-footer-widget">
+						<h6>Подписывайтесь</h6>
+						<p>Следите за нашими соц.сетями</p>
+						<div class="footer-social d-flex align-items-center">
+							<a href="#"><i class="fa fa-facebook"></i></a>
+							<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-dribbble"></i></a>
+							<a href="#"><i class="fa fa-behance"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</footer>
+	<!-- End footer Area -->
+
+	<script src="js/vendor/jquery-2.2.4.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+	 crossorigin="anonymous"></script>
+	<script src="js/vendor/bootstrap.min.js"></script>
+	<script src="js/jquery.ajaxchimp.min.js"></script>
+	<script src="js/jquery.nice-select.min.js"></script>
+	<script src="js/jquery.sticky.js"></script>
+	<script src="js/nouislider.min.js"></script>
+	<script src="js/countdown.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<!--gmaps Js-->
+	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+	<script src="js/gmaps.min.js"></script>
+	<script src="js/main.js"></script>
+</body>
+
+</html>

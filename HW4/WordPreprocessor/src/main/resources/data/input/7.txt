@@ -1,0 +1,848 @@
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html id="nojs">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name='yandex-verification' content='53769e35c0a6b76a'/>
+    
+    
+        <title>
+            
+                
+                    Всероссийская федерация самбо
+                
+            
+        </title>
+    
+
+    <link rel="icon" href="/favicon.ico"/>
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <link href="/media/css/reset.css" type="text/css" rel="stylesheet" media="all"/>
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/press/rss/"/>
+
+    
+        <link href="/media/css/main.css?1704892464" type="text/css" rel="stylesheet" media="all"/>
+        <link href="/media/css/inner.css?1347656415" rel="stylesheet" media="all"/>
+        <!--[if IE 7]><link href="/media/css/ie7.css?1347656415" type="text/css" rel="stylesheet" media="all"/><![endif]-->
+        <!--[if IE 8]><link href="/media/css/ie8.css?1347656415" type="text/css" rel="stylesheet" media="all"/><![endif]-->
+        <link rel="stylesheet" href="/media/css/slider.css?1347656415" type="text/css" media="all"/>
+    
+
+    
+
+    
+        <script src="/media/js/jquery-1.5.2.min.js?1347656424" type="text/javascript"></script>
+        <script src="/media/js/slider.js?1347656424" type="text/javascript"></script>
+        <script src="/media/js/carousel.js?1347656424" type="text/javascript"></script>
+    
+
+    
+
+</head>
+<body>
+    <div style="width: 100%;height: 50px;background: #f9f2e2;display: inline-flex;align-items: center;justify-content: center; font-size: 20px; font-weight: bold"><a href="https://new.sambo.ru">Перейти на новый сайт ВФС</a></div>
+    
+    <div class="g-layout">
+        
+        <div class="g-header">
+            <div class="b-top-links">
+                <div style="margin-top: 8px">
+                    <a class="sitemap" href="/federation/regions/">Региональные отделения</a>
+                    <a class="search" href="/search/" style="margin-left: 10px">Поиск по сайту</a>
+                </div>
+            </div>
+            <div class="b-header-content">
+            <div class="b-logo" align="center">
+                
+                <img class="logo" src="/media/i/logo2.png" alt="Всероссийская федерация самбо"/>
+                
+
+            </div>
+            <table class="b-navigation">
+                <tr>
+                    <td>
+                        <ul>
+                            
+                                <li>
+                                    
+                                        <a href="/sambo/">Самбо</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/federation/">Федерация</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/commission/">Комиссии</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/documents/">Документы</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/sportsmans/">Спортсмены</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/events/">Соревнования</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/press/">Пресс-служба</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/photo/">Фотоархив</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/special/">Спецпроекты</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/ekipirovka/">Экипировка для самбо</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="https://is.sambo.ru/">Регистрация</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/muzej_sambo/">Музей самбо</a>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+                                        <a href="/statistika-sorevnovanij/">Статистика соревнований</a>
+                                    
+                                </li>
+                            
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+            <div class="b-organisations">
+    
+        <div>
+            <a href="http://www.minsport.gov.ru/" title="Министерство спорта, туризма и молодежной политики Российской Федерации" target="blank"><img src="/media/federation/orgs/minsport.normal.png" alt="Министерство спорта, туризма и молодежной политики Российской Федерации"></a>
+        </div>
+    
+        <div>
+            <a href="http://www.olympic.ru/" title="Олимпийский Комитет России" target="blank"><img src="/media/federation/orgs/roc_1.png" alt="Олимпийский Комитет России"></a>
+        </div>
+    
+        <div>
+            <a href="http://www.rsbi.ru/" title="Российский Союз Боевых Искусств" target="blank"><img src="/media/federation/orgs/rsbi.png" alt="Российский Союз Боевых Искусств"></a>
+        </div>
+    
+        <div>
+            <a href="http://sambo-fias.org/" title="Международная федерация самбо" target="blank"><img src="/media/federation/orgs/0001_1.jpg" alt="Международная федерация самбо"></a>
+        </div>
+    
+        <div>
+            <a href="http://eurosambo.com/" title="Европейская федерация самбо" target="blank"><img src="/media/federation/orgs/esf.png" alt="Европейская федерация самбо"></a>
+        </div>
+    
+        <div>
+            <a href="http://www.studsport.ru/" title="Российский cтуденческий cпортивный cоюз" target="blank"><img src="/media/federation/orgs/rssu_1.png" alt="Российский cтуденческий cпортивный cоюз"></a>
+        </div>
+    
+        <div>
+            <a href="https://t.me/za_sambo" title="ZaСамбо" target="blank"><img src="/media/federation/orgs/zasambo_2.png" alt="ZaСамбо"></a>
+        </div>
+    
+</div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        
+        
+    <table class="b-main-anonses">
+        <tr valign="top">
+            <td class="b-important-events">
+                
+<div id="slider">
+    <i class="t-l">
+        <i class="t-r"></i>
+    </i>
+    <div class="main">
+    
+        
+        <a href="/events/2026/02/4685/"><img src="/media/tizers/mt_belarus.jpg" alt="Международный турнир на призы президента Республики Беларусь по самбо" title="#4685" /></a>
+        
+    
+        
+        <a href="/events/2026/02/4688/"><img src="/media/tizers/pr20.jpg" alt="Первенство России по самбо" title="#4688" /></a>
+        
+    
+        
+        <a href="/events/2026/03/4696/"><img src="/media/tizers/chr_sajt_1.jpg" alt="Чемпионат России по самбо" title="#4696" /></a>
+        
+    
+        
+        <a href="/events/2026/03/4718/"><img src="/media/tizers/chr_zh_bs_sajt.jpg" alt="Чемпионат России по боевому самбо среди женщин" title="#4718" /></a>
+        
+    
+        
+        <a href="/events/2026/03/4721/"><img src="/media/tizers/kubok_osnovpolozhnikov.jpg" alt="Международные соревнования «Кубок основоположников самбо» " title="#4721" /></a>
+        
+    
+    </div>
+    <i class="b-l">
+        <i class="b-r"></i>
+    </i>
+</div>
+
+
+<div id="4685" class="slider-caption">
+    <b class="date">13—16 февраля</b>
+    <h2><a href="/events/2026/02/4685/">Международный турнир на призы президента Республики Беларусь по самбо</a></h2>
+    <b class="location">Беларусь, Минск</b>
+  
+</div>
+
+<div id="4688" class="slider-caption">
+    <b class="date">19—23 февраля</b>
+    <h2><a href="/events/2026/02/4688/">Первенство России по самбо</a></h2>
+    <b class="location">Россия, Казань</b>
+  
+</div>
+
+<div id="4696" class="slider-caption">
+    <b class="date">01—6 марта</b>
+    <h2><a href="/events/2026/03/4696/">Чемпионат России по самбо</a></h2>
+    <b class="location">Россия, Санкт-Петербург</b>
+  
+</div>
+
+<div id="4718" class="slider-caption">
+    <b class="date">20—22 марта</b>
+    <h2><a href="/events/2026/03/4718/">Чемпионат России по боевому самбо среди женщин</a></h2>
+    <b class="location">Россия, Серпухов</b>
+  
+</div>
+
+<div id="4721" class="slider-caption">
+    <b class="date">23—26 марта</b>
+    <h2><a href="/events/2026/03/4721/">Международные соревнования «Кубок основоположников самбо» </a></h2>
+    <b class="location">Россия, Москва</b>
+  
+</div>
+
+
+
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').slider({
+            effect:'sliceUpDown',
+            slices:1,
+            animSpeed:500,
+            pauseTime:5000,
+            startSlide:0,
+            directionNav:true,
+            directionNavHide:true,
+            controlNav:true,
+            controlNavThumbs:false,
+            keyboardNav:true,
+            pauseOnHover:true,
+            manualAdvance:false,
+            captionOpacity:0.8,
+            prevText: 'Prev',
+            nextText: 'Next'
+        });
+    });
+</script>
+            </td>
+            <td class="spacer">&nbsp;</td>
+            <td class="b-most-important-events">
+                <div class="b-carousel">
+    <div id="carousel">
+        <ul>
+        
+            
+            <li style="background:url('/media/tizers/slogan_vfs_1.png');">
+                
+                    <a title="">
+                        <div></div>
+                    </a>
+                
+            </li>
+            
+        
+            
+            <li style="background:url('/media/tizers/slogan_vfs_2.png');">
+                
+                    <a title="">
+                        <div></div>
+                    </a>
+                
+            </li>
+            
+        
+            
+            <li style="background:url('/media/tizers/slogan_vfs_3.png');">
+                
+                    <a title="">
+                        <div></div>
+                    </a>
+                
+            </li>
+            
+        
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    $("#carousel").jCarouselLite({
+        vertical: true,
+        auto: 5000,
+        speed: 500
+    });
+</script>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table class="b-recent-events">
+    
+    <tr>
+        <td class="date">21—23 февраля</td>
+        <td class="title">
+            
+                <a href="/events/2026/02/4690/">Первенство Северо-Западного федерального округа России по самбо</a>
+            
+            <i><nobr>Россия, Архангельск</nobr></i>
+        </td>
+    </tr>
+    
+    <tr>
+        <td class="date">22—24 февраля</td>
+        <td class="title">
+            
+                <a href="/events/2026/02/4698/">Всероссийские соревнования памяти Д.А. Корнеева, погибшего при исполнении служебного долга в ходе СВО по самбо</a>
+            
+            <i><nobr>Россия, Москва</nobr></i>
+        </td>
+    </tr>
+    
+    <tr>
+        <td class="date">22—25 февраля</td>
+        <td class="title">
+            
+                <a href="/events/2026/02/4881/">Первенство Сибирского федерального округа России по самбо</a>
+            
+            <i><nobr>Россия, Горно-Алтайск</nobr></i>
+        </td>
+    </tr>
+    
+</table>
+            </td>
+            <td class="spacer"></td>
+            <td class="b-important-articles">
+                
+<h3><a href="/press/important/">Важные материалы</a></h3>
+<ul>
+    
+    
+        <li><a href="/press/important/2026/11772/">РУСАДА представляет Запрещённый список 2026 года</a></li></li>
+    
+        <li><a href="/press/important/2024/9879/">Российский университет спорта «ГЦОЛИФК» Приглашает абитуриентов!</a></li></li>
+    
+        <li><a href="/press/important/2022/9052/">О распределении средств, полученных в виде целевых отчислений от ППК «Единый регулятор азартных игр»
+</a></li></li>
+    
+    
+</ul>
+            </td>
+        </tr>
+    </table>
+    <table class="b-main-news">
+        <tr>
+            <td class="b-recent-news">
+                
+<h3><a href="/press/news/">Новости самбо</a></h3>
+
+    <div class="top-container">
+<ul class="top">
+    
+        
+            <li><a href="/press/news/2026/11856/">ВФС разъяснила порядок использования нашивок на соревнованиях 2026 года</a></li></li>
+        
+            <li><a href="/press/news/2026/11836/">АККРЕДИТАЦИЯ СМИ НА ЧЕМПИОНАТ РОССИИ 2026</a></li></li>
+        
+            <li><a href="/press/news/2025/11770/">НАВСТРЕЧУ ЧЕМПИОНАТУ РОССИИ 2026</a></li></li>
+        
+            <li><a href="/press/news/2025/11744/">Российским и белорусским самбистам вернули право выступать на международных соревнованиях под своим национальным флагом и гимном</a></li></li>
+        
+            <li><a href="/press/news/2025/11471/">СОЦИАЛЬНЫЕ СЕТИ ЛИГИ БОЕВОГО САМБО</a></li></li>
+        
+    
+</ul>
+    </div>
+
+<ul class="articles">
+    
+    
+        <li><a href="/press/news/2026/11857/">Всероссийская федерация самбо благодарит за многолетнее сотрудничество экс-министра спорта Краснодарского края Серафима Тимченко</a></li></li>
+    
+        <li><a href="/press/news/2026/11856/">ВФС разъяснила порядок использования нашивок на соревнованиях 2026 года</a></li></li>
+    
+        <li><a href="/press/news/2026/11855/">В Казани определят состав юниорской сборной России на первенства Европы и мира</a></li></li>
+    
+        <li><a href="/press/news/2026/11854/">28 февраля пройдут Всероссийские соревнований по самбо «Памяти С.А. Соболева и ветеранов самбо Бурятии»</a></li></li>
+    
+        <li><a href="/press/news/2026/11853/">ОТЧЁТНЫЙ РОЛИК О ПЕРВЕНСТВЕ РОССИИ В КРАСНОДАРЕ</a></li></li>
+    
+        <li><a href="/press/news/2026/11852/">30-й Международный турнир на призы Президента Республики Беларусь завершён</a></li></li>
+    
+        <li><a href="/press/news/2026/11851/">Результаты второго дня Международного турнира на призы президента Республики Беларусь</a></li></li>
+    
+        <li>ПРЯМОЙ ЭФИР: <a href="/press/news/2026/11850/">Международный турнир на призы президента Республики Беларусь | 2 день ФИНАЛЫ</a></li></li>
+    
+    
+</ul>
+
+                
+<h3><a href="/press/publications/">Статьи и публикации в СМИ</a></h3>
+<table class="b-main-publications">
+    <tr>
+        
+
+        <th>
+            <div>
+                
+                <div style="background-image: url('/media/articles/9800/icon_1.jpg')">
+                    <a href="/press/publications/2022/9800/"><img src="/media/i/articles_mask_80.png" alt="Владимир Путин подписал Указ о праздновании Дня самбо"></a>
+                </div>
+                
+            </div>
+        </th>
+
+        
+
+        <th>
+            <div>
+                
+                <div style="background-image: url('/media/articles/8405/icon.jpg')">
+                    <a href="/press/publications/2021/8405/"><img src="/media/i/articles_mask_80.png" alt="Сергей Елисеев: &quot;Сегодня самбо официально сталo олимпийским видом спорта!&quot;"></a>
+                </div>
+                
+            </div>
+        </th>
+
+        
+
+        <th>
+            <div>
+                
+                <div style="background-image: url('/media/articles/7547/icon.jpg')">
+                    <a href="/press/publications/2020/7547/"><img src="/media/i/articles_mask_80.png" alt="Сергей Елисеев: &quot;За 30 лет создания Всероссийской федерации самбо мы прошли большой путь&quot;"></a>
+                </div>
+                
+            </div>
+        </th>
+
+        
+    </tr>
+    <tr>
+        
+        
+            <td>
+            <a href="/press/publications/2022/9800/">Владимир Путин подписал Указ о праздновании Дня самбо</a>
+            </td>
+        
+            <td>
+            Сергей Елисеев: <a href="/press/publications/2021/8405/">"Сегодня самбо официально сталo олимпийским видом спорта!"</a>
+            </td>
+        
+            <td>
+            Сергей Елисеев: <a href="/press/publications/2020/7547/">"За 30 лет создания Всероссийской федерации самбо мы прошли большой путь"</a>
+            </td>
+        
+        
+    </tr>
+</table>
+            </td>
+            <td class="spacer"></td>
+            <td class="b-twitter">
+                
+
+
+
+    <div class="b-projects">
+        <h3><a href="/special/">Спецпроекты ВФС</a></h3>
+        <div>
+            <ul>
+                
+                    <li><a href="/special/school_programm/">Всероссийский проект &quot;Самбо - в школу!&quot;</a></li>
+                
+                    <li><a href="/special/student_program/">Студенческое самбо</a></li>
+                
+                    <li><a href="/special/liga_combatsambo/">Лига Боевого самбо</a></li>
+                
+                    <li><a href="/special/sambo_day/">Всероссийский день самбо</a></li>
+                
+                    <li><a href="/special/za_sambo/"> &quot;Zа самбо&quot;</a></li>
+                
+                    <li><a href="/special/pobeda/">Патриотическое воспитание детей. Международный юношеский турнир «Победа».</a></li>
+                
+                    <li><a href="/special/komanda_sambo/">&quot;Команда самбо&quot;</a></li>
+                
+                    <li><a href="/special/sambo_v_GTO/">Самбо в ГТО</a></li>
+                
+            </ul>
+        </div>
+    </div>
+
+
+                
+
+
+    <div class=" b-congratulations">
+        
+
+        <h5>Ближайшие <span>Дни Рождения</span></h5>
+        <div>
+            <ul>
+                
+                    <li>
+                        <span class="date">23 февраля</span>
+                        <b>Полтавченко Георгий Сергеевич</b>
+
+
+
+                    </li>
+                
+                    <li>
+                        <span class="date">6 марта</span>
+                        <b>Грифина Алина Дмитриевна</b>
+
+
+
+                    </li>
+                
+                    <li>
+                        <span class="date">7 марта</span>
+                        <b>Кононов Константин Юрьевич</b>
+
+
+
+                    </li>
+                
+                    <li>
+                        <span class="date">9 марта</span>
+                        <b>Бородаенко Владимир Николаевич</b>
+
+
+
+                    </li>
+                
+                    <li>
+                        <span class="date">15 марта</span>
+                        <b>Буланцов Андрей Михайлович</b>
+
+
+
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+    <style>
+
+    </style>
+
+
+            </td>
+        </tr>
+    </table>
+    <div class="b-main-event-box">
+        <h3 align="center">Прошедшие <a href="/events/">соревнования</a> и <a href="/events/">мероприятия</a>
+        </h3>
+        <table class="b-main-last-events">
+    <tr class="icons">
+        
+            <td align="center">
+                <div>
+                    
+                        <div style="background-image: url('/media/photos/4677/icon.jpg')">
+                            <a href="/events/2026/02/4677/"><img src="/media/i/events_mask_80_f5.png" alt="Международные соревнования «Лига боевого самбо»"></a>
+                        </div>
+                        <div class="flag">
+                            <img src="/media/i/flags/ru.png"/>
+                        </div>
+                    
+                </div>
+            </td>
+        
+            <td align="center">
+                <div>
+                    
+                        <div style="background-image: url('/media/photos/4671/icon.jpg')">
+                            <a href="/events/2026/01/4671/"><img src="/media/i/events_mask_80_f5.png" alt="Первенство России по самбо"></a>
+                        </div>
+                        <div class="flag">
+                            <img src="/media/i/flags/ru.png"/>
+                        </div>
+                    
+                </div>
+            </td>
+        
+            <td align="center">
+                <div>
+                    
+                        <div style="background-image: url('/media/photos/4695/icon.jpg')">
+                            <a href="/events/2026/01/4695/"><img src="/media/i/events_mask_80_f5.png" alt="Всероссийские соревнования по самбо"></a>
+                        </div>
+                        <div class="flag">
+                            <img src="/media/i/flags/ru.png"/>
+                        </div>
+                    
+                </div>
+            </td>
+        
+            <td align="center">
+                <div>
+                    
+                        <div style="background-image: url('/media/photos/4664/icon.jpg')">
+                            <a href="/events/2026/01/4664/"><img src="/media/i/events_mask_80_f5.png" alt="Первенство России по самбо"></a>
+                        </div>
+                        <div class="flag">
+                            <img src="/media/i/flags/ru.png"/>
+                        </div>
+                    
+                </div>
+            </td>
+        
+            <td align="center">
+                <div>
+                    
+                        <div style="background-image: url('/media/photos/4663/icon.jpg')">
+                            <a href="/events/2026/01/4663/"><img src="/media/i/events_mask_80_f5.png" alt="Всероссийские соревнования памяти В.С. Ощепкова по самбо"></a>
+                        </div>
+                        <div class="flag">
+                            <img src="/media/i/flags/ru.png"/>
+                        </div>
+                    
+                </div>
+            </td>
+        
+    </tr>
+    <tr>
+        
+            
+                <td align="center">
+                    <b class="date">06—8 февраля</b>
+                    <a href="/events/2026/02/4677/">Международные соревнования «Лига боевого самбо»</a>
+                    
+                    
+                    
+                    <b class="location">Россия, Новый Уренгой</b>
+                </td>
+            
+                <td align="center">
+                    <b class="date">29 января—3 февраля</b>
+                    <a href="/events/2026/01/4671/">Первенство России по самбо</a>
+                    
+                    
+                    
+                    <b class="location">Россия, Краснодар</b>
+                </td>
+            
+                <td align="center">
+                    <b class="date">19—23 января</b>
+                    <a href="/events/2026/01/4695/">Всероссийские соревнования по самбо</a>
+                    
+                    
+                    
+                    <b class="location">Россия, Кстово</b>
+                </td>
+            
+                <td align="center">
+                    <b class="date">19—23 января</b>
+                    <a href="/events/2026/01/4664/">Первенство России по самбо</a>
+                    
+                    
+                    
+                    <b class="location">Россия, Кстово</b>
+                </td>
+            
+                <td align="center">
+                    <b class="date">17—20 января</b>
+                    <a href="/events/2026/01/4663/">Всероссийские соревнования памяти В.С. Ощепкова по самбо</a>
+                    
+                    
+                    
+                    <b class="location">Россия, Омск</b>
+                </td>
+            
+        
+    </tr>
+</table>
+    </div>
+    <div class="b-partners">
+    <h4>Генеральный партнер федерации</h4>
+    <div>
+    
+        <div>
+            
+                <a href="https://www.gazprombank.ru/" title="ГАЗПРОМБАНК" target="blank">
+                    <img src="/media/federation/partners/sajt_600.jpg" alt="ГАЗПРОМБАНК">
+                </a>
+            
+        </div>
+    
+    </div>
+</div>
+<br><br><br>
+
+<div class="b-partners">
+    <h4>Партнеры федерации</h4>
+    <div>
+    
+        <div>
+            
+                <a href="https://www.aoeks.ru/" title="EKC" target="blank">
+                    <img src="/media/federation/partners/50eks.jpg" alt="EKC">
+                </a>
+            
+        </div>
+    
+        <div>
+            
+                <a href="https://norgroup.ru/" title="NORGROUP" target="blank">
+                    <img src="/media/federation/partners/50norg.png" alt="NORGROUP">
+                </a>
+            
+        </div>
+    
+        <div>
+            
+                <a href="http://www.forward-sport.ru/" title="1. FORWARD - Первый национальный бренд спортивной одежды" target="blank">
+                    <img src="/media/federation/partners/50.jpg" alt="1. FORWARD - Первый национальный бренд спортивной одежды">
+                </a>
+            
+        </div>
+    
+        <div>
+            
+                <a href="https://www.russoutdoor.ru/" title="Russ Outdoor" target="blank">
+                    <img src="/media/federation/partners/50_3.jpg" alt="Russ Outdoor">
+                </a>
+            
+        </div>
+    
+        <div>
+            
+                <a href="https://www.rossiya-airlines.ru/" title="Авиакомпания &quot;Россия&quot;" target="blank">
+                    <img src="/media/federation/partners/35_vysota_dlya_sajta.jpg" alt="Авиакомпания &quot;Россия&quot;">
+                </a>
+            
+        </div>
+    
+    </div>
+</div>
+<br><br>
+
+<!--
+<div class="b-info-partners">
+    <h4>Информационные партнеры</h4>
+    <div>
+    
+    </div>
+</div>
+-->
+
+
+        
+        <table class="g-footer">
+            <tr>
+                <td class="b-left">
+                    <table>
+                        <tr>
+                            <td class="b-add-links">
+                                
+                                    <ul>
+                                        <li><a href="/federation/properties/">Контактная информация</a></li>
+                                        <li><a href="/federation/regions/">Региональные отделения</a>
+                                        </li>
+                                    </ul>
+                                
+                            </td>
+                            <td class="b-social-links">
+                                
+                                <ul>
+                                    <li><a href="/press/news/rss/">RSS лента новостей</a></li>
+                                    <li><a target="_blank" href="https://vk.com/sambo_federation">ВКонтакте</a></li>
+                                    <li><a target="_blank" href="https://www.youtube.com/user/sambopress">YouTube</a></li>
+                                </ul>
+                                
+                            </td>
+                            <td class="b-properties">
+                                <div>
+                                    
+                                    <p class="copyright">
+                                        &copy; 2003&mdash;2026 ОФ-СОО &laquo;Всероссийская федерация
+                                        самбо&raquo;
+                                    </p>
+                                    
+                                    
+                                    <p class="address">
+                                        Россия, Москва, Лужнецкая набережная, 8, стр 1,<br/>
+                                        Телефон: +7 (499) 530-00-47, +7 (916) 008-00-47<br/>
+                                        <!-- Факсы: +7 (495)725-46-83, +7 (499) 557-04-46 -->
+                                    </p>
+                                    
+                                    
+                                    <p class="email">
+                                        <a href="mailto:sambo@sambo.ru">sambo@sambo.ru</a>
+                                    </p>
+                                    
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+                <td class="spacer"></td>
+                <td class="b-right">
+
+                </td>
+            </tr>
+        </table>
+        
+    </div>
+    
+    <!-- Yandex.Metrika counter --><script type="text/javascript">(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter10609789 = new Ya.Metrika({id:10609789, enableAll: true, webvisor:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f); } else { f(); } })(document, window, "yandex_metrika_callbacks");</script><noscript><div><img src="//mc.yandex.ru/watch/10609789" style="position:absolute; left:-9999px;" alt="" /></div></noscript><!-- /Yandex.Metrika counter -->
+</body>
+</html>
+

@@ -1,0 +1,1275 @@
+<!DOCTYPE html>
+
+  
+  
+<html xml:lang="ru-ru" lang="ru-ru" dir="ltr" class="bootstrap2 homepage com_content view-featured top_menu_flexible">
+<head>
+  
+  
+<base href="https://www.hockey-world.net/" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="новости хоккея, кхл, нхл, nhl, вхл, евротур, чемпионат мира, мир хоккея, онлайн трансляции, таблицы, результаты матчей, сборная России" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+	<meta name="description" content="Новости хоккея на Hockey-world.net: КХЛ, NHL, ВХЛ, Евротур, Чемпионат мира, Олимпиада" />
+	<title>Новости хоккея: КХЛ, НХЛ, чемпионат, евротур, онлайн трансляции - Мир хоккея</title>
+	<link href="/templates/hockey-world/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/components/com_jcomments/tpl/default/style.css?v=3002" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_jasidenews/asset/style.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_bt_login/tmpl/css/style2.0.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/yjsg/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/hockey-world/css_compiled/bootstrap-blue.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/yjsg/legacy/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/hockey-world/css/menus.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/hockey-world/css/layout.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/hockey-world/css/blue.css" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/yjsg/legacy/css/yjresponsive.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/hockey-world/css/custom_responsive.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+body{font-size:13px;}#logo{width:29.67%;height:60px;}#logo a{height:60px;}.yjsgsitew{width:1200px;}.yjsgheadergw{width:70.33%;}#midblock{width:55%;}#leftblock{width:19.5%;}#rightblock{width:23.5%;}{width:45%;}#logo{background: url(https://www.hockey-world.net/images/stories/banner/new-logo4.png)  no-repeat 0px 0px; !important;}.horiznav li li,.horiznav ul ul a, .horiznav li ul,.YJSG_listContainer{width:200px;}.horiznav li ul ul,.subul_main.group_holder ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main, .subul_main.group_holder ul.subul_main ul.subul_main ul.subul_main ul.subul_main,.horiznav li li li:hover ul.dropline{margin-top: -32px!important;margin-left:95%!important;}.top_menu ul.subul_main.dropline.group_holder li.holdsgroup > ul.subul_main{margin:0!important;padding-top:10px!important;padding-bottom:10px!important;}a,.sryouyork .yjme_item a.item_title:hover,.srnewsflash4 a.itemtitle:hover,.link_expanded:hover,.srnewsflash5  a.itemtitle,.yj6 h2.module_title,.yj6 h2.module_title span,.yj_readmore_is:hover,.LiveSearchResults .LiveSearchResultHover,.LiveSearchResults a.hovered,.LiveSearchResults a:HOVER,.srmbox h5.box_title,.srstandings ul#myTab li.active a,.srtweets .icon-twitter-sign,.srtweets .yj_twitter_title a:hover,.srtweets div.yj_twitter_follow a:hover,.yj1 h2.module_title,.yj1 h2.module_title span{color:#1f75b4;}.button,.button:hover,.validate,a.readon,.top_menu ul li a:hover,.top_menu li.active a.activepath,.top_menu ul.subul_main li a:hover,.top_menu ul.subul_main li a.activepath,.yj_cat,.yj_readmore,.yj_readmore2:hover,.srnewsflash4 .pagination_yjn.pagination_yjn_on,.srmbox .bot_caption,.srmbox .bot_captionv,.link_expanded:hover .icon-angle-right,ul.catItemTags li,ul.itemTags li,div.itemComments ul.itemCommentsList li span.commentLink:hover,div.k2TagCloudBlock a,.yj_readmore_is:hover .icon-angle-right,.yj_effect:hover,.srmbox .popbox,.srmbox .popboxv,.LiveSearchResults a.next:hover,.LiveSearchResults a.back:hover,.srimageslider:hover .YJS_slidesholder,.srtweets div.yj_twitter_follow a:hover .icon-angle-right,ul.srlist li:hover span,.srlivesearch .icon-search,.srstandings ul#myTab,div.itemCommentsForm form input#submitCommentButton,.sr_socials li:hover .icon-twitter,.sr_socials li:hover .icon-facebook,.sr_socials li:hover .icon-google-plus,.sr_socials li:hover .icon-linkedin,.sr_socials li:hover .icon-flickr,.sryouyork .yy_container .linkBackward:hover,.sryouyork .yy_container .linkForward:hover,.srnewsflash5 .yjnf5_nav .navup:hover,.srnewsflash5 .yjnf5_nav .navdown:hover{background:#1f75b4;}.yj_readmore .icon-angle-right,.yj_readmore2:hover .icon-angle-right,.srmbox .icon-play-sign,ul.catItemTags li:hover,ul.itemTags li:hover{background:#185988;}[class*='yjsg-button-color']{background:#1f75b4;}[class*='yjsg-button-color']:hover{background:#1b679e;}#typosticky.yjsg-sticky.fixed{max-width:1200px;margin:0 auto;padding:15px;}.yjsg-sub-heading,.yjsg-sticky-menu a.active-scroll,[data-sticky-block] a.active-scroll:before{border-color:#1f75b4;}[class*='facolor'].fa:before{color:#1f75b4;}body.pattern6,.pattern6{background-color:#f3f8fc;background-image: url(https://www.hockey-world.net/templates/hockey-world/images/patterns/pattern6.jpg);}#header1.yjsgxhtml{width:75.00%;}#header2.yjsgxhtml{width:25.00%;}#adv1.yjsgxhtml{width:100.00%;}#user20.yjsgxhtml{width:100.00%;}#user21.yjsgxhtml{width:100.00%;}
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"0a030d450274534c3c43fa59ba0d5511","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?66627e5ad59c8268bfa0d0261994e9f6" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?66627e5ad59c8268bfa0d0261994e9f6" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?66627e5ad59c8268bfa0d0261994e9f6" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?66627e5ad59c8268bfa0d0261994e9f6" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?66627e5ad59c8268bfa0d0261994e9f6" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?66627e5ad59c8268bfa0d0261994e9f6" type="text/javascript"></script>
+	<script src="/plugins/system/yjsg/assets/src/yjsg.jquicustom.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/yjsg/assets/bootstrap2/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/yjsg/legacy/src/yjresponsive.js" type="text/javascript"></script>
+	<script src="/plugins/system/yjsg/legacy/src/yjsg.smoothdrop.js" type="text/javascript"></script>
+	<script src="/plugins/system/yjsg/assets/src/yjsg.site.plugins.js" type="text/javascript"></script>
+	<script src="/plugins/system/yjsg/assets/src/yjsg.site.js" type="text/javascript"></script>
+	<script src="/plugins/system/yjsg/assets/src/magnific/yjsg.magnific.popup.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_jasidenews/asset/script.js" type="text/javascript"></script>
+	<script src="/modules/mod_bt_login/tmpl/js/jquery.simplemodal.js" type="text/javascript"></script>
+	<script src="/modules/mod_bt_login/tmpl/js/default.js" type="text/javascript"></script>
+	<script src="/media/plg_captcha_recaptcha/js/recaptcha.min.js?66627e5ad59c8268bfa0d0261994e9f6" type="text/javascript"></script>
+	<script src="https://www.google.com/recaptcha/api.js?onload=JoomlaInitReCaptcha2&render=explicit&hl=ru-RU" type="text/javascript"></script>
+	<script src="/templates/hockey-world/src/styles.js" type="text/javascript"></script>
+	<script type="text/javascript">
+jQuery(function($){ initTooltips(); $("body").on("subform-row-add", initTooltips); function initTooltips (event, container) { container = container || document;$(container).find(".hasTooltip").tooltip({"html": true,"container": "body"});} });
+	</script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<!-- Yandex.RTB -->
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
+  
+</head>
+<body id="stylef6" class="yjsgbody style_blue yjsgbr- pattern6 ispattern">
+<div class="outholder yjsgsitew">
+	<div id="centertop" class="yjsgsitew">
+		 <!--header-->
+<div id="header">
+      <div id="logo">
+           <a href="https://www.hockey-world.net/"></a>
+          </div>
+    <!-- end logo -->
+   <div id="yjsgheadergrid" class="yjsg_grid yjsgheadergw"><div id="header1" class="yjsgxhtml first_mod"><div class="yjsquare modid284"><div class="yjsquare_in"><p>
+<div class="ya-site-form ya-site-form_inited_no" onclick="return {'action':'http://www.hockey-world.net/search-page','arrow':false,'bg':'#1F75B4','fontsize':12,'fg':'#000000','language':'ru','logo':'rb','publicname':'Поиск по hockey-world.net','suggest':true,'target':'_self','tld':'ru','type':2,'usebigdictionary':true,'searchid':2185311,'webopt':false,'websearch':false,'input_fg':'#000000','input_bg':'#ffffff','input_fontStyle':'normal','input_fontWeight':'normal','input_placeholder':'Поиск','input_placeholderColor':'#000000','input_borderColor':'#7f9db9'}"><form action="https://yandex.ru/sitesearch" method="get" target="_self"><input type="hidden" name="searchid" value="2185311"/><input type="hidden" name="l10n" value="ru"/><input type="hidden" name="reqenc" value=""/><input type="search" name="text" value=""/><input type="submit" value="Найти"/></form></div><style type="text/css">.ya-page_js_yes .ya-site-form_inited_no { display: none; }</style><script type="text/javascript">(function(w,d,c){var s=d.createElement('script'),h=d.getElementsByTagName('script')[0],e=d.documentElement;if((' '+e.className+' ').indexOf(' ya-page_js_yes ')===-1){e.className+=' ya-page_js_yes';}s.type='text/javascript';s.async=true;s.charset='utf-8';s.src=(d.location.protocol==='https:'?'https:':'http:')+'//site.yandex.net/v2.0/js/all.js';h.parentNode.insertBefore(s,h);(w[c]||(w[c]=[])).push(function(){Ya.Site.Form.init()})})(window,document,'yandex_site_callbacks');</script></div></div></div><div id="header2" class="yjsgxhtml lastModule"><div class="yjsquare modid352"><div class="yjsquare_in"><div id="btl">
+	<!-- Panel top -->	
+	<div class="btl-panel">
+					<!-- Login button -->
+						<span id="btl-panel-login" class="btl-modal">Войти</span>
+						<!-- Registration button -->
+						<span id="btl-panel-registration" class="btl-modal">Регистрация</span>
+						
+			
+			</div>
+	<!-- content dropdown/modal box -->
+	<div id="btl-content">
+			
+		<!-- Form login -->	
+		<div id="btl-content-login" class="btl-content-block">
+						
+			<!-- if not integrated any component -->
+						<form name="btl-formlogin" class="btl-formlogin" action="/" method="post">
+				<div id="btl-login-in-process"></div>	
+				<h3>Вход на сайт</h3>
+									<div id="register-link">
+						Нет аккаунта? <a href="/login-view-registration"> Заведите прямо сейчас! </a>					</div>
+								<div class="btl-error" id="btl-login-error"></div>
+				<div class="btl-field">
+					<div class="btl-label">Логин *</div>
+					<div class="btl-input">
+						<input id="btl-input-username" type="text" name="username"	/>
+					</div>
+				</div>
+				<div class="btl-field">
+					<div class="btl-label">Пароль *</div>
+					<div class="btl-input">
+						<input id="btl-input-password" type="password" name="password" alt="password" />
+					</div>
+				</div>
+				<div class="clear"></div>
+								<div class="btl-field">				
+					
+					<div class="btl-input" id="btl-input-remember">
+						<input id="btl-checkbox-remember"  type="checkbox" name="remember"
+							value="yes" />
+							Запомнить меня					</div>	
+				</div>
+				<div class="clear"></div>
+								<div class="btl-buttonsubmit">
+					<input type="submit" name="Submit" class="btl-buttonsubmit" onclick="return loginAjax()" value="Войти" /> 
+					<input type="hidden" name="bttask" value="login" /> 
+					<input type="hidden" name="return" id="btl-return"	value="aW5kZXgucGhwP0l0ZW1pZD0xMDk=" />
+					<input type="hidden" name="0a030d450274534c3c43fa59ba0d5511" value="1" />				</div>
+			</form>	
+			<ul id ="bt_ul">
+				<li>
+					<a href="/login-view-registration?view=reset">
+					Забыли пароль?</a>
+				</li>
+				<li>
+					<a href="/login-view-registration?view=remind">
+					Забыли логин?</a>
+				</li>				
+			</ul>
+			
+		<!-- if integrated with one component -->
+						
+		</div>
+		
+					
+		<div id="btl-content-registration" class="btl-content-block">			
+			<!-- if not integrated any component -->
+				
+						
+				<form name="btl-formregistration" class="btl-formregistration"  autocomplete="off">
+					<div id="btl-register-in-process"></div>	
+					<h3>Регистрация</h3>
+					<div id="btl-success"></div>
+					<div class="btl-note"><span>Поля со звёздочкой (*) обязательно должны быть заполнены.</span></div>
+					<div id="btl-registration-error" class="btl-error"></div>
+					<div class="btl-field">
+						<div class="btl-label">Имя *</div>
+						<div class="btl-input">
+							<input id="btl-input-name" type="text" name="jform[name]" />
+						</div>
+					</div>			
+					<div class="clear"></div>
+					
+					<div class="btl-field">
+						<div class="btl-label">Логин *</div>
+						<div class="btl-input">
+							<input id="btl-input-username1" type="text" name="jform[username]"  />
+						</div>
+					</div>
+					<div class="clear"></div>
+					
+					<div class="btl-field">
+						<div class="btl-label">Пароль *</div>
+						<div class="btl-input">
+							<input id="btl-input-password1" type="password" name="jform[password1]"  />
+						</div>
+					</div>		
+					<div class="clear"></div>
+					
+					<div class="btl-field">
+						<div class="btl-label">Подтверждение пароля *</div>
+						<div class="btl-input">
+							<input id="btl-input-password2" type="password" name="jform[password2]"  />
+						</div>
+					</div>
+					<div class="clear"></div>
+					
+					<div class="btl-field">
+						<div class="btl-label">Email *</div>
+						<div class="btl-input">
+							<input id="btl-input-email1" type="text" name="jform[email1]" />
+						</div>
+					</div>
+					<div class="clear"></div>
+					<div class="btl-field">
+						<div class="btl-label">Подтверждение email *</div>
+						<div class="btl-input">
+							<input id="btl-input-email2" type="text" name="jform[email2]" />
+						</div>
+					</div>
+					<div class="clear"></div>			
+					<!-- add captcha-->
+										<div class="btl-field">
+						<div class="btl-label">Защита от ботов *</div>
+						<div id="recaptcha"><div id="bt-login-recaptcha" class="bt-login-recaptcha g-recaptcha" data-sitekey="6Lf23CcTAAAAAO7aMOC5aVUMVoC2asgQ0WAZl66I" data-theme="light" data-size="normal" data-tabindex="0" data-callback="" data-expired-callback="" data-error-callback=""></div></div>
+					</div>
+					<div id="btl-registration-captcha-error" class="btl-error-detail"></div>
+					<div class="clear"></div>
+					<!--  end add captcha -->
+									
+					<div class="btl-buttonsubmit">						
+						<button type="submit" class="btl-buttonsubmit" onclick="return registerAjax()" >
+							Регистрация							
+						</button>
+						 
+						<input type="hidden" name="bttask" value="register" /> 
+						<input type="hidden" name="0a030d450274534c3c43fa59ba0d5511" value="1" />					</div>
+			</form>
+			<!-- if  integrated any component -->
+					</div>
+						
+				
+	</div>
+	<div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+/*<![CDATA[*/
+var btlOpt = 
+{
+	BT_AJAX					:'https://www.hockey-world.net/',
+	BT_RETURN				:'/',
+	RECAPTCHA				:'1',
+	LOGIN_TAGS				:'.buttonlogin',
+	REGISTER_TAGS			:'.buttonregister',
+	EFFECT					:'btl-modal',
+	ALIGN					:'center',
+	BG_COLOR				:'#3a3a3a',
+	MOUSE_EVENT				:'click',
+	TEXT_COLOR				:'#fff',
+	MESSAGES 				: {
+		E_LOGIN_AUTHENTICATE 		: 'Нестыковки логина с паролем или у Вас ещё нет аккаунта.',
+		REQUIRED_NAME				: 'Пожалуйста, введите своё имя!',
+		REQUIRED_USERNAME			: 'Пожалуйста, введите логин!',
+		REQUIRED_PASSWORD			: 'Пожалуйста, введите свой пароль!',
+		REQUIRED_VERIFY_PASSWORD	: 'Пожалуйста, повторите пароль!',
+		PASSWORD_NOT_MATCH			: 'Косячный пароль!',
+		REQUIRED_EMAIL				: 'Пожалуйста, введите Ваш email!',
+		EMAIL_INVALID				: 'Пожалуйста, введите верный email!',
+		REQUIRED_VERIFY_EMAIL		: 'Пожалуйста, повторите Ваш email!',
+		EMAIL_NOT_MATCH				: 'Косячный email!',
+		CAPTCHA_REQUIRED			: 'Пожалуйста, введите символы с капчи'
+	}
+}
+if(btlOpt.ALIGN == "center"){
+	BTLJ(".btl-panel").css('textAlign','center');
+}else{
+	BTLJ(".btl-panel").css('float',btlOpt.ALIGN);
+}
+BTLJ("input.btl-buttonsubmit,button.btl-buttonsubmit").css({"color":btlOpt.TEXT_COLOR,"background":btlOpt.BG_COLOR});
+BTLJ("#btl .btl-panel > span").css({"color":btlOpt.TEXT_COLOR,"background-color":btlOpt.BG_COLOR,"border":btlOpt.TEXT_COLOR});
+/*]]>*/
+</script>
+
+</div></div></div></div></div>
+  <!-- end header -->
+		<!--top menu-->
+    <div id="topmenu_holder" class="yjsgmega">
+      <div class="top_menu yjsgsitew">
+          <div id="horiznav" class="horiznav">	<ul class="megalegacy menunav">
+	<li id="current" class=" active item109 level0 first"><span class="mymarg"><a class="yjanchor  first activepath " href="/"><span class="yjm_has_none"><span class="yjm_title">Главная</span></span></a></span></li><li class="haschild item136 level0"><span class="child"><a class="yjanchor " href="/khl"><span class="yjm_has_none"><span class="yjm_title">КХЛ</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item602 level1 first"><span class="mymarg"><a class="yjanchor  first" href="//hockey-world.net/khl-raspisanie-2024-2025"><span class="yjm_has_none"><span class="yjm_title">Расписание</span></span></a></span></li><li class="item603 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/khl-tablica-2024-2025"><span class="yjm_has_none"><span class="yjm_title">Турнирная таблица</span></span></a></span></li><li class="item320 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="/articles-khl"><span class="yjm_has_none"><span class="yjm_title">Статьи</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="haschild item137 level0"><span class="child"><a class="yjanchor " href="/nhl"><span class="yjm_has_none"><span class="yjm_title">NHL</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item604 level1 first"><span class="mymarg"><a class="yjanchor  first" href="//hockey-world.net/nhl-raspisanie-2023-2024"><span class="yjm_has_none"><span class="yjm_title">Расписание</span></span></a></span></li><li class="item605 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/nhl-tablica-2023-2024"><span class="yjm_has_none"><span class="yjm_title">Турнирная таблица</span></span></a></span></li><li class="item329 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="/articles-nhl"><span class="yjm_has_none"><span class="yjm_title">Статьи</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="item140 level0"><span class="mymarg"><a class="yjanchor " href="/vl"><span class="yjm_has_none"><span class="yjm_title">ВХЛ</span></span></a></span></li><li class="haschild item138 level0"><span class="child"><a class="yjanchor " href="/eurotour"><span class="yjm_has_none"><span class="yjm_title">Евротур</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item628 level1 first"><span class="mymarg"><a class="yjanchor  first" href="//hockey-world.net/eurotour-raspisanie-2022-2023"><span class="yjm_has_none"><span class="yjm_title">Расписание</span></span></a></span></li><li class="item629 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/eurotour-scoretable-2022-2023"><span class="yjm_has_none"><span class="yjm_title">Турнирная таблица</span></span></a></span></li><li class="item335 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="//hockey-world.net/articles-eurotour"><span class="yjm_has_none"><span class="yjm_title">Статьи</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="haschild item272 level0"><span class="child"><a class="yjanchor " href="/junior"><span class="yjm_has_none"><span class="yjm_title">Молодёжь</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item338 level1 first lilast"><span class="mymarg"><a class="yjanchor  firstlast" href="//hockey-world.net/articles-junior"><span class="yjm_has_none"><span class="yjm_title">Статьи</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="haschild item141 level0"><span class="child"><a class="yjanchor " href="/worldcup"><span class="yjm_has_none"><span class="yjm_title">Чемпионат мира</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item616 level1 first"><span class="mymarg"><a class="yjanchor  first" href="//hockey-world.net/raspisanie-chm-2023"><span class="yjm_has_none"><span class="yjm_title">Расписание</span></span></a></span></li><li class="item617 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/chm-table-2023"><span class="yjm_has_none"><span class="yjm_title">Турнирная таблица</span></span></a></span></li><li class="item345 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="//hockey-world.net/articles-worldcup"><span class="yjm_has_none"><span class="yjm_title">Статьи</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="haschild item277 level0"><span class="child"><a class="yjanchor " href="/olimpgame"><span class="yjm_has_none"><span class="yjm_title">Олимпиада</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item607 level1 first"><span class="mymarg"><a class="yjanchor  first" href="//hockey-world.net/olimpiada-2022-hockey-raspisanie"><span class="yjm_has_none"><span class="yjm_title">Расписание и результаты</span></span></a></span></li><li class="item608 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/olimpiada-2022-hockey-tablica"><span class="yjm_has_none"><span class="yjm_title">Турнирная таблица</span></span></a></span></li><li class="item609 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/sostav-sbornoj-rossii-na-olimpiadu-2022"><span class="yjm_has_none"><span class="yjm_title">Состав сборной России</span></span></a></span></li><li class="item611 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="//hockey-world.net/articles-olimpgame"><span class="yjm_has_none"><span class="yjm_title">Статьи</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="haschild item139 level0"><span class="child"><a class="yjanchor " href="/wcup"><span class="yjm_has_none"><span class="yjm_title">Кубок мира</span></span></a></span><ul class="subul_main level1"><li class="bl"></li><li class="tl"></li><li class="tr"></li><li class="item639 level1 first"><span class="mymarg"><a class="yjanchor  first" href="//hockey-world.net/wcup-calendar-2016"><span class="yjm_has_none"><span class="yjm_title">Календарь и результаты</span></span></a></span></li><li class="item638 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/wcup-scoretable-2016"><span class="yjm_has_none"><span class="yjm_title">Турнирная таблица</span></span></a></span></li><li class="item637 level1"><span class="mymarg"><a class="yjanchor " href="//hockey-world.net/wcup-russia-2016"><span class="yjm_has_none"><span class="yjm_title">Состав сборной России</span></span></a></span></li><li class="item664 level1 lilast"><span class="mymarg"><a class="yjanchor last" href="//hockey-world.net/articles-wcup"><span class="yjm_has_none"><span class="yjm_title">Статьи</span></span></a></span></li><li class="right"></li><li class="br"></li></ul></li><li class="item557 level0"><span class="mymarg"><a class="yjanchor " href="/other"><span class="yjm_has_none"><span class="yjm_title">Остальное</span></span></a></span></li></ul></div>
+      </div>
+  </div>
+  <!-- end top menu -->
+				<div id="yjsg2" class="yjsg_grid"><div id="adv1" class="yjsgxhtml only_mod"><div class="yjsquare modid261"><div class="yjsquare_in"><center>
+<!-- Yandex.RTB R-A-53586-24 -->
+<div id="yandex_rtb_R-A-53586-24"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-53586-24',
+    blockId: 'R-A-53586-24'
+  })
+})</script>
+</center></div></div></div></div>					</div>
+	<!-- end centartop-->
+    	<div id="centerbottom" class="yjsgsitew">
+        <div class="centerbottom_in">
+            <!--MAIN LAYOUT HOLDER -->
+<div id="holder" class="holders">
+	<!-- messages -->
+	<div class="yjsg-system-msg">
+		
+	</div>
+	<!-- end messages -->
+		<!-- left block -->
+	<div id="leftblock" class="sidebars">
+		<div class="inside">
+			<div class="yjsquare addround modid356"><div class="h2_holder"><h3 class="module_title">Новости</h3></div><div class="yjsquare_in"><div class="ja-sidenews-list clearfix">
+					<div class="day_title">
+			Среда, 18 февраля		</div>
+						<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">23:57</span>
+				<a class="ja-title " href="/junior/317829-mhl-rezul-taty-matcej-18-fevrala-2026-g">
+								МХЛ. Результаты матчей 18 февраля 2026 г.				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">23:52</span>
+				<a class="ja-title " href="/vl/317830-vhl-rezul-taty-matcej-18-fevrala-2026-g">
+								ВХЛ. Результаты матчей 18 февраля 2026 г.				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">23:33</span>
+				<a class="ja-title " href="/olimpgame/317828-severstal-gorditsa-kapitanom-kozyrev-ob-igre-liski-za-sbornuu-slovakii-na-olimpiade">
+								«Северсталь» гордится капитаном». Козырев - об игре Лишки за сборную Словакии на Олимпиаде				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">23:22</span>
+				<a class="ja-title " href="/olimpgame/317827-video-pobednogo-gola-marnera-v-overtajme-matca-olimpijskogo-turnira-kanada-cehia">
+								Видео победного гола Марнера в овертайме матча олимпийского турнира Канада - Чехия				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">23:15</span>
+				<a class="ja-title " href="/khl/317826-kvartal-nov-nazval-klucevoj-moment-v-pobednoj-igre-minskogo-dinamo-so-spartakom">
+								Квартальнов назвал ключевой момент в победной игре минского «Динамо» со «Спартаком»				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">23:02</span>
+				<a class="ja-title " href="/olimpgame/317825-rasklad-na-vozmoznye-polufinal-nye-pary-olimpijskogo-hokkejnogo-turnira">
+								Расклад на возможные полуфинальные пары олимпийского хоккейного турнира				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">22:54</span>
+				<a class="ja-title " href="/olimpgame/317824-eto-byla-unizitel-naa-tazelaa-igra-makkinnon-o-pobede-kanady-nad-sbornoj-cehii">
+								«Это была унизительная, тяжёлая игра». Маккиннон - о победе Канады над сборной Чехии				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">22:43</span>
+				<a class="ja-title " href="/olimpgame/317823-finlandia-spaslas-v-konce-tret-ego-perioda-i-vyrvala-pobedu-u-svejcarii-v-overtajme">
+								Финляндия спаслась в конце третьего периода и вырвала победу у Швейцарии в овертайме				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">22:36</span>
+				<a class="ja-title " href="/olimpgame/317822-aleksandr-oveckin-otvetil-na-vopros-smotrel-li-on-matci-olimpiady">
+								Александр Овечкин ответил на вопрос, смотрел ли он матчи Олимпиады				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">22:22</span>
+				<a class="ja-title " href="/olimpgame/317821-igroki-sbornoj-kanady-uvereny-cto-sidni-krosbi-ese-sygraet-na-olimpiade-2026">
+								Игроки сборной Канады уверены, что Сидни Кросби ещё сыграет на Олимпиаде-2026				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">22:06</span>
+				<a class="ja-title " href="/khl/317818-torpedo-stalo-ucastnikom-kubka-gagarina-2026-posle-pobedy-nad-sanhajskimi-drakonami">
+								«Торпедо» стало участником Кубка Гагарина - 2026 после победы над «Шанхайскими Драконами»				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">22:04</span>
+				<a class="ja-title " href="/khl/317819-torpedo-prervalo-seriu-porazenij-pobediv-doma-sanhajskih-drakonov">
+								«Торпедо» прервало серию поражений, победив дома «Шанхайских Драконов»				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">22:01</span>
+				<a class="ja-title " href="/khl/317820-ska-otygralsa-za-15-sekund-do-konca-tret-ego-perioda-no-proigral-severstali-po-bullitam">
+								СКА отыгрался за 15 секунд до конца третьего периода, но проиграл «Северстали» по буллитам				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:56</span>
+				<a class="ja-title " href="/olimpgame/317817-cehia-zabrosila-tret-u-sajbu-v-vorota-kanady-s-sest-u-polevymi-igrokami-na-plosadke">
+								Чехия забросила третью шайбу в ворота Канады с шестью полевыми игроками на площадке				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:41</span>
+				<a class="ja-title " href="/khl/317816-minskoe-dinamo-doma-zabrosilo-sest-sajb-spartaku-oderzav-volevuu-pobedu">
+								Минское «Динамо» дома забросило шесть шайб «Спартаку», одержав волевую победу				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:28</span>
+				<a class="ja-title " href="/olimpgame/317815-kanada-tretij-raz-v-svoej-istorii-oderzala-volevuu-pobedu-na-olimpiade-s-ucastiem-nhl">
+								Канада третий раз в своей истории одержала волевую победу на Олимпиаде с участием НХЛ				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:25</span>
+				<a class="ja-title " href="/olimpgame/317811-david-pastrnak-olimpiada-2026-statistika-v-matce-kanada-cehia-ocki-goly-peredaci">
+								Давид Пастрняк, Олимпиада 2026: статистика в матче Канада - Чехия, очки, голы, передачи				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:23</span>
+				<a class="ja-title " href="/olimpgame/317812-konnor-makdevid-olimpiada-2026-statistika-v-matce-kanada-cehia-ocki-goly-peredaci">
+								Коннор Макдэвид, Олимпиада 2026: статистика в матче Канада - Чехия, очки, голы, передачи				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:23</span>
+				<a class="ja-title " href="/olimpgame/317813-natan-makkinnon-olimpiada-2026-statistika-v-matce-kanada-cehia-ocki-goly-peredaci">
+								Натан Маккиннон, Олимпиада 2026: статистика в матче Канада - Чехия, очки, голы, передачи				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:21</span>
+				<a class="ja-title " href="/olimpgame/317814-sidni-krosbi-olimpiada-2026-statistika-v-matce-kanada-cehia-ocki-goly-peredaci">
+								Сидни Кросби, Олимпиада 2026: статистика в матче Канада - Чехия, очки, голы, передачи				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">21:16</span>
+				<a class="ja-title active" href="/olimpgame/317810-kanada-vysla-v-polufinal-olimpiady-s-trudom-obygrav-v-overtajme-sbornuu-cehii">
+								Канада вышла в полуфинал Олимпиады, с трудом обыграв в овертайме сборную Чехии				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:57</span>
+				<a class="ja-title " href="/olimpgame/317807-uejn-gretcki-prisutstvuet-na-igre-olimpijskogo-hokkejnogo-turnira-kanada-cehia">
+								Уэйн Гретцки присутствует на игре олимпийского хоккейного турнира Канада - Чехия				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:55</span>
+				<a class="ja-title " href="/other/317809-pochemu-detyam-polezna-sportivnaya-gimnastika">
+								Почему детям полезна спортивная гимнастика				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:54</span>
+				<a class="ja-title " href="/khl/317808-glavnyj-trener-traktora-koreskov-vyskazalsa-o-razgromnom-porazenii-ot-salavata-ulaeva">
+								Главный тренер «Трактора» Корешков высказался о разгромном поражении от «Салавата Юлаева»				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:48</span>
+				<a class="ja-title " href="/olimpgame/317806-sbornaa-svejcarii-s-raznicej-v-72-sekundy-zabrosila-dve-sajby-v-vorota-komandy-finlandii">
+								Сборная Швейцарии с разницей в 72 секунды забросила две шайбы в ворота команды Финляндии				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:41</span>
+				<a class="ja-title " href="/olimpgame/317804-sidni-krosbi-iz-za-travmy-ne-vysel-na-tretij-period-igry-so-sbornoj-cehii">
+								Сидни Кросби из-за травмы не вышел на третий период игры со сборной Чехии				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:37</span>
+				<a class="ja-title " href="/khl/317805-evgenij-kuznecov-obratilsa-k-bolel-sikam-salavata-ulaeva-i-traktora-posle-matca-komand">
+								Евгений Кузнецов обратился к болельщикам «Салавата Юлаева» и «Трактора» после матча команд				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:24</span>
+				<a class="ja-title " href="/olimpgame/317803-fehervari-vyhod-v-polufinal-oi-kazetsa-nemnogo-nerealisticnym-no-a-ocen-scastliv">
+								Фехервари: выход в полуфинал ОИ кажется немного нереалистичным, но я очень счастлив				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:17</span>
+				<a class="ja-title " href="/khl/317802-kozlov-ob-igre-s-traktorom-dla-evgenia-kuznecova-bylo-vazno-vyigrat-v-celabinske">
+								Козлов - об игре с «Трактором»: для Евгения Кузнецова было важно выиграть в Челябинске				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">20:10</span>
+				<a class="ja-title " href="/olimpgame/317801-konnor-makdevid-povtoril-rekord-selanne-i-kojvu-po-ockam-za-odnu-olimpiadu-s-igrokami-nhl">
+								Коннор Макдэвид повторил рекорд Селянне и Койву по очкам за одну Олимпиаду с игроками НХЛ				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">19:53</span>
+				<a class="ja-title " href="/olimpgame/317800-sidni-krosbi-iz-za-travmy-usel-v-razdevalku-po-hodu-igry-so-sbornoj-cehii">
+								Сидни Кросби из-за травмы ушёл в раздевалку по ходу игры со сборной Чехии				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">19:44</span>
+				<a class="ja-title " href="/olimpgame/317799-maklin-selebrini-povtoril-rekord-olimpijskih-igr-po-kolicestvu-matcej-s-sajbami-podrad">
+								Маклин Селебрини повторил рекорд Олимпийских игр по количеству матчей с шайбами подряд				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">19:32</span>
+				<a class="ja-title " href="/khl/317797-lokomotiv-pozdravil-zasitnika-sbornoj-slovakii-gernata-s-vyhodom-v-polufinal-olimpiady">
+								«Локомотив» поздравил защитника сборной Словакии Герната с выходом в полуфинал Олимпиады				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">19:26</span>
+				<a class="ja-title " href="/olimpgame/317798-kanada-vpervye-s-2010-g-proigryvaet-v-matce-olimpijskogo-turnira-s-ucastiem-igrokov-nhl">
+								Канада впервые с 2010 г. проигрывает в матче олимпийского турнира с участием игроков НХЛ				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">19:19</span>
+				<a class="ja-title " href="/khl/317796-salavat-ulaev-so-scetom-6-0-razgromil-v-gostah-traktor">
+								«Салават Юлаев» со счётом 6:0 разгромил в гостях «Трактор»				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">19:02</span>
+				<a class="ja-title " href="/olimpgame/317795-rossijskij-flag-vyvesen-na-tribunah-vo-vrema-hokkejnogo-matca-kanada-cehia-na-olimpiade">
+								Российский флаг вывешен на трибунах во время хоккейного матча Канада - Чехия на Олимпиаде				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">18:52</span>
+				<a class="ja-title " href="/olimpgame/317794-maklin-selebrini-prevzosel-rekord-evgenia-malkina-po-cislu-ockov-na-oi-sredi-igrokov-u20">
+								Маклин Селебрини превзошёл рекорд Евгения Малкина по числу очков на ОИ среди игроков U20				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">18:42</span>
+				<a class="ja-title " href="/olimpgame/317793-plusev-sbornaa-rossii-ne-dosla-by-do-finala-olimpiady">
+								Плющев: сборная России не дошла бы до финала Олимпиады				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">18:27</span>
+				<a class="ja-title " href="/khl/317792-luzenkov-o-propusennoj-sajbe-berdina-s-pervogo-broska-motorygin-lubil-tak-dejstvovat">
+								Люзенков - о пропущенной шайбе Бердина с первого броска: Моторыгин любил так действовать				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+				<div class="ja-slidenews-item">
+			<div>
+				
+				
+								<span class="ja-createdate">18:23</span>
+				<a class="ja-title " href="/khl/317791-luzenkov-ob-asnil-priciny-porazenia-sibiri-v-matce-s-amurom">
+								Люзенков объяснил причины поражения «Сибири» в матче с «Амуром»				</a>
+			</div>
+		  		  
+		  		  		</div>
+		<div style="clear: both;"></div>
+		  </div></div></div><div class="yjsquare addround -color modid239"><div class="yjsquare_in"><center><a href="/allnews" rel="nofollow">показать еще больше новостей<br /></a></center></div></div><div class="yjsquare addround -color modid386"><div class="yjsquare_in"><center>Подписывайтесь на нас в Google Новости<br /><a href="https://news.google.com/publications/CAAqBwgKMO_vmAsw__mwAw" target="_blank" rel="nofollow"><img src="/images/stories/banner/google-news.jpg" alt="" /></a></center></div></div>
+		</div>
+	</div>
+	<!-- end left block -->
+			<!-- MID BLOCK -->
+	<div id="midblock" class="sidebars sidebar-main">
+		<div class="insidem">
+									<!-- component -->
+			<div class="yjsg-newsitems">
+	<div class="yjsg-blog_f">
+				
+				<div class="yjsg-leadingarticles">
+						<div class="leading-0">
+				
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/284160-padenie-torpedo-razgon-spartaka-obzor-poslednikh-sobytij-v-kkhl">
+			Падение &quot;Торпедо&quot;, разгон &quot;Спартака&quot;. Обзор последних событий в КХЛ		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-10-20T07:50:00+03:00">
+		Создано: 20.10.2023 07:50	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/october/khl-23-24-4.jpg" width="109" height="109" />"Салават" вступает в гонку за лидерство. Краткий обзор "Мира хоккея" о самых интересных событиях в КХЛ.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+					</div>
+		
+				<div class="teaserarticles">
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/283174-ak-bars-v-poiskakh-stabilnosti-a-ska-pokhozhe-zabiraet-serebryakova-u-admirala-sobytiya-nedeli-v-kkhl">
+			&quot;Ак Барс&quot; в поисках стабильности, а СКА, похоже, забирает Серебрякова у &quot;Адмирала&quot;. События недели в КХЛ		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-09-27T06:41:51+03:00">
+		Создано: 27.09.2023 06:41	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/september/khl-23-24-3.jpg" width="109" height="109" />"Автомобилист" приходит в себя. Обзор самых интересных событий прошедшей игровой недели КХЛ.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/282843-ska-idet-ko-dnu-barys-neftekhimik-i-lada-nakonets-pobezhdayut-sobytiya-nedeli-v-kkhl">
+			СКА идет ко дну, &quot;Барыс&quot;, &quot;Нефтехимик&quot; и &quot;Лада&quot; наконец побеждают. События недели в КХЛ 		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-09-18T07:17:27+03:00">
+		Создано: 18.09.2023 07:17	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/september/khl-23-24-2.jpg" width="109" height="109" />Первое "Зеленое дерби" забирает Уфа. Обзор самых интересных событий прошедшей игровой недели КХЛ.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/282482-veselyj-minsk-novaya-arena-sibiri-i-slabaya-lada-obzor-pervykh-dnej-kkhl-2023-2024">
+			Веселый Минск, новая арена &quot;Сибири&quot; и слабая &quot;Лада&quot;. Обзор первых дней КХЛ 2023/2024		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-09-09T17:44:12+03:00">
+		Создано: 09.09.2023 17:44	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/september/khl-23-24-1.jpg" width="109" height="109" />ЦСКА нестабилен, а "Торпедо" претендует на гол сезона. "Мир хоккея" подводит итоги первых дней чемпионата КХЛ сезона 2023/2024.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/khl/280554-predsezonnye-turniry-kkhl-2023-raspisanie-matchej-i-rezultaty">
+			Предсезонные турниры КХЛ-2023 — расписание матчей и результаты		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-08-29T21:45:00+03:00">
+		Создано: 29.08.2023 21:45	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/khl/news/2023/khl-mejsezonie-2023.jpg" width="109" height="109" />Hockey-world.net публикует полное расписание контрольных матчей и предсезонных турниров КХЛ-2023. Расписание и результаты игр будут регулярно обновляться. Первый предсезонный турнир состоится Сочи, последний - в Москве. В межсезонье-2023 клубы КХЛ примут участие в 8 турнирах.<br />
+  <br /></p>
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/280956-pervye-proby-razina-v-magnitke-i-vozvrashchenie-predsezonki-v-omsk-prevyu-predsezonnykh-turnirov-2023">
+			Первые пробы Разина в &quot;Магнитке&quot; и возвращение предсезонки в Омск. Превью предсезонных турниров-2023		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-07-25T22:00:59+03:00">
+		Создано: 25.07.2023 22:00	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/july/khl-predsezonka-2023.jpg" width="109" height="109" />Первые пробы Разина в "Магнитке" и возвращение предсезонки в Омск. Впервые с 2016-го в Кубке Лады - КХЛовский состав. "Мир хоккея" анонсирует летние турниры.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/278497-larionov-serebryakov-radulov-i-drugie-luchshie-v-simvolicheskaya-sbornoj-kkhl-2022-2023">
+			Ларионов, Серебряков, Радулов и другие лучшие в символическая сборной КХЛ 2022/2023		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-05-13T13:44:36+03:00">
+		Создано: 13.05.2023 13:44	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/may/khl-22-23-15.jpg" width="109" height="109" />Символическая сборная КХЛ сезона-2023/2023 по версии Hockey-world.net<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/278026-samyj-tyazhelyj-kubok-gagarina-2023-tsska-poborol-ak-bars-v-sedmoj-igre-finala">
+			Самый тяжелый Кубок Гагарина-2023. ЦСКА поборол &quot;Ак Барс&quot; в седьмой игре финала		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-04-30T13:20:17+03:00">
+		Создано: 30.04.2023 13:20	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/april/khl-22-23-14.jpg" width="109" height="109" />Казанцы вытащили серию с 1-3, но "красно-синие" сделали камбэк уже в решающей встрече.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/277415-kambeki-ak-barsa-svoevremennost-tsska-itogi-finalov-konferentsij-kubka-gagarina-2023">
+			Камбэки &quot;Ак Барса&quot;, своевременность ЦСКА. Итоги финалов конференций Кубка Гагарина-2023		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-04-14T12:47:53+03:00">
+		Создано: 14.04.2023 12:47	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/april/khl-22-23-13.jpg" width="109" height="109" />"Авангард" предложил только одно боевое звено, у СКА растворились лидеры и большинство.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/276809-effektivnost-tsska-pervye-0-4-v-istorii-magnitki-itogi-vtorogo-raunda-kubka-gagarina-2023">
+			Эффективность ЦСКА, первые 0-4 в истории &quot;Магнитки&quot;. Итоги второго раунда Кубка Гагарина-2023		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-03-30T22:39:18+03:00">
+		Создано: 30.03.2023 22:39	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/march/khl-22-23-12.jpg" width="109" height="109" />"Адмирал" дал бой Казани, но "Торпедо" ничего не противопоставило СКА. Краткий обзор "Мира хоккея".<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/276186-sensatsionnyj-admiral-boevitaya-severstal-itogi-pervogo-raunda-kubka-gagarina-2023">
+			Сенсационный &quot;Адмирал&quot;, боевитая &quot;Северсталь&quot;. Итоги первого раунда Кубка Гагарина-2023		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-03-16T07:47:28+03:00">
+		Создано: 16.03.2023 07:47	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/march/khl-22-23-11.jpg" width="109" height="109" />Большинство "Авангарда" и первый успех ларионовского "Торпедо". Краткий обзор "Мира хоккея".<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/275415-poslednij-match-zaripova-lakross-michkova-i-itogovye-pary-pervogo-raunda-plej-off-kkhl">
+			Последний матч Зарипова, лакросс Мичкова и итоговые пары первого раунда плей-офф КХЛ		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-02-27T22:34:57+03:00">
+		Создано: 27.02.2023 22:34	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/february/khl-22-23-10.jpg" width="109" height="109" />"Трактор" все-таки не попал в плей-офф, а "Салават" вырвал второе место. Последние события перед стартом Кубка Гагарина-2023.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/274950-kto-pretenduet-na-kubok-gagarina-glavnye-voprosy-za-dve-nedeli-do-plej-off-2023">
+			Кто претендует на Кубок Гагарина? Главные вопросы за две недели до плей-офф 2023		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2023-02-17T09:37:00+03:00">
+		Создано: 17.02.2023 09:37	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2023/february/khl-22-23-9.jpg" width="109" height="110" />Расклады на попадание в топ-8, состояние команд, текущие пары, лидеры статистики и оставшиеся матчи "регулярки".</p>
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+						<div class="first float-left width100">
+			
+<div class="news_item_f">
+		<h2 class="article_title">
+				<a href="/articles-khl/272932-pobedy-avangarda-i-kambek-bilyaletdinova-v-poslednej-nedele-2022-goda">
+			Победы &quot;Авангарда&quot; и камбэк Билялетдинова в последней неделе 2022 года		</a>
+			</h2>
+					<div class="newsitem_tools">
+		<div class="newsitem_info">
+				<span class="createdate">
+	<span class="icon-calendar"></span>
+	<time datetime="2022-12-31T23:34:24+03:00">
+		Создано: 31.12.2022 23:34	</time>
+	</span>
+				<div class="clr"></div>
+		</div>						<div class="yjsg-clear-all"></div>
+	</div>
+		<div class="clr"></div>
+	<div class="newsitem_text">
+				<p style="text-align: justify;"><img style="float: left; border: 1px solid black; border-width: 1px; margin: 5px;" src="/images/stories/indexpage/2022/december/khl-22-23-8.jpg" width="109" height="109" />СКА терпит спад, а дедлайн завершается без сюрпризов. Обзор самых интересных событий прошедшей игровой недели КХЛ.<br /><br />
+			</div>
+	</div>
+<span class="article_separator"></span>
+			</div>
+						
+						<span class="row-separator"></span>
+						
+					</div>
+		
+				
+			</div>
+</div>
+			<!-- end component -->
+								</div>
+		<!-- end mid block insidem class -->
+	</div>
+	<!-- end mid block div -->
+				<!-- right block -->
+	<div id="rightblock" class="sidebars">
+		<div class="inside">
+			<div class="yjsquare -color modid112"><div class="yjsquare_in"><ul class="menu defaultmenu">
+<li class="item-183 lifirst "><a class="afirst" href="/allnews" >Лента новостей</a></li><li class="item-289"><a href="/online-translation" >Хоккей онлайн</a></li><li class="item-260"><a href="/video" >Видео</a></li><li class="item-300"><a href="/khl-tv" >КХЛ ТВ</a></li><li class="item-555"><a href="/hockey-games" >Играть в хоккей</a></li><li class="item-148"><a href="/camps" >Хоккейные лагеря</a></li><li class="item-160"><a href="/links" >Партнеры</a></li><li class="item-159"><a href="/archive" >Архив</a></li><li class="item-261"><a href="/about" >О сайте</a></li><li class="item-340"><a href="/reklama" >Реклама</a></li><li class="item-342 lilast"><a class="alast" href="/interesnoe" >Интересное</a></li></ul></div></div><div class="yjsquare modid214"><div class="yjsquare_in"><a style="color: #ffffff;" href="http://myweb7.net">myweb7</a><br /></div></div><div class="yjsquare modid271"><div class="yjsquare_in"><center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 240-400 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:240px;height:400px"
+     data-ad-client="ca-pub-1770688357930073"
+     data-ad-slot="1422239421"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center></div></div><div class="yjsquare modid281"><div class="yjsquare_in"></br>
+<center>
+<!-- Yandex.RTB R-A-53586-2 -->
+<div id="yandex_rtb_R-A-53586-2"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-53586-2',
+    blockId: 'R-A-53586-2'
+  })
+})</script>
+</center>
+
+</br></br></div></div>
+		</div>
+	</div>
+	<!-- end right block -->
+	</div>
+<!-- end holder div -->
+            <!-- pathway -->
+<div id="pathway">
+<div class="yjsgspathway">
+  <noindex><div align="center" style="position: absolute; top: -100px; left: -100px;">
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='https://www.liveinternet.ru/click' "+
+"target=_blank/><img src='https://counter.yadro.ru/hit?t14.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width='88' height='31'><\/a>")
+//--></script><!--/LiveInternet-->
+</div></noindex>
+  </div>
+</div>
+<!-- end pathway -->
+        </div>
+    </div>
+    	<!-- end centerbottom-->
+	    <div class="bottom_out yjsgsitew"> 
+		<div id="yjsg6" class="yjsg_grid yjsgsitew"><div id="user20" class="yjsgxhtml only_mod"><div class="yjsquare modid241"><div class="yjsquare_in"><center><h1>Хоккей России и мира: новости, онлайн трансляции, КХЛ, НХЛ - Мир хоккея</h1></center></div></div></div></div>        <div id="yjsg7" class="yjsg_grid yjsgsitew"><div id="user21" class="yjsgxhtml only_mod"><div class="yjsquare modid384"><div class="yjsquare_in"><center><a href="https://fastvps.ru">Сайт работает на быстром VPS/VDS хостинге от FASTVPS</a></center></div></div></div></div>        <!-- footer -->
+<div id="footer" class="yjsgsitew">
+  <div id="youjoomla">
+        	<div id="cp">
+		<div class="validators"><a class="yjscroll" href="#stylef6">Top</a></div>© 2021 Мир хоккея. Все права защищены			       </div>
+  </div>
+</div>
+<!-- end footer -->
+	<script type="text/javascript"> var logo_w = '356'; var site_w = '1200'; var site_f = '13px'; var sp='https://www.hockey-world.net/'; var tp ='hockey-world'; var compileme =0; var fontc ='hockey-world_239481592667260'; var bootstrapv='bootstrap2'; var yver='3'; var yjsglegacy='1'; var yjsgrtl='2'; var menuanimation='fade';var menuanimationspeed=300; var lgtr = new Object(); lgtr.magnificpopup_close='Close (Esc)'; lgtr.magnificpopup_loading='Loading...'; lgtr.magnificpopup_prev='Previous (Left arrow key)'; lgtr.magnificpopup_next='Next (Right arrow key)'; lgtr.magnificpopup_counter='%curr% of %total%'; lgtr.magnificpopup_errorimage='<a href=%url%>The image</a> could not be loaded.'; lgtr.magnificpopup_errorajax='<a href=%url%>The content</a> could not be loaded.'; var YJSG_topmenu_font = '13px'; (function($){ $(window).load(function(){ $('.horiznav').SmoothDropJQ({ contpoz:0, horizLeftOffset: 20, horizRightOffset: -20, horizTopOffset: 20, verticalTopOffset:30, verticalLeftOffset: 10, maxOutside: 50 }); }) })(jQuery); </script>
+	</div>
+</div>    
+	<!--noindex-->
+  <div id="mmenu_holder">
+  <span class="yjmm_select" id="yjmm_selectid">Главная</span>
+  <select id="mmenu" class="yjstyled">
+            <option value="/" selected="selected">&nbsp;Главная</option>
+            <option value="/khl">&nbsp;КХЛ</option>
+            <option value="//hockey-world.net/khl-raspisanie-2024-2025">&nbsp;--Расписание</option>
+            <option value="//hockey-world.net/khl-tablica-2024-2025">&nbsp;--Турнирная таблица</option>
+            <option value="/articles-khl">&nbsp;--Статьи</option>
+            <option value="/nhl">&nbsp;NHL</option>
+            <option value="//hockey-world.net/nhl-raspisanie-2023-2024">&nbsp;--Расписание</option>
+            <option value="//hockey-world.net/nhl-tablica-2023-2024">&nbsp;--Турнирная таблица</option>
+            <option value="/articles-nhl">&nbsp;--Статьи</option>
+            <option value="/vl">&nbsp;ВХЛ</option>
+            <option value="/eurotour">&nbsp;Евротур</option>
+            <option value="//hockey-world.net/eurotour-raspisanie-2022-2023">&nbsp;--Расписание</option>
+            <option value="//hockey-world.net/eurotour-scoretable-2022-2023">&nbsp;--Турнирная таблица</option>
+            <option value="//hockey-world.net/articles-eurotour">&nbsp;--Статьи</option>
+            <option value="/junior">&nbsp;Молодёжь</option>
+            <option value="//hockey-world.net/articles-junior">&nbsp;--Статьи</option>
+            <option value="/worldcup">&nbsp;Чемпионат мира</option>
+            <option value="//hockey-world.net/raspisanie-chm-2023">&nbsp;--Расписание</option>
+            <option value="//hockey-world.net/chm-table-2023">&nbsp;--Турнирная таблица</option>
+            <option value="//hockey-world.net/articles-worldcup">&nbsp;--Статьи</option>
+            <option value="/olimpgame">&nbsp;Олимпиада</option>
+            <option value="//hockey-world.net/olimpiada-2022-hockey-raspisanie">&nbsp;--Расписание и результаты</option>
+            <option value="//hockey-world.net/olimpiada-2022-hockey-tablica">&nbsp;--Турнирная таблица</option>
+            <option value="//hockey-world.net/sostav-sbornoj-rossii-na-olimpiadu-2022">&nbsp;--Состав сборной России</option>
+            <option value="//hockey-world.net/articles-olimpgame">&nbsp;--Статьи</option>
+            <option value="/wcup">&nbsp;Кубок мира</option>
+            <option value="//hockey-world.net/wcup-calendar-2016">&nbsp;--Календарь и результаты</option>
+            <option value="//hockey-world.net/wcup-scoretable-2016">&nbsp;--Турнирная таблица</option>
+            <option value="//hockey-world.net/wcup-russia-2016">&nbsp;--Состав сборной России</option>
+            <option value="//hockey-world.net/articles-wcup">&nbsp;--Статьи</option>
+            <option value="/other">&nbsp;Остальное</option>
+        </select>
+</div><!--/noindex-->
+			  
+<!-- pagination title -->
+  
+  
+<!-- pagination title end -->
+  
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9GGCDWNK29"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9GGCDWNK29');
+</script>
+
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(194888, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/194888" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+ 
+  
+  
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9d00ca6cdb07ec55',t:'MTc3MTQ1MTk1Nw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"e48bfc64b8d544598f4a15850391a4d0","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,3780 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/33323348" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- Top.Mail.Ru counter -->
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3612259;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+	<title>Официальный сайт ФК Рубин</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="сайт Рубин, клуб Рубин, ФК рубин, футбольный клуб Рубин, футбол Рубин, Рубин Казань, сайт ФК Рубин, сайт Рубина" />
+<meta name="description" content="Официальный сайт футбольного клуба Рубин Казань" />
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" type="text/css"  rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?175092389823463" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/fonts/opensans/ui.font.opensans.min.css?17341124382320" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/main/popup/dist/main.popup.bundle.min.css?175092417228056" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/design-tokens/air/dist/air-design-tokens.min.css?1750924273104400" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/switcher/dist/ui.switcher.bundle.min.css?17509241946763" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/cnt/ui.cnt.min.css?17509241944259" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/cnt/dist/cnt.bundle.min.css?17509242735784" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/icon-set/icon-base.min.css?17509241941604" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/icon-set/outline/style.min.css?175092419485783" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/icon-set/main/style.min.css?175092419474857" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/buttons/dist/ui.buttons.bundle.min.css?175092427369724" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/js/ui/dialogs/messagebox/dist/dialogs.bundle.min.css?1750924194691" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/rubin_corp/page_b4c12bcc1311ccf7a6a2780cc5103f2e/page_b4c12bcc1311ccf7a6a2780cc5103f2e_v1.css?17691832781492" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/rubin_corp/template_9a80df4da238933a8ba58bc1d3051ec4/template_9a80df4da238933a8ba58bc1d3051ec4_v1.css?1771234218378607" type="text/css"  data-template-style="true" rel="stylesheet" />
+
+
+
+
+
+
+
+        </head>
+<body>
+		<div class="cookies-block">
+		<div class="flex">
+		<p>Наш сайт использует файлы cookie. <br/><a href="#" id="cookie_detail">Подробнее</a></p>
+		<p style="display:none">Наш сайт использует файлы cookie, чтобы пользоваться им было удобнее. Оставаясь на сайте, вы даёте своё согласие на использование cookie в соответствии с политикой конфиденциальности.</p>
+			<button><i></i><span>Ок</span></button>
+		</div>
+	</div>
+				<div class="preloader">
+			<div class="logo">
+				<img src="/local/templates/rubin_corp/img/preloader.gif">
+			</div>
+		</div>
+			<form action="/search/index.php" class="mobile-search">
+	<input type="text" name="q" value="" maxlength="50" placeholder="Поиск по сайту" />
+	<button name="s"></button>
+	<a class="close"></a>
+</form>	<nav class="mobile-menu">
+		<div class="wrap">
+			<div class="partners flex">
+				<div><a href="/#awards"><img src="/local/templates/rubin_corp/img/awards.png"></a></div>
+									<div><a href="https://www.sibur.ru/kazanorgsintez/ru/" target="_blank"><img src="/upload/dubovoi.rubincorp/342/7id6ieqis33sd3bagv6icn2azvu5epxe.png"></a></div>
+													<div><a href="https://clicks.af-ru2e2e.com/click/s/Q9i2" target="_blank"><img src="/upload/dubovoi.rubincorp/698/rb2kg50l6s9ev4v9b6d4nzl6yyzpvkff.png"></a></div>
+													<div><a href="" target="_blank"><img src="/upload/dubovoi.rubincorp/825/rsigp6fjsiq3x5qqzabezpg2tqeasz6n.png"></a></div>
+							</div>
+			
+<ul>
+
+
+	
+	
+					<li><a href="/news/">Новости</a></li>
+		
+	
+	
+
+	
+	
+					<li><a class="with_sub">Сезон <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/calendar/upcoming/">Матчи</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/standings/">Турнирная таблица</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/calendar/">Календарь игр</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/statistics/">Статистика</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/uniform/">Форма</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a class="with_sub">Клуб <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/">История клуба</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/legends/">Легенды</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/head/">Правление</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/management/">Руководство</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/partners/">Партнеры</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a class="with_sub">Команды <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin">Рубин</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin-2">Рубин-2</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin-zh">ЖФК Рубин</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin-zhm">ЖФК Рубин-М</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a class="with_sub">Медиа <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/media/">Галерея</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/media/rubintv/">Рубин ТВ</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/media/accreditation/">Для СМИ</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a class="with_sub">Болельщикам <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/club/">Клуб болельщиков</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/everybody/">Болельщикам МГН</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/rubin-na-svyazi/">Рубин на связи</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/rules/">Правила поведения</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/card/">Карта болельщика</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/subscription/">Абонементы</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/loyalty/">Программа лояльности</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a class="with_sub"><img src="/local/templates/rubin_corp/img/ruby.svg" class="ruby">Детям <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/">Дневник школьника</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="https://rubin-dfl.ru">Дворовый Футбол</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/rubin-junior/">Рубин Юниор</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/phygital/">Фиджитал Лига</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/east-cup/">Кубок Востока</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/walkout-kid/">Выведи игрока на поле</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a class="with_sub">Стадион <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/">О стадионе</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/restaurant/">Ресторан</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/vip/">Вип-ложи</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/maps/">Как добраться</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/parking/">Парковка</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/detskie-komnaty/">Детские комнаты</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/storage/">Камеры хранения</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/warm-match/">Теплый матч</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+					<li><a class="with_sub">Академия <i class="fa fa-caret-down"></i></a>
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/">Об академии</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/news/">Новости</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/management/">Руководство и персонал</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/coach/">Тренерский состав</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/infrastructure/">Инфраструктура</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/kids/">Поступление в Академию</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/students/">Наши воспитанники</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/manuals/">Методические пособия</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/docs/">Документы</a></li>
+		
+	
+	
+
+	</ul></li>
+</ul>
+			<div class="links">
+									<a href="/tickets/" class="tickets-link" target="_blank">билеты</a>
+													<a href="https://store.rubin-kazan.ru/" class="store-link" target="_blank">магазин</a>
+							</div>
+			<div class="flex bb">
+<div class="langs">
+
+<a href="#" data-google-lang="ru" class="link"> Русский</a> 
+                    							<a href="#" data-google-lang="en" class="link"> English</a>
+</div>
+				<a class="search-link">поиск</a>
+									<a href="http://www.rubin-kazan.ru/auth/login.php" class="user">Вход</a>
+							</div>
+			<div class="social">
+									<a href="https://vk.com/fcrk" target="_blank"><img src="/local/templates/rubin_corp/img/social1.svg"></a>
+													<a href="https://t.me/fcrk1958" target="_blank"><img src="/local/templates/rubin_corp/img/social2.svg"></a>
+													<a href="https://www.youtube.com/FCRubinTV" target="_blank"><img src="/local/templates/rubin_corp/img/social3.svg"></a>
+																	<a href="https://www.tiktok.com/@fcrk" target="_blank"><img src="/local/templates/rubin_corp/img/social5.svg"></a>
+							</div>
+			<div class="bottom-link">
+				<a href="/#mob_app" class="mob-app">приложение</a>
+			</div>
+		</div>
+	</nav>
+	<header class="header flex">
+				<div class="logo">
+			<a href="/"><img src="/upload/dubovoi.rubincorp/f61/a12rfbsr5x65jpsw2hli2rjrp1ltrk3o.svg"></a>
+		</div>
+				<nav>
+			<div class="top flex">
+				<div class="partners">
+					<a href="/#awards"><img src="/local/templates/rubin_corp/img/awards.png"></a>
+											<a href="https://www.sibur.ru/kazanorgsintez/ru/" target="_blank"><img src="/upload/dubovoi.rubincorp/342/7id6ieqis33sd3bagv6icn2azvu5epxe.png"></a>
+																<a href="https://clicks.af-ru2e2e.com/click/s/Q9i2" target="_blank"><img src="/upload/dubovoi.rubincorp/698/rb2kg50l6s9ev4v9b6d4nzl6yyzpvkff.png"></a>
+																<img src="/upload/dubovoi.rubincorp/825/rsigp6fjsiq3x5qqzabezpg2tqeasz6n.png">
+									</div>
+				<div class="right-block">
+					<div class="social">
+													<a href="https://vk.com/fcrk" target="_blank"><img src="/local/templates/rubin_corp/img/social1.svg"></a>
+																			<a href="https://t.me/fcrk1958" target="_blank"><img src="/local/templates/rubin_corp/img/social2.svg"></a>
+																			<a href="https://www.youtube.com/FCRubinTV" target="_blank"><img src="/local/templates/rubin_corp/img/social3.svg"></a>
+																									<a href="https://www.tiktok.com/@fcrk" target="_blank"><img src="/local/templates/rubin_corp/img/social5.svg"></a>
+											</div>
+					<a href="/#mob_app" class="mob-app">приложение</a>
+					<div class="langs">
+						<a href="#" class="link">Рус <i class="fa fa-caret-down"></i></a>
+							<ul class="language">
+							<li><a href="#" data-google-lang="ru"><img src="/local/templates/rubin_corp/img/flag1.svg"  alt="ru"> Русский</a></li>
+							<li><a href="#" data-google-lang="en"><img src="/local/templates/rubin_corp/img/flag3.svg"  alt="ru"> English</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="bottom flex">
+				<div class="menu">
+					
+<ul>
+
+
+	
+	
+					<li><a href="/news/">Новости</a></li>
+		
+	
+	
+
+	
+	
+		           <li><a href="/calendar/" class="with_sub">Сезон</a>
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/calendar/upcoming/">Матчи</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/standings/">Турнирная таблица</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/calendar/">Календарь игр</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/statistics/">Статистика</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/uniform/">Форма</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+		           <li><a href="/club/" class="with_sub">Клуб</a>
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/">История клуба</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/legends/">Легенды</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/head/">Правление</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/management/">Руководство</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/club/partners/">Партнеры</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+		           <li><a href="/teams/" class="with_sub">Команды</a>
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin">Рубин</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin-2">Рубин-2</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin-zh">ЖФК Рубин</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/teams/?team=rubin-zhm">ЖФК Рубин-М</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+		           <li><a href="/media/" class="with_sub">Медиа</a>
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/media/">Галерея</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/media/rubintv/">Рубин ТВ</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/media/accreditation/">Для СМИ</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+		        <li><a href="/fans/rubin-na-svyazi/" class="with_sub">Болельщикам</a>
+
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/club/">Клуб болельщиков</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/everybody/">Болельщикам МГН</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/rubin-na-svyazi/">Рубин на связи</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/rules/">Правила поведения</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/card/">Карта болельщика</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/subscription/">Абонементы</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/fans/loyalty/">Программа лояльности</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+		           <li><a href="/children/" class="with_sub"><img src="/local/templates/rubin_corp/img/ruby.svg" class="ruby">Детям</a>
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/">Дневник школьника</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="https://rubin-dfl.ru">Дворовый Футбол</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/rubin-junior/">Рубин Юниор</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/phygital/">Фиджитал Лига</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/east-cup/">Кубок Востока</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/children/walkout-kid/">Выведи игрока на поле</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+		           <li><a href="/stadium/" class="with_sub">Стадион</a>
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/">О стадионе</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/restaurant/">Ресторан</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/vip/">Вип-ложи</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/maps/">Как добраться</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/parking/">Парковка</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/detskie-komnaty/">Детские комнаты</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/storage/">Камеры хранения</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/stadium/warm-match/">Теплый матч</a></li>
+		
+	
+	
+
+			</ul></li>	
+	
+		           <li><a href="/academy/" class="with_sub">Академия</a>
+    
+				<ul>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/">Об академии</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/news/">Новости</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/management/">Руководство и персонал</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/coach/">Тренерский состав</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/infrastructure/">Инфраструктура</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/kids/">Поступление в Академию</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/students/">Наши воспитанники</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/manuals/">Методические пособия</a></li>
+		
+	
+	
+
+	
+	
+					<li><a href="/academy/docs/">Документы</a></li>
+		
+	
+	
+
+	</ul></li>
+</ul>
+					<a class="search-link"></a>
+					<div class="links">
+													<a href="/tickets/" class="tickets-link">билеты</a>
+																			<a href="https://store.rubin-kazan.ru/" class="store-link">магазин</a>
+											</div>
+				</div>
+									<a href="http://www.rubin-kazan.ru/auth/login.php" class="user">Вход</a>
+							</div>
+			<form action="/search/index.php" class="mobile-search">
+	<input type="text" name="q" value="" maxlength="50" placeholder="Поиск по сайту" />
+	<button name="s"></button>
+	<a class="close"></a>
+</form>		</nav>
+		<a class="menu-button"></a>
+	</header> 
+	<style>
+	.index-page-slider nav .slider-nav .item.slick-current span:before {
+		animation: progress 5s cubic-bezier(0.25, 0.4, 0.75, 0.6) forwards;
+	}
+	</style>
+		<div class="index-page-slider">
+		<div class="slider-for">
+								<div class="item" id="bx_3218110189_33072">
+	 
+									<a href="https://store.rubin-kazan.ru/23feb/"><div class="image" style="background: url('/upload/iblock/9c8/xqn1sng6vefkksb7bzwm08e1d4y9mess.jpg') center/cover;"></div></a>
+								<div class="text"><div class="wrap">
+					Подарочные наборы к 23 февраля					<a href="https://store.rubin-kazan.ru/23feb/" class="link"><svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.05101 12.0003L0.388508 3.33778L2.86301 0.863281L14 12.0003L2.86301 23.1373L0.388508 20.6628L9.05101 12.0003Z" fill="white"/>
+</svg></a>
+				</div></div>
+			</div>
+								<div class="item" id="bx_3218110189_32949">
+	 
+									<a href="https://www.rubin-kazan.ru/news/abonement-na-matchi-s-krasnodarom-i-lokomotivom/"><div class="image" style="background: url('/upload/iblock/245/320xthoxmwrr1ksm4tba29w38jcv17b0.jpg') center/cover;"></div></a>
+								<div class="text"><div class="wrap">
+					Абонемент на матчи с «Краснодаром» и «Локомотивом»					<a href="https://www.rubin-kazan.ru/news/abonement-na-matchi-s-krasnodarom-i-lokomotivom/" class="link"><svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.05101 12.0003L0.388508 3.33778L2.86301 0.863281L14 12.0003L2.86301 23.1373L0.388508 20.6628L9.05101 12.0003Z" fill="white"/>
+</svg></a>
+				</div></div>
+			</div>
+								<div class="item" id="bx_3218110189_33032">
+	 
+									<a href="https://www.rubin-kazan.ru/children/walkout-kid/"><div class="image" style="background: url('/upload/iblock/6e5/1lsit5mdiff5mm1sgs92qgi6oud33l7b.jpeg') center/cover;"></div></a>
+								<div class="text"><div class="wrap">
+					Выведи футболиста на матч с «Краснодаром»					<a href="https://www.rubin-kazan.ru/children/walkout-kid/" class="link"><svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.05101 12.0003L0.388508 3.33778L2.86301 0.863281L14 12.0003L2.86301 23.1373L0.388508 20.6628L9.05101 12.0003Z" fill="white"/>
+</svg></a>
+				</div></div>
+			</div>
+								<div class="item" id="bx_3218110189_32998">
+	 
+									<a href="https://www.rubin-kazan.ru/news/marat-safiullin-vstretilsya-s-kyurshadom-zorlu-na-baze-rubina/"><div class="image" style="background: url('/upload/resize_cache/iblock/0a5/1950_600_1/sjctigsj8raeb9ru731ku58pwoitvb1l.jpg') center/cover;"></div></a>
+								<div class="text"><div class="wrap">
+					Марат Сафиуллин встретился с Кюршадом Зорлу на базе «Рубина»					<a href="https://www.rubin-kazan.ru/news/marat-safiullin-vstretilsya-s-kyurshadom-zorlu-na-baze-rubina/" class="link"><svg width="14" height="24" viewBox="0 0 14 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.05101 12.0003L0.388508 3.33778L2.86301 0.863281L14 12.0003L2.86301 23.1373L0.388508 20.6628L9.05101 12.0003Z" fill="white"/>
+</svg></a>
+				</div></div>
+			</div>
+				</div>
+		<nav>
+			<div class="slider-nav">
+									<div class="item"><span><img src="/upload/iblock/9c8/xqn1sng6vefkksb7bzwm08e1d4y9mess.jpg"></span></div>
+									<div class="item"><span><img src="/upload/iblock/245/320xthoxmwrr1ksm4tba29w38jcv17b0.jpg"></span></div>
+									<div class="item"><span><img src="/upload/iblock/6e5/1lsit5mdiff5mm1sgs92qgi6oud33l7b.jpeg"></span></div>
+									<div class="item"><span><img src="/upload/iblock/0a5/sjctigsj8raeb9ru731ku58pwoitvb1l.jpg"></span></div>
+							</div>
+		</nav>
+	</div><div class="index-upcoming-block">
+    <div class="wrap">
+        <div class="block-name">
+            <h2>БЛИЖАЙШИЕ МАТЧИ</h2>
+        </div>
+        <ul class="teams-menu">
+                            <li><a href="#"  class="active"  data-team="0">Рубин</a></li>
+                            <li><a href="#"  data-team="1">Рубин-2</a></li>
+                            <li><a href="#"  data-team="2">Рубин-М</a></li>
+                            <li><a href="#"  data-team="3">ЖФК</a></li>
+                            <li><a href="#"  data-team="4">ЖФК-М</a></li>
+                            <li><a href="#"  data-team="5">ЮФЛ</a></li>
+                    </ul>
+
+                    <div class="list" data-team="0" data-initial-slide=9>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">8 ноября 16:30, сб</div>
+                                                                                        <div class="stadium">«Совкомбанк Арена»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/74/74d90507e8acc0b3649db3e377652851.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 0</p>
+                                                        <span class="team-name">Пари НН</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3113/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">22 ноября 19:30, сб</div>
+                                                                                        <div class="stadium">Ак Барс Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/7c/7ce7409af2a0bedb8d9b8a30b3acb681.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 0</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Ахмат</span>
+
+                                                                                        <button onclick="location.href='/matches/3114/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/21/215c0e515b3c215b0e1c90e3eeca2b54.svg">
+                                                                                    <div class="tournament">FONBET Кубок России. Путь регионов. Плей-офф. 1/4 финала, этап 1</div>
+                            <div class="datetime">25 ноября 20:30, вт</div>
+                                                                                        <div class="stadium">Центральный стадион «Арсенал»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/81/81304d9ed5facfa03230ebb9831aa18c.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 0</p>
+                                                        <span class="team-name">Арсенал</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3898/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">30 ноября 19:00, вс</div>
+                                                                                        <div class="stadium">Газпром Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/c1/c181cc120edcaf73aac263887bd7311a.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 0</p>
+                                                        <span class="team-name">Зенит</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3115/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">6 декабря 14:00, сб</div>
+                                                                                        <div class="stadium">Ростов Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/75/759c5b8700871e3b8f9f4ea293015097.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 0</p>
+                                                        <span class="team-name">Ростов</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3116/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Товарищеские матчи</div>
+                            <div class="datetime">21 января 17:00, ср</div>
+                                                                                        <div class="stadium">Gloria Sport Arena</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/fe/200-fee00a5dc68e0a0392be9b033e3e73a0.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 1</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">ИМТ</span>
+
+                                                                                        <button onclick="location.href='/matches/4004/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Товарищеские матчи</div>
+                            <div class="datetime">26 января 11:30, пн</div>
+                                                                                        <div class="stadium">Gloria Sport Arena</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/41/200-417573c54cf327e883f031306eded378.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 0</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Струга</span>
+
+                                                                                        <button onclick="location.href='/matches/4005/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Товарищеские матчи</div>
+                            <div class="datetime">4 февраля 17:00, ср</div>
+                                                                                        <div class="stadium">Gloria Sport Arena</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/7c/7cfe00c1c65e6553abe542e857b31e02.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 0</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Женис</span>
+
+                                                                                        <button onclick="location.href='/matches/4007/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Товарищеские матчи</div>
+                            <div class="datetime">8 февраля 17:00, вс</div>
+                                                                                        <div class="stadium">Gloria Sport Arena</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/09/200-09b7201ab333070b6fa67f3459f5d0cc.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 0</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Навбахор</span>
+
+                                                                                        <button onclick="location.href='/matches/4008/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Товарищеские матчи</div>
+                            <div class="datetime">15 февраля 17:00, вс</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/b3/200-b331f40d1f00dfd933fd9d0d26fbe881.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 0</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Пахтакор</span>
+
+                                                                                        <button onclick="location.href='/matches/4011/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item bg">
+                        <div class="top">
+                                                                                    <div class="tournament">Товарищеские матчи</div>
+                            <div class="datetime">20 февраля 17:00, пт</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/dd/dd0528ae89f17a45451d7593475ec174.svg"  style="opacity:0.8" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>20 фев</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Оренбург</span>
+
+                                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">28 февраля 19:30, сб</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/1a/1acf22e0b75586a60e1caf86c115d618.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>28 фев</p>
+                                                        <span class="team-name">Динамо</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                            <div class="bet flex">
+                                    <div class="logo">
+                                        <img src="/local/templates/rubin_corp/img/fonbet.svg">
+                                    </div>
+                                    <div class="links">
+                                        <a href="https://fon.bet/sports/football/11935/60568417/?utm_source=rubin&amp;utm_medium=cpc&amp;utm_campaign=des_base&amp;utm_content=odds" target="_blank"><span>2.65</span> П1</a>
+                                        <a href="https://fon.bet/sports/football/11935/60568417/?utm_source=rubin&amp;utm_medium=cpc&amp;utm_campaign=des_base&amp;utm_content=odds" target="_blank"><span>2.9</span> Х</a>
+                                        <a href="https://fon.bet/sports/football/11935/60568417/?utm_source=rubin&amp;utm_medium=cpc&amp;utm_campaign=des_base&amp;utm_content=odds" target="_blank"><span>3</span> П2</a>
+                                    </div>
+                                </div>
+                                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                        <a href="https://test.rubin-kazan.ru/stadium/warm-match/" title="Теплый матч" class="warm"><img src="/local/templates/rubin_corp/img/warm-match/label1.webp" alt="Теплый матч"></a>
+                                                        <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">8 марта 17:00, вс</div>
+                                                                                        <div class="stadium">Ак Барс Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/24/2453260ba27e83308fb9e90661ea6734.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>8 мар</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Краснодар</span>
+
+                                                                                                                <a href="/auth/login.php?callbackUrl=https%3A%2F%2Fwww.rubin-kazan.ru%2F" data-id="198831" class="need-auth-btn  card-button">
+                <i></i>
+                <span>Купить билеты</span>
+            </a>
+            <a href="https://qtickets.ru/event/198831" class="qtickets-link" data-qid="198831" data-signed-data="{&quot;multiprice_list&quot;:[&quot;full&quot;,&quot;child&quot;,&quot;school&quot;,&quot;pens&quot;]}" data-sign="0973b81caa8046fbc80a65645caa2ec3" data-base-color="7f1e34"></a>
+                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                        <a href="https://test.rubin-kazan.ru/stadium/warm-match/" title="Теплый матч" class="warm"><img src="/local/templates/rubin_corp/img/warm-match/label1.webp" alt="Теплый матч"></a>
+                                                        <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">15 марта 19:00, вс</div>
+                                                                                        <div class="stadium">Ак Барс Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/be/be14305a1e94043c227b7e70474f3a63.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>15 мар</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Локомотив</span>
+
+                                                                                                                <a href="/auth/login.php?callbackUrl=https%3A%2F%2Fwww.rubin-kazan.ru%2F" data-id="204289" class="need-auth-btn  card-button">
+                <i></i>
+                <span>Купить билеты</span>
+            </a>
+            <a href="https://qtickets.ru/event/204289" class="qtickets-link" data-qid="204289" data-signed-data="{&quot;multiprice_list&quot;:[&quot;full&quot;,&quot;child&quot;,&quot;school&quot;,&quot;pens&quot;]}" data-sign="f2d44f9a8d57518c6e042e07e11abccd" data-base-color="7f1e34"></a>
+                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">22 марта 16:30, вс</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/3b/3bbd86984725d9141731d8f4936b566c.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>22 мар</p>
+                                                        <span class="team-name">Крылья Советов</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">3-6 апреля</div>
+                                                            <div class="approximate-text">Точные дата и время матча будут опубликованы позже</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/b3/b35b1d62eef9493f91c92431660ffd42.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3-6 апр</p>
+                                                        <span class="team-name">Сочи</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">10-13 апреля</div>
+                                                            <div class="approximate-text">Точные дата и время матча будут опубликованы позже</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/dd/dd0528ae89f17a45451d7593475ec174.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>10-13 апр</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Оренбург</span>
+
+                                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">17-20 апреля</div>
+                                                            <div class="approximate-text">Точные дата и время матча будут опубликованы позже</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/3d/3d9fdd4ebd033a96e8420c2c14028533.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>17-20 апр</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">Акрон</span>
+
+                                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">21-23 апреля</div>
+                                                            <div class="approximate-text">Точные дата и время матча будут опубликованы позже</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/d7/d7e5d7701910de17a1126d9bb38909fd.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>21-23 апр</p>
+                                                        <span class="team-name">Динамо</span>
+                            <span class="team-name rubin">Рубин</span>
+
+                                                                                </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/50/508c83f7fdff95a2a6d8967efcb07cda.svg">
+                                                                                    <div class="tournament">Мир РПЛ</div>
+                            <div class="datetime">24-27 апреля</div>
+                                                            <div class="approximate-text">Точные дата и время матча будут опубликованы позже</div>
+                                                                                </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/18/1816502458695a23f8f6d9d58212f93d.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>24-27 апр</p>
+                                                        <span class="team-name rubin">Рубин</span>
+                            <span class="team-name">ПФК ЦСКА</span>
+
+                                                                                </div>
+                    </div>
+                            </div>
+                    <div class="list" data-team="1" data-initial-slide=9 style="display: none" >
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">17 августа 16:00, вс</div>
+                                                                                        <div class="stadium">Стадион «Химик»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/4e/200-4e6ebc4114530dace8af29739152288e.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 1</p>
+                                                        <span class="team-name">Химик</span>
+                            <span class="team-name rubin">Рубин-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3073/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">24 августа 17:00, вс</div>
+                                                                                        <div class="stadium">Стадион Центральный</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/44/200-44c23e1a5de9e8d894babe88e2f080f8.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 0</p>
+                                                        <span class="team-name rubin">Рубин-2</span>
+                            <span class="team-name">Носта</span>
+
+                                                                                        <button onclick="location.href='/matches/3074/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">1 сентября 13:00, пн</div>
+                                                                                        <div class="stadium">Стадион «Кристалл»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/5a/5a9faaf33e82534d5dbd37656f6c2f4f.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 1</p>
+                                                        <span class="team-name">Акрон-2</span>
+                            <span class="team-name rubin">Рубин-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3075/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">7 сентября 12:00, вс</div>
+                                                                                        <div class="stadium">Стадион «Уралвагонзавод»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/4c/200-4cef9c16b611733ab3e5f838fffb8901.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 0</p>
+                                                        <span class="team-name">Уралец-ТС</span>
+                            <span class="team-name rubin">Рубин-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3076/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">14 сентября 17:00, вс</div>
+                                                                                        <div class="stadium">Стадион Центральный</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/65/65723ae0f6a68fcfea432964b4f7ece4.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 0</p>
+                                                        <span class="team-name rubin">Рубин-2</span>
+                            <span class="team-name">Урал-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3077/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">21 сентября 14:00, вс</div>
+                                                                                        <div class="stadium">Стадион Звезда</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/8b/8bb714dd2a627cb2ab7d2393bf87c5a9.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 0</p>
+                                                        <span class="team-name">Амкар</span>
+                            <span class="team-name rubin">Рубин-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3078/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">27 сентября 17:00, сб</div>
+                                                                                        <div class="stadium">Стадион Центральный</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/27/200-27c2ae71c67f1274a6830913974a0b1f.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>4 - 0</p>
+                                                        <span class="team-name rubin">Рубин-2</span>
+                            <span class="team-name">Динамо</span>
+
+                                                                                        <button onclick="location.href='/matches/3079/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">5 октября 11:00, вс</div>
+                                                                                        <div class="stadium">Стадион «Центральный»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/b7/200-b757673ba6202484d05161a2bccbea2f.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 2</p>
+                                                        <span class="team-name">Челябинск-2</span>
+                            <span class="team-name rubin">Рубин-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3080/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">12 октября 17:00, вс</div>
+                                                                                        <div class="stadium">Стадион Центральный</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/41/41574fb6b2ff37b070f89e7539da3a3e.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 1</p>
+                                                        <span class="team-name rubin">Рубин-2</span>
+                            <span class="team-name">Оренбург-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3081/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/44/445553073941043cf2e41e86de9984c6.svg">
+                                                                                    <div class="tournament">LEON Вторая лига Б. Группа 4</div>
+                            <div class="datetime">19 октября 11:00, вс</div>
+                                                                                        <div class="stadium">Стадион «Темп»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/6f/200-6f207856367f5bef0d8ab9954205b304.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 2</p>
+                                                        <span class="team-name">КДВ</span>
+                            <span class="team-name rubin">Рубин-2</span>
+
+                                                                                        <button onclick="location.href='/matches/3082/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                            </div>
+                    <div class="list" data-team="2" data-initial-slide=9 style="display: none" >
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">29 августа 13:00, пт</div>
+                                                                                        <div class="stadium">Локомотив</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/80/806e31e3f9a1f2152eac91ef8fbe0907.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 0</p>
+                                                        <span class="team-name">Факел-М</span>
+                            <span class="team-name rubin">Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3194/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">12 сентября 15:00, пт</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/d0/d044acfd3b7c880de8086c622fc5b62c.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>6 - 0</p>
+                                                        <span class="team-name rubin">Рубин-М</span>
+                            <span class="team-name">Акрон-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3195/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">19 сентября 15:00, пт</div>
+                                                                                        <div class="stadium">«Октябрь» (спортивная площадка «В»)</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/3e/3e2e5b3a7cd3de0926f3bece15c66ef3.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>4 - 1</p>
+                                                        <span class="team-name">ЦСКА-М</span>
+                            <span class="team-name rubin">Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3196/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">26 сентября 15:00, пт</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/e2/e220055415bceaf05601f23f3d360599.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 1</p>
+                                                        <span class="team-name rubin">Рубин-М</span>
+                            <span class="team-name">Крылья Советов-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3197/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">3 октября 15:00, пт</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/98/98f3b46134c2770ae665e1537ef283cb.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 1</p>
+                                                        <span class="team-name rubin">Рубин-М</span>
+                            <span class="team-name">Балтика-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3198/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">17 октября 15:00, пт</div>
+                                                                                        <div class="stadium">Сапсан Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/1a/1a756606f14a672b5bfa5ce89740a52d.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 0</p>
+                                                        <span class="team-name">Локомотив-М</span>
+                            <span class="team-name rubin">Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3199/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">24 октября 15:00, пт</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/76/767aed825e314bf39d7886d64053ce2f.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 1</p>
+                                                        <span class="team-name rubin">Рубин-М</span>
+                            <span class="team-name">Пари НН-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3200/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">31 октября 17:00, пт</div>
+                                                                                        <div class="stadium">Академия ФК «Сочи», футбольное поле №2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/b6/b6811a17888a0a7b26d584d301935c06.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 3</p>
+                                                        <span class="team-name">Сочи-М</span>
+                            <span class="team-name rubin">Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3201/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">7 ноября 15:00, пт</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/4f/4f1737ef3ec3edc0451bda0d7eb62618.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 3</p>
+                                                        <span class="team-name rubin">Рубин-М</span>
+                            <span class="team-name">Зенит-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3202/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/b1/b18e86fca7b1f98f4c5de26c0a8742c3.svg">
+                                                                                    <div class="tournament">Молодежная лига</div>
+                            <div class="datetime">21 ноября 17:00, пт</div>
+                                                                                        <div class="stadium">Крытый футбольный манеж «Урал»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/0e/0e30678f5349c74c629185cbd3eeb29f.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 0</p>
+                                                        <span class="team-name">Урал-М</span>
+                            <span class="team-name rubin">Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3203/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                            </div>
+                    <div class="list" data-team="3" data-initial-slide=9 style="display: none" >
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">26 июля 10:00, сб</div>
+                                                                                        <div class="stadium">Футбол-Арена «Енисей»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/d3/d3989381a68e950c7ec5946604f601f1.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 1</p>
+                                                        <span class="team-name">ЖФК Енисей</span>
+                            <span class="team-name rubin">ЖФК Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3047/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">10 августа 17:00, вс</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/c7/c703bfefda710139708c05d7230c8e47.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 3</p>
+                                                        <span class="team-name rubin">ЖФК Рубин</span>
+                            <span class="team-name">ЖФК Зенит</span>
+
+                                                                                        <button onclick="location.href='/matches/3048/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">16 августа 15:00, сб</div>
+                                                                                        <div class="stadium">Стадион Металлург</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/53/536c1a670a11ca9b5ef7045236c4334b.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 1</p>
+                                                        <span class="team-name">ЖФК Крылья Советов</span>
+                            <span class="team-name rubin">ЖФК Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3049/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">24 августа 12:30, вс</div>
+                                                                                        <div class="stadium">База Рубин</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/22/2267fae3804f73d1f3c818bfbc51291a.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 2</p>
+                                                        <span class="team-name rubin">ЖФК Рубин</span>
+                            <span class="team-name">ЖФК Локомотив</span>
+
+                                                                                        <button onclick="location.href='/matches/3050/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">6 сентября 13:00, сб</div>
+                                                                                        <div class="stadium">Арена Химки</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/a4/a483d1c1a515acd380fc7a4bd80c0a41.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>4 - 0</p>
+                                                        <span class="team-name">ЖФК ЦСКА</span>
+                            <span class="team-name rubin">ЖФК Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3051/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">27 сентября 16:00, сб</div>
+                                                                                        <div class="stadium">Рязань Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/1a/1a609befad2dfdb00a7c8460b2905a6a.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 2</p>
+                                                        <span class="team-name">ЖФК Рязань-ВДВ</span>
+                            <span class="team-name rubin">ЖФК Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3052/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">4 октября 16:00, сб</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/aa/200-aa03f93e676907d096aba49cb657aa8d.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 3</p>
+                                                        <span class="team-name rubin">ЖФК Рубин</span>
+                            <span class="team-name">ЖФК Чертаново</span>
+
+                                                                                        <button onclick="location.href='/matches/3053/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">19 октября 13:00, вс</div>
+                                                                                        <div class="stadium">Малая Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/1a/1a07d628797fd69b7021862f2016baf5.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 1</p>
+                                                        <span class="team-name">ЖФК Краснодар</span>
+                            <span class="team-name rubin">ЖФК Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3054/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">2 ноября 13:00, вс</div>
+                                                                                        <div class="stadium">ВТБ УТБ Новогорск-Динамо</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/71/714ddeeeaa73d94076a235e58d42dc03.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 1</p>
+                                                        <span class="team-name">ЖФК Динамо</span>
+                            <span class="team-name rubin">ЖФК Рубин</span>
+
+                                                                                        <button onclick="location.href='/matches/3055/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/48/48b47d52e685b8421c2f1c104f221a7d.svg">
+                                                                                    <div class="tournament">Winline Cуперлига 2025</div>
+                            <div class="datetime">8 ноября 13:00, сб</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/44/445bc70c8ce78724953a76e9ea3cda82.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 5</p>
+                                                        <span class="team-name rubin">ЖФК Рубин</span>
+                            <span class="team-name">ЖФК Спартак</span>
+
+                                                                                        <button onclick="location.href='/matches/3056/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                            </div>
+                    <div class="list" data-team="4" data-initial-slide=9 style="display: none" >
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">10 августа 12:00, вс</div>
+                                                                                        <div class="stadium">Стадион «Салют Гераклион»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/d2/d2b289b9f954a890350ca57e69bfb7af.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 0</p>
+                                                        <span class="team-name">ЖФК ЦСКА-М</span>
+                            <span class="team-name rubin">ЖФК Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3504/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">17 августа 11:00, вс</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/8a/8a17fe1ea00f3f2759d909a9536842fa.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 1</p>
+                                                        <span class="team-name rubin">ЖФК Рубин-М</span>
+                            <span class="team-name">ЖФК Краснодар-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3548/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">25 августа 17:00, пн</div>
+                                                                                        <div class="stadium">Арена Чертаново</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/10/200-10ecb03d048d3810f45b737d76fd76c7.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 1</p>
+                                                        <span class="team-name">ЖФК Чертаново-М</span>
+                            <span class="team-name rubin">ЖФК Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3586/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">31 августа 11:00, вс</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/e9/e94517c1e99b85b04bca1610a484ba7b.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>4 - 0</p>
+                                                        <span class="team-name rubin">ЖФК Рубин-М</span>
+                            <span class="team-name">ЖФК Ростов-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3587/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">14 сентября 11:00, вс</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/ba/bac8e5042c606a0cad68f5b8e3fab2f8.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 0</p>
+                                                        <span class="team-name rubin">ЖФК Рубин-М</span>
+                            <span class="team-name">ЖФК Крылья Советов-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3689/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">20 сентября 18:00, сб</div>
+                                                                                        <div class="stadium">Стадион академии ФК «Спартак» им. Черенкова. Поле №4</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/97/9721b57e06c2fe314795c635b6b6d3e3.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 0</p>
+                                                        <span class="team-name">ЖФК Спартак-М</span>
+                            <span class="team-name rubin">ЖФК Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3690/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">28 сентября 11:00, вс</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/1b/1be5a28292757b3fc06c60e335f991c6.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 4</p>
+                                                        <span class="team-name rubin">ЖФК Рубин-М</span>
+                            <span class="team-name">ЖФК Зенит-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3765/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">5 октября 11:00, вс</div>
+                                                                                        <div class="stadium">Сапсан Арена</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/e4/e40c8645675313fc0529040481c052d9.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>5 - 3</p>
+                                                        <span class="team-name">ЖФК Локомотив-М</span>
+                            <span class="team-name rubin">ЖФК Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3766/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">12 октября 11:00, вс</div>
+                                                                                        <div class="stadium">База Рубин, поле 2</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/0a/0a00014155d7bf519e8904cf9cabf5f2.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 1</p>
+                                                        <span class="team-name rubin">ЖФК Рубин-М</span>
+                            <span class="team-name">ЖФК Динамо-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3767/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                                                    <div class="tournament">Молодежная женская лига</div>
+                            <div class="datetime">19 октября 15:00, вс</div>
+                                                                                        <div class="stadium">Мастер-Сатурн</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/a2/200-a26090f63b03a173a77247fcc797a68b.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 1</p>
+                                                        <span class="team-name">ЖФК Мастер-Сатурн-М</span>
+                            <span class="team-name rubin">ЖФК Рубин-М</span>
+
+                                                                                        <button onclick="location.href='/matches/3768/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                            </div>
+                    <div class="list" data-team="5" data-initial-slide=9 style="display: none" >
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/12/200-1297fe22c40c342d9c58104480c618e2.png">
+                                                                                    <div class="tournament">ЮФЛ-1</div>
+                            <div class="datetime">25 октября 16:00, сб</div>
+                                                                                        <div class="stadium">Арена Чертаново</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/b9/200-b9287ec14fb3a95d10dd3f69bf76014f.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>0 - 1</p>
+                                                        <span class="team-name">Чертаново U-18</span>
+                            <span class="team-name rubin">Рубин U-18</span>
+
+                                                                                        <button onclick="location.href='/matches/3219/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/45/200-451303613ec1e5fb4a4155d673f4a854.png">
+                                                                                    <div class="tournament">ЮФЛ-3</div>
+                            <div class="datetime">1 ноября 10:00, сб</div>
+                                                                                        <div class="stadium">База Рубин</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/e4/e458b46778d43781e296af25b569808c.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 0</p>
+                                                        <span class="team-name rubin">Рубин U-16</span>
+                            <span class="team-name">Ростов U-16</span>
+
+                                                                                        <button onclick="location.href='/matches/3258/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/be/200-be979859e13e934d72526eec7ca5d368.png">
+                                                                                    <div class="tournament">ЮФЛ-2</div>
+                            <div class="datetime">1 ноября 13:00, сб</div>
+                                                                                        <div class="stadium">База Рубин</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/47/479ed7ba3873ff3a770e6ad7bd325b19.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>3 - 2</p>
+                                                        <span class="team-name rubin">Рубин U-17</span>
+                            <span class="team-name">Ростов U-17</span>
+
+                                                                                        <button onclick="location.href='/matches/3239/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/12/200-1297fe22c40c342d9c58104480c618e2.png">
+                                                                                    <div class="tournament">ЮФЛ-1</div>
+                            <div class="datetime">1 ноября 16:00, сб</div>
+                                                                                        <div class="stadium">База Рубин</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/6b/6b8e5db0137f985e156ee2765ccb61e9.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 2</p>
+                                                        <span class="team-name rubin">Рубин U-18</span>
+                            <span class="team-name">Ростов U-18</span>
+
+                                                                                        <button onclick="location.href='/matches/3220/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/45/200-451303613ec1e5fb4a4155d673f4a854.png">
+                                                                                    <div class="tournament">ЮФЛ-3</div>
+                            <div class="datetime">8 ноября 11:00, сб</div>
+                                                                                        <div class="stadium">ГБПОУ МО «УОР № 5»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/ee/200-ee63bb94f3239216da4035a9c155af47.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 1</p>
+                                                        <span class="team-name">Мастер-Сатурн U-16</span>
+                            <span class="team-name rubin">Рубин U-16</span>
+
+                                                                                        <button onclick="location.href='/matches/3259/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/be/200-be979859e13e934d72526eec7ca5d368.png">
+                                                                                    <div class="tournament">ЮФЛ-2</div>
+                            <div class="datetime">8 ноября 14:00, сб</div>
+                                                                                        <div class="stadium">ГБПОУ МО «УОР № 5»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/71/200-71efcb5f903fa37301d0c3c88fa745c2.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 3</p>
+                                                        <span class="team-name">Мастер-Сатурн U-17</span>
+                            <span class="team-name rubin">Рубин U-17</span>
+
+                                                                                        <button onclick="location.href='/matches/3240/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/12/200-1297fe22c40c342d9c58104480c618e2.png">
+                                                                                    <div class="tournament">ЮФЛ-1</div>
+                            <div class="datetime">8 ноября 17:00, сб</div>
+                                                                                        <div class="stadium">ГБПОУ МО «УОР № 5»</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/58/200-580fcf14a3767d8a88f6dfb5abe31e71.png" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>1 - 0</p>
+                                                        <span class="team-name">Мастер-Сатурн U-18</span>
+                            <span class="team-name rubin">Рубин U-18</span>
+
+                                                                                        <button onclick="location.href='/matches/3221/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/45/200-451303613ec1e5fb4a4155d673f4a854.png">
+                                                                                    <div class="tournament">ЮФЛ-3</div>
+                            <div class="datetime">22 ноября 10:00, сб</div>
+                                                                                        <div class="stadium">База Рубин</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/ca/ca7b78c0d80b25b04cec4d348204d195.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>4 - 0</p>
+                                                        <span class="team-name rubin">Рубин U-16</span>
+                            <span class="team-name">Динамо U-16</span>
+
+                                                                                        <button onclick="location.href='/matches/3260/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/be/200-be979859e13e934d72526eec7ca5d368.png">
+                                                                                    <div class="tournament">ЮФЛ-2</div>
+                            <div class="datetime">22 ноября 13:00, сб</div>
+                                                                                        <div class="stadium">База Рубин</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/ed/ed20e346833ea94c4c31e66a13f37688.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>2 - 3</p>
+                                                        <span class="team-name rubin">Рубин U-17</span>
+                            <span class="team-name">Динамо U-17</span>
+
+                                                                                        <button onclick="location.href='/matches/3241/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                                    <div class="item">
+                        <div class="top">
+                                                            <img src="https://www.rubin-kazan.ru/uploads/tournaments/logos/12/200-1297fe22c40c342d9c58104480c618e2.png">
+                                                                                    <div class="tournament">ЮФЛ-1</div>
+                            <div class="datetime">22 ноября 16:00, сб</div>
+                                                                                        <div class="stadium">База Рубин</div>
+                                                    </div>
+                        <div class="team">
+                            <img src="https://www.rubin-kazan.ru/uploads/teams/logos/a9/a98a362c7465ac2b188d755aba2354a9.svg" >
+                        </div>
+
+                        <div class="result">
+                                                            <p>4 - 2</p>
+                                                        <span class="team-name rubin">Рубин U-18</span>
+                            <span class="team-name">Динамо U-18</span>
+
+                                                                                        <button onclick="location.href='/matches/3222/'"><i></i><span>Репортаж</span></button>
+                                                    </div>
+                    </div>
+                            </div>
+                <div class='all'><a href="/calendar/upcoming/">Все<span> матчи</span></a></div>
+    </div>
+</div>
+
+<div class="index-players-block">
+	<div class="wrap flex">
+		<div class="table">
+			<div class="block-name">
+				<h2>ТУРНИРНАЯ ТАБЛИЦА</h2>
+				<div class="select">
+									</div>
+			</div>
+			<div id="tbl1" class="tbl" style="display: block">
+								<table>
+					<thead>
+						<tr>
+							<td>№</td>
+							<td>Команда</td>
+							<td>ИГРЫ</td>
+							<td>ПОБЕДЫ</td>
+							<td>НИЧЬИ</td>
+							<td>ПОРАЖЕНИЯ</td>
+							<td>очки</td>
+						</tr>
+					</thead>
+					<tbody>
+													<tr >
+								<td>
+									<div class="number">1</div>
+								</td>
+								<td class="team">
+									<img src="https://www.rubin-kazan.ru/uploads/teams/logos/24/2453260ba27e83308fb9e90661ea6734.svg" class="logo">
+									<span class="name-block">
+										<span class="name">Краснодар</span>
+										<span class="city">Краснодар</span>
+									</span>
+								</td>
+								<td>18</td>
+								<td>12</td>
+								<td>4</td>
+								<td>2</td>
+								<td>40</td>
+							</tr>
+																				<tr >
+								<td>
+									<div class="number">2</div>
+								</td>
+								<td class="team">
+									<img src="https://www.rubin-kazan.ru/uploads/teams/logos/c1/c181cc120edcaf73aac263887bd7311a.svg" class="logo">
+									<span class="name-block">
+										<span class="name">Зенит</span>
+										<span class="city">Санкт-Петербург</span>
+									</span>
+								</td>
+								<td>18</td>
+								<td>11</td>
+								<td>6</td>
+								<td>1</td>
+								<td>39</td>
+							</tr>
+															<tr>
+									<td colspan="7">
+										<div class="dots"></div>
+									</td>
+								</tr>
+																				<tr >
+								<td>
+									<div class="number">6</div>
+								</td>
+								<td class="team">
+									<img src="https://www.rubin-kazan.ru/uploads/teams/logos/0f/0f01c616a91e9e89f9188145c320eb1e.svg" class="logo">
+									<span class="name-block">
+										<span class="name">Спартак</span>
+										<span class="city">Москва</span>
+									</span>
+								</td>
+								<td>18</td>
+								<td>8</td>
+								<td>5</td>
+								<td>5</td>
+								<td>29</td>
+							</tr>
+																				<tr  class="active" >
+								<td>
+									<div class="number">7</div>
+								</td>
+								<td class="team">
+									<img src="https://www.rubin-kazan.ru/upload/img/300-rubin-white.png" class="logo">
+									<span class="name-block">
+										<span class="name">Рубин</span>
+										<span class="city">Казань</span>
+									</span>
+								</td>
+								<td>18</td>
+								<td>6</td>
+								<td>5</td>
+								<td>7</td>
+								<td>23</td>
+							</tr>
+																				<tr >
+								<td>
+									<div class="number">8</div>
+								</td>
+								<td class="team">
+									<img src="https://www.rubin-kazan.ru/uploads/teams/logos/7c/7ce7409af2a0bedb8d9b8a30b3acb681.svg" class="logo">
+									<span class="name-block">
+										<span class="name">Ахмат</span>
+										<span class="city">Грозный</span>
+									</span>
+								</td>
+								<td>18</td>
+								<td>6</td>
+								<td>4</td>
+								<td>8</td>
+								<td>22</td>
+							</tr>
+																		</tbody>
+				</table>
+
+				<div class="bottom-link">
+					<a href="/season/tournament/">показать полностью</a>
+				</div>
+			</div>
+			<div id="tbl2" class="tbl" style="display: none">
+				<table>
+	<thead>
+		<tr>
+			<td>№</td>
+			<td>Команда</td>
+			<td>ИГРЫ</td>
+			<td>ПОБЕДЫ</td>
+			<td>НИЧЬИ</td>
+			<td>ПОРАЖЕНИЯ</td>
+			<td>очки</td>
+		</tr>
+	</thead>
+	<tbody>
+		</tbody>
+</table>				<div class="bottom-link">
+					<a href="/season/tournament/?liga=fonbet">показать полностью</a>
+				</div>
+			</div>
+		</div>
+		<div class="players">
+			<h2>игроки</h2>
+			<div class="list">
+	
+	<div class="item" id="bx_1373509569_30">
+		<a href="/team/30/">
+						<div class="number">
+				70			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>92</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>25</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Дмитрий Кабутов			</div>
+						<div class="position">
+				Защитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/0ac/550_745_1/6d1rpe2iwrv28sjf4r9ehupq2x46fnir.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_105">
+		<a href="/team/105/">
+						<div class="number">
+				2			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>81</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>12</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Егор Тесленко			</div>
+						<div class="position">
+				Защитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/b93/550_745_1/uuhj58zcjal9p1gekng0oppf638uqfsv.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_109">
+		<a href="/team/109/">
+						<div class="number">
+				18			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>57</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>4</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Марат Апшацев			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/c04/550_745_1/2g7dazafydgo3xwg2g7u8fr2k1jzcq4d.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_110">
+		<a href="/team/110/">
+						<div class="number">
+				51			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>52</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>7</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Илья Рожков			</div>
+						<div class="position">
+				Защитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/9bc/550_745_1/xyd8nri5lf7ph8acriqtit1nlmq6j0lz.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_113">
+		<a href="/team/113/">
+						<div class="number">
+				10			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>61</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>36</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Мирлинд Даку			</div>
+						<div class="position">
+				Нападающий			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/e5e/550_745_1/t1dhj07i376j70otpljmcdyaw6pnbfef.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_120">
+		<a href="/team/120/">
+						<div class="number">
+				6			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>61</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>2</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Угочукву Иву			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/703/550_745_1/xa1fd3aplu01q1o32rsz4394xbmq5gzw.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_123">
+		<a href="/team/123/">
+						<div class="number">
+				19			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>70</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>6</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Олег Иванов			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/499/550_745_1/qcd5pwj4oktaw01v4eslm7qbqf2rduml.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_126">
+		<a href="/team/126/">
+						<div class="number">
+				21			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>88</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>16</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Александр Зотов			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/546/550_745_1/ioljgoa00owtg4r83ctr2xr0p40r1iw6.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_128">
+		<a href="/team/128/">
+						<div class="number">
+				24			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>43</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>7</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Никола Чумич			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/bdb/550_745_1/excp63lrolyhnfx9kh962mga480n43xb.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_130">
+		<a href="/team/130/">
+						<div class="number">
+				99			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>41</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>11</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Дардан Шабанхаджай			</div>
+						<div class="position">
+				Нападающий			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/f44/550_745_1/642b9ref2y7szfy561n8o9mabr1qb6cl.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_132">
+		<a href="/team/132/">
+						<div class="number">
+				23			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>74</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>11</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Руслан Безруков			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/e5d/550_745_1/2hr2k0kmwh8i35puv52gv9m3de0byw5z.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_136">
+		<a href="/team/136/">
+						<div class="number">
+				8			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>26</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>5</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Богдан Йочич			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/939/550_745_1/rzmigbqek2mh19j9kwtanmzd6il198ss.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_138">
+		<a href="/team/138/">
+						<div class="number">
+				5			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>67</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>1</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Игор Вуячич			</div>
+						<div class="position">
+				Защитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/ed1/550_745_1/y74hwid8s3sk2tnhonrllk3x2ssyh2d4.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_139">
+		<a href="/team/139/">
+						<div class="number">
+				11			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>6</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>0</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Касра Тахери			</div>
+						<div class="position">
+				Нападающий			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/d54/550_745_1/g5l53lwrfss23630a6pejziabrzej3he.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_29867">
+		<a href="/team/29867/">
+						<div class="number">
+				3			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>0</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>0</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Дениль Мальдонадо			</div>
+						<div class="position">
+				Защитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/20c/550_745_1/4ky12x858omapfkrad64uj7pk51o9z3h.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_11314">
+		<a href="/team/11314/">
+						<div class="number">
+				96			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>6</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>0</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Никита Васильев			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/e46/550_745_1/vhomi06za6qczd12vxjscpo8spb46yds.png">			</div>
+					</a>
+	</div>
+
+	
+	<div class="item" id="bx_1373509569_15991">
+		<a href="/team/15991/">
+						<div class="number">
+				7			</div>
+						<div class="count flex">
+				<div class="count-item">
+					<span>6</span>
+					игры
+				</div>
+				<div class="count-item">
+					                         <span>3</span>
+                    					гол+пас
+				</div>
+			</div>
+			<div class="name">
+				Александар Юкич			</div>
+						<div class="position">
+				Полузащитник			</div>
+									<div class="image">
+				<img src="/upload/resize_cache/iblock/31c/550_745_1/cuny9ktpotdhm8itggbuxucf4nw93oxa.png">			</div>
+					</a>
+	</div>
+
+</div>		</div>
+	</div>
+</div>
+<div class="index-news-block">
+	<div class="wrap">
+		<div class="block-name">
+			<h2>Новости</h2>
+
+					</div>
+		<div class="list">
+		<div class="item" id="bx_3485106786_33091">
+		<div class="image">			<a href="/news/aleksey-kenyaykin-v-rubine/"><img src="/upload/resize_cache/iblock/d40/350_450_1/toeek1rgmt15b4njzcxul5sfufdccita.jpg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=main_team">Главная команда</a>
+								18.02.2026			</div>
+			<a href="/news/aleksey-kenyaykin-v-rubine/" class="name">Алексей Кеняйкин – в «Рубине»</a>
+		</div>
+	</div>
+						<div class="item">
+				<div class="support">
+									<a href="https://clicks.af-ru2e2e.com/click/s/QHih"
+					style="background-image: url(/upload/iblock/3d2/3jmjpufmy8tobxq7hfnhict1hgldx2fr.jpg)" class="image-banner">
+					</a>
+								</div>
+			</div>
+					<div class="item" id="bx_3485106786_33086">
+		<div class="image">			<a href="/news/priglashaem-devochek-2015-2019-g-r-na-futbolnyy-festival/"><img src="/upload/resize_cache/iblock/251/350_450_1/6x3a1y0e1ju10ihqlavzbi515k6eze31.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=academy">Академия</a>
+								18.02.2026			</div>
+			<a href="/news/priglashaem-devochek-2015-2019-g-r-na-futbolnyy-festival/" class="name">Приглашаем девочек 2015-2019 г.р. на футбольный фестиваль</a>
+		</div>
+	</div>
+						<div class="item">
+				<div class="support">
+									<a href="https://www.rubin-kazan.ru/pages/abb/"
+					style="background-image: url(/upload/iblock/0b0/c5v3wgl7ld6m0g6bin1fzkpgu7a1gk2w.png)" class="image-banner">
+					</a>
+								</div>
+			</div>
+					<div class="item" id="bx_3485106786_33083">
+		<div class="image">			<a href="/news/evgeniy-portnov-v-yanvare-byl-upor-na-funktsionalnuyu-podgotovku-tekushchiy-sbor-nosit-bolee-taktich/"><img src="/upload/resize_cache/iblock/5a0/350_450_1/p53o28vuqudl23x8g2qsfe73mgwhiwbn.jpg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=club">Клуб</a>
+								17.02.2026			</div>
+			<a href="/news/evgeniy-portnov-v-yanvare-byl-upor-na-funktsionalnuyu-podgotovku-tekushchiy-sbor-nosit-bolee-taktich/" class="name">Евгений Портнов: В январе был упор на функциональную подготовку, текущий сбор носит более тактический характер</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33081">
+		<div class="image">			<a href="/news/popolnenie-v-komandakh-yufl/"><img src="/upload/resize_cache/iblock/38a/350_450_1/s4d2di3z4k16kxdmmjq5upl2mgl46zlo.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=academy">Академия</a>
+								17.02.2026			</div>
+			<a href="/news/popolnenie-v-komandakh-yufl/" class="name">Пополнение в командах ЮФЛ</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33074">
+		<div class="image">			<a href="/news/rubin-prodlil-kontrakt-s-nizhegorodovym/"><img src="/upload/resize_cache/iblock/4a1/350_450_1/66df26hpcf0jc0tfpe59zkxi1b4ebpl3.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=main_team">Главная команда</a>
+								16.02.2026			</div>
+			<a href="/news/rubin-prodlil-kontrakt-s-nizhegorodovym/" class="name">«Рубин» продлил контракт с Нижегородовым</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33067">
+		<div class="image">			<a href="/news/frank-artiga-posle-matcha-s-pakhtakorom/"><img src="/upload/resize_cache/iblock/221/350_450_1/s70iqt70c10czqb1nszjav3gi1arj6hn.jpg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=main_team">Главная команда</a>
+								16.02.2026			</div>
+			<a href="/news/frank-artiga-posle-matcha-s-pakhtakorom/" class="name">Франк Артига - после матча с «Пахтакором»</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33065">
+		<div class="image">			<a href="/news/rubin-pakhtakor-2-0/"><img src="/upload/resize_cache/iblock/384/350_450_1/e0torexhcbzqxpvm61001wdt9lisexl4.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=matchi">Матчи</a>
+								15.02.2026			</div>
+			<a href="/news/rubin-pakhtakor-2-0/" class="name">Рубин – Пахтакор – 2:0</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33055">
+		<div class="image">			<a href="/news/rubin-2-chetvertyy-na-kubke-ffno/"><img src="/upload/resize_cache/iblock/932/350_450_1/968wrttkeriu8z775h42d7nyrycgi68u.jpg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=club">Клуб</a>
+								14.02.2026			</div>
+			<a href="/news/rubin-2-chetvertyy-na-kubke-ffno/" class="name">«Рубин-2» - четвертый на Кубке ФФНО</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33050">
+		<div class="image">			<a href="/news/zhenskaya-komanda-oderzhala-dve-pobedy-na-sbore-v-turtsii/"><img src="/upload/resize_cache/iblock/bbe/350_450_1/q9jvidr2qgrkz2yttg5sho7tiyqagwx6.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=main_team">Главная команда</a>
+								13.02.2026			</div>
+			<a href="/news/zhenskaya-komanda-oderzhala-dve-pobedy-na-sbore-v-turtsii/" class="name">Женская команда одержала две победы на сборе в Турции</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33048">
+		<div class="image">			<a href="/news/rubin-2-sygraet-v-matche-za-3-mesto-na-kubke-ffno/"><img src="/upload/resize_cache/iblock/f5b/350_450_1/w6rif3hpizq0pso4jdrhdwayj3icn0gx.jpg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=club">Клуб</a>
+								13.02.2026			</div>
+			<a href="/news/rubin-2-sygraet-v-matche-za-3-mesto-na-kubke-ffno/" class="name">«Рубин-2» сыграет в матче за 3 место на Кубке ФФНО</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33041">
+		<div class="image">			<a href="/news/rubin-2-sygraet-s-volnoy-v-polufinale-kubka-ffno/"><img src="/upload/resize_cache/iblock/c20/350_450_1/hl1nnh1al10brnpwhhzfhyfy9kboe712.png"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=club">Клуб</a>
+								12.02.2026			</div>
+			<a href="/news/rubin-2-sygraet-s-volnoy-v-polufinale-kubka-ffno/" class="name">«Рубин-2» сыграет с «Волной» в полуфинале Кубка ФФНО</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33036">
+		<div class="image">			<a href="/news/rubin-2-prinimaet-uchastie-v-kubke-federatsii-futbola-nizhegorodskoy-oblasti/"><img src="/upload/resize_cache/iblock/0d1/350_450_1/0dtpm8zez0xhzxu20qys4qdcz2cvyuqp.jpg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=club">Клуб</a>
+								11.02.2026			</div>
+			<a href="/news/rubin-2-prinimaet-uchastie-v-kubke-federatsii-futbola-nizhegorodskoy-oblasti/" class="name">«Рубин-2» принимает участие в Кубке Федерации футбола Нижегородской области</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33026">
+		<div class="image">			<a href="/news/frank-artiga-o-matche-rubin-navbakhor/"><img src="/upload/resize_cache/iblock/f34/350_450_1/h520nr07qooqek0pcuwv01m28sfref4q.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=main_team">Главная команда</a>
+								08.02.2026			</div>
+			<a href="/news/frank-artiga-o-matche-rubin-navbakhor/" class="name">Франк Артига – о матче «Рубин» - «Навбахор»</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33024">
+		<div class="image">			<a href="/news/evgeniy-portnov-o-matche-s-lokomotivom-/"><img src="/upload/resize_cache/iblock/3be/350_450_1/bec18x2du2sq11u1kofft6yy51yslui4.jpg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=club">Клуб</a>
+								08.02.2026			</div>
+			<a href="/news/evgeniy-portnov-o-matche-s-lokomotivom-/" class="name">Евгений Портнов - о матче с «Локомотивом» </a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33021">
+		<div class="image">			<a href="/news/rubin-navbakhor-2-0/"><img src="/upload/resize_cache/iblock/fd8/350_450_1/kpd5hx5908rg34bcdp1v9gifusna3ykj.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=matchi">Матчи</a>
+								08.02.2026			</div>
+			<a href="/news/rubin-navbakhor-2-0/" class="name">Рубин – Навбахор – 2:0</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33022">
+		<div class="image">			<a href="/news/zhenskaya-komanda-provela-pervyy-match-na-sbore-v-turtsii/"><img src="/upload/resize_cache/iblock/324/350_450_1/tc1psw3677hvj0u8spq0dzc4911hwn41.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=matchi">Матчи</a>
+								08.02.2026			</div>
+			<a href="/news/zhenskaya-komanda-provela-pervyy-match-na-sbore-v-turtsii/" class="name">Женская команда провела первый матч на сборе в Турции</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_33000">
+		<div class="image">			<a href="/news/frank-artiga-o-matche-rubin-zhenis/"><img src="/upload/resize_cache/iblock/a59/350_450_1/kxsz6up49ig3dec2gj7k8uxgt5sqt9z3.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=main_team">Главная команда</a>
+								04.02.2026			</div>
+			<a href="/news/frank-artiga-o-matche-rubin-zhenis/" class="name">Франк Артига – о матче «Рубин» - «Женис»</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_32999">
+		<div class="image">			<a href="/news/rubin-zhenis-2-0/"><img src="/upload/resize_cache/iblock/874/350_450_1/92438c091ci0l6mgny7x06ye3ecso5of.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=matchi">Матчи</a>
+								04.02.2026			</div>
+			<a href="/news/rubin-zhenis-2-0/" class="name">Рубин – Женис – 2:0</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_32995">
+		<div class="image">			<a href="/news/marat-safiullin-vstretilsya-s-kyurshadom-zorlu-na-baze-rubina/"><img src="/upload/resize_cache/iblock/541/350_450_1/p5ekh8nplo55eqht9y1o1i57alvvq103.png"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=club">Клуб</a>
+								04.02.2026			</div>
+			<a href="/news/marat-safiullin-vstretilsya-s-kyurshadom-zorlu-na-baze-rubina/" class="name">Марат Сафиуллин встретился с Кюршадом Зорлу на базе «Рубина»</a>
+		</div>
+	</div>
+						<div class="item" id="bx_3485106786_32994">
+		<div class="image">			<a href="/news/zhenskaya-akademiya-fk-rubin-otkryvaet-dveri-dlya-yunykh-futbolistok/"><img src="/upload/resize_cache/iblock/b09/350_450_1/hwta3cja59c7tyz1be0bjkvdu13u4u5u.jpeg"></a>
+		</div>
+		<div class="info">
+			<div class="date">
+									<a href="/news/?section=academy">Академия</a>
+								04.02.2026			</div>
+			<a href="/news/zhenskaya-akademiya-fk-rubin-otkryvaet-dveri-dlya-yunykh-futbolistok/" class="name">Женская академия ФК «Рубин» открывает двери для юных футболисток</a>
+		</div>
+	</div>
+				</div>
+		<div class='all'><a href="/news/">Все<span> новости</span></a></div>
+	</div>
+</div>
+
+<div class="index-member-block">
+	<div class="image"></div>
+	<div class="info">
+		<div class="wrap">
+							<h2>Стань частью ФК «РУБИН»</h2>
+			
+							<p>Регистрируйся в новом кабинете болельщика</p><p>Все покупки и билеты на матчи в одном месте, а также специальные акции и скидки для участников</p>			
+							<button onclick="location.href='https://loyalfans.rubin-kazan.ru/'"><i></i><span>Присоединиться</span></button>
+					</div>
+	</div>
+</div>
+
+<div class="index-media-block">
+	<div class="top-image"  style="background: url('/upload/dubovoi.rubincorp/6db/m1xh666pr29rr202axcf07y5l5edre8i.jpg') center/cover;" >
+		<div class="top-image cover" style="background: url('/local/templates/rubin_corp/img/index-tv-block.png') top/cover no-repeat;"></div>
+		<div class="content">
+			<div class="wrap">
+				<div class="block-name">
+					<h2>Рубин тв</h2>
+
+									</div>
+			</div>
+		</div>
+	</div>
+	<div class="wrap">
+		<div class="list">
+		<div class="item" id="bx_3099439860_33088">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/0ab/640_360_2/i69odbdp8xt7nr2swbyv9yn23ab2bfnh.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250445&amp;hash=29e7c1bd4257ef42" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250445&amp;hash=29e7c1bd4257ef42" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Микрофон на Франке Артиге: работа на тренировке, роль переводичка и разговор с Васильевым</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_33068">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/df1/640_360_2/hv00d371w5i8zeg3ha13ym6xf29oizri.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250432&amp;hash=333fa0c8cd6fb9d6" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250432&amp;hash=333fa0c8cd6fb9d6" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин – Пахтакор. Интервью Франка Артиги</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_33066">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/bba/640_360_2/3mi2l40eanjrbww3wbzbp61vok6b1d15.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250431&amp;hash=943b01375d5e892c" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250431&amp;hash=943b01375d5e892c" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин – Пахтакор. Хайлайты</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_33027">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/214/640_360_2/t0m40uv7kdwheq5k2sr1rr64418j6qhq.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250405&amp;hash=5d88578c7025ad30" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250405&amp;hash=5d88578c7025ad30" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин – Навбахор. Интервью Франка Артиги</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_33025">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/84c/640_360_2/6vcjaw7zwoyvoyyhjtnexre5n7fam3ir.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250402&amp;hash=1cbd0eace4ca3b44" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250402&amp;hash=1cbd0eace4ca3b44" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин – Навбахор. Хайлайты</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_33003">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/d05/640_360_2/9jtr2fd4hu1frvne8glhm69cqvqgtpjj.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250387&amp;hash=8a667a9c1152c008" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250387&amp;hash=8a667a9c1152c008" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин – Женис. Интервью Франка Артиги</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_33001">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/15a/640_360_2/5epb0tqwpvkmq551glo26eilecu7zw91.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250386&amp;hash=133e80ee1f42ee87" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250386&amp;hash=133e80ee1f42ee87" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин - Женис. Хайлайты</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32957">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/831/640_360_2/x2sv8rtybx4mt50rsn8gwi1z3u4jdi0e.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250359&amp;hash=26f237957c2438ab" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250359&amp;hash=26f237957c2438ab" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин – Струга. Репортаж</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32945">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/bde/640_360_2/0gb1jq0f3uunqb6w0fjhlo6671ixu4kd.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250355&amp;hash=00acaabe236abebb" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250355&amp;hash=00acaabe236abebb" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин - Струга. Хайлайты</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32916">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/117/640_360_2/8qsfqpl73gjv9l0o1v11muv2k1etbsud.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250335&amp;hash=a9750c1dd8dcce00" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250335&amp;hash=a9750c1dd8dcce00" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Рубин – ИМТ. Хайлатйы</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32907">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/842/640_360_2/wkvcr7r1g1bhzmsfhe6uvye5mf3uoxdr.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250331&amp;hash=82a8b3a7963784ed" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250331&amp;hash=82a8b3a7963784ed" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Франк Артига: «Я вижу футбол как движение в атаку, как стремление к воротам соперника»</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32901">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/6a2/640_360_2/qwqq0134xdadip1gf8hrmwbmxq1i4gpf.jpg">							<a href="https://vk.com/video_ext.php?oid=-202441088&amp;id=456239836&amp;hash=84c28c0ae3a60870" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-202441088&amp;id=456239836&amp;hash=84c28c0ae3a60870" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>«Мир женского футбола прекрасен»</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32881">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/e3b/640_360_2/dcmvsafcslw6gkhgdiacx7hyw2avqx95.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250313&amp;hash=8667b89250d9c57b" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250313&amp;hash=8667b89250d9c57b" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Франк Артига вернулся в Казань</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32880">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/124/640_360_2/lxy32eh7fbklzn8pxggvtt3pjyzlo7pf.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250317&amp;hash=582001764aaddac2" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250317&amp;hash=582001764aaddac2" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>«Рубин» вышел из отпуска. Медосмотр</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32883">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/6be/640_360_2/3cyhsdsfzakgjvctz9fct5wzyj36q8le.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250298&amp;hash=6c7f8cef88246852" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250298&amp;hash=6c7f8cef88246852" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>«Рубиновая Ёлка: Межпланетный Новый Год»!</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32794">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/103/640_360_2/05rmka2x77kjqqxokpkiwdze6o8vcnlo.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250260&amp;hash=4af6a85c8b05a5d2" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250260&amp;hash=4af6a85c8b05a5d2" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Подведение итогов сезона 2025 в Академии ФК «Рубин»</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32750">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/f35/640_360_2/rpnwotn7htny0722qd4hh36lu039lrwc.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250248&amp;hash=c17c46ec3dc6dcee" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250248&amp;hash=c17c46ec3dc6dcee" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Ростов – Рубин. Репортаж</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32736">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/44b/640_360_2/wmbawyrfhuc12pdw2zm4brnqj55yvw20.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250245&amp;hash=c56924cd134f4ff3" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250245&amp;hash=c56924cd134f4ff3" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Ростов – Рубин. Пресс-конференция Рашида Рахимова</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32607">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/9aa/640_360_2/w6gkvosqetkwrseir3j3cuq25z44s2ng.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250229&amp;hash=7fe2cbb14d408fa2" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250229&amp;hash=7fe2cbb14d408fa2" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Зенит – Рубин. Пресс-конференция Рашида Рахимова</a>	
+				
+	</div>
+		<div class="item" id="bx_3099439860_32510">
+		<div class="image">
+			<img src="/upload/resize_cache/iblock/3b2/640_360_2/jj3hyb7b61fnq8omcck2hhxpjksea6nm.jpg">							<a href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250211&amp;hash=d82cef2604fdd8f5" class="play" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'></a>	
+					</div>
+					<a class="name" href="https://vk.com/video_ext.php?oid=-61396036&amp;id=456250211&amp;hash=d82cef2604fdd8f5" data-fancybox data-type="iframe" data-options='{"baseClass": "vk-video"}'>Арсенал – Рубин | Репортаж</a>	
+				
+	</div>
+</div>		<div class='all'><a href="/media/rubintv/">Все<span> видео</span></a></div>
+	</div>
+</div>
+<div class="index-mob-app-block" id="mob_app">
+	<div class="wrap">
+					<h2>Мобильное приложение ФК РУБИН</h2>
+			<p>
+
+			</p>
+				<div class="list flex">
+							<div class="qr">
+					<img src="/upload/dubovoi.rubincorp/9e4/02s48peoy0hwtfkm9cbiyzeo0770g7yx.png">
+				</div>
+			 				<div class="item">
+					<a href="https://appgallery.huawei.com/app/C111188541"><img src="/local/templates/rubin_corp/img/mob-app4.svg"></a>
+				</div>
+			 				<div class="item">
+					<a href="https://play.google.com/store/apps/details?id=com.a8rine.rubin&pli=1"><img src="/local/templates/rubin_corp/img/mob-app2.svg"></a>
+				</div>
+			 				<div class="item">
+					<a href="https://apps.apple.com/ru/app/%D1%84%D0%BA-%D1%80%D1%83%D0%B1%D0%B8%D0%BD/id6504207818"><img src="/local/templates/rubin_corp/img/mob-app3.svg"></a>
+				</div>
+					</div>
+	</div>
+			<div class="phones">
+			<img src="/upload/dubovoi.rubincorp/b77/btixiam5110ek11fvejtsy9q7w20xemv.png">
+		</div>
+	</div>
+<div class="index-shop-block">
+	<div class="wrap">
+		<div class="block-name">
+			<h2>магазин</h2>
+			
+		</div>
+		<div class="list">
+		
+				<div class="item" id="bx_3966226736_27920">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/sviter_sentyabrev/" target="_blank">
+  <img src="/upload/resize_cache/iblock/518/355_355_1/fsh3ql097tx16ih39r5csb844bt7o8y3.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/sviter_sentyabrev/" target="_blank" class="name">СВИТЕР &quot;СЕНТЯБРЁВ&quot;</a>
+																					<div class="price">6&nbsp;499 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_27919">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_1/futbolka_sentyabrev/" target="_blank">
+  <img src="/upload/resize_cache/iblock/744/355_355_1/e50h0j148w7q7yvtuzm9mjfqro01y9n5.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_1/futbolka_sentyabrev/" target="_blank" class="name">ФУТБОЛКА &quot;СЕНТЯБРЁВ&quot;</a>
+																					<div class="price">2&nbsp;999 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_12039">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_3/bomber_fk_rubin_rubin_zelenyy_2401_01/" target="_blank">
+  <img src="/upload/resize_cache/iblock/b95/355_355_1/lnov6xu5duuvnzj4gj1iued2qdlkwft4.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_3/bomber_fk_rubin_rubin_zelenyy_2401_01/" target="_blank" class="name">БОМБЕР ФК РУБИН РУБИН-ЗЕЛЕНЫЙ</a>
+																					<div class="price">8&nbsp;499 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_12038">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/bomber_fk_rubin_chernyy_2402/" target="_blank">
+  <img src="/upload/resize_cache/iblock/b1d/355_355_1/tm1u5y8bced2jfq7boj33147hrkt6z6t.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/bomber_fk_rubin_chernyy_2402/" target="_blank" class="name">БОМБЕР ФК РУБИН ЧЕРНЫЙ</a>
+																					<div class="price">8&nbsp;799 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_12037">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/bomber_fk_rubin_seryy_2403/" target="_blank">
+  <img src="/upload/resize_cache/iblock/396/355_355_1/498we8fs574d0ie8ipc4ld8ps2alpy6b.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/bomber_fk_rubin_seryy_2403/" target="_blank" class="name">БОМБЕР ФК РУБИН СЕРЫЙ</a>
+																					<div class="price">8&nbsp;299 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_12035">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_3/futbolka_fk_rubin_chernaya_2401_03/" target="_blank">
+  <img src="/upload/resize_cache/iblock/193/355_355_1/svzz3welt3i4pwj5a9olwu2uz7iaf5pd.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_3/futbolka_fk_rubin_chernaya_2401_03/" target="_blank" class="name">ФУТБОЛКА ФК РУБИН ЧЕРНАЯ</a>
+																					<div class="price">2&nbsp;799 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_12034">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_1/futbolka_pervyy_superkubok_krasnaya/" target="_blank">
+  <img src="/upload/resize_cache/iblock/3df/355_355_1/1la6arnph3j3m1d6wqcwyu97asj84fku.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_1/futbolka_pervyy_superkubok_krasnaya/" target="_blank" class="name">ФУТБОЛКА &quot;ПЕРВЫЙ СУПЕРКУБОК&quot; КРАСНАЯ</a>
+																					<div class="price">2&nbsp;999 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_1122">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_2/tolstovka_fk_rubin_chern_zilant_tm_atributika_club_326530/" target="_blank">
+  <img src="/upload/resize_cache/iblock/af1/355_355_1/z6v1yuyjp3toe4px1attkxt54rkz1bo0.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_2/tolstovka_fk_rubin_chern_zilant_tm_atributika_club_326530/" target="_blank" class="name">ТОЛСТОВКА ФК РУБИН</a>
+																					<div class="price">6&nbsp;990 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_1121">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/svitshot_fk_rubin_rozovyy_510rk_08/" target="_blank">
+  <img src="/upload/resize_cache/iblock/638/355_355_1/yuhv8lz3o4xxkdp36y32isaj61adajza.jpeg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_1/svitshot_fk_rubin_rozovyy_510rk_08/" target="_blank" class="name">СВИТШОТ ФК РУБИН РОЗОВЫЙ</a>
+																					<div class="price">5&nbsp;999 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_1120">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_1/futbolka_oversayz_chukcha_krem_bryule_zhen_515rk_33/" target="_blank">
+  <img src="/upload/resize_cache/iblock/8d6/355_355_1/l07i23fp5htuzq87mn3qx1l0ekoyr7bx.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/futbolki_1/futbolka_oversayz_chukcha_krem_bryule_zhen_515rk_33/" target="_blank" class="name">ФУТБОЛКА ОВЕРСАЙЗ CHUKCHA </a>
+																					<div class="price">3&nbsp;299 &#8381;</div>
+																		</div>
+				</div>
+
+		
+				<div class="item" id="bx_3966226736_1119">
+										<div class="image">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_3/bomber_fk_rubin_rubin_zelenyy_2401_01/" target="_blank">
+  <img src="/upload/resize_cache/iblock/b95/355_355_1/lnov6xu5duuvnzj4gj1iued2qdlkwft4.jpg"></a>
+					</div>
+										<div class="info">
+						<a href="https://store.rubin-kazan.ru/catalog/khudi_3/bomber_fk_rubin_rubin_zelenyy_2401_01/" target="_blank" class="name">БОМБЕР ФК РУБИН РУБИН-ЗЕЛЕНЫЙ</a>
+																					<div class="price">8&nbsp;499 &#8381;</div>
+																		</div>
+				</div>
+
+	</div>
+		<div class='all'><a href="https://store.rubin-kazan.ru/" target="_blank">Все<span> товары</span></a></div>
+	</div>
+</div>
+<div class="name-line-block" id="awards">
+	<div class="marquee">
+		<span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span> <span>ФК «РУБИН»</span>
+	</div>
+</div>
+<div class="index-history-block">
+	<div class="wrap">
+		<div class="list flex">
+		<div class="item" id="bx_565502798_42">
+		<div class="bg" style="background: url('/upload/iblock/d00/6o8ixr8wj3d3jwq8ktae4lpiu0jsvg24.jpg') center/cover;"></div>		<div class="info">
+						<div class="image">
+				<img src="/upload/iblock/7d5/fcqrc3kc3ozuvprf2s94vpl6k75wynye.svg">
+			</div>
+						<p>Обладатель <br/>Суперкубка России</p>
+						<div class="years">
+				2010, 2012			</div>
+					</div>
+	</div>
+		<div class="item" id="bx_565502798_43">
+		<div class="bg" style="background: url('/upload/iblock/315/hi57pxtjuj5toqevo5ve4328u14aknb4.jpg') center/cover;"></div>		<div class="info">
+						<div class="image">
+				<img src="/upload/iblock/e43/74skuvdgfhrm836192lmxzusqh0mw2se.svg">
+			</div>
+						<p>Двукратный <br/>чемпион России</p>
+						<div class="years">
+				2008, 2009			</div>
+					</div>
+	</div>
+		<div class="item" id="bx_565502798_44">
+		<div class="bg" style="background: url('/upload/iblock/c3d/30s6g8c0qjhr5e1n9klq7ixrvjc6jeyt.jpg') center/cover;"></div>		<div class="info">
+						<div class="image">
+				<img src="/upload/iblock/321/voq74rpz6htm0vlcbnoi9pruykcm3tg1.svg">
+			</div>
+						<p>Обладатель <br/>Кубка России</p>
+						<div class="years">
+				2011/2012			</div>
+					</div>
+	</div>
+		<div class="item" id="bx_565502798_45">
+		<div class="bg" style="background: url('/upload/iblock/02a/oiaic14z037ijr0f9shcdyxfs8ac0trx.jpg') center/cover;"></div>		<div class="info">
+						<div class="image">
+				<img src="/upload/iblock/a4f/hhiytjcex2b2maq80cmsuzc6fz71nuls.svg">
+			</div>
+						<p>Победитель <br/>Первой лиги</p>
+						<div class="years">
+				2002, 2023			</div>
+					</div>
+	</div>
+		<div class="item other" id="bx_565502798_48">
+		<div class="bg" style="background: url('/upload/iblock/9f6/iropi0omrpyisillu5fzywyosstjhv80.jpeg') center/cover;"></div>		<div class="info">
+						<p>Победитель <br/>Кубка Содружества</p>
+						<div class="years">
+				2010			</div>
+					</div>
+	</div>
+		<div class="item other" id="bx_565502798_49">
+		<div class="bg" style="background: url('/upload/iblock/5f9/ggzjenb7hjsqpducsw9gss9tneh69eq9.png') center/cover;"></div>		<div class="info">
+						<p>Четвертьфиналист <br/>Лиги Европы УЕФА</p>
+						<div class="years">
+				2012/2013			</div>
+					</div>
+	</div>
+		<div class="item other" id="bx_565502798_50">
+		<div class="bg" style="background: url('/upload/iblock/d0b/549hyvsa0cncdhqqd51k8adm1b8akc1s.jpeg') center/cover;"></div>		<div class="info">
+						<p>Участник  группового этапа <br/>Лиги Чемпионов УЕФА</p>
+						<div class="years">
+				2009, 2010			</div>
+					</div>
+	</div>
+		<div class="item other" id="bx_565502798_51">
+		<div class="bg" style="background: url('/upload/iblock/ea9/bw6tnjhzxqtpln5wbaacxdtxyjru17ii.jpeg') center/cover;"></div>		<div class="info">
+						<p>Дважды бронзовый призёр <br/>Чемпионата России</p>
+						<div class="years">
+				2003, 2010			</div>
+					</div>
+	</div>
+</div>	</div>
+</div>
+    <div class="jibbitz-button">
+        <a href="https://www.rubin-kazan.ru/stadium/warm-match/" target="_blank" title="Тёплый матч">
+            <img src="/upload/jibbitz/73d/d8y9sr9z5yil8ui6u09cwywdrtov2t0q.png" alt="Тёплый матч">
+        </a>
+    </div>
+		<div class="footer-partners-block">
+    <div class="wrap">
+        <div class="block-partners">
+            <div class="block-name">
+                Официальные спонсоры
+            </div>
+            <div class="list-wrapper">
+                <div class="list">
+                                                                                                <div class="item ofic" id="bx_1454625752_1"><a
+                                    href="https://www.sibur.ru/kazanorgsintez/ru/"><img
+                                        src="/upload/iblock/ae7/03svof1t2zq7wd8jalxwk02cndpt4kyu.png"
+                                        alt="Казаньоргсинтез"></a></div>
+                                                                                                                        <div class="item ofic" id="bx_1454625752_836"><a
+                                    href="https://www.sibur.ru/nknh/ru/"><img
+                                        src="/upload/iblock/d19/pzxok71we1j61y2qddh89lvfc11psfnq.png"
+                                        alt="Нижнекамск нефтехим"></a></div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </div>
+            </div>
+        </div>
+        <div class="block-partners">
+            <div class="block-name">
+                Официальные партнеры
+            </div>
+            <div class="list-wrapper">
+                <div class="list">
+                                                                                                                                                                                                                                        <div class="item" id="bx_1454625752_2"><a
+                                    href="https://clicks.af-ru2e2e.com/click/s/Jnji"><img
+                                        src="/upload/iblock/624/32jljutsbm2kysagn3ehtgu4bind301j.png"
+                                        alt="Фонбет"></a></div>
+                                                                                                                        <div class="item" id="bx_1454625752_7"><a
+                                    href="https://jako-sport.ru/"><img
+                                        src="/upload/iblock/e6c/kalbpht8mtcoqt94u3u4tn9g4bm364wb.png"
+                                        alt="Jako"></a></div>
+                                                                                                                        <div class="item" id="bx_1454625752_16868"><a
+                                    href="https://www.akbars.ru/"><img
+                                        src="/upload/iblock/79a/odhvgna06nc6ebvmm90krqjuivyjjtk4.png"
+                                        alt="Ак Барс Банк"></a></div>
+                                                                                                                        <div class="item" id="bx_1454625752_843"><a
+                                    href="https://www.voda-volzhanka.ru/"><img
+                                        src="/upload/iblock/a88/exwimjkig9daemmykuvlb74y56pg17n6.png"
+                                        alt="Волжанка"></a></div>
+                                                                                                                        <div class="item" id="bx_1454625752_32920"><a
+                                    href="https://www.sports.ru/"><img
+                                        src="/upload/iblock/c88/6nrmgwsv12txpn6fs9b025yq5so29u1u.png"
+                                        alt="Sports.ru"></a></div>
+                                                                                                                        <div class="item" id="bx_1454625752_32921"><a
+                                    href="https://www.sport-express.ru/"><img
+                                        src="/upload/iblock/f00/66qg2qqixshrqetbkwp2kdsphir9iksi.png"
+                                        alt="Sport-express"></a></div>
+                                                            </div>
+            </div>
+        </div>
+        <div class="become-partner"><a href="/partnership/">стать партнером</a></div>
+    </div>
+</div>	<footer class="footer">
+		<div class="wrap">
+			<div class="flex">
+				<div class="logo">
+					<a href="/"></a>
+				</div>
+				<div class="social">
+											<a href="https://vk.com/fcrk" target="_blank"><img src="/local/templates/rubin_corp/img/soc1.svg"><img src="/local/templates/rubin_corp/img/soc1_2_hover.svg"></a>
+																<a href="https://t.me/fcrk1958" target="_blank"><img src="/local/templates/rubin_corp/img/soc2.svg"><img src="/local/templates/rubin_corp/img/soc2_2_hover.svg"></a>
+																<a href="https://www.youtube.com/FCRubinTV" target="_blank"><img src="/local/templates/rubin_corp/img/soc3.svg"><img src="/local/templates/rubin_corp/img/soc3_2_hover.svg"></a>
+																					<a href="https://www.tiktok.com/@fcrk" target="_blank"><img src="/local/templates/rubin_corp/img/soc5.svg"><img src="/local/templates/rubin_corp/img/soc5_2_hover.svg"></a>
+									</div>
+			</div>
+			<div id="footer_menu"></div>
+			<div class="policy">
+				<a href="/docs/policy/" class="policy-link">Политика конфиденциальности</a>
+			</div>
+			<div class="flex">
+				<div class="copy">
+					© rubin-kazan.ru 2026, 18+ООО ФК «РУБИН»
+				</div>
+				<div class="dev">
+					Дизайн - <a href="https://qbiq.su/" target="_blank">qbiq.su</a> <br/>
+					Разработка - <a href="https://itn9ne.com/" target="_blank">ITN9NE</a>
+				</div>
+			</div>
+		</div>
+	</footer>
+	<div id="load_forms"></div>
+			<!-- js counters here -->		
+				<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(33323348, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<script type="text/javascript">
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "3612259", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = "https://top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "tmr-code");
+</script>
+<script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script><script src="/bitrix/js/main/core/core.min.js?1750924195230432"></script><script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.fonts.opensans","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.popup","namespace":"BX.Main","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens.air","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.api.core","namespace":"BX.UI.IconSet","loaded":true});</script>
+<script>(window.BX||top.BX).message({"UI_SWITCHER_ON":"вкл","UI_SWITCHER_OFF":"выкл"});(window.BX||top.BX).message({"UI_SWITCHER_ON":"вкл","UI_SWITCHER_OFF":"выкл"});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.switcher","namespace":"BX.UI","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.cnt","namespace":"BX.UI","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.outline","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.icon-set.main","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"UI_BUTTONS_SAVE_BTN_TEXT":"Сохранить","UI_BUTTONS_CREATE_BTN_TEXT":"Создать","UI_BUTTONS_ADD_BTN_TEXT":"Добавить","UI_BUTTONS_SEND_BTN_TEXT":"Отправить","UI_BUTTONS_CANCEL_BTN_TEXT":"Отменить","UI_BUTTONS_CLOSE_BTN_TEXT":"Закрыть","UI_BUTTONS_APPLY_BTN_TEXT":"Применить"});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.buttons","namespace":"BX.UI","loaded":true});</script>
+<script>(window.BX||top.BX).message({"UI_MESSAGE_BOX_OK_CAPTION":"OK","UI_MESSAGE_BOX_CANCEL_CAPTION":"Отмена","UI_MESSAGE_BOX_YES_CAPTION":"Да","UI_MESSAGE_BOX_NO_CAPTION":"Нет"});</script>
+<script>BX.Runtime.registerExtension({"name":"ui.dialogs.messagebox","namespace":"BX.UI.Dialogs","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1771451955,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"1ebb8c5249541e52c2590085e0ea8f88"});</script><script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="/bitrix/js/main/popup/dist/main.popup.bundle.min.js?175092419466962"></script>
+<script src="/bitrix/js/ui/icon-set/api/core/dist/ui.icon-set.core.bundle.min.js?175092419432678"></script>
+<script src="/bitrix/js/ui/switcher/dist/ui.switcher.bundle.min.js?17509241948553"></script>
+<script src="/bitrix/js/ui/cnt/dist/cnt.bundle.min.js?175092427310460"></script>
+<script src="/bitrix/js/ui/buttons/dist/ui.buttons.bundle.min.js?175369884860463"></script>
+<script src="/bitrix/js/ui/dialogs/messagebox/dist/dialogs.bundle.min.js?17509241946528"></script>
+<script>BX.setJSList(["\/local\/components\/rubin\/matches.main\/templates\/.default\/script.js","\/local\/components\/rubin\/buy.ticket\/templates\/.default\/script.js","\/local\/templates\/rubin_corp\/js\/slick.min.js","\/local\/templates\/rubin_corp\/js\/common.js","\/local\/templates\/rubin_corp\/js\/jquery.formstyler.min.js","\/local\/templates\/rubin_corp\/js\/jquery.maskedinput.min.js"]);</script>
+<script>BX.setCSSList(["\/local\/templates\/rubin_corp\/components\/bitrix\/news.list\/slider\/style.css","\/local\/components\/rubin\/jibbitz\/templates\/.default\/style.css","\/local\/templates\/rubin_corp\/css\/style.css","\/local\/templates\/rubin_corp\/slick.css","\/local\/templates\/rubin_corp\/jquery.formstyler.css"]);</script>
+<script>
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+<script  src="/bitrix/cache/js/s1/rubin_corp/template_a34667ce9e7aeec03e71b824ddec3ff5/template_a34667ce9e7aeec03e71b824ddec3ff5_v1.js?176918327988125"></script>
+<script  src="/bitrix/cache/js/s1/rubin_corp/page_128e83c5abab99b79f5f9b77bdb15e2b/page_128e83c5abab99b79f5f9b77bdb15e2b_v1.js?17691832794852"></script>
+
+
+<script src="/local/templates/rubin_corp/js/google-translate.js"></script>
+<script src="//translate.google.com/translate_a/element.js?cb=TranslateInit"></script>
+<script>
+		$(function(){
+			$('.slider-for').slick({
+			  slidesToShow: 1,
+			  slidesToScroll: 1,
+			  arrows: false,
+			  fade: true,
+			  autoplay: true,
+	infinite: true,
+			  autoplaySpeed: "5000",
+			  asNavFor: '.slider-nav',
+			  pauseOnHover: false
+			});
+			$('.slider-nav').slick({
+			  slidesToShow: 3,
+			  slidesToScroll: 1,
+			  asNavFor: '.slider-for',
+			  vertical: true,
+			  arrows: false,
+infinite: true,
+			  pauseOnHover: false,
+			  focusOnSelect: true,
+			  responsive: [
+				{
+				  breakpoint: 718,
+				  settings: {
+					vertical: false
+				  }
+				}
+			  ]
+			});
+		});
+	</script>
+
+<script type="text/javascript" src="https://cdn.qtickets.tech/openapi.js"></script>
+</body>
+</html>

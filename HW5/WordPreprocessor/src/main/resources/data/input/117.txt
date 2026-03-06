@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Фотохостинг и фотохостинг для Озон. Работает с 2009 года</title>
+<meta name="description" content="Надёжный и очень быстрый фотохостинг вообще без рекламы, хранящий ваши фото неограниченно долго. Работает с 2009 года.">
+<meta name="keywords" content="фотохостинг, фото, хостинг">
+<link href="/vflb2.css?rnd=1" rel="stylesheet">
+<script type="text/javascript" src="/vflbp.js?rnd=2"></script>
+<script type="text/javascript" src="/vfl.js?rnd=12"></script>
+<style>
+* { font-family:arial, verdana, tahoma; }
+body { background:#FFF; color:#000; }
+a.nav-link { color: #0034DB!important; font-size: 1.1rem!important; }
+a.nav-link:hover { color: #C00!important; }
+a.dashed { color: #0034DB!important; text-decoration:none!important; border-bottom:1px dotted #0034DB!important; }
+a.dashed:hover { color: #C00!important; text-decoration:none!important; border-bottom:1px dotted #C00!important; }
+.menutop, .menutop2 { background-color:#FCFCFC; }
+.menutop:hover { background-color:#F0F0F0; }
+a.svglink { color: #0034DB!important; }
+a.svglink:hover { color: #C00!important; }
+h1.last2 { font-size:18px; color:#222; padding-bottom:3px; font-weight:bold; }
+h1.last2 a { font-size:18px; color:#0034DB; line-height:22px; text-decoration:none; border-bottom: 1px solid #0034DB; }
+h1.last2 a:hover { color:#C00; border-bottom: 1px solid #C00; }
+h1.last2 a.noborder { border:0; }
+.rfotos { white-space: nowrap; overflow:hidden; position: relative; width:100%; }
+@media (max-width:767.98px) { .rfotos {overflow-x:scroll;}}
+.rfotos img { margin:0 13px 13px 0; }
+.rfotos .alpha { position:absolute; top:0; right:0; width:120px; height:94px; background: url(/images/alpha2.png) top right repeat-y; }
+@media (max-width:767.98px) { .rfotos .alpha { display:none; }}
+.svgi { width:1em; height:1em; display:inline-block; vertical-align:-0.125em; }
+.navbar-toggler > .close { display: inline; }
+.navbar-toggler.collapsed > .close, .navbar-toggler:not(.collapsed) > .navbar-toggler-icon-svg { display: none; }
+</style>
+<script type="text/javascript" src="/jfyuruig3/qq.js?rnd=10"></script>
+<link type="text/css" rel="stylesheet" href="/jfyuruig3/qq.css?rnd=4">
+<script type="text/template" id="qq-template-manual-trigger">
+<div class="qq-uploader-selector qq-uploader" qq-drop-area-text="Вы можете перетащить фото сюда&#xa;или выбрать их на компьютере,&#xa;нажав кнопку «Выбрать фото»">
+<div class="qq-total-progress-bar-container-selector qq-total-progress-bar-container">
+<div role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" class="qq-total-progress-bar-selector qq-progress-bar qq-total-progress-bar"></div>
+</div>
+<div class="qq-upload-drop-area-selector qq-upload-drop-area" qq-hide-dropzone>
+<span class="qq-upload-drop-area-text-selector"></span>
+</div>
+<div class="buttons">
+<div class="qq-upload-button-selector qq-upload-button">Выбрать фото</div>
+<button type="button" id="trigger-upload" class="dtrigger-upload">Загрузить</button>
+</div>
+<span class="qq-drop-processing-selector qq-drop-processing">
+<span>Processing dropped files...</span>
+<span class="qq-drop-processing-spinner-selector qq-drop-processing-spinner"></span>
+</span>
+<ul class="qq-upload-list-selector qq-upload-list" aria-live="polite" aria-relevant="additions removals">
+<li>
+<div class="qq-progress-bar-container-selector">
+<div role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" class="qq-progress-bar-selector qq-progress-bar"></div>
+</div>
+<span class="qq-upload-spinner-selector qq-upload-spinner"></span>
+<img class="qq-thumbnail-selector" qq-max-size="100" qq-server-scale>
+<span class="qq-upload-file-selector qq-upload-file"></span>
+<span class="qq-edit-filename-icon-selector qq-edit-filename-icon" aria-label="Изменить название"></span>
+<input class="qq-edit-filename-selector qq-edit-filename" tabindex="0" type="text">
+<span class="qq-upload-size-selector qq-upload-size"></span>
+<span class="qq-upload-cancel-selector qq-upload-cancel" aria-label="Удалить"></span>
+<span role="status" class="qq-upload-status-text-selector qq-upload-status-text"></span>
+</li>
+</ul>
+</div>
+</script>
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-white bg-white border-bottom" style="background:url(/images/d/bg2.jpg) repeat-x;">
+<div class="container-fluid d-flex justify-content-between">
+<button class="navbar-toggler btn btn-outline-primary btn-sm order-1 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarButtons" aria-controls="navbarButtons" aria-expanded="false">
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="close" viewBox="0 0 16 16"><path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="navbar-toggler-icon-svg" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/></svg>
+</button>
+<div class="me-2 me-lg-4 order-2 order-lg-1"><img src="/images/d/logo_s.png" width="150" height="40" alt="VFL.Ru - ваш личный фотохостинг" class="d-none d-sm-block"><img src="/images/d/logo_s.png" width="75" height="20" alt="VFL.Ru - ваш личный фотохостинг" class="d-sm-none"></div>
+<div class="collapse navbar-collapse order-4 order-lg-2" id="navbarButtons">
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+<li class="nav-item"><a class="nav-link" href="/texts/5.html">Наши возможности</a></li>
+<li class="nav-item"><a class="nav-link" href="/texts/6.html">Тарифы</a></li>
+<li class="nav-item"><a class="nav-link" href="/support/">Поддержка</a></li>
+</ul>
+</div>
+<div class="order-3">
+<a href="/users/reg/" role="button" class="btn btn-outline-primary btn-sm me-2 d-sm-none d-sm-inline-block">Регистрация</a><a href="/users/reg/" role="button" class="btn btn-outline-primary me-2 d-none d-sm-inline-block">Регистрация</a>
+<a href="/users/enter/" role="button" class="btn btn-primary btn-sm d-sm-none d-sm-inline-block">Войти</a><a href="/users/enter/" role="button" class="btn btn-primary d-none d-sm-inline-block">Войти</a>
+</div>
+</div>
+</nav>
+
+<div class="container py-3">
+<div class="border border-danger p-4 rounded mb-4 text-center">
+Загрузка изображений доступна только для зарегистрированных пользователей.<br>
+<a href="/users/reg/" class="btn btn-primary btn-sm">Зарегистрироваться</a><br><br>
+Уже зарегистрированным пользователям нужно <a href="/users/enter/">войти в личный кабинет</a>, чтобы загрузить изображения.
+</div>
+</div>
+<hr>
+<div class="container py-3">
+<div class="border border-info p-4 rounded">
+<p class="mb-0">VFL.RU&nbsp;&mdash; это фотохостинг со следующими возможностями:</p>
+<ul>
+<li>Полное отсутствие рекламы.</li>
+<li>Загрузка и хранение изображений в&nbsp;любом количестве без&nbsp;ограничения по&nbsp;времени.</li>
+<li>Получение ссылки для вставки изображения в&nbsp;блог, форум, сайт, мессенджер или&nbsp;отправки по электронной почте.</li>
+<li>Автоматическое изменение необходимых параметров изображения при&nbsp;загрузке.</li>
+<li>Загрузка до 30 изображений (до 15 МБ каждое) за&nbsp;один раз;</li>
+<li>Изменение, удаление и&nbsp;группировка изображений в&nbsp;альбомы;</li>
+<li>И многое другое&hellip;</li>
+</ul>
+</div>
+</div>
+
+<hr>
+
+<footer>
+<div class="container-fluid mb-3">
+<div class="row">
+<div class="col-7 lh-1">
+<small><small><small class="text-dark text-opacity-75">
+<a href="/texts/4.html" class="text-dark text-decoration-underline">Условия использования</a> | <a href="/news/" class="text-dark text-decoration-underline">Обновления</a><br>
+Концепция, программирование и&nbsp;дизайн проекта&nbsp;&mdash; &laquo;<a href="https://segin.net/" target="_blank" class="text-dark text-opacity-75 text-decoration-underline">Седжин</a>&raquo;.<br>&copy; VFL.RU 2009&ndash;2026
+</small></small></small>
+</div>
+<div class="col-5 text-end lh-1"><small><small><small class="text-dark text-opacity-75">
+<a href="https://ping-admin.com/uptime/ecbcf7025481a358c98cf2313430451a22618.html" target="_blank" class="text-dark text-opacity-75 text-decoration-underline">Мониторинг сайта&nbsp;&mdash; <span class="text-nowrap">Ping-Admin.Com</span></a>
+</small></small></small></div>
+</div>
+</div>
+</footer>
+
+</body>
+</html>

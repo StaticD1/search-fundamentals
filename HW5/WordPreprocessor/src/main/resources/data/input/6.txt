@@ -1,0 +1,1657 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="1CCOG2reESu0NzSXvfWBAexHPSDLnMnNuXKCC20q">
+
+    <title>Спортивные новости Казахстана и мировые новости спорта. Спортивный сайт Казахстана. Самые свежие и актуальные новости казахстанского спорта. Мир спорта вчера, сегодня, завтра.</title>
+    <meta name="description" content="Последние новости спорта и все спортивные новости Казахстана и мира - спортивные результаты, прогнозы, обзоры. Эксклюзивные новости спорта"/>
+
+        
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  
+
+    <link rel="stylesheet" type="text/css" href="https://prosports.kz/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://prosports.kz/css/styles.css?334385628" />
+    <link rel="stylesheet" type="text/css" href="https://prosports.kz/css/adaptive.css?722264141">
+
+   
+        <link rel="canonical" href="https://prosports.kz/" />
+        
+
+    <script src="https://prosports.kz/js/jquery-3.7.1.slim.min.js"></script>
+    <script src="https://prosports.kz/js/bootstrap.bundle.min.js"></script>
+    <script src="https://prosports.kz/js/jquery.cookie.js"></script>
+    <script src="https://prosports.kz/js/app.js?675914883"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SKHH2PHB6D"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-SKHH2PHB6D');
+    </script>
+    <script>
+        WebFontConfig = {
+            google: {
+                families: ['Open+Sans:400,600,700,800:latin,cyrillic']
+            }
+        };
+
+        window.rubric = 0;
+
+        (function (d) {
+            var wf = d.createElement('script'), s = d.scripts[0];
+            wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+            wf.async = true;
+            s.parentNode.insertBefore(wf, s);
+        })(document);
+    </script>
+    <script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+</head>
+<body>
+
+    <header class="header ">
+        <div class="header-top">
+            <div class="wcont d-flex justify-content-between align-items-center">
+                <div class="header-logo-nav">
+                    <a href="/" class="header-logo">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 219 50" width="168" height="35"><path fill-rule="evenodd"  fill="rgb(255, 255, 255)" d="M218.983,32.394 L207.412,32.394 L207.412,29.916 L213.843,20.787 L207.564,20.787 L207.564,17.548 L218.821,17.548 L218.821,20.015 L212.390,29.155 L218.983,29.155 L218.983,32.394 ZM202.261,32.394 L197.734,24.951 L202.289,17.548 L206.776,17.548 L202.190,24.979 L206.890,32.394 L202.261,32.394 ZM192.831,32.394 L192.831,17.548 L197.158,17.548 L197.158,23.704 L197.147,29.531 L197.158,32.394 L192.831,32.394 ZM189.486,32.600 C188.377,32.600 187.478,31.728 187.478,30.651 C187.478,29.575 188.377,28.703 189.486,28.703 C190.594,28.703 191.493,29.575 191.493,30.651 C191.493,31.728 190.594,32.600 189.486,32.600 ZM184.758,31.523 C183.783,32.436 182.331,32.892 180.357,32.892 C178.110,32.892 176.249,32.481 174.797,31.661 L174.797,27.806 C175.410,28.285 176.204,28.696 177.203,29.038 C178.223,29.357 179.086,29.517 179.789,29.517 C181.105,29.517 181.763,29.129 181.763,28.331 C181.763,27.487 180.697,26.803 179.358,26.233 C177.430,25.412 174.888,24.181 174.934,21.535 C174.934,20.304 175.410,19.278 176.363,18.434 C177.339,17.590 178.700,17.157 180.447,17.157 C182.104,17.157 183.714,17.477 185.257,18.138 L185.257,21.718 C184.758,21.399 184.100,21.125 183.283,20.874 C182.489,20.623 181.786,20.486 181.173,20.486 C179.970,20.486 179.381,20.828 179.381,21.535 C179.381,23.269 186.210,23.223 186.210,28.331 C186.210,29.539 185.734,30.612 184.758,31.523 ZM169.738,32.572 L165.291,32.572 L165.291,20.897 L161.230,20.897 L161.230,17.522 L173.822,17.522 L173.822,20.897 L169.738,20.897 L169.738,32.572 ZM155.966,32.572 L152.789,26.575 L152.789,26.210 C154.536,25.846 155.354,24.568 155.354,23.360 C155.354,21.923 154.514,20.897 153.062,20.897 L151.814,20.897 L151.814,32.572 L147.389,32.572 L147.389,17.545 L153.924,17.545 C155.580,17.545 156.942,18.001 158.054,18.913 C159.165,19.802 159.732,21.056 159.732,22.630 C159.732,24.477 158.961,25.959 157.396,27.031 L160.776,32.572 L155.966,32.572 ZM136.907,32.846 C134.434,32.846 132.460,32.116 130.940,30.634 C129.442,29.152 128.693,27.305 128.693,25.047 C128.693,22.835 129.465,20.988 131.008,19.483 C132.574,17.978 134.548,17.225 136.953,17.225 C139.380,17.225 141.332,17.978 142.852,19.483 C144.372,20.965 145.144,22.835 145.144,25.047 C145.144,27.282 144.372,29.152 142.829,30.634 C141.286,32.116 139.312,32.846 136.907,32.846 ZM139.744,22.083 C139.063,21.285 138.132,20.874 136.976,20.874 C135.841,20.874 134.911,21.285 134.207,22.083 C133.504,22.881 133.141,23.861 133.141,25.047 C133.141,26.279 133.481,27.305 134.185,28.103 C134.888,28.901 135.818,29.312 136.976,29.312 C138.132,29.312 139.040,28.901 139.721,28.103 C140.424,27.305 140.764,26.279 140.764,25.047 C140.764,23.861 140.424,22.881 139.744,22.083 ZM121.842,27.784 L119.868,27.784 L119.868,32.572 L115.421,32.572 L115.421,17.545 L121.570,17.545 C123.476,17.545 124.928,18.047 125.926,19.050 C126.947,20.031 127.446,21.239 127.446,22.653 C127.446,24.090 126.947,25.321 125.926,26.301 C124.928,27.282 123.566,27.784 121.842,27.784 ZM120.957,20.806 L119.845,20.806 L119.845,24.591 L120.503,24.591 C122.205,24.591 123.067,23.975 123.067,22.721 C123.067,21.627 122.341,20.806 120.957,20.806 ZM111.926,31.523 C110.951,32.436 109.499,32.892 107.525,32.892 C105.278,32.892 103.418,32.481 101.966,31.661 L101.966,27.806 C102.578,28.285 103.373,28.696 104.371,29.038 C105.392,29.357 106.254,29.517 106.958,29.517 C108.273,29.517 108.932,29.129 108.932,28.331 C108.932,27.487 107.865,26.803 106.526,26.233 C104.598,25.412 102.056,24.181 102.102,21.535 C102.102,20.304 102.578,19.278 103.531,18.434 C104.507,17.590 105.869,17.157 107.616,17.157 C109.272,17.157 110.883,17.477 112.426,18.138 L112.426,21.718 C111.926,21.399 111.269,21.125 110.452,20.874 C109.658,20.623 108.954,20.486 108.342,20.486 C107.139,20.486 106.549,20.828 106.549,21.535 C106.549,23.269 113.379,23.223 113.379,28.331 C113.379,29.539 112.902,30.612 111.926,31.523 ZM92.097,32.846 C89.624,32.846 87.650,32.116 86.130,30.634 C84.632,29.152 83.883,27.305 83.883,25.047 C83.883,22.835 84.655,20.988 86.198,19.483 C87.763,17.978 89.737,17.225 92.142,17.225 C94.570,17.225 96.522,17.978 98.042,19.483 C99.562,20.965 100.333,22.835 100.333,25.047 C100.333,27.282 99.562,29.152 98.019,30.634 C96.476,32.116 94.502,32.846 92.097,32.846 ZM94.933,22.083 C94.252,21.285 93.322,20.874 92.165,20.874 C91.031,20.874 90.100,21.285 89.397,22.083 C88.693,22.881 88.331,23.861 88.331,25.047 C88.331,26.279 88.671,27.305 89.374,28.103 C90.078,28.901 91.008,29.312 92.165,29.312 C93.322,29.312 94.230,28.901 94.910,28.103 C95.614,27.305 95.954,26.279 95.954,25.047 C95.954,23.861 95.614,22.881 94.933,22.083 ZM77.984,32.572 L74.807,26.575 L74.807,26.210 C76.554,25.846 77.372,24.568 77.372,23.360 C77.372,21.923 76.532,20.897 75.080,20.897 L73.832,20.897 L73.832,32.572 L69.407,32.572 L69.407,17.545 L75.942,17.545 C77.598,17.545 78.960,18.001 80.072,18.913 C81.183,19.802 81.750,21.056 81.750,22.630 C81.750,24.477 80.979,25.959 79.414,27.031 L82.794,32.572 L77.984,32.572 ZM62.124,27.784 L60.150,27.784 L60.150,32.572 L55.703,32.572 L55.703,17.545 L61.852,17.545 C63.758,17.545 65.211,18.047 66.209,19.050 C67.230,20.031 67.729,21.239 67.729,22.653 C67.729,24.090 67.230,25.321 66.209,26.301 C65.211,27.282 63.849,27.784 62.124,27.784 ZM61.240,20.806 L60.128,20.806 L60.128,24.591 L60.786,24.591 C62.488,24.591 63.350,23.975 63.350,22.721 C63.350,21.627 62.624,20.806 61.240,20.806 ZM18.589,14.201 L15.261,30.579 L10.938,30.579 C8.513,30.579 6.884,30.052 6.098,29.012 C5.294,27.949 5.123,26.255 5.588,23.977 L7.226,15.947 C7.664,13.804 8.605,12.032 10.024,10.680 C11.407,9.361 13.383,8.693 15.895,8.693 L26.361,8.693 L28.511,-0.000 L41.002,-0.000 L37.729,14.201 L18.589,14.201 ZM25.961,19.255 L30.165,19.255 C32.591,19.255 34.219,19.783 35.006,20.823 C35.809,21.885 35.981,23.579 35.516,25.858 L33.995,33.888 C33.558,36.031 32.617,37.803 31.197,39.155 C29.814,40.473 27.839,41.141 25.327,41.141 L14.742,41.141 L12.976,49.835 L0.485,49.835 L3.375,35.633 L22.632,35.633 L25.961,19.255 Z"/></svg>
+                    </a>
+                    <div class="right_nav">
+                                                    <a href="/kz/" class=" change_lang2">қазақ</a>
+                                                <button class="button_open_close_nav"></button>
+                    </div>
+                    <nav class="header-nav">
+                                                                                    <a href="/">Главная</a>
+                                                                                                                <a href="/blogs/">Блоги</a>
+                                                                                                                <a href="/bets/">Ставки</a>
+                                                                                                                <a href="/media/">Видео</a>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </nav>
+                </div>
+                <div class="header-auth">
+                                                    <div class="header-auth-link">
+                                <button data-bs-toggle="modal" data-bs-target="#registerModal" class="singup">Регистрация</button>
+                                <button data-bs-toggle="modal" data-bs-target="#loginModal">Вход</button>
+
+                                <button class="search_btn hide-mobile">
+                                    <svg xmlns='http://www.w3.org/2000/svg' width='16' height='17'><path fill-rule='evenodd' d='M16.012 15.145l-1.813 1.856-3.901-3.991c-2.621 1.578-6.041 1.24-8.291-1.062-2.671-2.733-2.671-7.163 0-9.896a6.729 6.729 0 0 1 9.67 0c2.464 2.521 2.625 6.47.544 9.215l3.791 3.878zM9.864 3.908a4.207 4.207 0 0 0-6.044 0c-1.669 1.708-1.669 4.476 0 6.184a4.205 4.205 0 0 0 6.044 0c1.669-1.708 1.669-4.476 0-6.184z'></path></svg>
+                                </button>
+                                <div class="position-relative search_header ">
+                                    <div class="inout_show">
+                                        <form action="/search/" method="POST">
+                                            <input type="hidden" name="_token" value="1CCOG2reESu0NzSXvfWBAexHPSDLnMnNuXKCC20q">                                            <input type="text" name="q" placeholder="Введите текст для поиска">
+                                            <button type="submit" class="search_go">
+                                                <svg xmlns='http://www.w3.org/2000/svg' width='16' height='17'><path fill-rule='evenodd' d='M16.012 15.145l-1.813 1.856-3.901-3.991c-2.621 1.578-6.041 1.24-8.291-1.062-2.671-2.733-2.671-7.163 0-9.896a6.729 6.729 0 0 1 9.67 0c2.464 2.521 2.625 6.47.544 9.215l3.791 3.878zM9.864 3.908a4.207 4.207 0 0 0-6.044 0c-1.669 1.708-1.669 4.476 0 6.184a4.205 4.205 0 0 0 6.044 0c1.669-1.708 1.669-4.476 0-6.184z'></path></svg>
+                                            </button>
+                                        </form>
+                                    </div>
+                                </div>
+                                                                    <a href="/kz/" class="btn btn-primary btn-sm change_lang">қазақ тілі</a>
+                                                            </div>
+                        
+                        <script>
+                            $(function(){
+                                $('.search_btn, .search_go').click(function(){
+                                    $('.search_header').addClass('active');
+                                    $('.search_header').find('input').focus();
+                                });
+                                $('.search_header input').on('focusout',function(){
+                                    $('.search_header').removeClass('active');
+                                });
+                            });
+                        </script>
+                </div>
+            </div>
+        </div>
+        <div class="header-bottom">
+            <div class="wcont">
+                <div class="header-search">
+                    <form action="/search/" method="POST">
+                        <input type="hidden" name="_token" value="1CCOG2reESu0NzSXvfWBAexHPSDLnMnNuXKCC20q">                        <input type="search" class="form-control" placeholder="Введите текст для поиска">
+                        <button type="submit" class="button_search"><svg xmlns='http://www.w3.org/2000/svg' width='20' height='22'><path fill-rule='evenodd' fill='#1f2229' d='M19.919 19.817l-1.227 1.228-4.821-4.821a8.399 8.399 0 01-10.867-.942c-3.309-3.348-3.309-8.777 0-12.125a8.405 8.405 0 0111.986 0c3.244 3.281 3.3 8.556.186 11.917l4.743 4.743zM13.84 4.407a6.646 6.646 0 00-9.569 0c-2.642 2.711-2.642 7.107 0 9.818a6.634 6.634 0 008.662.773l1.084-1.083.051.051c2.404-2.725 2.333-6.931-.228-9.559z'/></svg></button>
+                    </form>
+                </div>
+                <nav class="header-nav-category">
+                    <ul class="nulled">
+                                                    <li>
+                                <a href="/football/">Футбол</a>
+                                                                <ul class="header-dropdown">
+                                                                            <li><a href="/kaz-football/">Казахстанский футбол</a></li>
+                                                                            <li><a href="/world-football/">Мировой футбол</a></li>
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/mma/">ММА</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/box/">Бокс</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/hockey/">Хоккей</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/cybersport/">Киберспорт</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/lifestylee/">LifeStyle</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/tennis/">Теннис</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/futsal/">Футзал</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/combat/">Единоборства</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/heavy-athletics/">Тяжелая атлетика</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/cycling/">Велоспорт</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/winters/">Зимние</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/teams/">Командные</a>
+                                                                <ul class="header-dropdown">
+                                                                    </ul>
+                                                            </li>
+                                                    <li>
+                                <a href="/other/">Другие</a>
+                                                                <ul class="header-dropdown">
+                                                                            <li><a href="/automoto/">АВТО/МОТО</a></li>
+                                                                    </ul>
+                                                            </li>
+                        
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    
+<main class="main_content wcont">
+        <article class="post_top">
+        <a href="/news/733159-triumf-shaidorova-i-fiasko-malinina-na-oi-2026-evropeiskii-top-trener-o-tom-kak-kazahstanets-vlyubil-v-sebya-italiyu/" class="post_top__link">
+            <div class="position-relative">
+                <div class="post_top__img">
+                    <img src="https://prosports.kz/storage/images/a9ac34f2b828057905b0a6ee03209575_VzOhZbpgZDu7RUPf6w0NXj9YQ1veMO9a3YNAKTub.png.webp" alt="">
+                </div>
+                                <div class="post_top_sport">Зимние</div>
+                            </div>
+            <div class="post_top__title">
+                <h2>Триумф Шайдорова и фиаско Малинина на ОИ-2026: европейский топ-тренер о том, как казахстанец влюбил в себя Италию</h2>
+                <div class="post_top__subtitle">Фигурист стал любимцем местной публики</div>
+                    <time datetime="2026-02-18 13:58:09">18 февраля 2026 13:58</time>
+            </div>
+        </a>
+    </article>
+        <section class="section_default" aria-label="Раздел">
+
+        <div class="breadcrumbs">
+            <h1>Prosports</h1>
+        </div>
+        <div class="scroll_shadow">
+            <div class="block_trends">
+                                    <a href="/ufc-kazahstan/" class="block_trends__item_72 trand_has_img">
+                                                <span class="trand_img"><img src="https://prosports.kz/storage/images/a48f1303a57bc7dc6c229f2fbf2cd001_ZfO1pABT1mdWLQr0UvHVb8jXqFaEq8eS1L59C3bR.png.webp" alt="Казахстанцы в UFC"></span>
+                                                Казахстанцы в UFC
+                    </a>
+                                    <a href="/football/kpl/" class="block_trends__item_65 trand_has_img">
+                                                <span class="trand_img"><img src="https://prosports.kz/storage/images/ca6e18d7d05f582add4d3965c6fe7f82_b9AJXK4NrZFOvCaRdCY9qkCFTKFB5iLM1nnmYtE4.webp.webp" alt="КПЛ"></span>
+                                                КПЛ
+                    </a>
+                                    <a href="/rakhmonov/" class="block_trends__item_21 trand_has_img">
+                                                <span class="trand_img"><img src="https://prosports.kz/storage/images/a5a5a24cea48a396a1cdc1b00693d5c5_kBbn6lju3bdFBJ8B8OkpwAcIbC4ryUk8J4tDd1ms.webp.webp" alt="Рахмонов"></span>
+                                                Рахмонов
+                    </a>
+                                    <a href="/ggg/" class="block_trends__item_69 trand_has_img">
+                                                <span class="trand_img"><img src="https://prosports.kz/storage//images/fb87934f42959ac8fc190c47c24f646f_ggg-face.jpg" alt="GGG"></span>
+                                                GGG
+                    </a>
+                                    <a href="/football/ligachempionov/" class="block_trends__item_63 trand_has_img">
+                                                <span class="trand_img"><img src="https://prosports.kz/storage/images/3ae090e04dc97a63752591244b643bbe_AUHaMOmnRZeDbefAM3GSBwy21E7ihBwu64RoeZRJ.png.webp" alt="Лига чемпионов"></span>
+                                                Лига чемпионов
+                    </a>
+                                    <a href="/bets/" class="block_trends__item_71 ">
+                                                Ставки
+                    </a>
+                                <a href="https://prosports.kz/all-trends/" class="all_trends">Все тренды</a>
+            </div>
+        </div>
+
+        <div class="content d-flex justify-content-between">
+            <aside class="left_column">
+                <div class="aside_title"><h2>Новости</h2></div>
+                <div class="show-mobile" style="position: relative; margin: 20px 0 -10px 0; text-align:center;">
+                    <div id="div-gpt-ad-1720978508497-0"></div>
+                </div>
+                <div class="posts_items_news">
+                                    <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 12:36:04">18 февраля 2026 12:36</time>
+                        </div>
+                        <a href="/news/733157-ssha-—-shvetsiya-pryamaya-translyatsiya-chetvertfinala-hokkeinogo-turnira-olimpiadi/" class="news_item__title">США — Швеция. Прямая трансляция четвертьфинала хоккейного турнира Олимпиады</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-19 01:34:50">19 февраля 2026 01:34</time>
+                        </div>
+                        <a href="/news/733249-bolshaya-vozmozhnost-paipers-prochit-sbornoi-kazahstana-povishenie-v-lige-natsii-uefa/" class="news_item__title">«Большая возможность». Пайперс прочит сборной Казахстана повышение в Лиге Наций УЕФА</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-19 01:07:04">19 февраля 2026 01:07</time>
+                        </div>
+                        <a href="/news/733247-ssha-—-shvetsiya-pryamaya-translyatsiya-14-finala-olimpiiskogo-turnira/" class="news_item__title">США — Швеция: прямая трансляция 1/4 финала олимпийского турнира</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-19 01:02:43">19 февраля 2026 01:02</time>
+                        </div>
+                        <a href="/news/733246-bude-glimt---inter-pryamaya-translyatsiya-stikovogo-matcha-ligi-chempionov/" class="news_item__title">«Буде-Глимт» – «Интер»: прямая трансляция стыкового матча Лиги чемпионов</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-19 00:59:42">19 февраля 2026 00:59</time>
+                        </div>
+                        <a href="/news/733245-bryugge---atletiko-madrid-pryamaya-translyatsiya-stikovogo-matcha-ligi-chempionov/" class="news_item__title">«Брюгге» – «Атлетико» Мадрид: прямая трансляция стыкового матча Лиги чемпионов</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-19 00:56:42">19 февраля 2026 00:56</time>
+                        </div>
+                        <a href="/news/733244-olimpiakos---baier-pryamaya-translyatsiya-stikovogo-matcha-ligi-chempionov/" class="news_item__title">«Олимпиакос» – «Байер»: прямая трансляция стыкового матча Лиги чемпионов</a>
+                    </div>
+                                            <div class="hide-mobile" style="width:240px; "><div id="div-gpt-ad-1720974736854-0"></div></div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-19 00:51:01">19 февраля 2026 00:51</time>
+                        </div>
+                        <a href="/news/733243-vulverhempton-—-arsenal-pryamaya-translyatsiya-matcha-v-apl/" class="news_item__title">«Вулверхэмптон» — «Арсенал»: прямая трансляция матча в АПЛ</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-19 00:46:59">19 февраля 2026 00:46</time>
+                        </div>
+                        <a href="/news/733242-milan-—-komo-pryamaya-translyatsiya-matcha-v-serii-a/" class="news_item__title">«Милан» — «Комо»: прямая трансляция матча в Серии А</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-19 00:31:28">19 февраля 2026 00:31</time>
+                        </div>
+                        <a href="/news/733241-svoim-perehodom-sam-zanimalsya-kak-eks-kandidat-v-sbornuyu-rossii-okazalsya-v-elimae/" class="news_item__title">«Своим переходом сам занимался». Как экс-кандидат в сборную России оказался в «Елимае»</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Шорт-трек</div>
+                                                        <time datetime="2026-02-19 00:02:52">19 февраля 2026 00:02</time>
+                        </div>
+                        <a href="/news/733240-olimpiada-pryamaya-translyatsiya-vistuplenii-kazahstanskih-sportsmenov-v-short-treke/" class="news_item__title">Олимпиада. Прямая трансляция выступлений казахстанских спортсменов в шорт-треке</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 23:51:23">18 февраля 2026 23:51</time>
+                        </div>
+                        <a href="/news/733239-zhenatii-na-krasavitse-kazashke-eks-zaschitnik-barisa-zareshal-v-matche-khl/" class="news_item__title">Женатый на красавице-казашке экс-защитник «Барыса» &quot;зарешал&quot; в матче КХЛ</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 12:24:46">18 февраля 2026 12:24</time>
+                        </div>
+                        <a href="/news/733154-finlyandiya-—-shveitsariya-pryamaya-translyatsiya-chetvertfinala-hokkeinogo-turnira-olimpiadi/" class="news_item__title">Финляндия — Швейцария. Прямая трансляция четвертьфинала хоккейного турнира Олимпиады</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-18 12:29:17">18 февраля 2026 12:29</time>
+                        </div>
+                        <a href="/news/733156-karabah-—-nyukasl-yunaited-pryamaya-translyatsiya-stikovogo-matcha-v-lige-chempionov/" class="news_item__title">Карабах — Ньюкасл Юнайтед. Прямая трансляция стыкового матча в Лиге чемпионов</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Баскетбол</div>
+                                                        <time datetime="2026-02-18 23:03:41">18 февраля 2026 23:03</time>
+                        </div>
+                        <a href="/news/733238-zvezda-nba-glupo-vlip-s-narkotoi/" class="news_item__title">Звезда НБА глупо влип с наркотой</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-18 22:45:34">18 февраля 2026 22:45</time>
+                        </div>
+                        <a href="/news/733237-karabah---nyukasl-yunaited-pryamaya-translyatsiya-stikovogo-matcha-v-lige-chempionov/" class="news_item__title">«Карабах» – «Ньюкасл Юнайтед»: прямая трансляция стыкового матча в Лиге чемпионов</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 22:36:40">18 февраля 2026 22:36</time>
+                        </div>
+                        <a href="/news/733235-konkurenti-sariarki-proyavili-sinhron-v-pogone-za-liderom/" class="news_item__title">Конкуренты «Сарыарки» проявили &quot;синхрон&quot; в погоне за лидером</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Волейбол</div>
+                                                        <time datetime="2026-02-18 22:35:38">18 февраля 2026 22:35</time>
+                        </div>
+                        <a href="/news/733236-maloletki-serbskogo-granda-ne-protiv-obrascheniya-s-soboi-na-matah/" class="news_item__title">Малолетки сербского гранда не против обращения с собой на матах</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">ММА</div>
+                                                        <time datetime="2026-02-18 22:27:12">18 февраля 2026 22:27</time>
+                        </div>
+                        <a href="/news/733234-eks-chempion-srednego-vesa-ufc-nakinulsya-na-chempiona-nineshnego/" class="news_item__title">Экс-чемпион среднего веса UFC &quot;накинулся&quot; на чемпиона нынешнего</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-18 22:08:03">18 февраля 2026 22:08</time>
+                        </div>
+                        <a href="/news/733233-ahmat-samorodova-i-kenzhebeka-na-ravnih-bilsya-s-odnim-iz-liderov-rpl/" class="news_item__title">«Ахмат» Самородова и Кенжебека на равных бился с одним из лидеров РПЛ</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-18 21:59:47">18 февраля 2026 21:59</time>
+                        </div>
+                        <a href="/news/733232-uefa-vnesla-yasnost-po-rasistskim-oskorbleniyam-vinisiusa-v-matche-ligi-chempionov-mezhdu-benfikoi-i-realom/" class="news_item__title">УЕФА внесла ясность по расистским оскорблениям Винисиуса в матче Лиги Чемпионов между «Бенфикой» и «Реалом»</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 21:36:29">18 февраля 2026 21:36</time>
+                        </div>
+                        <a href="/news/733229-klub-sistemi-barisa-dobilsya-pobedi-ne-vihodya-na-led/" class="news_item__title">Клуб системы «Барыса» &quot;добился&quot; победы не выходя на лед</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 11:48:44">18 февраля 2026 11:48</time>
+                        </div>
+                        <a href="/news/733153-kanada-—-chehiya-pryamaya-translyatsiya-chetvertfinala-hokkeinogo-turnira-olimpiadi/" class="news_item__title">Канада — Чехия. Прямая трансляция четвертьфинала хоккейного турнира Олимпиады</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Зимние</div>
+                                                        <time datetime="2026-02-18 21:06:04">18 февраля 2026 21:06</time>
+                        </div>
+                        <a href="/news/733224-lizhnikam-na-olimpiade-prishlos-stremglav-udirat-ot-volka/" class="news_item__title">Лыжникам на Олимпиаде пришлось стремглав удирать от волка</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">ММА</div>
+                                                        <time datetime="2026-02-18 21:05:21">18 февраля 2026 21:05</time>
+                        </div>
+                        <a href="/news/733225-chempion-oboznachil-sroki-sleduyuschego-boya-v-ufc/" class="news_item__title">Чемпион обозначил сроки следующего боя в UFC</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Киберспорт</div>
+                                                        <time datetime="2026-02-18 20:55:02">18 февраля 2026 20:55</time>
+                        </div>
+                        <a href="/news/733222-professionalnii-igrok-v-cs2-—-o-vpechatlyayuschem-progresse-fut-esports/" class="news_item__title">Профессиональный игрок в CS2 — о впечатляющем прогрессе FUT Esports</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 20:51:29">18 февраля 2026 20:51</time>
+                        </div>
+                        <a href="/news/733221-kanada-—-chehiya-pryamaya-translyatsiya-14-finala-olimpiiskogo-turnira/" class="news_item__title">Канада — Чехия: прямая трансляция 1/4 финала олимпийского турнира</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Киберспорт</div>
+                                                        <time datetime="2026-02-18 20:39:51">18 февраля 2026 20:39</time>
+                        </div>
+                        <a href="/news/733219-bivshii-animator-rockstar-nazval-neozhidannogo-konkurenta-gta-6/" class="news_item__title">Бывший аниматор Rockstar назвал неожиданного конкурента GTA 6</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Киберспорт</div>
+                                                        <time datetime="2026-02-18 20:27:20">18 февраля 2026 20:27</time>
+                        </div>
+                        <a href="/news/733217-igrok-vitality-poyavitsya-na-oblozhke-glavnogo-sportivnogo-zhurnala-frantsii/" class="news_item__title">Игрок Vitality появится на обложке главного спортивного журнала Франции</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 20:16:49">18 февраля 2026 20:16</time>
+                        </div>
+                        <a href="/news/733212-eks-zaschitnik-barisa-i-sbornoi-kazahstana-otprazdnoval-yubilei-v-astane/" class="news_item__title">Экс-защитник «Барыса» и сборной Казахстана отпраздновал &quot;юбилей&quot; в Астане</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Киберспорт</div>
+                                                        <time datetime="2026-02-18 20:15:57">18 февраля 2026 20:15</time>
+                        </div>
+                        <a href="/news/733213-valve-vipustila-tehnicheskoe-obnovlenie-dota-2/" class="news_item__title">Valve выпустила техническое обновление Dota 2</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 20:08:53">18 февраля 2026 20:08</time>
+                        </div>
+                        <a href="/news/733209-konkurenti-barisa-esche-bolshe-oslozhnili-zadachu-astane-na-plei-off/" class="news_item__title">Конкуренты «Барыса» еще больше осложнили задачу Астане на плей-офф</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Киберспорт</div>
+                                                        <time datetime="2026-02-18 20:00:00">18 февраля 2026 20:00</time>
+                        </div>
+                        <a href="/news/733208-opublikovan-reiting-samih-uspeshnih-relizov-i-samih-pribilnih-igr-steam-za-yanvar-2026-goda/" class="news_item__title">Опубликован рейтинг самых успешных релизов и самых прибыльных игр Steam за январь 2026 года</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 19:41:01">18 февраля 2026 19:41</time>
+                        </div>
+                        <a href="/news/733206-rekord-russkoi-legendi-pobili-na-olimpiade/" class="news_item__title">Рекорд русской легенды побили на Олимпиаде</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Киберспорт</div>
+                                                        <time datetime="2026-02-18 19:37:08">18 февраля 2026 19:37</time>
+                        </div>
+                        <a href="/news/733205-pain-gaming-poluchila-tehporazhenie-na-dreamleague-season-28/" class="news_item__title">PaiN Gaming получила техпоражение на DreamLeague Season 28</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Киберспорт</div>
+                                                        <time datetime="2026-02-18 19:25:46">18 февраля 2026 19:25</time>
+                        </div>
+                        <a href="/news/733204-1win-team-perevela-v-zapas-kazahstanskogo-chempiona-meidzhora/" class="news_item__title">1win Team перевела в запас казахстанского чемпиона мейджора</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-18 11:21:52">18 февраля 2026 11:21</time>
+                        </div>
+                        <a href="/news/733151-baltika---ahmat-pryamaya-translyatsiya-matcha-kluba-maksima-samorodova-i-galimzhana-kenzhebeka/" class="news_item__title">Балтика - Ахмат. Прямая трансляция матча клуба Максима Самородова и Галымжана Кенжебека</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 18:46:36">18 февраля 2026 18:46</time>
+                        </div>
+                        <a href="/news/733203-stal-izvesten-pervii-polufinalist-muzhskogo-hokkeinogo-turnira-na-olimpiade-2026/" class="news_item__title">Стал известен первый полуфиналист мужского хоккейного турнира на Олимпиаде-2026</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Казахстанский футбол</div>
+                                                        <time datetime="2026-02-18 18:42:45">18 февраля 2026 18:42</time>
+                        </div>
+                        <a href="/news/733202-vospitannik-aktobe-ofitsialno-pereshel-v-shahter/" class="news_item__title">Воспитанник «Актобе» официально перешел в «Шахтер»</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Хоккей</div>
+                                                        <time datetime="2026-02-18 18:33:47">18 февраля 2026 18:33</time>
+                        </div>
+                        <a href="/news/733201-mozhno-v-etom-godu-na-draft-nhl-popast-eks-igrok-barisa-o-karere-v-kanade/" class="news_item__title">«Можно в этом году на драфт НХЛ попасть». Экс-игрок «Барыса» о карьере в Канаде</a>
+                    </div>
+                                                        <div class="news_item">
+                        <div class="news_item__category">
+                                                        <div class="news_item__category_sport">Футбол</div>
+                                                        <time datetime="2026-02-18 18:22:04">18 февраля 2026 18:22</time>
+                        </div>
+                        <a href="/news/733199-zhoao-paulo-otkazal-aktobe-i-podpisal-kontrakt-v-evrope/" class="news_item__title">Жоао Пауло отказал «Актобе» и подписал контракт в Европе</a>
+                    </div>
+                                                    <div class="show-mobile">
+                    <div id="div-gpt-ad-1720979650088-0"></div>
+                </div>
+                </div>
+
+                <div class="text-center mt-3"><button onclick="more_news_left();" class="btn btn-primary-outline btn-sm">Загрузить еще</button></div>
+            </aside>
+            <div class="center_column">
+                <div class="hide-mobile" style="overflow: hidden; margin:0px 0 35px 0;"><div id="div-gpt-ad-1720893685604-0"></div></div>
+
+                <div class="posts_items">
+                                    <div class="posts_item">
+                        <a href="/news/733152-v-nhl-poyavitsya-kazahstanets-vopros-vremeni-bivshie-igroki-barisa-rvutsya-ego-trenirovat/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/fb5bf172ec08c6ed01a18254069e2cd2_Lt3sZAnRIwdsMv159QlXSPNA6lW4ibbVlJ2xeNAs.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«В НХЛ появится казахстанец, вопрос времени». Бывшие игроки «Барыса» рвутся его тренировать</span>
+                                <span class="post_item__text">Грэттон и Бойд хотят помочь развитию хоккея в Казахстане</span>
+                                <time datetime="2026-02-18 11:35:06">18 февраля 2026 11:35</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/733112-baris-zarabotal-ochko-v-polnom-drami-matche-s-liderom-khl-/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/5288f64e6f3a349bab3ac278367ef212_IG9DWjAC46YplxkCRFnm7X2r8JXKV6bemrR7LDPc.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Барыс» заработал очко в полном драмы матче с лидером КХЛ</span>
+                                <span class="post_item__text">Ай да «Барыс»...</span>
+                                <time datetime="2026-02-17 21:49:17">17 февраля 2026 21:49</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/733047-glavnie-oshibki-pri-pohudenii-pochemu-ves-ne-uhodit-i-kak-eto-ispravit/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/3a7407f3204738bb53c981590bf99c56_pb5O5X4mfSomkwTlPy0Qa1P9xFHb9NJe1Bw6yUZJ.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">LifeStyle</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Главные ошибки при похудении: почему вес не уходит и как это исправить</span>
+                                <span class="post_item__text">Разберем самые частые из них</span>
+                                <time datetime="2026-02-17 14:03:58">17 февраля 2026 14:03</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/733021-nikto-vivodi-delat-ne-budet-ekspert-o-triumfe-shaidorova-na-oi-2026-pritesnenii-figurista-i-nekompetentnih-chinovnikah/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/ce75caa1442fe70fe84e7ce6a8f7bd85_s7as8Cfu2ixXaiDBcinR80rEaFuwYqEcA5R7LFWA.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Никто выводы делать не будет». Эксперт о триумфе Шайдорова на ОИ-2026, притеснении фигуриста и некомпетентных чиновниках</span>
+                                <span class="post_item__text">Чемпиона спонсировал отец</span>
+                                <time datetime="2026-02-17 12:51:27">17 февраля 2026 12:51</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732959-baris-mog-ischeznut-iz-khl-ekspert-o-spasenii-kluba-domashnei-serii-i-olimpiiskom-voyazhe-bossa/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/48aaa57275655d59118b29b88249ba3b_Ehx5lEqROc4QoDjNOnm9KmxzmHaoTWR3IU7Wv6EY.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Барыс» мог исчезнуть из КХЛ? Эксперт о спасении клуба, домашней серии и «олимпийском» вояже босса</span>
+                                <span class="post_item__text">Руководству не до хоккея</span>
+                                <time datetime="2026-02-16 21:48:37">16 февраля 2026 21:48</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732938-glavnie-oshibki-iz-za-kotorih-ti-ne-mozhesh-nakachat-nogi/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/f2604a2fd8e2972fe4baebbf85e8b63d_10sXmzPydY3erax3X8pt6a36H0WvwLEz2Kvs0zsO.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">LifeStyle</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Главные ошибки, из-за которых ты не можешь накачать ноги</span>
+                                <span class="post_item__text">Разбираем самые распространенные из них</span>
+                                <time datetime="2026-02-16 19:04:32">16 февраля 2026 19:04</time>
+                            </span>
+                        </a>
+                    </div>
+                                            <!-- /282075110/podium-video -->
+                        <div class="hide-mobile" style="text-align:center;">
+                            <div id='div-gpt-ad-1738685824716-0' style='min-width: 510px;margin:20px 0'></div>
+                        </div>
+                        <div class="video_widget mb-5">
+                            <h2>Видео</h2>
+                            <div class="video_item">
+                                <a href="/media/hotvideos/292/" class="d-flex flex-column">
+                                    <span class="video_item__img">
+                                        <img src="https://prosports.kz/storage/images/e5e5a67794a0907875b77efd9f6f934a_xE1a4U4R2ns3LnOOjY6CmTrZY0qbETwECh7jotkx.png.webp" alt="">
+                                        <svg class="svg-icon_play" style="width: 80px; height: 80px;vertical-align: middle;fill: currentColor;overflow: hidden;" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M514 912c-219.9 0-398.9-178.9-398.9-398.8S294 114.3 514 114.3c219.9 0 398.8 178.9 398.8 398.9C912.8 733.1 733.9 912 514 912z m0-701.5c-166.9 0-302.7 135.8-302.7 302.7S347.1 815.9 514 815.9s302.7-135.8 302.7-302.7S680.9 210.5 514 210.5z" fill="#BDD2EF" /><path d="M437.1 345.9L687 490.2c17.7 10.2 17.7 35.7 0 45.9L437.1 680.5c-17.7 10.2-39.8-2.6-39.8-23V368.9c0-20.4 22.1-33.2 39.8-23z" fill="#2867CE" /></svg>
+                                    </span>
+                                    <span class="blogs_item__title">&quot;Хьюстон, у нас проблемы&quot;. &quot;Ямайская сенсация&quot; нарвался в UFC на жесткого казаха</span>
+                                </a>
+                            </div>
+                            <div class="text-center">
+                                <a href="https://prosports.kz/media/" class="all_news mt-0">Все видео</a>
+                            </div>
+                        </div>
+                        <div class="show-mobile mb-3"><div id="div-gpt-ad-1720981797938-0"></div></div>
+                                                        <div class="posts_item">
+                        <a href="/news/732819-dano-obyasnenie-rezultatu-kazahstantsa-na-olimpiade-2026-vsyo-reshila-zherebevka/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/26c41af962b349b69d556def9f92ef3d_Z5LnIG4BTnIUICGxD7UHKNNeh2Ubp5JU0my2OCty.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Дано объяснение результату казахстанца на Олимпиаде-2026: всё решила жеребьевка</span>
+                                <span class="post_item__text">Атлет попал в топ-10</span>
+                                <time datetime="2026-02-15 20:43:29">15 февраля 2026 20:43</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732671-soperniki-sami-vsyo-otdali-nastavnik-shaidorova-i-chempion-olimpiadi-o-triumfe-kazahstantsa-na-oi-2026-i-padenii-malinina/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/2a4ae9b7e0179ec235e3b4760fd72c2c_i4TTM4Q1YZ5XzxlvPDZFxonxzpMs61dIpeDqMLd2.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Соперники сами всё отдали». Наставник Шайдорова и чемпион Олимпиады о триумфе казахстанца на ОИ-2026 и падении Малинина</span>
+                                <span class="post_item__text">Долгожданное «золото» у нас! Ура!</span>
+                                <time datetime="2026-02-14 18:15:44">14 февраля 2026 18:15</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732602-zolotoi-olimpiiskii-prokat-mihaila-shaidorova-v-milane-prozvuchal-gimn-kazahstana-video/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/474716cb85fe3d8f05355f9f8b129172_z9QwPXolGIV2gHd86K8ZI92E7b3c4sEr4L7ZCBYi.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Золотой олимпийский прокат Михаила Шайдорова. В Милане прозвучал Гимн Казахстана. ВИДЕО</span>
+                                <span class="post_item__text">Алтын бала!</span>
+                                <time datetime="2026-02-14 03:37:40">14 февраля 2026 03:37</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732601-kazahstan-zavoeval-pervuyu-medal-olimpiadi-2026-video/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/53334f7d06a0d3ac02c8fd1f12a4a5a3_mxqa1WzbBDG1BZAEH1bY4nIp56KKHhoi3gKb292C.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Казахстан завоевал первую медаль Олимпиады-2026! ВИДЕО</span>
+                                <span class="post_item__text">И сразу - «золото»!!!</span>
+                                <time datetime="2026-02-14 02:57:07">14 февраля 2026 02:57</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732598-v-publichnom-dome-ne-vsegda-menyayut-krovati-zasluzhennii-trener-rk-o-problemah-razvitiya-hokkeya-v-kazahstane-i-matchah-na-oi-2026/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/2639a29bf8383efd71877a995b320e20_UyCdeKN7XeobgLjj3yPoEAOI6nt4UNIs1A9sE7F9.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«В публичном доме не всегда меняют кровати». Заслуженный тренер РК о проблемах развития хоккея в Казахстане и матчах на ОИ-2026</span>
+                                <span class="post_item__text">20 лет без Олимпиады...</span>
+                                <time datetime="2026-02-14 01:58:45">14 февраля 2026 01:58</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732563-nikto-etogo-esche-ne-pokazival-uchastnik-dvuh-olimpiad-otsenil-perspektivi-shaidorova-na-oi-2026-i-sravnil-kazahstantsa-s-malininim/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/235611a788e77969b70d61291e38244f_CtHoNCdyZrohJBIKrkDICK9s2sWsyMA5o3zpsNwg.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Никто этого еще не показывал». Участник двух Олимпиад оценил перспективы Шайдорова на ОИ-2026 и сравнил казахстанца с Малининым</span>
+                                <span class="post_item__text">Атлет стал пятым в короткой программе</span>
+                                <time datetime="2026-02-13 20:13:08">13 февраля 2026 20:13</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732451-kazahstanka-otsenila-svoi-istoricheskii-start-na-olimpiade-v-milane-i-kortine/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/f7cf477622f7efb0a309b4af95a222cb_ifCWjg496p3mSRUKgCJM8R5jYe4Vr3wJmvebDw6M.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Казахстанка оценила свой исторический старт на Олимпиаде в Милане и Кортине</span>
+                                <span class="post_item__text">Спортсменка поделилась первыми впечатлениями</span>
+                                <time datetime="2026-02-12 23:40:09">12 февраля 2026 23:40</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732420-razve-tak-gotovyatsya-k-startam-vignannii-iz-sbornoi-kazahstana-trener-obyasnil-fiasko-lizhnikov-na-oi-2026-i-raznyos-sistemu-podgotovki/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/0958b86a59c2a08cd1ab1694adc89c7b_8EzzHXyCZfslgEC14BbNpH7LHtCuDBxush90x1vg.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Разве так готовятся к стартам?». Выгнанный из сборной Казахстана тренер объяснил фиаско лыжников на ОИ-2026 и разнёс систему подготовки</span>
+                                <span class="post_item__text">Специалиста уволили менее чем за год до Игр</span>
+                                <time datetime="2026-02-12 22:09:50">12 февраля 2026 22:09</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732361-glavnie-oshibki-kotorie-ne-dayut-tebe-raskachat-spinu-i-ruki/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/fdaf7f701210a6a452850930fa91cb6f_04iN76RiOvWIv11xYDd2dczmkUPHVsFulWqY8zns.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">LifeStyle</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Главные ошибки, которые не дают тебе раскачать спину и руки</span>
+                                <span class="post_item__text">Почему нет желаемого объема</span>
+                                <time datetime="2026-02-12 14:22:28">12 февраля 2026 14:22</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732353-rukovodstvo-deistvuet-zhestko-v-ufc-ne-schitayutsya-s-religiei-kazahstantsa/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/670af3c119f36e273d3ab1a3c0b45838_BOWdSgpJ6q7duEE7RCDtiCKEmrMG0tMdnX22jHIv.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">ММА</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Руководство действует жестко». В UFC не считаются с религией казахстанца</span>
+                                <span class="post_item__text">Нургожай второй год подряд будет драться во время Рамадана</span>
+                                <time datetime="2026-02-12 13:28:55">12 февраля 2026 13:28</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732337-zadacha---pokazat-luchshuyu-versiyu-sebya-diyara-nurgozhaya-iz-ufc-zhdet-samii-bolshoi-boi-v-karere/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/30e4ad9b0db79f37e66de6bc7b9aa351_usgqWIdTbtaLMfgxc4Ktn6h0GIIklwVXTMzruZjR.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">ММА</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Задача – показать лучшую версию себя». Дияра Нургожая из UFC ждет самый большой бой в карьере</span>
+                                <span class="post_item__text">Казахстанцы заждались победы соотечественника в промоушне Даны Уайта</span>
+                                <time datetime="2026-02-12 12:25:34">12 февраля 2026 12:25</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732326-reshit-sudbu-sezona-nazvan-pobeditel-matcha-baris---ska/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/3dfe30badd95ae03781af5c1f6df488e_VhWQMJ4DlOph7jvagjSOivgpWNHxRPbcSJJtoaSL.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Решит судьбу сезона». Назван победитель матча «Барыс» - СКА</span>
+                                <span class="post_item__text">Матч пройдёт в Астане</span>
+                                <time datetime="2026-02-12 10:57:35">12 февраля 2026 10:57</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732257-ozhidal-luchshego-rossiiskii-ekspert-obyasnil-neudachi-barisa-v-khl-i-otsenil-buduschee-kravtsa/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/9e47eb06e0ff3fba462fc035cb2d6868_OCTqe8Qz2sYSVHnEIEXXnF0JJihRmOL45BICkIH3.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Ожидал лучшего». Российский эксперт объяснил неудачи «Барыса» в КХЛ и оценил будущее Кравца</span>
+                                <span class="post_item__text">Что помешало закрепиться в «восьмёрке»?</span>
+                                <time datetime="2026-02-11 19:48:32">11 февраля 2026 19:48</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732238-ne-ochen-predstavlyayu-ozvucheno-neozhidannoe-buduschee-eks-trenera-sbornoi-kazahstana-v-top-klube/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/1878f4e61da4b9d421cde944edbf338f_0ByotIlIfoVuc1Kq9xaLd6pMJocmBFeJ2x6rJFBr.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Не очень представляю». Озвучено неожиданное будущее экс-тренера сборной Казахстана в топ-клубе</span>
+                                <span class="post_item__text">Специалист может возглавить команду</span>
+                                <time datetime="2026-02-11 18:30:27">11 февраля 2026 18:30</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/732042-mnogie-zhdali-nashu-sbornuyu-kak-zhivetsya-kazahstanskoi-bolelschitse-v-samom-serdtse-olimpiadi-2026/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/a445c687a12b1f0b8ae131b13df82f4f_folJDwukVZ8ZXu3CjehUc3MwsmUvq62Dl7FyL0uU.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Многие ждали нашу сборную». Как живется казахстанской болельщице в самом сердце Олимпиады-2026</span>
+                                <span class="post_item__text">Соотечественница ждёт от атлетов побед</span>
+                                <time datetime="2026-02-10 14:24:25">10 февраля 2026 14:24</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731950-mi-okazalis-v-bolshoi-propasti-legenda-kazahstanskogo-biatlona-o-problemah-sbornoi-i-shansah-na-medali-na-oi-2026/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/9602363fb39d6da03ffe43d4b4e9b788_BscsuzB5VugUL7TK5NXb01ChILXON7XnsMTvO54e.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Мы оказались в большой пропасти». Легенда казахстанского биатлона о проблемах сборной и шансах на медали на ОИ-2026</span>
+                                <span class="post_item__text">Стартовали первые соревнования</span>
+                                <time datetime="2026-02-09 17:04:08">09 февраля 2026 17:04</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731910-legenda-sporta-obyasnila-fiasko-kazahstanskih-biatlonistov-na-oi-2026/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/27cc8ef7152d1fd203abb9e452660eee_9WH8sh3oNTRY9u1YgdYrvYx09NAQzButLHUmuH6y.jpg.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Легенда спорта объяснила фиаско казахстанских биатлонистов на ОИ-2026</span>
+                                <span class="post_item__text">Атлеты не смогли завершить гонку</span>
+                                <time datetime="2026-02-09 13:20:52">09 февраля 2026 13:20</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731892-silnaya-spina-i-shirokie-plechi-luchshie-soveti-dlya-moschnogo-i-zdorovogo-verha-tela/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/19cc19caa5f34f1d9b1dba2c59535a7a_z5raX4SxpKGOmQCzt9Za0rYbdYbEnlYPfWJRcwVW.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">LifeStyle</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Сильная спина и широкие плечи: лучшие советы для мощного и здорового верха тела</span>
+                                <span class="post_item__text">Проверенные советы, которые помогут укрепить спину и сделать плечи шире</span>
+                                <time datetime="2026-02-09 11:12:48">09 февраля 2026 11:12</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731850-uchastnik-tryoh-olimpiad-otsenil-istoricheskii-rezultat-na-oi-2026-s-uchastiem-kazahstanok/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/35e0283d2bf782422a0473d57b142e2f_AmYt5aj5KZAESnP0VnksuiOjlro061ZJEGYlo1Dm.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Участник трёх Олимпиад оценил исторический результат на ОИ-2026 с участием казахстанок</span>
+                                <span class="post_item__text">Результаты спортсменок впечатляют</span>
+                                <time datetime="2026-02-08 21:39:55">08 февраля 2026 21:39</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731774-kazahstanskii-boets-oformil-stoyachii-nokaut-na-turnire-ufc-v-las-vegase/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/ed1ee99e504fb7d74dc126de8fe266d3_qNlnBXB5BNwYXtfSLLHCk8ZLB6JhfJZmDjMygLG0.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">ММА</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Казахстанский боец оформил «стоячий» нокаут на турнире UFC в Лас-Вегасе</span>
+                                <span class="post_item__text">Эта победа стала для казахстанца 14-й в карьере</span>
+                                <time datetime="2026-02-08 08:21:32">08 февраля 2026 08:21</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731769-bivshii-boets-ufc-iz-kazahstana-provel-shvatku-v-tashkente/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/c0cc5735b37a91c9f6c52f75c031b00d_NO3LTdOxzKCFKeVYHfA1mdaalZbYemJo5NMIsDrs.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">ММА</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Бывший боец UFC из Казахстана провел схватку в Ташкенте</span>
+                                <span class="post_item__text">Умеем, практикуем...</span>
+                                <time datetime="2026-02-08 00:38:58">08 февраля 2026 00:38</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731736-slezami-bolelschikov-zavershilsya-match-kubka-devisa-s-uchastiem-sbornoi-kazahstana/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/ebf5fc625f9c05380113000a92b93c24_RooJoEQ3B5Mdsq3KTHoiatzXxzDiO9ZUCi4STA2U.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Теннис</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Слезами болельщиков завершился матч Кубка Дэвиса с участием сборной Казахстана</span>
+                                <span class="post_item__text">Уступаем карликовому государству...</span>
+                                <time datetime="2026-02-07 19:45:02">07 февраля 2026 19:45</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731626-mozhet-prepodnesti-syurprizi-uchastnik-tryoh-olimpiad-o-glavnih-nadezhdah-kazahstana-na-oi-2026-i-shansah-na-zoloto/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/7ed09ef4843c9e22f9ebc1ad5d3f5db7_Hm5ITqBH8YndBWvNOeGpNIE38q3AWNu1C0j1q9ne.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">«Может преподнести сюрпризы». Участник трёх Олимпиад о главных надеждах Казахстана на ОИ-2026 и шансах на «золото»</span>
+                                <span class="post_item__text">Кто выиграет награды?</span>
+                                <time datetime="2026-02-06 21:13:31">06 февраля 2026 21:13</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731599-uchastnik-tryoh-olimpiad-vibral-glavnih-pretendentov-na-medali-oi-2026-ot-kazahstana/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/d64eafc7542c029884ac3054de416108_GwsxrFOHIbFA1jjc49MXKyVavgRKfDlNKf5vnxKD.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Зимние</span>
+                                                                                                    <span class="post_item__exclusive">Эксклюзив</span>
+                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Участник трёх Олимпиад выбрал главных претендентов на медали ОИ-2026 от Казахстана</span>
+                                <span class="post_item__text">В Италии стартовали главные соревнования четырёхлетия</span>
+                                <time datetime="2026-02-06 18:24:47">06 февраля 2026 18:24</time>
+                            </span>
+                        </a>
+                    </div>
+                                                        <div class="posts_item">
+                        <a href="/news/731555-legenda-barisa-i-sbornoi-kazahstana-zaschitit-ameriku-dronami/" class="d-flex align-items-start">
+                            <span class="post_item__img">
+                                <img src="https://prosports.kz/storage/images/4a822e86f7da51ba93d5db43ca905f16_xiDAXMA8C2urRV2lQGJMK7gicrs7ic3TZJOAmElt.png.webp" alt="" loading="lazy">
+                                                                    <span class="post_item__category_sport">Хоккей</span>
+                                                                                                                            </span>
+                            <span class="post_item__anons">
+                                <span class="post_item__title">Легенда «Барыса» и сборной Казахстана защитит Америку дронами</span>
+                                <span class="post_item__text">Боченски перешел из нападения в оборону</span>
+                                <time datetime="2026-02-06 12:26:15">06 февраля 2026 12:26</time>
+                            </span>
+                        </a>
+                    </div>
+                                                    </div>
+                <div class="text-center mt-3"><button onclick="more_news({type:0});" class="btn btn-primary-outline btn-sm">Загрузить еще</button></div>
+
+            </div>
+            <aside class="right_column">
+                <div class="hide-mobile" style="margin: 0 0 30px;width:240px; "><div id="div-gpt-ad-1720973878296-0"></div></div>
+                                <div class="blogs_widget">
+                    <h2>БЛОГИ</h2>
+                    
+                                        <div class="blogs_item">
+                        <a href="/news/733175-atletik-bilbao-—-elche-legkie-tri-turnirnih-balla-dlya-baskskih-lvov/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/ad7d0956648c63efc25586db91ba79e8_NYrWsyTLvWvC2MFU7JfTFPT4jRy8d0v505BbrBgW.png.webp" alt="«Атлетик» (Бильбао) — «Эльче»: легкие три турнирных балла для баскских «львов»?">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Атлетик» (Бильбао) — «Эльче»: легкие три турнирных балла для баскских «львов»?</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-18 15:02:50">18 февраля 2026 15:02</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/733155-maints-05-—-gamburg-startovoe-protivostoyanie-23-tura-chempionata-germanii/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/a3ae62b6991d50a389de61b0a606c2a1_LY6VHNdfj85p3ROJV6kPB3BSWhPZVlGJYR30XoZ4.png.webp" alt="«Майнц 05» — «Гамбург»: стартовое противостояние 23 тура чемпионата Германии">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Майнц 05» — «Гамбург»: стартовое противостояние 23 тура чемпионата Германии</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-18 12:29:32">18 февраля 2026 12:29</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/733053-yagelloniya-—-fiorentina-pervaya-zaruba-sopernikov-s-startovom-raunde-plei-off-lk/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/21a3e24404c3f28ff072ef5b20e6a9b5_9WA3g0Z8aFvJ8zbqUk1nUZT0XNG5RvfxrTbhkPCf.png.webp" alt="«Ягеллония» — «Фиорентина»: первая заруба соперников с стартовом раунде плей-офф ЛК">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Ягеллония» — «Фиорентина»: первая заруба соперников с стартовом раунде плей-офф ЛК</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-17 14:59:33">17 февраля 2026 14:59</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/733020-seltik-—-shtutgart-odin-iz-tsentralnih-poedinkov-116-finala-ligi-evropi/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/a4506c571c80284fcfe754babc7cfe28_zBAtOX79VsXz4mHx7ZgLFJRfK22KgPDtfmeddiv1.png.webp" alt="«Селтик» — «Штутгарт»: один из центральных поединков 1/16 Лиги Европы">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Селтик» — «Штутгарт»: один из центральных поединков 1/16 финала Лиги Европы</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-17 12:31:45">17 февраля 2026 12:31</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732904-karabah-—-nyukasl-debyut-azerbaidzhanskih-skakunov-v-plei-off-ligi-chempionov/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/97943e5130b0d0bffa6790e1cb1765d0_hO11973Z28kKqyT4ZNi5d5EWNdpa0lOmb4Ac610u.png.webp" alt="«Карабах» — «Ньюкасл»: дебют азербайджанских «скакунов» в плей-офф Лиги чемпионов">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Карабах» — «Ньюкасл»: дебют азербайджанских «скакунов» в плей-офф Лиги чемпионов</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-16 15:00:44">16 февраля 2026 15:00</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732891-benfika-—-real-madrid-pervaya-razborka-sosedei-po-pireneiskomu-poluostrovu-v-116-lch/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/f88737702d502fbf8c4098a324264618_Era7FK9xVZyZ88iBWOa78OVhWNMbAQ5D4I4cCGHy.png.webp" alt="«Бенфика» — «Реал» (Мадрид): первая разборка соседей по Пиренейскому полуострову в 1/16 ЛЧ">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Бенфика» — «Реал» (Мадрид): первая разборка соседей по Пиренейскому полуострову в 1/16 ЛЧ</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-16 12:35:10">16 февраля 2026 12:35</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732777-zhirona-—-barselona-katalonskoe-derbi-belo-krasnih-i-sine-granatovih/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/90e35989793fb0bf5b73e976be1a1b87_5wkLeXc9tWDafABnBUgAINLt5cGGo9wjhfU9kGUN.png.webp" alt="«Жирона» — «Барселона»: каталонское дерби «бело-красных» и «сине-гранатовых»">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Жирона» — «Барселона»: каталонское дерби «бело-красных» и «сине-гранатовых»</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-15 14:21:20">15 февраля 2026 14:21</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732533-napoli-—-roma-odin-iz-tsentralnih-poedinkov-italyanskogo-uik-enda/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/67bac890497f47326598ecea83c55205_L9ml5Tag16q4gwk5di1pHLgqRCoBXuZ4oRzbOPBe.png.webp" alt="«Наполи» — «Рома»: один из центральных поединков итальянского уик-энда">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Наполи» — «Рома»: один из центральных поединков итальянского уик-энда</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-13 15:00:55">13 февраля 2026 15:00</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732514-rb-leiptsig-—-volfsburg-finalnii-akkord-22-tura-chempionata-germanii/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/2d471504d78314979e4b7b8fe1094eb1_6YSeOo7ma2bZM6VxWi16qzzUPLbonMrcuZT5ir8L.png.webp" alt="«РБ Лейпциг» — «Вольфсбург»: финальный аккорд 22 тура чемпионата Германии">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«РБ Лейпциг» — «Вольфсбург»: финальный аккорд 22 тура чемпионата Германии</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-13 12:30:59">13 февраля 2026 12:30</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732369-real-madrid-—-real-sosedad-ispanskaya-shvatka-korolevskih-klubov/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/c8954a6868b5dfe4d8301c6dccc083ad_JZn7GNYvK4CrwNIpCRqtOL9eDssZM9maYXHVkJ91.png.webp" alt="«Реал» (Мадрид) — «Реал Сосьедад»: испанская схватка «королевских» клубов">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Реал» (Мадрид) — «Реал Сосьедад»: испанская схватка «королевских» клубов</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-12 15:01:36">12 февраля 2026 15:01</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732339-inter-—-yuventus-neradzurri-protiv-byankoneri-—-ognennoe-derby-d’italia/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/c68917b8347cb3fd75b9eed26647abf4_U9kaQzAbWZfMfSWCgCA8Kiow0haSCN111vNfpocA.png.webp" alt="«Интер» — «Ювентус»: «нерадзурри» против «бьянконери» — огненное Derby d’Italia">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Интер» — «Ювентус»: «нерадзурри» против «бьянконери» — огненное Derby d’Italia</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-12 12:30:48">12 февраля 2026 12:30</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732211-borussiya-dortmund-—-maints-05-veselaya-zaruba-shmelei-i-karnavalnikov/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/8f8db859b816f31e684ab1eac0a047b0_4DaMNMnLLIiu53PNJFPlm5PlvABhSmxtdZDWkodb.png.webp" alt="«Боруссия» (Дортмунд) — «Майнц 05»: веселая заруба «шмелей» и «карнавальников»">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Боруссия» (Дортмунд) — «Майнц 05»: веселая заруба «шмелей» и «карнавальников»</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-11 15:02:54">11 февраля 2026 15:02</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732183-renn-—-pszh-frantsuzskaya-razborka-klubov-iz-lidiruyuschei-shesterki-ligi-1/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/b9c9f4e2df19e68cb6f19a03224ce90d_b10f1EQEfaLvETmDqoGfjkF6ChPjYdDBOXfaJaKF.png.webp" alt="«Ренн» — ПСЖ: французская разборка клубов из лидирующей шестерки Лиги 1">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Ренн» — ПСЖ: французская разборка клубов из лидирующей шестерки Лиги 1</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-11 12:30:32">11 февраля 2026 12:30</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732059-brentford-—-arsenal-nebezinteresnoe-stolichnoe-derbi-pchel-i-kanonirov/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/c197df63b88ca9058b87328eda81611e_BcxtNaG0Vqduv2ODC8iVkOBw0IhejeIi8Pf4LqkF.png.webp" alt="«Брентфорд» — «Арсенал»: небезынтересное столичное дерби «пчел» и «канониров»">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Брентфорд» — «Арсенал»: небезынтересное столичное дерби «пчел» и «канониров»</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-10 14:59:12">10 февраля 2026 14:59</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/732035-atletiko-madrid-—-barselona-yarkaya-vitrina-v-polufinale-kubka-korolya/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/6e943766166078d5da28cb722a4ece90_vGnq2QLq7aqgjLZk57MLyejN7hT8trpOnYzKtbxm.png.webp" alt="«Атлетико» (Мадрид) — «Барселона»: яркая витрина в полуфинале Кубка Короля">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Атлетико» (Мадрид) — «Барселона»: яркая витрина в полуфинале Кубка Короля</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-10 12:31:38">10 февраля 2026 12:31</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/731937-sanderlend-—-liverpul-lyubopitnaya-razborka-debyutanta-i-chempiona-apl/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/86ba2db06547ac7e1f2ea48f4ac6299c_IpbKQcI7BzKZHhGWMxyIu5XiyiN0P2nM1bUWS0uf.png.webp" alt="«Сандерленд» — «Ливерпуль»: любопытная разборка дебютанта и чемпиона АПЛ">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Сандерленд» — «Ливерпуль»: любопытная разборка дебютанта и чемпиона АПЛ</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-09 15:00:07">09 февраля 2026 15:00</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/731907-bavariya-—-rb-leiptsig-sochnaya-zaruba-zvezdi-yuga-i-krasnih-bikov-v-kubke-germanii/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/e094383a6d948c0b7970a0394789e7ac_l7Oaa4lEuIntcRsHlJyx9WbvE2hLMM1ItF20ip4w.png.webp" alt="«Бавария» — «РБ Лейпциг»: сочная заруба «звезды юга» и «красных быков» в Кубке Германии">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Бавария» — «РБ Лейпциг»: сочная заруба «звезды юга» и «красных быков» в Кубке Германии</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-09 12:32:07">09 февраля 2026 12:32</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/731815-napoli-—-komo-kubkovaya-bitva-partenopeitsev-i-lariantsev-za-vihod-v-polufinal/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/847d506da3d09d5abf3e2e2ed1d05c00_k8HSXmvSAgx5iJinwzQsSdIiw1byoIAheh26ytzK.png.webp" alt="«Наполи» — «Комо»: кубковая битва «партенопейцев» и «ларианцев» за выход в полуфинал">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Наполи» — «Комо»: кубковая битва «партенопейцев» и «ларианцев» за выход в полуфинал</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-08 15:01:11">08 февраля 2026 15:01</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="blogs_item">
+                        <a href="/news/731806-vest-hem-—-manchester-yunaited-yarkaya-duel-molotoboitsev-i-krasnih-dyavolov/" class="d-flex flex-column align-items-start">
+                            <span class="blogs_item__img">
+                                <img src="https://prosports.kz/storage/images/40838a4c9fff090baff003ade8b95ce8_R6gGbpPShrpqRSK0NnngB8zrMFSBJ3CqOgFLT9fo.png.webp" alt="«Вест Хэм» — «Манчестер Юнайтед»: яркая дуэль «молотобойцев» и «красных дьяволов»">
+                                                                <span class="blogs_item__category_sport">Футбол</span>
+                                                            </span>
+                            <span class="blogs_item__title">«Вест Хэм» — «Манчестер Юнайтед»: яркая дуэль «молотобойцев» и «красных дьяволов»</span>
+                            <span class="d-flex justify-content-between blogs_item__person">
+                                
+                                <time datetime="2026-02-08 12:34:20">08 февраля 2026 12:34</time>
+                            </span>
+                        </a>
+                    </div>
+                                        <div class="text-end">
+                        <a href="https://prosports.kz/blogs/" class="all_news">Все блоги</a>
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </section>
+</main>
+
+<style>
+        .block_trends__item_72 {
+        background: linear-gradient(29deg, rgba(255, 221, 0,0.3) 0%, rgba(255, 221, 0,0.1) 71%);
+        border-bottom-color: #ffdd00!important;
+    }
+    .block_trends__item_72:hover {
+        background-color:#ffdd00;
+    }
+        .block_trends__item_65 {
+        background: linear-gradient(29deg, rgba(55, 137, 149,0.3) 0%, rgba(55, 137, 149,0.1) 71%);
+        border-bottom-color: #378995!important;
+    }
+    .block_trends__item_65:hover {
+        background-color:#378995;
+    }
+        .block_trends__item_21 {
+        background: linear-gradient(29deg, rgba(80, 97, 115,0.3) 0%, rgba(80, 97, 115,0.1) 71%);
+        border-bottom-color: #506173!important;
+    }
+    .block_trends__item_21:hover {
+        background-color:#506173;
+    }
+        .block_trends__item_69 {
+        background: linear-gradient(29deg, rgba(202, 175, 133,0.3) 0%, rgba(202, 175, 133,0.1) 71%);
+        border-bottom-color: #caaf85!important;
+    }
+    .block_trends__item_69:hover {
+        background-color:#caaf85;
+    }
+        .block_trends__item_63 {
+        background: linear-gradient(29deg, rgba(39, 73, 130,0.3) 0%, rgba(39, 73, 130,0.1) 71%);
+        border-bottom-color: #274982!important;
+    }
+    .block_trends__item_63:hover {
+        background-color:#274982;
+    }
+        .block_trends__item_71 {
+        background: linear-gradient(29deg, rgba(48, 90, 110,0.3) 0%, rgba(48, 90, 110,0.1) 71%);
+        border-bottom-color: #305a6e!important;
+    }
+    .block_trends__item_71:hover {
+        background-color:#305a6e;
+    }
+    
+</style>
+
+    <footer class="footer">
+        <div class="wcont">
+            <div class="d-flex align-items-center">
+                <div class="yearold">18+</div>
+                <nav class="footer_nav">
+                    <a href="/about/" >О сайте</a>
+                    <a href="/contacts/" >Контакты</a>
+                    <a href="/agreement/" rel="nofollow">Пользовательское соглашение</a>
+                    <a href="/rights/" rel="nofollow">Правообладателям</a>
+                    <a href="/cookies/" rel="nofollow">Политика Cookies</a>
+                    <a href="/privacy/" rel="nofollow">Политика конфиденциальности</a>
+                </nav>
+            </div>
+            <div class="footer_soc_copy d-flex mt-4  align-items-center">
+                <div class="footer_social">
+                    <a href="https://www.facebook.com/prosportskazakhstan/" target="_blank" rel="nofollow">
+                        <svg xmlns='http://www.w3.org/2000/svg' width='28' height='29'><path fill-rule='evenodd' fill='#646778' d='M18 28h-.926V17.902h3.832l.638-4.278h-4.439v-2.566c0-2.42 1.125-2.479 4.47-2.272V4.861s-1.308-.058-3.467-.117c-3.104-.085-5.565 1.976-5.565 5.605v3.275H8.682v4.278h3.861V28H10C4.477 28 0 23.523 0 18v-8C0 4.477 4.477 0 10 0h8c5.523 0 10 4.477 10 10v8c0 5.523-4.477 10-10 10zm-.926.142h-4.531V28h4.531v.142z'/></svg>
+                    </a>
+                    <a href="https://twitter.com/ProsportsKz" target="_blank" rel="nofollow">
+                        <svg xmlns='http://www.w3.org/2000/svg' width='28' height='28'><path fill-rule='evenodd' fill='#646778' d='M18 28h-8C4.477 28 0 23.523 0 18v-8C0 4.477 4.477 0 10 0h8c5.523 0 10 4.477 10 10v8c0 5.523-4.477 10-10 10zm4.036-20.273c-.677.495-1.248.73-2.276.818 0 0-.028-.011-.052-.01a3.512 3.512 0 0 0-2.469-1.005c-1.933 0-3.499 1.54-3.499 3.441 0 .258.03.511.085.752l-.116.036c-.22.014-1.617.075-3.267-.592-1.786-.722-3.898-2.948-3.898-2.948s-.66 1.277-.4 2.358c.26 1.082.68 1.75 1.399 2.261-.559.02-.939-.117-1.499-.393 0 .943.72 3.066 2.899 3.44-.68.118-1.42.118-1.7.098.42.747 1.16 2.044 3.299 2.359-1.14.964-4.018 1.671-5.197 1.376 1.679 1.317 8.27 3.672 12.393-1.081 3.598-4.148 3.119-7.155 3.099-7.666 1.299-.688 1.699-1.77 1.699-1.77s-.722.315-1.982.492l-.003-.008a2.702 2.702 0 0 0 1.485-1.958z'/></svg>
+                    </a>
+                    <a href="https://vk.com/prosportskz" target="_blank" rel="nofollow">
+                        <svg xmlns='http://www.w3.org/2000/svg' width='28' height='28'><path fill-rule='evenodd' fill='#646778' d='M18 28h-8C4.477 28 0 23.523 0 18v-8C0 4.477 4.477 0 10 0h8c5.523 0 10 4.477 10 10v8c0 5.523-4.477 10-10 10zm1.309-15.725c.433-.588.65-1.34.65-2.256 0-1.351-.495-2.335-1.486-2.954-.99-.619-2.581-.929-4.773-.929H8.889v15.342h5.784c1.748 0 3.131-.391 4.149-1.175 1.019-.784 1.528-1.875 1.528-3.274 0-.987-.217-1.777-.65-2.372-.434-.594-1.14-1-2.12-1.217v-.105a2.601 2.601 0 0 0 1.729-1.06zm-5.007 6.517h-2.135v-3.999h2.03c1.833 0 2.749.637 2.749 1.91 0 .707-.215 1.232-.645 1.575-.43.342-1.096.514-1.999.514zm-.232-6.58h-1.903V8.801h1.723c.938 0 1.623.128 2.057.383.433.256.65.677.65 1.265 0 .629-.199 1.081-.598 1.354-.398.273-1.041.409-1.929.409z'/></svg>
+                    </a>
+                    <a href="https://www.instagram.com/prosports_kz/" target="_blank" rel="nofollow">
+                        <svg xmlns='http://www.w3.org/2000/svg' width='28' height='28'><path fill-rule='evenodd' fill='#646778' d='M18 28h-8C4.477 28 0 23.523 0 18v-8C0 4.477 4.477 0 10 0h8c5.523 0 10 4.477 10 10v8c0 5.523-4.477 10-10 10zM13.943 7.119c-4.061 0-7.354 3.218-7.354 7.187 0 3.97 3.293 7.188 7.354 7.188s7.354-3.218 7.354-7.188c0-3.969-3.293-7.187-7.354-7.187zm6.618-2.876c-1.218 0-2.206.966-2.206 2.157 0 1.19.988 2.156 2.206 2.156 1.219 0 2.206-.966 2.206-2.156 0-1.191-.987-2.157-2.206-2.157zm-6.688 15.15c-2.752 0-4.983-2.254-4.983-5.033 0-2.78 2.231-5.034 4.983-5.034 2.753 0 4.984 2.254 4.984 5.034 0 2.779-2.231 5.033-4.984 5.033z'/></svg>
+                    </a>
+                    <a href="https://www.youtube.com/c/PROSPORTSTV" target="_blank" rel="nofollow">
+                        <svg xmlns='http://www.w3.org/2000/svg' width='28' height='28'><path fill-rule='evenodd' fill='#646778' d='M18 28h-8C4.477 28 0 23.523 0 18v-8C0 4.477 4.477 0 10 0h8c5.523 0 10 4.477 10 10v8c0 5.523-4.477 10-10 10zM10.901 8.521v11.403l10.083-5.701-10.083-5.702z'/></svg>
+                    </a>
+                </div>
+                <div class="footer_copy">
+                    Редакция вправе не вступать в переписку с авторами, не возвращать фотографии и не рецензировать рукописи. За содержание рекламных публикаций ответственность несет рекламодатель.
+Редакция не всегда разделяет мнение авторов.
+                </div>
+                <div class="footer_apps">
+                </div>
+            </div>
+            <div class="footer_copy_logo mt-4">
+                <svg xmlns='http://www.w3.org/2000/svg' width='17' height='20'><path fill-rule='evenodd' fill='#3e404b' d='M15.884 5.341H7.637l-1.435 7.12H4.34c-1.045 0-1.747-.229-2.086-.681-.346-.462-.42-1.199-.22-2.189l.706-3.492c.189-.931.594-1.702 1.206-2.29.596-.572 1.447-.863 2.53-.863h4.51L11.582 0h5.382l-1.08 5.341zm-5.071 2.197h1.812c1.045 0 1.747.229 2.086.682.346.461.42 1.198.219 2.188l-.655 3.492c-.188.931-.594 1.702-1.205 2.29-.597.572-1.448.863-2.53.863H5.979L5.383 20H0l1.081-5.342h8.298l1.434-7.12z'/></svg>
+                &copy; 2007-2026 ТОО ИА «Казахстан Спортивный»
+            </div>
+        </div>
+    </footer>
+    <div class="hide-mobile fixed_baa"><div class="bng" id="div-gpt-ad-1720945348907-0"></div></div>
+    <div class="hide-mobile fixed_bg_bre"><div id="div-gpt-ad-1720977818855-0"></div></div>
+    <div class="show-mobile fixed-bra_mob"><div id="div-gpt-ad-1720980758215-0" class="brand_banner"></div></div>
+    <div class="show-mobile fixed_baa" id='catfish_wrapper' style="width: 100%; bottom: 0; z-index: 9; max-width: 1130px; max-height: 150px; position: fixed; height: 94px;"><div id="div-gpt-ad-1720945348907-0"></div></div>
+    
+    <div class="modal fade" id="registerModal" tabindex="-1" aria-labelledby="registerModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="registerModalLabel">Register</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="POST" onsubmit="registerUser(this);return false;">
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="recipient-name" class="col-form-label">Name:</label>
+                        <input type="text" class="form-control" id="recipient-name">
+                    </div>
+                    <div class="mb-3">
+                        <label for="recipient-login" class="col-form-label">Login:</label>
+                        <input type="text" class="form-control" id="recipient-login">
+                    </div>
+                    <div class="mb-3">
+                        <label for="recipient-email" class="col-form-label">Email:</label>
+                        <input type="email" class="form-control" id="recipient-email">
+                    </div>
+                    <div class="mb-3">
+                        <label for="recipient-password" class="col-form-label">Password:</label>
+                        <input type="password" class="form-control" id="recipient-password">
+                    </div>
+                    <div class="mb-3">
+                        <label for="recipient-confirm" class="col-form-label">Confirm Password:</label>
+                        <input type="password" class="form-control" id="recipient-confirm">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="loginModalLabel">Login</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form method="POST" onsubmit="loginUser(this);return false;">
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="recipient-login-email" class="col-form-label">Email:</label>
+                        <input type="text" class="form-control" id="recipient-login-email">
+                    </div>
+                    <div class="mb-3">
+                        <label for="recipient-login-password" class="col-form-label">Password:</label>
+                        <input type="password" class="form-control" id="recipient-login-password">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <button type="submit" class="btn btn-primary">Login</button>
+                </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    <script>
+        async function postData(url = "", data = {}) {
+            const csrfToken = document.head.querySelector("[name~=csrf-token][content]").content;
+            try {
+                const response = await fetch(url, {
+                    method: "POST",
+                    mode: "cors",
+                    cache: "no-cache",
+                    credentials: "same-origin",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "X-CSRF-TOKEN": csrfToken
+                    },
+                    redirect: "follow",
+                    referrerPolicy: "no-referrer",
+                    body: JSON.stringify(data),
+                });
+                return response;
+            } catch (error) {
+                console.error(error);
+            }
+        }
+        function registerUser(_this){
+            $('#registerModal input').removeClass('is-invalid');
+            var data = {
+                'name':$('#recipient-name').val(),
+                'login':$('#recipient-login').val(),
+                'email':$('#recipient-email').val(),
+                'password':$('#recipient-password').val(),
+                'password_confirmation':$('#recipient-confirm').val()
+            };
+            postData('/api/user/register',data).then((response) => {
+
+                if(response.ok){
+                    response.json().then((j) => {
+                        location.href = '/';
+                        console.log(j);
+                    });
+                }else{
+                    response.json().then((j) => {
+                        $.each(j, function(i,v){
+                            $('#recipient-'+i).addClass('is-invalid');
+                        });
+                    });
+                }
+            });
+        }
+        function loginUser(_this){
+            $('#loginModal input').removeClass('is-invalid');
+            var data = {
+                'email':$('#recipient-login-email').val(),
+                'password':$('#recipient-login-password').val()
+            };
+            postData('/api/user/login',data).then((response) => {
+                if(response.ok){
+                    response.json().then((j) => {
+                        location.href = '/';
+                        console.log(j);
+                    });
+                }else{
+                    $('#recipient-login-email').addClass('is-invalid');
+                    $('#recipient-login-password').addClass('is-invalid');
+                }
+            });
+        }
+        var locale = "";
+    </script>
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Prosports",
+    "url": "https://prosports.kz",
+    "logo": "https://prosports.kg/static/images/prosportskg_logo.jpg",
+    "foundingDate": "2007",
+    "address": {
+       "@type": "PostalAddress",
+       "streetAddress": "ул. Шевченко 90, БЦ КАРАТАЛ, офис 83а",
+       "addressLocality": "Алматы",
+       "postalCode": "050000",
+       "addressCountry": "KAZ"
+    },
+ "contactPoint": [{
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "telephone": "+7 (727) 344 27 84",
+    "email": "info@prosports.kz"
+    },
+    {
+    "@type": "ContactPoint",
+    "contactType": "sales",
+    "telephone": "+7 (727) 344 27 84",
+    "email": "reklama@prosports.kz"
+    },
+    {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "telephone": "+7 (727) 344 27 84",
+    "email": "buh@prosports.kz"
+    }
+ ],
+        "sameAs": [
+        "https://www.facebook.com/prosportskazakhstan/",
+        "https://twitter.com/ProsportsKz",
+        "https://vk.com/prosportskz",
+        "https://www.instagram.com/prosports_kz/"
+     ]
+    }
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "seo.url",
+  "name": "Спортивные новости Казахстана и мировые новости спорта. Спортивный сайт Казахстана. Самые свежие и актуальные новости казахстанского спорта. Мир спорта вчера, сегодня, завтра.",
+  "description": "seo.description",
+  "publisher": "prosports"
+}
+</script>
+<script type="text/javascript">
+    window.addEventListener('load', function () {
+        setTimeout(function () {
+            (function (m, e, t, r, i, k, a) {
+                m[i] = m[i] || function () {
+                    (m[i].a = m[i].a || []).push(arguments)
+                };
+                m[i].l = 1 * new Date();
+                k = e.createElement(t), k.defer = 1, a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+            })
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+            ym(40950764, "init", {
+                clickmap: true,
+                trackLinks: true,
+                accurateTrackBounce: true,
+                // webvisor:true
+            });
+        }, 1000);
+
+        setTimeout(function () {
+                googletag.cmd.push(function() {
+                    if (!window.isMobile) { // Desktop
+                        googletag.defineSlot('/282075110/main-banner32', [786, 160], 'div-gpt-ad-1720893685602-0').addService(googletag.pubads());
+                        googletag.defineSlot('/282075110/main-banner10', [1130, 150], 'div-gpt-ad-1720945348907-0').addService(googletag.pubads());
+                        googletag.defineSlot('/282075110/news-bottom', [785, 161], 'div-gpt-ad-1720976890722-0').addService(googletag.pubads());
+                        googletag.defineSlot('/282075110/news-banner7', [785, 160], 'div-gpt-ad-1720976303495-0').addService(googletag.pubads());
+                        googletag.defineSlot('/282075110/podium-video', [510, 50], 'div-gpt-ad-1738685824716-0').addService(googletag.pubads());
+                        googletag.defineSlot('/282075110/news-banner12', [785, 163], 'div-gpt-ad-1739198594858-0').addService(googletag.pubads());
+
+                        if (window.rubric == 11 ) // киберспорт
+                        {
+                            googletag.defineSlot('/282075110/cyber-brand', [3, 3], 'div-gpt-ad-1720977818855-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/cyber-podium', [510, 51], 'div-gpt-ad-1720893685604-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/cyber-main-left', [240, 403], 'div-gpt-ad-1720974736854-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/cyber-main-right', [240, 402], 'div-gpt-ad-1720973878296-0').addService(googletag.pubads());
+                        } else {
+                            googletag.defineSlot('/282075110/brand', [2, 2], 'div-gpt-ad-1720977818855-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/main-banner3', [510, 50], 'div-gpt-ad-1720893685604-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/main-left', [240, 401], 'div-gpt-ad-1720974736854-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/main-right', [[240, 400], [240, 200]], 'div-gpt-ad-1720973878296-0').addService(googletag.pubads());
+                        }
+
+                    } else {
+
+                        googletag.defineSlot('/282075110/mobile-main-banner1', [300, 101], 'div-gpt-ad-1720979650088-0').addService(googletag.pubads());
+                        googletag.defineSlot('/282075110/mobile-body2', [300, 300], 'div-gpt-ad-1720981797938-0').addService(googletag.pubads());
+                        googletag.defineSlot('/282075110/mobile-news-banner13', [300, 100], 'div-gpt-ad-1738689732690-0').addService(googletag.pubads());
+
+                        if (window.rubric == 11 ) // киберспорт
+                        {
+                            googletag.defineSlot('/282075110/main-banner8', [300, 102], 'div-gpt-ad-1720978508497-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/mobile-cyber-brand', [5, 5], 'div-gpt-ad-1720980758215-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/mobile-cyber-main-banner10', [800, 203], 'div-gpt-ad-1720945348907-0').addService(googletag.pubads());
+                        } else {
+                            googletag.defineSlot('/282075110/main-banner8', [300, 100], 'div-gpt-ad-1720978508497-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/mobile-brand', [1, 1], 'div-gpt-ad-1720980758215-0').addService(googletag.pubads());
+                            googletag.defineSlot('/282075110/mobile-main-banner10', [800, 200], 'div-gpt-ad-1720945348907-0').addService(googletag.pubads());
+                        }
+                    }
+
+                    googletag.pubads().enableSingleRequest();
+                    googletag.enableServices();
+                });
+
+                if (!window.isMobile) {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/282075110/news-banner7', [785, 160], 'div-gpt-ad-1720976303495-1725880331').addService(googletag.pubads());
+                        googletag.display('div-gpt-ad-1720976303495-1725880331');
+                    });
+
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/282075110/news-bottom', [785, 161], 'div-gpt-ad-1720976890722-1725880331').addService(googletag.pubads());
+                        googletag.display('div-gpt-ad-1720976890722-1725880331');
+                    });
+                    googletag.cmd.push(function () {
+                        googletag.display('div-gpt-ad-1720977818855-0');
+                    });
+
+                    // /282075110/podium-video
+                    googletag.cmd.push(function() {
+                        googletag.display('div-gpt-ad-1738685824716-0');
+                    });
+
+                    // /282075110/news-banner12
+                    googletag.cmd.push(function() {
+                        googletag.display('div-gpt-ad-1739198594858-0');
+                    });
+                } else {
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/282075110/mobile-news-h1', [414, 85], 'div-gpt-ad-1720982954265-1725883152').addService(googletag.pubads());
+                        googletag.display('div-gpt-ad-1720982954265-1725883152');
+                    });
+                    googletag.cmd.push(function() {
+                        googletag.defineSlot('/282075110/mobile-news-bottom', [414, 414], 'div-gpt-ad-1720983566834-1725880331').addService(googletag.pubads());
+                        googletag.display('div-gpt-ad-1720983566834-1725880331');
+                    });
+                    googletag.cmd.push(function () {
+                        googletag.display('div-gpt-ad-1720980758215-0');
+                    });
+
+                    // /282075110/mobile-news-banner13
+                    googletag.cmd.push(function() {
+                        googletag.display('div-gpt-ad-1738689732690-0');
+                    });
+                }
+
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-1720945348907-0'); });
+            }, 500);
+        });
+</script>
+<noscript>
+    <div><img src="//mc.yandex.ru/watch/40950764" style="position:absolute; left:-9999px;"
+              alt="metric-yandex"></div>
+</noscript>
+</body>
+</html>

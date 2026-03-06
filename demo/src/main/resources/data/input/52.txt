@@ -1,0 +1,1372 @@
+    <!DOCTYPE html>
+<html lang="ru">
+    <head>
+        <title>Официальный сайт хоккейного клуба «Трактор» - Челябинск</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1"/>
+
+        <meta name="apple-itunes-app" content="app-id=1471102763"/>
+
+        <meta name="google-play-app" content="app-id=ru.ticketmanager.traktor"/>
+
+        <link rel="preload" href="/local/templates/hctraktor/fonts/q-225.woff2" as="font" type="font/woff2" crossorigin/>
+        <link rel="preload" href="/local/templates/hctraktor/fonts/din_pro_condensed_bold.woff" as="font"
+              type="font/woff" crossorigin/>
+        <link rel="preload" href="/local/templates/hctraktor/fonts/bold/proxima_nova_bold.woff2" as="font"
+              type="font/woff2" crossorigin/>
+        <link rel="preload" href="/local/templates/hctraktor/fonts/regular/proxima_nova_regular.woff2" as="font"
+              type="font/woff2" crossorigin/>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Официальный сайт хоккейного клуба «Трактор» - Челябинск. Анонсы матчей, новости клуба, информация о составе, статистика игроков, календарь и результаты игр, видео-ролики, турнирные таблицы" />
+<script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
+
+
+<link href="/bitrix/js/ui/design-tokens/dist/ui.design-tokens.min.css?171678979823463" type="text/css" rel="stylesheet"/>
+<link href="/local/templates/hctraktor/css/main.css?1765519414401021" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/local/templates/hctraktor/css/p-style.css?17405569286520" type="text/css" rel="stylesheet" data-template-style="true"/>
+<link href="/bitrix/panel/main/popup.min.css?167203462620774" type="text/css" rel="stylesheet" data-template-style="true"/>
+
+
+
+
+
+
+
+</script><meta property="og:image" content="https://hctraktor.org/upload/modules/xpage.settings/d45/h7d0jt5q75zuj3w6u5sehlo2gu3pogk3.jpg"/>
+<meta property="vk:image" content="https://hctraktor.org/upload/modules/xpage.settings/d45/h7d0jt5q75zuj3w6u5sehlo2gu3pogk3.jpg"/>
+<meta property="twitter:image" content="https://hctraktor.org/upload/modules/xpage.settings/d45/h7d0jt5q75zuj3w6u5sehlo2gu3pogk3.jpg"/>
+<meta property="og:image:width" content="760"/>
+<meta property="og:image:height" content="275"/>
+<meta property="og:site_name" content="hctraktor.org" />
+<meta property="og:title" content="Официальный сайт хоккейного клуба «Трактор» - Челябинск | ХК «Трактор»"/>
+<meta property="og:description" content="Официальный сайт хоккейного клуба «Трактор» - Челябинск. Анонсы матчей, новости клуба, информация о составе, статистика игроков, календарь и результаты игр, видео-ролики, турнирные таблицы" />
+<meta property="og:url" content="https://hctraktor.org/" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="ru_RU" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="format-detection" content="telephone=no">
+
+
+
+                        <!-- Top.Mail.Ru counter -->
+<script type="text/javascript" data-skip-moving="true">
+    var _tmr = window._tmr || (window._tmr = []);
+    _tmr.push({id: "3681757", type: "pageView", start: (new Date()).getTime()});
+    (function (d, w, id) {
+        if (d.getElementById(id)) return;
+        var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+        ts.src = "https://top-fwz1.mail.ru/js/code.js";
+        var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+        if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+    })(document, window, "tmr-code");
+</script>
+<noscript><div><img src="https://top-fwz1.mail.ru/counter?id=3681757;js=na" style="position:absolute;left:-9999px;" alt="Top.Mail.Ru" /></div></noscript>
+<!-- /Top.Mail.Ru counter -->                <link rel="apple-touch-icon" sizes="180x180" href="/local/templates/hctraktor/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/local/templates/hctraktor/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/local/templates/hctraktor/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon.ico">
+        <meta name="msapplication-TileColor" content="#000000">
+        <meta name="theme-color" content="#000000">
+                    </head>
+<body class="main loading   ">
+    <!-- 19.02.2026 02:59:01 -->
+
+    <div id="n_menu_bl" class="s_khl_menu_n_menu_bl"></div>
+            <div class="popup-search-cont">
+        <div class="popup-search" id="title-search">
+            <div class="popup-search__close"></div>
+            <form action="/search/index.php">
+                <div class="popup-search__input">
+                    <input type="search" placeholder="Поиск по сайту" id="title-search-input" name="q" value="" size="40" maxlength="50" autocomplete="off"/>
+                    <input name="s" type="submit" value="Поиск"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <header class="head">
+        <div class="wrapper">
+            <div class="head__wrap">
+                                                        <nav class="head__menu">
+        <ul class="h-menu">
+                                <li><a  href="/media/news/" class="h-menu__link">Новости</a></li>
+                                                <li><a  href="/championship/" class="h-menu__link">Чемпионат</a></li>
+                                                <li><a  href="/team/players/" class="h-menu__link">Команда</a></li>
+                                                <li><a  href="/media/" class="h-menu__link">Медиа</a></li>
+                                                <li><a  href="/club/management/" class="h-menu__link">Клуб</a></li>
+                                                <li><a  href="/club/history/traktor/" class="h-menu__link">История</a></li>
+                                                <li><a target="_blank" rel="nofollow noopener" href="https://store.hctraktor.org/" class="h-menu__link">Магазин</a></li>
+                                                <li><a target="_blank" rel="nofollow noopener" href="https://bit.ly/3BFJ2Pc" class="h-menu__link h-menu__link--partner">Winline</a></li>
+                                        <!--'start_frame_cache_lang_dynamic'-->            <li>
+                                                            <a class="h-menu__link" href="https://en.hctraktor.org/">En</a>
+                                                </li>
+            <!--'end_frame_cache_lang_dynamic'-->        </ul>
+    </nav>
+                    <div class="head__center-btns">
+                        <div class="head__lc test">
+                            <a class="lc-link"
+                               href="https://my.hctraktor.org/loyalty/">
+                                <span>Личный кабинет</span>
+                            </a>
+                        </div>
+                        <div class="head__search">
+                            <a class="search-link" href="/search/"></a>
+                        </div>
+                    </div>
+                                <div class="head__right-btns">
+                    <div class="head__btn">
+    <a class="default-btn default-btn--colored"
+       href="https://my.hctraktor.org/tickets/">
+        <span class="default-btn__text">Билеты</span>
+    </a>
+</div>
+                                    </div>
+            </div>
+        </div>
+    </header>
+    <div class="popup-menu__container">
+        <div class="popup-menu">
+            <div class="popup-menu__links">
+                <div class="popup-menu__links-link">
+                    <a href="https://my.hctraktor.org/" class="lc-link"></a>
+                </div>
+                <div class="popup-menu__links-link">
+                    <a class="search-link" href="/search/"></a>
+                </div>
+            </div>
+            <nav class="popup-menu__menu popup-menu__menu--main">
+                <ul class="p-menu">
+        		<li class="p-menu__item"><a target="_blank" rel="nofollow noopener" href="https://my.hctraktor.org/" class="p-menu__link">Личный кабинет</a></li>
+                		<li class="p-menu__item"><a  href="/media/news/" class="p-menu__link">Новости</a></li>
+                		<li class="p-menu__item"><a  href="/contacts/" class="p-menu__link">Контакты</a></li>
+                		<li class="p-menu__item"><a  href="/arena/" class="p-menu__link">Об арене</a></li>
+                		<li class="p-menu__item"><a target="_blank" rel="nofollow noopener" href="https://store.hctraktor.org/" class="p-menu__link">Магазин</a></li>
+                    <li class="p-menu__item">
+                                                <a class="p-menu__link" href="https://en.hctraktor.org/">En</a>
+                                    </li>
+    </ul>
+            </nav>
+                        <nav class="popup-menu__menu">
+                <ul class="p-menu">
+                    <li class="p-menu__item">
+                        <a href="/tickets/" class="p-menu__link">Билеты</a>
+                        <ul class="p-menu__submenu">
+                            <li class="p-menu__submenu-back">Назад</li>
+                            <!-- <li hidden class="p-menu--mobile">
+                                <a href="/tickets/" class="p-menu__submenu-link">Билеты</a>
+
+                            </li> -->
+    		                <li>
+                                            <a href="/ticket-refund-policy/" class="p-menu__submenu-link">Правила возврата билетов</a>
+                                    </li>
+                                <li>
+                                            <a href="/rules-of-conduct-in-the-arena/" class="p-menu__submenu-link">Правила поведения на арене</a>
+                                    </li>
+                                <li>
+                                            <a href="/tickets/corporate-tickets/" class="p-menu__submenu-link">Корпоративные билеты</a>
+                                    </li>
+                                <li>
+                                            <a href="/tickets/away-matches/" class="p-menu__submenu-link">Выездные матчи</a>
+                                    </li>
+                                <li>
+                                            <a href="/tickets/lodge/" class="p-menu__submenu-link">Ложи</a>
+                                    </li>
+                                <li>
+                                            <a href="/tickets/restaurant/" class="p-menu__submenu-link">Ресторан</a>
+                                    </li>
+                                <li>
+                                            <a href="/venue/" class="p-menu__submenu-link">Трансляции в городе</a>
+                                    </li>
+                </ul></li></ul></nav>            <nav class="popup-menu__menu">
+                <ul class="p-menu">
+                    <li class="p-menu__item">
+                        <a href="/championship/" class="p-menu__link">Чемпионат</a>
+                        <ul class="p-menu__submenu">
+                            <li class="p-menu__submenu-back">Назад</li>
+                            <!-- <li hidden class="p-menu--mobile">
+                                <a href="/championship/" class="p-menu__submenu-link">Чемпионат</a>
+
+                            </li> -->
+    		                <li>
+                                            <a href="/championship/khl/#calendar" class="p-menu__submenu-link">Календарь</a>
+                                    </li>
+                                <li>
+                                            <a href="/championship/khl/#table" class="p-menu__submenu-link">Турнирная таблица</a>
+                                    </li>
+                                <li>
+                                            <a href="/championship/khl/#matches" class="p-menu__submenu-link">Матчи</a>
+                                    </li>
+                </ul></li></ul></nav>            <nav class="popup-menu__menu">
+                <ul class="p-menu">
+                    <li class="p-menu__item">
+                        <a href="/team/" class="p-menu__link">Команда</a>
+                        <ul class="p-menu__submenu">
+                            <li class="p-menu__submenu-back">Назад</li>
+                            <!-- <li hidden class="p-menu--mobile">
+                                <a href="/team/" class="p-menu__submenu-link">Команда</a>
+
+                            </li> -->
+    		                <li>
+                                            <a href="/team/players/" class="p-menu__submenu-link">Игроки</a>
+                                    </li>
+                                <li>
+                                            <a href="/team/players/stat/" class="p-menu__submenu-link">Статистика игроков</a>
+                                    </li>
+                                <li>
+                                            <a href="/team/coaches/" class="p-menu__submenu-link">Тренеры</a>
+                                    </li>
+                                <li>
+                                            <a href="/team/staff/" class="p-menu__submenu-link">Персонал</a>
+                                    </li>
+                </ul></li></ul></nav>            <nav class="popup-menu__menu">
+                <ul class="p-menu">
+                    <li class="p-menu__item">
+                        <a href="/media/" class="p-menu__link">Медиа</a>
+                        <ul class="p-menu__submenu">
+                            <li class="p-menu__submenu-back">Назад</li>
+                            <!-- <li hidden class="p-menu--mobile">
+                                <a href="/media/" class="p-menu__submenu-link">Медиа</a>
+
+                            </li> -->
+    		                <li>
+                                            <a href="/media/tv/" class="p-menu__submenu-link">Трактор TV</a>
+                                    </li>
+                                <li>
+                                            <a href="/media/photos/" class="p-menu__submenu-link">Фотогалерея</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/school/news/" class="p-menu__submenu-link">Новости школы</a>
+                                    </li>
+                                <li>
+                                            <a href="/media/match-program/" class="p-menu__submenu-link">Официальные программы матчей</a>
+                                    </li>
+                </ul></li></ul></nav>            <nav class="popup-menu__menu">
+                <ul class="p-menu">
+                    <li class="p-menu__item">
+                        <a href="/club/" class="p-menu__link">Клуб</a>
+                        <ul class="p-menu__submenu">
+                            <li class="p-menu__submenu-back">Назад</li>
+                            <!-- <li hidden class="p-menu--mobile">
+                                <a href="/club/" class="p-menu__submenu-link">Клуб</a>
+
+                            </li> -->
+    		                <li>
+                                            <a href="/club/management/" class="p-menu__submenu-link">Руководство</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/museum/" class="p-menu__submenu-link">Музей</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/school/" class="p-menu__submenu-link">Школа</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/school/news/" class="p-menu__submenu-link">Новости школы</a>
+                                    </li>
+                </ul></li></ul></nav>            <nav class="popup-menu__menu">
+                <ul class="p-menu">
+                    <li class="p-menu__item">
+                        <a href="/club/history/" class="p-menu__link">История</a>
+                        <ul class="p-menu__submenu">
+                            <li class="p-menu__submenu-back">Назад</li>
+                            <!-- <li hidden class="p-menu--mobile">
+                                <a href="/club/history/" class="p-menu__submenu-link">История</a>
+
+                            </li> -->
+    		                <li>
+                                            <a href="/club/history/25best/" class="p-menu__submenu-link">25 лучших игроков и тренеров в истории клуба</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/history/traktor/" class="p-menu__submenu-link">История Трактора</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/history/players/" class="p-menu__submenu-link">Все игроки</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/history/coaches/" class="p-menu__submenu-link">Все главные тренеры</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/history/belousov-club/" class="p-menu__submenu-link">Клуб Валерия Белоусова</a>
+                                    </li>
+                                <li>
+                                            <a href="/club/history/shumakov-club/" class="p-menu__submenu-link">Клуб Юрия Шумакова</a>
+                                    </li>
+                </ul></li></ul></nav>                <div class="popup-menu__sponsors">
+        <div class="sponsors">
+            <div class="sponsors__label">Спонсоры и партнеры <br>ХК Трактор:</div>
+            <div class="sponsors__list">
+                <div class="s-list">
+                                                                                <a id="bx_651765591_" class="s-list__item" target="_blank" rel="nofollow noopener" href="https://rmk-group.ru/">
+                                    <img loading="lazy" src="/upload/iblock/73d/73d920fbe670da64f2e8ca7a8757b84e.svg" alt="РМК"/>
+                                </a>
+                                                                                                                                    <a id="bx_651765591_" class="s-list__item" target="_blank" rel="nofollow noopener" href="https://bit.ly/3f2uWji">
+                                    <img loading="lazy" src="/upload/iblock/94d/4otznetlpeonw0sk40vp44z0plk1mhiq.svg" alt="Винлайн"/>
+                                </a>
+                                                                                                                                    <a id="bx_651765591_" class="s-list__item" target="_blank" rel="nofollow noopener" href="https://www.tmk-group.ru/">
+                                    <img loading="lazy" src="/upload/iblock/b28/ch5jifkj749v8knhzkytf7tton8hs8sb.svg" alt="ТМК"/>
+                                </a>
+                                                                                                                                                                                                                    <a id="bx_651765591_" class="s-list__item" target="_blank" rel="nofollow noopener" href="https://konar.ru/">
+                                    <img loading="lazy" src="/upload/iblock/00b/00b6e669b05fd8a01b3890fe893df02a.svg" alt="КОНАР"/>
+                                </a>
+                                                                                                                                    <a id="bx_651765591_" class="s-list__item" target="_blank" rel="nofollow noopener" href="https://bovid.ru">
+                                    <img loading="lazy" src="/upload/iblock/113/113146a703be070d88dbf34c1286c211.svg" alt="Бовид"/>
+                                </a>
+                                                                                                                                    <a id="bx_651765591_" class="s-list__item" target="_blank" rel="nofollow noopener" href="https://gk-ikar.com/?utm_source=traktor&utm_medium=event&utm_campaign=ikar+trartor&utm_content=25-26_season">
+                                    <img loading="lazy" src="/upload/iblock/aca/wzsaznqvetls1486os5glvzevccrc97w.png" alt="Икар"/>
+                                </a>
+                                                                                        </div>
+            </div>
+        </div>
+    </div>
+            <div class="popup-menu__soc popup-menu__soc--mobile">
+                <!--'start_frame_cache_3JiYAU'-->	<div class="soc">
+        				<a class="soc__link" href="https://t.me/za_TRAKTOR" target="_blank" rel="nofollow noopener">
+					<svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M17.4493 1.21879L14.8087 11.1813C14.6095 11.8844 14.0899 12.0594 13.3517 11.7282L9.32822 9.35629L7.38682 10.85C7.17197 11.0219 6.99228 11.1657 6.57822 11.1657L6.86728 7.88754L14.3243 2.49692C14.6485 2.26567 14.254 2.13754 13.8204 2.36879L4.60166 7.01254L0.632907 6.01879C-0.230374 5.80317 -0.245999 5.32817 0.812595 4.99692L16.336 0.212543C17.0548 -0.00308189 17.6837 0.340668 17.4493 1.21879Z" fill="white"/>
+        </svg>				</a>
+            				<a class="soc__link" href="https://vk.com/traktor_chelyabinsk" target="_blank" rel="nofollow noopener">
+					<svg width="16" height="11" viewBox="0 0 16 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5293 1.33203C15.4707 1.625 15.2363 2.12305 14.8262 2.79688C14.5332 3.29492 14.1816 3.85156 13.7715 4.49609C13.4199 5.02344 13.2148 5.28711 13.2148 5.28711C13.0977 5.46289 13.0391 5.60938 13.0391 5.69727C13.0391 5.81445 13.0977 5.93164 13.2148 6.04883L13.4785 6.3418C14.8848 7.80664 15.6758 8.80273 15.8516 9.33008C15.9102 9.56445 15.8809 9.76953 15.7637 9.88672C15.6465 10.0039 15.5 10.0625 15.2656 10.0625H13.5371C13.3027 10.0625 13.127 10.0039 12.9512 9.85742C12.834 9.79883 12.5996 9.59375 12.3066 9.24219C12.0137 8.89062 11.75 8.59766 11.5156 8.36328C10.7246 7.63086 10.1387 7.25 9.78711 7.25C9.61133 7.25 9.49414 7.2793 9.43555 7.33789C9.37695 7.39648 9.34766 7.54297 9.34766 7.71875C9.31836 7.86523 9.31836 8.1582 9.31836 8.62695V9.38867C9.31836 9.62305 9.25977 9.79883 9.14258 9.88672C8.9668 10.0039 8.61523 10.0625 8.08789 10.0625C7.15039 10.0625 6.24219 9.79883 5.30469 9.24219C4.36719 8.71484 3.54688 7.92383 2.84375 6.89844C2.16992 6.01953 1.61328 5.11133 1.17383 4.17383C0.822266 3.4707 0.529297 2.82617 0.324219 2.21094C0.177734 1.74219 0.119141 1.39062 0.119141 1.18555C0.119141 0.863281 0.294922 0.6875 0.705078 0.6875H2.43359C2.63867 0.6875 2.78516 0.746094 2.90234 0.833984C3.01953 0.951172 3.10742 1.12695 3.19531 1.36133C3.45898 2.15234 3.78125 2.91406 4.19141 3.64648C4.54297 4.34961 4.89453 4.90625 5.24609 5.31641C5.59766 5.75586 5.86133 5.96094 6.06641 5.96094C6.18359 5.96094 6.24219 5.93164 6.30078 5.84375C6.35938 5.75586 6.38867 5.58008 6.38867 5.31641V2.76758C6.35938 2.47461 6.30078 2.18164 6.18359 1.94727C6.125 1.83008 6.00781 1.68359 5.89062 1.50781C5.74414 1.33203 5.68555 1.21484 5.68555 1.09766C5.68555 0.980469 5.71484 0.892578 5.80273 0.804688C5.89062 0.746094 6.00781 0.6875 6.125 0.6875H8.84961C9.02539 0.6875 9.14258 0.746094 9.20117 0.833984C9.25977 0.951172 9.31836 1.09766 9.31836 1.33203V4.73047C9.31836 4.90625 9.34766 5.05273 9.40625 5.11133C9.46484 5.19922 9.52344 5.22852 9.61133 5.22852C9.69922 5.22852 9.81641 5.19922 9.93359 5.14062C10.0508 5.08203 10.1973 4.93555 10.4023 4.70117C10.7539 4.29102 11.1348 3.79297 11.5156 3.17773C11.75 2.76758 12.0137 2.29883 12.248 1.77148L12.541 1.18555C12.6582 0.863281 12.9219 0.6875 13.2734 0.6875H15.002C15.4707 0.6875 15.6465 0.921875 15.5293 1.33203Z" fill="white"/>
+        </svg>				</a>
+            				<a class="soc__link" href="https://www.youtube.com/@hc_traktor" target="_blank" rel="nofollow noopener">
+					<svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.6758 2.05786C15.793 2.5852 15.9102 3.40552 15.9688 4.4602L15.998 5.92505L15.9688 7.38989C15.9102 8.50317 15.793 9.29419 15.6758 9.82153C15.5586 10.1731 15.3828 10.4661 15.1484 10.7004C14.8848 10.9641 14.5918 11.1399 14.2402 11.2278C13.7129 11.3743 12.541 11.4622 10.666 11.5208L8 11.55L5.33398 11.5208C3.45898 11.4622 2.25781 11.3743 1.75977 11.2278C1.4082 11.1399 1.08594 10.9641 0.851562 10.7004C0.587891 10.4661 0.412109 10.1731 0.324219 9.82153C0.177734 9.29419 0.0898438 8.50317 0.03125 7.38989L0.00195312 5.92505C0.00195312 5.51489 0.00195312 5.01684 0.03125 4.4602C0.0898438 3.40552 0.177734 2.5852 0.324219 2.05786C0.412109 1.7063 0.587891 1.41333 0.851562 1.14966C1.08594 0.915283 1.4082 0.739502 1.75977 0.622314C2.25781 0.505127 3.45898 0.387939 5.33398 0.329346L8 0.300049L10.666 0.329346C12.541 0.387939 13.7129 0.505127 14.2402 0.622314C14.5918 0.739502 14.8848 0.915283 15.1484 1.14966C15.3828 1.41333 15.5586 1.7063 15.6758 2.05786ZM6.35938 8.32739L10.5488 5.92505L6.35938 3.552V8.32739Z" fill="white"/>
+        </svg>				</a>
+            	</div>
+<!--'end_frame_cache_3JiYAU'-->            </div>
+            <div class="popup-menu__supports">
+                <div class="sponsors">
+    <div class="sponsors__label">При поддержке:</div>
+    <div class="sponsors__list">
+        <div class="s-list">
+                                        <a id="bx_1373509569_33935" class="s-list__item" href="https://gubernator74.ru" target="_blank" rel="nofollow noopener">
+                <img loading="lazy" src="/upload/iblock/a07/a0778880f99cfd24e1915e75390d9df1.svg" alt="Губернатор Челябинской области" />
+            </a>
+                                                    <a id="bx_1373509569_76600" class="s-list__item" href="https://fondsporta74.ru/" target="_blank" rel="nofollow noopener">
+                <img loading="lazy" src="/upload/iblock/c5f/hnc6jzb8kpm9769xus5lehvp527cy8mx.svg" alt="Фонд Поддержки спорта" />
+            </a>
+                                                    <a id="bx_1373509569_33934" class="s-list__item" href="https://cheladmin.ru" target="_blank" rel="nofollow noopener">
+                <img loading="lazy" src="/upload/iblock/dae/dae7918dfe00aefd8938a364bb1266cf.svg" alt="Администрация города Челябинска" />
+            </a>
+                                </div>
+    </div>
+</div>
+            </div>
+                            <div class="popup-menu__clubs popup-menu__clubs--mobile">
+                    <div class="clubs">
+                        <div class="clubs__links">
+                                                            <a class="clubs__link" href="/belye-medvedi/">
+                                    <img src="/local/templates/hctraktor/img/photos/club-1.svg" alt="Белые Медведи"/>
+                                </a>
+                                <a class="clubs__link" href="/chelmet/">
+                                    <img src="/local/templates/hctraktor/img/photos/club-2.svg" alt="Челмет"/>
+                                </a>
+                                <a class="clubs__link" href="/belye-medvedicy/">
+                                    <img src="/local/templates/hctraktor/img/belye-medvedicy.svg" alt="Белые Медведицы"/>
+                                </a>
+                                <a class="clubs__link" href="/3x3/">
+                                    <img src="/local/templates/hctraktor/img/3x3_mob.svg" alt="3x3"/>
+                                </a>
+                                <a class="clubs__link-partner" href="https://p.winline.ru/s/F6VU4wq2cJ?statid=4866_freebet3000&sub=freebet3000&sub2=logos" target="_blank">
+                                    <img src="/local/templates/hctraktor/img/partner_new_small_with_border.png" alt="Winline"/>
+                                </a>
+                                                                                                                <a class="clubs__link"
+                               href="https://chel.kassir.ru/frame/entry/index?key=a8f9aa1a-b60d-d60d-b9f0-5e417adfcd94&type=A&id=5440287"
+                               onclick="return window.kassirWidget.summon()">
+                                <img src="/local/templates/hctraktor/img/logo-stars.svg" alt="allstar"/>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                    </div>
+    </div>
+
+<main id="content">
+    <aside class="main-aside">
+                    <a class="main-aside__logo" href="/">
+                <img src="/local/templates/hctraktor/img/logo.svg?v3" alt="logo"/>
+            </a>
+            <a class="main-aside__partner-mobile" href="https://p.winline.ru/s/F6VU4wq2cJ?statid=4866_freebet3000&sub=freebet3000&sub2=logos" target="_black" ><img
+                        src="/local/templates/hctraktor/img/partner_new_small_with_border.png" alt="Winline"/>
+            </a>
+                            <div class="main-aside__clubs">
+                                    <a class="main-aside__clubs-link" href="/chelmet/">
+                        <img src="/local/templates/hctraktor/img/club-chelmet.svg" alt="Челмет"/>
+                    </a>
+                    <a class="main-aside__clubs-link" href="/belye-medvedi/">
+                        <img src="/local/templates/hctraktor/img/photos/club-1.svg" alt="Белые Медведи"/>
+                    </a>
+                    <a class="main-aside__clubs-link" href="/belye-medvedicy/">
+                        <img src="/local/templates/hctraktor/img/belye-medvedicy.svg" alt="Белые Медведицы"/>
+                    </a>
+                    <a class="main-aside__clubs-link" href="/3x3/">
+                        <img src="/local/templates/hctraktor/img/photos/3x3_4.svg" alt="Матч 3 на 3"/>
+                    </a>
+                    <a class="main-aside__clubs-partner" href="https://p.winline.ru/s/F6VU4wq2cJ?statid=4866_freebet3000&sub=freebet3000&sub2=logos" target="_blank">
+                        <img src="/local/templates/hctraktor/img/partner_new_small_with_border.png" alt="Winline" style="max-width: 60px;"/>
+                    </a>
+                                                                                                <a class="main-aside__clubs-link"
+                   href="https://chel.kassir.ru/frame/entry/index?key=a8f9aa1a-b60d-d60d-b9f0-5e417adfcd94&type=A&id=5440287"
+                   onclick="return window.kassirWidget.summon()">
+                    <img src="/local/templates/hctraktor/img/logo-stars.svg" alt="allstar"/>
+                </a>
+            </div>
+            <div class="main-aside__btn">
+    <a class="default-btn default-btn--colored"
+       href="https://my.hctraktor.org/tickets/">
+        <span class="default-btn__text">Билеты</span>
+    </a>
+</div>
+                            <div class="main-aside__burger">
+            <div class="burger"><span></span></div>
+            <div class="main-aside__burger-text">Меню</div>
+        </div>
+        <div class="main-aside__soc">
+            <!--'start_frame_cache_BE84XA'-->	<div class="soc">
+        				<a class="soc__link" href="https://t.me/za_TRAKTOR" target="_blank" rel="nofollow noopener">
+					<svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M17.4493 1.21879L14.8087 11.1813C14.6095 11.8844 14.0899 12.0594 13.3517 11.7282L9.32822 9.35629L7.38682 10.85C7.17197 11.0219 6.99228 11.1657 6.57822 11.1657L6.86728 7.88754L14.3243 2.49692C14.6485 2.26567 14.254 2.13754 13.8204 2.36879L4.60166 7.01254L0.632907 6.01879C-0.230374 5.80317 -0.245999 5.32817 0.812595 4.99692L16.336 0.212543C17.0548 -0.00308189 17.6837 0.340668 17.4493 1.21879Z" fill="white"/>
+        </svg>				</a>
+            				<a class="soc__link" href="https://vk.com/traktor_chelyabinsk" target="_blank" rel="nofollow noopener">
+					<svg width="16" height="11" viewBox="0 0 16 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5293 1.33203C15.4707 1.625 15.2363 2.12305 14.8262 2.79688C14.5332 3.29492 14.1816 3.85156 13.7715 4.49609C13.4199 5.02344 13.2148 5.28711 13.2148 5.28711C13.0977 5.46289 13.0391 5.60938 13.0391 5.69727C13.0391 5.81445 13.0977 5.93164 13.2148 6.04883L13.4785 6.3418C14.8848 7.80664 15.6758 8.80273 15.8516 9.33008C15.9102 9.56445 15.8809 9.76953 15.7637 9.88672C15.6465 10.0039 15.5 10.0625 15.2656 10.0625H13.5371C13.3027 10.0625 13.127 10.0039 12.9512 9.85742C12.834 9.79883 12.5996 9.59375 12.3066 9.24219C12.0137 8.89062 11.75 8.59766 11.5156 8.36328C10.7246 7.63086 10.1387 7.25 9.78711 7.25C9.61133 7.25 9.49414 7.2793 9.43555 7.33789C9.37695 7.39648 9.34766 7.54297 9.34766 7.71875C9.31836 7.86523 9.31836 8.1582 9.31836 8.62695V9.38867C9.31836 9.62305 9.25977 9.79883 9.14258 9.88672C8.9668 10.0039 8.61523 10.0625 8.08789 10.0625C7.15039 10.0625 6.24219 9.79883 5.30469 9.24219C4.36719 8.71484 3.54688 7.92383 2.84375 6.89844C2.16992 6.01953 1.61328 5.11133 1.17383 4.17383C0.822266 3.4707 0.529297 2.82617 0.324219 2.21094C0.177734 1.74219 0.119141 1.39062 0.119141 1.18555C0.119141 0.863281 0.294922 0.6875 0.705078 0.6875H2.43359C2.63867 0.6875 2.78516 0.746094 2.90234 0.833984C3.01953 0.951172 3.10742 1.12695 3.19531 1.36133C3.45898 2.15234 3.78125 2.91406 4.19141 3.64648C4.54297 4.34961 4.89453 4.90625 5.24609 5.31641C5.59766 5.75586 5.86133 5.96094 6.06641 5.96094C6.18359 5.96094 6.24219 5.93164 6.30078 5.84375C6.35938 5.75586 6.38867 5.58008 6.38867 5.31641V2.76758C6.35938 2.47461 6.30078 2.18164 6.18359 1.94727C6.125 1.83008 6.00781 1.68359 5.89062 1.50781C5.74414 1.33203 5.68555 1.21484 5.68555 1.09766C5.68555 0.980469 5.71484 0.892578 5.80273 0.804688C5.89062 0.746094 6.00781 0.6875 6.125 0.6875H8.84961C9.02539 0.6875 9.14258 0.746094 9.20117 0.833984C9.25977 0.951172 9.31836 1.09766 9.31836 1.33203V4.73047C9.31836 4.90625 9.34766 5.05273 9.40625 5.11133C9.46484 5.19922 9.52344 5.22852 9.61133 5.22852C9.69922 5.22852 9.81641 5.19922 9.93359 5.14062C10.0508 5.08203 10.1973 4.93555 10.4023 4.70117C10.7539 4.29102 11.1348 3.79297 11.5156 3.17773C11.75 2.76758 12.0137 2.29883 12.248 1.77148L12.541 1.18555C12.6582 0.863281 12.9219 0.6875 13.2734 0.6875H15.002C15.4707 0.6875 15.6465 0.921875 15.5293 1.33203Z" fill="white"/>
+        </svg>				</a>
+            				<a class="soc__link" href="https://www.youtube.com/@hc_traktor" target="_blank" rel="nofollow noopener">
+					<svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.6758 2.05786C15.793 2.5852 15.9102 3.40552 15.9688 4.4602L15.998 5.92505L15.9688 7.38989C15.9102 8.50317 15.793 9.29419 15.6758 9.82153C15.5586 10.1731 15.3828 10.4661 15.1484 10.7004C14.8848 10.9641 14.5918 11.1399 14.2402 11.2278C13.7129 11.3743 12.541 11.4622 10.666 11.5208L8 11.55L5.33398 11.5208C3.45898 11.4622 2.25781 11.3743 1.75977 11.2278C1.4082 11.1399 1.08594 10.9641 0.851562 10.7004C0.587891 10.4661 0.412109 10.1731 0.324219 9.82153C0.177734 9.29419 0.0898438 8.50317 0.03125 7.38989L0.00195312 5.92505C0.00195312 5.51489 0.00195312 5.01684 0.03125 4.4602C0.0898438 3.40552 0.177734 2.5852 0.324219 2.05786C0.412109 1.7063 0.587891 1.41333 0.851562 1.14966C1.08594 0.915283 1.4082 0.739502 1.75977 0.622314C2.25781 0.505127 3.45898 0.387939 5.33398 0.329346L8 0.300049L10.666 0.329346C12.541 0.387939 13.7129 0.505127 14.2402 0.622314C14.5918 0.739502 14.8848 0.915283 15.1484 1.14966C15.3828 1.41333 15.5586 1.7063 15.6758 2.05786ZM6.35938 8.32739L10.5488 5.92505L6.35938 3.552V8.32739Z" fill="white"/>
+        </svg>				</a>
+            	</div>
+<!--'end_frame_cache_BE84XA'-->        </div>
+    </aside>
+        <section class="first-screen">
+
+    <div class="main-slider">
+        <div class="swiper-wrapper">
+            															<div class="swiper-slide white_dots">
+																								<a class="main-slider__link" href="https://hctraktor.org/media/news/83030-kalendar-regulyarnogo-chempionata-2025-26/" target="_blank" rel="nofollow noopener">
+										<picture class="main-slider__img">
+											<source media="(min-width: 667px)"
+													srcset="/upload/resize_cache/iblock/b9a/1920_1920_1/qvomyqhezrc2g5c9xwzvl8e6d7p9bedr.png">
+											<source media="(max-width: 667px)"
+													srcset="/upload/resize_cache/iblock/72a/600_600_1/faqck8r9k9rbnrkiw01jl6sdkbrbu8sh.png">
+											<img>
+										</picture>
+									</a>
+																					</div>
+									        </div>
+        <div class="main-slider__dots">
+            <div class="wrapper">
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <div class="wrapper">
+
+
+
+<div class="main-news">
+	
+<div class="main-news__news">
+    <div class="main-news__top">
+        <div class="main-news__title">Новости о клубе</div>
+        <a class="main-news__all" href="/media/news/">Все новости</a>
+    </div>
+    <div class="main-news__list">
+        <div class="swiper-list">
+            <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88962-vse-vmeste-vyberemsya-iz-etoy-situatsii-i-vsye-naladim-v-blizhayshikh-igrakh-i-evgeniy-koreshkov/">
+                            <div class="main-news__item-title">«Все вместе выберемся из этой ситуации и всё наладим в ближайших играх» I Евгений Корешков</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88960-25-26-traktor-vs-salavat-yulaev-0-6/">
+                            <div class="main-news__item-title">25/26. «Трактор» vs «Салават Юлаев» — 0:6</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88955-25-26-traktor-vs-salavat-yulaev-sostav-na-igru/">
+                            <div class="main-news__item-title">25/26. «Трактор» vs «Салават Юлаев» | Состав на игру</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88928-25-26-traktor-vs-salavat-yulaev/">
+                            <div class="main-news__item-title">25/26. «Трактор» vs «Салават Юлаев»</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88931-nadeyus-zavtra-tribuny-pomogut-nam-i-pogonyat-nas-vpered-i-maksim-dzhioshvili/">
+                            <div class="main-news__item-title">«Надеюсь, завтра трибуны помогут нам и погонят нас вперед» I Максим Джиошвили</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88927-magiya-vozvrashchaetsya-blagodarya-winline/">
+                            <div class="main-news__item-title">Магия возвращается благодаря WINLINE!</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88900-doletim-do-doma-vosstanovimsya-razberyem-igru-i-budem-dvigatsya-vperyed-i-evgeniy-koreshkov-/">
+                            <div class="main-news__item-title">«Долетим до дома, восстановимся, разберём игру — и будем двигаться вперёд» I Евгений Корешков </div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88897-andrey-nikonov-200-matchey-v-kkhl/">
+                            <div class="main-news__item-title">Андрей Никонов — 200 матчей в КХЛ</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88895-25-26-avangard-vs-traktor-6-2/">
+                            <div class="main-news__item-title">25/26. «Авангард» vs «Трактор» — 6:2</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88891-25-26-avangard-vs-traktor-sostav-na-igru/">
+                            <div class="main-news__item-title">25/26. «Авангард» vs «Трактор» | Состав на игру</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88885-25-26-avangard-vs-traktor/">
+                            <div class="main-news__item-title">25/26. «Авангард» vs «Трактор»</div>
+                                                    </a>
+                    </div>
+                                    <div class="swiper-slide">
+                        <a class="main-news__item" href="/media/news/88873-den-rozhdeniya-vladimira-shabunina-i-maksima-yakutseni/">
+                            <div class="main-news__item-title">Дни рождения Владимира Шабунина и Максима Якуцени</div>
+                                                    </a>
+                    </div>
+                            </div>
+        </div>
+        <div class="main-news__arrow">
+            <div class="swiper-button swiper-button-prev"></div>
+            <div class="swiper-button swiper-button-next"></div>
+        </div>
+    </div>
+</div>    <div class="main-news__subscribe">
+	    <form action="" id="subscribe-form" data-submit-text="Вы оформили подписку">
+    <div class="subscribe">
+                    <div class="subscribe__label">Узнавайте новости первыми!</div>
+                <div class="subscribe__input">
+            <div class="subscribe__input-input">
+                <input type="email" name="email" required pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{1,63}$" placeholder="Ваш email"/>
+                <input type="submit" value="Подписаться"/>
+            </div>
+            <div class="subscribe__input-text">Нажимая кнопку « → », я <a href = '/upload/Privacy-policy.pdf' target='_blank'> даю согласие </a> на получение рекламно-информационных рассылок</div>
+        </div>
+    </div>
+</form>    </div>
+</div>
+
+    <div class="main-banner">
+        <a class="main-banner__link desktop-block" target="_blank" rel="nofollow noopener" href="https://hornews.com/">
+            <picture class="main-banner__picture">
+                <source media="(max-width: 667px)" srcset="/upload/iblock/bee/zkt4h7va95rxelyq7hmbh9k413yr14fj.png">
+                <source media="(min-width: 667px)" srcset="/upload/iblock/b89/oyhfblonoymcck9eu1sf0avc5xmvf0dn.png">
+                <img loading="lazy">
+            </picture>
+        </a>
+                    <a class="main-banner__link mobile-block" target="_blank" rel="nofollow noopener" href="https://hornews.com/">
+                <picture class="main-banner__picture">
+                    <source media="(max-width: 667px)" srcset="/upload/iblock/bee/zkt4h7va95rxelyq7hmbh9k413yr14fj.png">
+                    <source media="(min-width: 667px)" srcset="/upload/iblock/b89/oyhfblonoymcck9eu1sf0avc5xmvf0dn.png">
+                    <img loading="lazy">
+                </picture>
+            </a>
+            </div>
+
+
+<div class="results">
+    <div class="tabs results__stats"></div>
+    <div class="results__last">
+                        <div class="last-game">
+            <div class="last-game__result">
+                <div class="last-game__result-top_heptagons"></div>
+                <div class="last-game__result-bot_heptagons"></div>
+                <div class="last-game__result-top">
+                    <div class="last-game__title">
+                        Прошедший матч                                            </div>
+                    <div class="last-game__date">
+                        18 фев 19:00                        <br/>
+                        Челябинск                    </div>
+                </div>
+                <div class="last-game__result-center">
+                    <figure class="last-game__left">
+                        <div class="team-block">
+                            <figure class="team-block__logo"><img loading="lazy" src="/upload/uf/56e/56p0juz0sxq728iawsnru1xnn3r3f6lp.png" alt="Трактор"/></figure>
+                            <figcaption class="team-block__name">Трактор</figcaption>
+                            <address class="team-block__city">Челябинск</address>
+                        </div>
+                    </figure>
+                    <div class="lasttabs results__stats-game__score">
+                        <div class="lg-buy">
+                                                            <div class="last-game__score">0:6</div>
+                                                                                    </div>
+                    </div>
+                    <figure class="last-game__right">
+                        <div class="team-block">
+                            <figure class="team-block__logo"><img loading="lazy" src="/upload/uf/d29/e1whmz4zqb2hstog144lh4ubnm5h4c5d.png" alt="Салават Юлаев"/></figure>
+                            <figcaption class="team-block__name">Салават Юлаев</figcaption>
+                            <address class="team-block__city">Уфа</address>
+                        </div>
+                    </figure>
+                </div>
+                                <div class="last-game__result-bot">
+                                                                <div class="last-game__hashtag">
+                                                            <a class="hashtag__el" href="https://hctraktor.org/media/news/88928-25-26-traktor-vs-salavat-yulaev/">Превью</a>
+                                                            <a class="hashtag__el" href="https://hctraktor.org/media/news/88955-25-26-traktor-vs-salavat-yulaev-sostav-na-igru/">Состав</a>
+                                                            <a class="hashtag__el" href="https://hctraktor.org/media/news/88960-25-26-traktor-vs-salavat-yulaev-0-6/">Отчёт</a>
+                                                            <a class="hashtag__el" href="https://hctraktor.org/media/news/88962-vse-vmeste-vyberemsya-iz-etoy-situatsii-i-vsye-naladim-v-blizhayshikh-igrakh-i-evgeniy-koreshkov/">Евгений Корешков</a>
+                                                    </div>
+                                    </div>
+            </div>
+        </div>
+        <div class="tickets__list">
+            <div class="t-list">
+                                    <div class="t-list__row">
+                        <div class="t-list__row-date">20 фев 19:00                                                    </div>
+                        <div class="t-list__row-teams">
+                            <div class="tlr-teams">
+                                <div class="tlr-teams__team">
+                                    <div class="tlr-teams__team-city">Челябинск</div>
+                                    <figure class="tlr-teams__team-logo">
+                                        <img src="/upload/uf/56e/56p0juz0sxq728iawsnru1xnn3r3f6lp.png" alt="Трактор"/>
+                                    </figure>
+                                    <div class="tlr-teams__team-title">Трактор</div>
+                                </div>
+                                <div class="tlr-teams__team">
+                                    <div class="tlr-teams__team-city">Череповец</div>
+                                    <figure class="tlr-teams__team-logo">
+                                        <img src="/upload/uf/4bd/4wrj2sqd5o95ytypidpl9b37p0bog9so.png" alt="Северсталь"/>
+                                    </figure>
+                                    <div class="tlr-teams__team-title">Северсталь</div>
+                                </div>
+                            </div>
+                        </div>
+                                                    <!--                            <div class="t-list__row-count">билеты распроданы</div>-->
+                                                                            <div class="matches__item-partner-block">
+                                <div class="partner-block">
+                                    <div class="partner-block__row-matches">
+                                        <a class="partner-block__logo partner-block__logo--matches" href="https://winline.ru/plus/15171246/?utm_source=7211&utm_medium=lv5it&oid=bo32w71&wid=lv5it&sub=odds&sub2=odds" target="_blank"></a>
+                                        <ul class="partner-block__rate-list">
+                                            <li class="partner-block__rate-item ">
+                                                <a class="partner-block__rate-item-link" href="https://winline.ru/plus/15171246/?utm_source=7211&utm_medium=lv5it&oid=bo32w71&wid=lv5it&sub=odds&sub2=odds">2.00</a>
+                                            </li>
+                                            <li class="partner-block__rate-item">
+                                                <a class="partner-block__rate-item-link" href="https://winline.ru/plus/15171246/?utm_source=7211&utm_medium=lv5it&oid=bo32w71&wid=lv5it&sub=odds&sub2=odds">4.30</a>
+                                            </li>
+                                            <li class="partner-block__rate-item ">
+                                                <a class="partner-block__rate-item-link" href="https://winline.ru/plus/15171246/?utm_source=7211&utm_medium=lv5it&oid=bo32w71&wid=lv5it&sub=odds&sub2=odds">3.15</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <a class="partner-block__link" href="https://winline.ru/plus/15171246/?utm_source=7211&utm_medium=lv5it&oid=bo32w71&wid=lv5it&sub=odds&sub2=odds">Сделать ставку</a>
+<!--                                    <a class="partner-block__link" href="https://m.winline.ru/freebet/?utm_source=hctraktor&amp;utm_medium=odds&amp;utm_content=odds&amp;utm_campaign=freebet3000">-->
+<!--                                        <img class="partner-block__link-icon" src="local/templates/hctraktor/img/freebet.webp" width="24" height="24">-->
+<!--                                        Забрать Фрибет 3000-->
+<!--                                    </a>-->
+                                </div>
+                            </div>
+                                            </div>
+                                    <div class="t-list__row">
+                        <div class="t-list__row-date">23 фев 16:00                                                    </div>
+                        <div class="t-list__row-teams">
+                            <div class="tlr-teams">
+                                <div class="tlr-teams__team">
+                                    <div class="tlr-teams__team-city">Челябинск</div>
+                                    <figure class="tlr-teams__team-logo">
+                                        <img src="/upload/uf/56e/56p0juz0sxq728iawsnru1xnn3r3f6lp.png" alt="Трактор"/>
+                                    </figure>
+                                    <div class="tlr-teams__team-title">Трактор</div>
+                                </div>
+                                <div class="tlr-teams__team">
+                                    <div class="tlr-teams__team-city">Тольятти</div>
+                                    <figure class="tlr-teams__team-logo">
+                                        <img src="/upload/uf/162/i233wjve7en4lgb2bka5yo6vazkvu8e0.png" alt="Лада"/>
+                                    </figure>
+                                    <div class="tlr-teams__team-title">Лада</div>
+                                </div>
+                            </div>
+                        </div>
+                                                    <!--                            <div class="t-list__row-count">билеты распроданы</div>-->
+                                                                    </div>
+                                    <div class="t-list__row">
+                        <div class="t-list__row-date">01 мар 16:00                                                    </div>
+                        <div class="t-list__row-teams">
+                            <div class="tlr-teams">
+                                <div class="tlr-teams__team">
+                                    <div class="tlr-teams__team-city">Челябинск</div>
+                                    <figure class="tlr-teams__team-logo">
+                                        <img src="/upload/uf/56e/56p0juz0sxq728iawsnru1xnn3r3f6lp.png" alt="Трактор"/>
+                                    </figure>
+                                    <div class="tlr-teams__team-title">Трактор</div>
+                                </div>
+                                <div class="tlr-teams__team">
+                                    <div class="tlr-teams__team-city">Казань</div>
+                                    <figure class="tlr-teams__team-logo">
+                                        <img src="/upload/uf/ed8/r14cm9cof7kdpz42d2u809unho5srv8w.png" alt="Ак Барс"/>
+                                    </figure>
+                                    <div class="tlr-teams__team-title">Ак Барс</div>
+                                </div>
+                            </div>
+                        </div>
+                                                    <!--                            <div class="t-list__row-count">билеты распроданы</div>-->
+                                                                    </div>
+                
+            </div>
+        </div>
+            </div>
+</div>
+    <div class="main-banner">
+        <a class="main-banner__link desktop-block" target="_blank" rel="nofollow noopener" href="https://p.winline.ru/s/OByEMOlID9?statid=4866_banners&sub=banners&sub2=newloyalty">
+            <picture class="main-banner__picture">
+                <source media="(max-width: 667px)" srcset="/upload/iblock/04b/64usixlo8w5dqzev7biujw2930qm9tmm.png">
+                <source media="(min-width: 667px)" srcset="/upload/iblock/1a7/x1g93wi72zqvzb6d801jvh8y3av6aktj.png">
+                <img loading="lazy">
+            </picture>
+        </a>
+                    <a class="main-banner__link mobile-block" target="_blank" rel="nofollow noopener" href="https://p.winline.ru/s/OByEMOlID9?statid=4866_banners&sub=banners&sub2=newloyalty">
+                <picture class="main-banner__picture">
+                    <source media="(max-width: 667px)" srcset="/upload/iblock/04b/64usixlo8w5dqzev7biujw2930qm9tmm.png">
+                    <source media="(min-width: 667px)" srcset="/upload/iblock/1a7/x1g93wi72zqvzb6d801jvh8y3av6aktj.png">
+                    <img loading="lazy">
+                </picture>
+            </a>
+            </div>
+<div class="merch">
+    <div class="merch__info">
+        <div class="merch__label">Товар</div>
+        <div class="merch__title"></div>
+        <div class="merch__price"></div>
+        <div class="merch__btn">
+            <a class="default-btn" href="" target="_blank" rel="nofollow noopener">
+                <span class="default-btn__text">Купить</span>
+            </a>
+        </div>
+    </div>
+    <div class="merch__slider">
+        <div class="merch__slider-arrow">
+            <div class="swiper-button swiper-button-prev"></div>
+            <div class="swiper-button swiper-button-next"></div>
+        </div>
+        <div class="swiper-list">
+            <div class="swiper-wrapper">
+                                    <div class="swiper-slide">
+                        <div class="merch__slide"
+                             data-title="Свитеры"
+                             data-price="от 3 700 руб."
+                             data-link="https://store.hctraktor.org/shop/odezhda/khokkeynyy-sviter/">
+                            <img loading="lazy" src="/upload/iblock/03a/23q9ovmymxgu3qp7b0u8inywq6qans45.png" alt="Свитеры"/>
+                        </div>
+                    </div>
+                                    <div class="swiper-slide">
+                        <div class="merch__slide"
+                             data-title="Косметика"
+                             data-price="от 150 руб."
+                             data-link="https://store.hctraktor.org/shop/suveniry/kosmetika/">
+                            <img loading="lazy" src="/upload/iblock/06e/t99172wex3y8w7naxji3zp2gi1op620y.jpg" alt="Косметика"/>
+                        </div>
+                    </div>
+                                    <div class="swiper-slide">
+                        <div class="merch__slide"
+                             data-title="Бейсболка"
+                             data-price="1 690 руб."
+                             data-link="https://store.hctraktor.org/shop/beysbolki/beysbolki/95141-beysbolka-khk-traktor-chern-55-58-tm-atribut/">
+                            <img loading="lazy" src="/upload/iblock/b35/ynhlx94s28i7vtdtobbhmwekqruz1xhd.png" alt="Бейсболка"/>
+                        </div>
+                    </div>
+                                    <div class="swiper-slide">
+                        <div class="merch__slide"
+                             data-title="Набор для автомобиля"
+                             data-price="890 руб."
+                             data-link="https://store.hctraktor.org/shop/suveniry/avtotovary/nabor-dlya-avtomobilya-khk-traktor/">
+                            <img loading="lazy" src="/upload/iblock/dcf/o57j7oxb9bipkyjsi1skoczwme5rrmzs.png" alt="Набор для автомобиля"/>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="merch__links">
+        <div class="ml-list">
+                            <a class="ml-link" target="_blank" rel="noreferrer" href="https://store.hctraktor.org/shop/odezhda/khokkeynyy-sviter/">Свитеры</a>
+                            <a class="ml-link" target="_blank" rel="noreferrer" href="https://store.hctraktor.org/shop/suveniry/kosmetika/">Косметика</a>
+                            <a class="ml-link" target="_blank" rel="noreferrer" href="https://store.hctraktor.org/shop/beysbolki/beysbolki/95141-beysbolka-khk-traktor-chern-55-58-tm-atribut/">Бейсболка</a>
+                            <a class="ml-link" target="_blank" rel="noreferrer" href="https://store.hctraktor.org/shop/suveniry/avtotovary/nabor-dlya-avtomobilya-khk-traktor/">Набор для автомобиля</a>
+                    </div>
+        <a class="link-shop" target="_blank" rel="nofollow noopener" href="http://store.hctraktor.org/">Перейти в магазин</a>
+    </div>
+</div>
+    <div class="main-banner">
+        <a class="main-banner__link desktop-block" target="_blank" rel="nofollow noopener" href="https://widget.afisha.yandex.ru/w/sessions/ticketsteam-6944@58137844?clientKey=41d68595-d432-4209-93be-585238c61cfd&regionId=56">
+            <picture class="main-banner__picture">
+                <source media="(max-width: 667px)" srcset="/upload/iblock/11e/sb102sdca78s80gaf7ac3rly9brb5zyw.png">
+                <source media="(min-width: 667px)" srcset="/upload/iblock/f92/hfc622fx2c0cx98w3lzc8zs0xnl0uh90.png">
+                <img loading="lazy">
+            </picture>
+        </a>
+                    <a class="main-banner__link mobile-block" target="_blank" rel="nofollow noopener" href="https://widget.afisha.yandex.ru/w/sessions/ticketsteam-6944@58137844?clientKey=41d68595-d432-4209-93be-585238c61cfd&regionId=56">
+                <picture class="main-banner__picture">
+                    <source media="(max-width: 667px)" srcset="/upload/iblock/11e/sb102sdca78s80gaf7ac3rly9brb5zyw.png">
+                    <source media="(min-width: 667px)" srcset="/upload/iblock/f92/hfc622fx2c0cx98w3lzc8zs0xnl0uh90.png">
+                    <img loading="lazy">
+                </picture>
+            </a>
+            </div>
+<div class="sliders-tab">
+    <div class="sliders-tab__top">
+        <div class="sliders-tab__title">
+            <div class="title active" data-id="photos">#толькочернобелый</div>
+        </div>
+        <div class="sliders-tab__arrow">
+            <div class="swiper-button swiper-button-prev"></div>
+            <div class="swiper-button swiper-button-next"></div>
+        </div>
+    </div>
+    <div class="sliders-tab__sliders">
+        <div class="slider photos active" id="photos">
+            <div class="swiper-list">
+                <div class="swiper-wrapper">
+                                            <div class="swiper-slide">
+                            <div class="slider__slide">
+                                                                    <div class="photo" href="">
+                                        <div class="photo__img">
+                                            <img loading="lazy" src="/upload/resize_cache/iblock/034/346_614_1/1u2rhudhc1qy5uuyoc0b5m1oynkkhjr4.jpg"/>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                            <div class="swiper-slide">
+                            <div class="slider__slide">
+                                                                    <div class="photo" href="">
+                                        <div class="photo__img">
+                                            <img loading="lazy" src="/upload/resize_cache/iblock/446/346_614_1/el7yd1x9n1yaqdnvchnc77qdcn9ks0oq.jpg"/>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                            <div class="swiper-slide">
+                            <div class="slider__slide">
+                                                                    <div class="photo" href="">
+                                        <div class="photo__img">
+                                            <img loading="lazy" src="/upload/resize_cache/iblock/2c1/346_614_1/6xfj2h4aju4os1k535qiy8ms7w3ndmfb.jpg"/>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                            <div class="swiper-slide">
+                            <div class="slider__slide">
+                                                                    <div class="photo" href="">
+                                        <div class="photo__img">
+                                            <img loading="lazy" src="/upload/resize_cache/iblock/fd2/346_614_1/vn1no2eha8tufqju2c3vrpqbngst4coe.jpg"/>
+                                        </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+	</div>
+
+
+</main>
+<footer class="footer">
+	<div class="wrapper">
+		<div class="footer__top">
+			<div class="ft">
+				<div class="ft__soc">
+					<!--'start_frame_cache_i9euLr'-->	<div class="soc">
+        				<a class="soc__link" href="https://t.me/za_TRAKTOR" target="_blank" rel="nofollow noopener">
+					<svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M17.4493 1.21879L14.8087 11.1813C14.6095 11.8844 14.0899 12.0594 13.3517 11.7282L9.32822 9.35629L7.38682 10.85C7.17197 11.0219 6.99228 11.1657 6.57822 11.1657L6.86728 7.88754L14.3243 2.49692C14.6485 2.26567 14.254 2.13754 13.8204 2.36879L4.60166 7.01254L0.632907 6.01879C-0.230374 5.80317 -0.245999 5.32817 0.812595 4.99692L16.336 0.212543C17.0548 -0.00308189 17.6837 0.340668 17.4493 1.21879Z" fill="white"/>
+        </svg>				</a>
+            				<a class="soc__link" href="https://vk.com/traktor_chelyabinsk" target="_blank" rel="nofollow noopener">
+					<svg width="16" height="11" viewBox="0 0 16 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.5293 1.33203C15.4707 1.625 15.2363 2.12305 14.8262 2.79688C14.5332 3.29492 14.1816 3.85156 13.7715 4.49609C13.4199 5.02344 13.2148 5.28711 13.2148 5.28711C13.0977 5.46289 13.0391 5.60938 13.0391 5.69727C13.0391 5.81445 13.0977 5.93164 13.2148 6.04883L13.4785 6.3418C14.8848 7.80664 15.6758 8.80273 15.8516 9.33008C15.9102 9.56445 15.8809 9.76953 15.7637 9.88672C15.6465 10.0039 15.5 10.0625 15.2656 10.0625H13.5371C13.3027 10.0625 13.127 10.0039 12.9512 9.85742C12.834 9.79883 12.5996 9.59375 12.3066 9.24219C12.0137 8.89062 11.75 8.59766 11.5156 8.36328C10.7246 7.63086 10.1387 7.25 9.78711 7.25C9.61133 7.25 9.49414 7.2793 9.43555 7.33789C9.37695 7.39648 9.34766 7.54297 9.34766 7.71875C9.31836 7.86523 9.31836 8.1582 9.31836 8.62695V9.38867C9.31836 9.62305 9.25977 9.79883 9.14258 9.88672C8.9668 10.0039 8.61523 10.0625 8.08789 10.0625C7.15039 10.0625 6.24219 9.79883 5.30469 9.24219C4.36719 8.71484 3.54688 7.92383 2.84375 6.89844C2.16992 6.01953 1.61328 5.11133 1.17383 4.17383C0.822266 3.4707 0.529297 2.82617 0.324219 2.21094C0.177734 1.74219 0.119141 1.39062 0.119141 1.18555C0.119141 0.863281 0.294922 0.6875 0.705078 0.6875H2.43359C2.63867 0.6875 2.78516 0.746094 2.90234 0.833984C3.01953 0.951172 3.10742 1.12695 3.19531 1.36133C3.45898 2.15234 3.78125 2.91406 4.19141 3.64648C4.54297 4.34961 4.89453 4.90625 5.24609 5.31641C5.59766 5.75586 5.86133 5.96094 6.06641 5.96094C6.18359 5.96094 6.24219 5.93164 6.30078 5.84375C6.35938 5.75586 6.38867 5.58008 6.38867 5.31641V2.76758C6.35938 2.47461 6.30078 2.18164 6.18359 1.94727C6.125 1.83008 6.00781 1.68359 5.89062 1.50781C5.74414 1.33203 5.68555 1.21484 5.68555 1.09766C5.68555 0.980469 5.71484 0.892578 5.80273 0.804688C5.89062 0.746094 6.00781 0.6875 6.125 0.6875H8.84961C9.02539 0.6875 9.14258 0.746094 9.20117 0.833984C9.25977 0.951172 9.31836 1.09766 9.31836 1.33203V4.73047C9.31836 4.90625 9.34766 5.05273 9.40625 5.11133C9.46484 5.19922 9.52344 5.22852 9.61133 5.22852C9.69922 5.22852 9.81641 5.19922 9.93359 5.14062C10.0508 5.08203 10.1973 4.93555 10.4023 4.70117C10.7539 4.29102 11.1348 3.79297 11.5156 3.17773C11.75 2.76758 12.0137 2.29883 12.248 1.77148L12.541 1.18555C12.6582 0.863281 12.9219 0.6875 13.2734 0.6875H15.002C15.4707 0.6875 15.6465 0.921875 15.5293 1.33203Z" fill="white"/>
+        </svg>				</a>
+            				<a class="soc__link" href="https://www.youtube.com/@hc_traktor" target="_blank" rel="nofollow noopener">
+					<svg width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.6758 2.05786C15.793 2.5852 15.9102 3.40552 15.9688 4.4602L15.998 5.92505L15.9688 7.38989C15.9102 8.50317 15.793 9.29419 15.6758 9.82153C15.5586 10.1731 15.3828 10.4661 15.1484 10.7004C14.8848 10.9641 14.5918 11.1399 14.2402 11.2278C13.7129 11.3743 12.541 11.4622 10.666 11.5208L8 11.55L5.33398 11.5208C3.45898 11.4622 2.25781 11.3743 1.75977 11.2278C1.4082 11.1399 1.08594 10.9641 0.851562 10.7004C0.587891 10.4661 0.412109 10.1731 0.324219 9.82153C0.177734 9.29419 0.0898438 8.50317 0.03125 7.38989L0.00195312 5.92505C0.00195312 5.51489 0.00195312 5.01684 0.03125 4.4602C0.0898438 3.40552 0.177734 2.5852 0.324219 2.05786C0.412109 1.7063 0.587891 1.41333 0.851562 1.14966C1.08594 0.915283 1.4082 0.739502 1.75977 0.622314C2.25781 0.505127 3.45898 0.387939 5.33398 0.329346L8 0.300049L10.666 0.329346C12.541 0.387939 13.7129 0.505127 14.2402 0.622314C14.5918 0.739502 14.8848 0.915283 15.1484 1.14966C15.3828 1.41333 15.5586 1.7063 15.6758 2.05786ZM6.35938 8.32739L10.5488 5.92505L6.35938 3.552V8.32739Z" fill="white"/>
+        </svg>				</a>
+            	</div>
+<!--'end_frame_cache_i9euLr'-->				</div>
+			</div>
+		</div>
+		<div class="footer__mid">
+			<div class="f-menu">
+				<nav class="f-menu__menu">
+    <ul class="f-menu">
+            		<li><a target="_blank" rel="nofollow noopener" href="https://my.hctraktor.org/" class="f-menu__link">Личный кабинет</a></li>
+                		<li><a  href="/media/news/" class="f-menu__link">Новости</a></li>
+                		<li><a  href="/contacts/" class="f-menu__link">Контакты</a></li>
+                		<li><a  href="/arena/" class="f-menu__link">Об арене</a></li>
+                		<li><a target="_blank" rel="nofollow noopener" href="https://store.hctraktor.org/" class="f-menu__link">Магазин</a></li>
+                </ul>
+</nav>
+				            <nav class="f-menu__menu">
+                <ul class="f-menu">
+                    <li>
+                        <a href="/tickets/" class="f-menu__link">Билеты</a>
+                        <ul class="f-menu__submenu">
+    		                <li>
+                                    <a href="/ticket-refund-policy/" class="f-menu__submenu-link">Правила возврата билетов</a>
+                                </li>
+                                <li>
+                                    <a href="/rules-of-conduct-in-the-arena/" class="f-menu__submenu-link">Правила поведения на арене</a>
+                                </li>
+                                <li>
+                                    <a href="/tickets/corporate-tickets/" class="f-menu__submenu-link">Корпоративные билеты</a>
+                                </li>
+                                <li>
+                                    <a href="/tickets/away-matches/" class="f-menu__submenu-link">Выездные матчи</a>
+                                </li>
+                                <li>
+                                    <a href="/tickets/lodge/" class="f-menu__submenu-link">Ложи</a>
+                                </li>
+                                <li>
+                                    <a href="/tickets/restaurant/" class="f-menu__submenu-link">Ресторан</a>
+                                </li>
+                                <li>
+                                    <a href="/venue/" class="f-menu__submenu-link">Трансляции в городе</a>
+                                </li>
+                </ul></li></ul></nav>            <nav class="f-menu__menu">
+                <ul class="f-menu">
+                    <li>
+                        <a href="/championship/" class="f-menu__link">Чемпионат</a>
+                        <ul class="f-menu__submenu">
+    		                <li>
+                                    <a href="/championship/khl/#calendar" class="f-menu__submenu-link">Календарь</a>
+                                </li>
+                                <li>
+                                    <a href="/championship/khl/#table" class="f-menu__submenu-link">Турнирная таблица</a>
+                                </li>
+                                <li>
+                                    <a href="/championship/khl/#matches" class="f-menu__submenu-link">Матчи</a>
+                                </li>
+                </ul></li></ul></nav>            <nav class="f-menu__menu">
+                <ul class="f-menu">
+                    <li>
+                        <a href="/team/" class="f-menu__link">Команда</a>
+                        <ul class="f-menu__submenu">
+    		                <li>
+                                    <a href="/team/players/" class="f-menu__submenu-link">Игроки</a>
+                                </li>
+                                <li>
+                                    <a href="/team/players/stat/" class="f-menu__submenu-link">Статистика игроков</a>
+                                </li>
+                                <li>
+                                    <a href="/team/coaches/" class="f-menu__submenu-link">Тренеры</a>
+                                </li>
+                                <li>
+                                    <a href="/team/staff/" class="f-menu__submenu-link">Персонал</a>
+                                </li>
+                </ul></li></ul></nav>            <nav class="f-menu__menu">
+                <ul class="f-menu">
+                    <li>
+                        <a href="/media/" class="f-menu__link">Медиа</a>
+                        <ul class="f-menu__submenu">
+    		                <li>
+                                    <a href="/media/tv/" class="f-menu__submenu-link">Трактор TV</a>
+                                </li>
+                                <li>
+                                    <a href="/media/photos/" class="f-menu__submenu-link">Фотогалерея</a>
+                                </li>
+                                <li>
+                                    <a href="/club/school/news/" class="f-menu__submenu-link">Новости школы</a>
+                                </li>
+                                <li>
+                                    <a href="/media/match-program/" class="f-menu__submenu-link">Официальные программы матчей</a>
+                                </li>
+                </ul></li></ul></nav>            <nav class="f-menu__menu">
+                <ul class="f-menu">
+                    <li>
+                        <a href="/club/" class="f-menu__link">Клуб</a>
+                        <ul class="f-menu__submenu">
+    		                <li>
+                                    <a href="/club/management/" class="f-menu__submenu-link">Руководство</a>
+                                </li>
+                                <li>
+                                    <a href="/club/museum/" class="f-menu__submenu-link">Музей</a>
+                                </li>
+                                <li>
+                                    <a href="/club/school/" class="f-menu__submenu-link">Школа</a>
+                                </li>
+                                <li>
+                                    <a href="/club/school/news/" class="f-menu__submenu-link">Новости школы</a>
+                                </li>
+                </ul></li></ul></nav>            <nav class="f-menu__menu">
+                <ul class="f-menu">
+                    <li>
+                        <a href="/club/history/" class="f-menu__link">История</a>
+                        <ul class="f-menu__submenu">
+    		                <li>
+                                    <a href="/club/history/25best/" class="f-menu__submenu-link">25 лучших игроков и тренеров в истории клуба</a>
+                                </li>
+                                <li>
+                                    <a href="/club/history/traktor/" class="f-menu__submenu-link">История Трактора</a>
+                                </li>
+                                <li>
+                                    <a href="/club/history/players/" class="f-menu__submenu-link">Все игроки</a>
+                                </li>
+                                <li>
+                                    <a href="/club/history/coaches/" class="f-menu__submenu-link">Все главные тренеры</a>
+                                </li>
+                                <li>
+                                    <a href="/club/history/belousov-club/" class="f-menu__submenu-link">Клуб Валерия Белоусова</a>
+                                </li>
+                                <li>
+                                    <a href="/club/history/shumakov-club/" class="f-menu__submenu-link">Клуб Юрия Шумакова</a>
+                                </li>
+                </ul></li></ul></nav>				<div class="f-menu__supports">
+					<div class="sponsors">
+    <div class="sponsors__label">При поддержке:</div>
+    <div class="sponsors__list">
+        <div class="s-list">
+                                        <a id="bx_2970353375_33935" class="s-list__item" href="https://gubernator74.ru" target="_blank" rel="nofollow noopener">
+                <img loading="lazy" src="/upload/iblock/a07/a0778880f99cfd24e1915e75390d9df1.svg" alt="Губернатор Челябинской области" />
+            </a>
+                                                    <a id="bx_2970353375_76600" class="s-list__item" href="https://fondsporta74.ru/" target="_blank" rel="nofollow noopener">
+                <img loading="lazy" src="/upload/iblock/c5f/hnc6jzb8kpm9769xus5lehvp527cy8mx.svg" alt="Фонд Поддержки спорта" />
+            </a>
+                                                    <a id="bx_2970353375_33934" class="s-list__item" href="https://cheladmin.ru" target="_blank" rel="nofollow noopener">
+                <img loading="lazy" src="/upload/iblock/dae/dae7918dfe00aefd8938a364bb1266cf.svg" alt="Администрация города Челябинска" />
+            </a>
+                                </div>
+    </div>
+</div>
+				</div>
+			</div>
+			<div class="footer__mid-text">
+				<div class="copy">
+					© Официальный сайт хоккейного клуба «Трактор» Челябинск. <a href="/upload/Privacy-policy.pdf" target="_blank">Политика конфиденциальности</a>				</div>
+				<a class="developer" href="https://xpage.ru" target="_blank" rel="nofollow noopener">Сделано в Xpage</a>
+			</div>
+		</div>
+					<div class="footer__bot">
+								<div class="footer__bot-kpartners">
+				<div class="fbs">
+					<div class="fbs__title">Партнеры Фонбет Чемпионата<br>КХЛ сезона 2025/2026</div>
+					<div class="fbs__list">
+																						<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://af-ru2e2e.com/click?offer_id=803&partner_id=16996&landing_id=2633&utm_medium=sponsorship&sub_1=%7Bkhl%7D&sub_2=%7Blogo_footer%7D">
+									<img loading="lazy"
+									     src="/upload/iblock/35b/os4v85hw2kefdt77cfygythaafdafgtw.svg"
+									     alt="FONBET"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.sogaz.ru/?utm_source=khl&utm_medium=static&utm_campaign=sogaz_main_khl_logo_2024">
+									<img loading="lazy"
+									     src="/upload/iblock/2f7/srqa2i654o52rbqnrcx70ph1hculpgdz.svg"
+									     alt="СОГАЗ"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.tbank.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/e0a/nqqjd9z9hlk9uopfwqk5ji6kwjfdqote.svg"
+									     alt="Т-банк"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://vamprivet.ru/?utm_source=khl&utm_medium=sp&utm_campaign=NSPK_SBP_KHL_2024-2025&utm_term=bottom_logo&utm_content=none">
+									<img loading="lazy"
+									     src="/upload/iblock/5cd/djzlemobl60y3i7tdg02ry83zfatw51d.svg"
+									     alt="СБП"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="http://market.yandex.ru/special/khl?clid=2021">
+									<img loading="lazy"
+									     src="/upload/iblock/f38/l15mke23n5wx90mbjkj7mhnafo6qafxg.svg"
+									     alt="Яндекс маркет"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.rt.ru">
+									<img loading="lazy"
+									     src="/upload/iblock/1cd/69x9c6nqqf21wu7jjvw6qm201lu4apmm.svg"
+									     alt="Ростелеком"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.lada.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/a13/yq067mz57mfsysdj0euz7emjnpq0gqjm.svg"
+									     alt="LADA"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://hd.kinopoisk.ru/sport/competition/114891/?utm_source=kinopoisk&utm_medium=paid_media&utm_campaign=promocode&utm_con">
+									<img loading="lazy"
+									     src="/upload/iblock/ebb/7q1pllvcq04kuq2tg3dsn1uzu780e2cn.svg"
+									     alt="Кинопоиск"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://gislaved-tire.ru/?utm_source=khlclub&utm_medium=logo">
+									<img loading="lazy"
+									     src="/upload/iblock/9e8/zr25x0qi0g7xaovv981s96sn1ayacq9y.svg"
+									     alt="Gislaved"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://haieronline.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/850/6fhy3qhuttzkgn9d6885ecu85s33ipw4.svg"
+									     alt="Haier"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.s7.ru/ru/?utm_source=khl&utm_medium=web&utm_campaign=partners">
+									<img loading="lazy"
+									     src="/upload/iblock/bf5/us6smgra2upjrljxsnsknhbkfzsq2juk.svg"
+									     alt="S7"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://lgcity.ru/alessandro_manzoni/">
+									<img loading="lazy"
+									     src="/upload/iblock/5f9/z0ye16fq889pr2xjefr320x1x8ncd8s2.svg"
+									     alt="Alessandro Manzoni"/>
+								</a>
+																			</div>
+				</div>
+			</div>
+											<div class="footer__bot-sponsors">
+				<div class="fbs">
+					<div class="fbs__title">Спонсоры и партнеры <br>ХК Трактор</div>
+					<div class="fbs__list">
+																						<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://rmk-group.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/73d/73d920fbe670da64f2e8ca7a8757b84e.svg"
+									     alt="РМК"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://bit.ly/3f2uWji">
+									<img loading="lazy"
+									     src="/upload/iblock/94d/4otznetlpeonw0sk40vp44z0plk1mhiq.svg"
+									     alt="Винлайн"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.tmk-group.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/b28/ch5jifkj749v8knhzkytf7tton8hs8sb.svg"
+									     alt="ТМК"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://konar.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/00b/00b6e669b05fd8a01b3890fe893df02a.svg"
+									     alt="КОНАР"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://bovid.ru">
+									<img loading="lazy"
+									     src="/upload/iblock/113/113146a703be070d88dbf34c1286c211.svg"
+									     alt="Бовид"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://gk-ikar.com/?utm_source=traktor&utm_medium=event&utm_campaign=ikar+trartor&utm_content=25-26_season">
+									<img loading="lazy"
+									     src="/upload/iblock/aca/wzsaznqvetls1486os5glvzevccrc97w.png"
+									     alt="Икар"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://tdus.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/c37/l1puy0b3kucbh7hsx5ci9jh4k14dw01w.svg"
+									     alt="Спецтехпроект"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.1obl.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/dfc/z6oi8vtlifsom4300id97ue2z41nymrv.svg"
+									     alt="ОТВ"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://metaratings.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/0c6/mxsr6u6sjdyzswzt6t3pqgsoaetvs2ug.svg"
+									     alt="Metaratings"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.championat.com/">
+									<img loading="lazy"
+									     src="/upload/iblock/8da/w103t0wuslz22wle63wt2dxt8dvudxto.svg"
+									     alt="Championat"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://sport24.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/457/ib63ujmy690yc04mcnx1cs6i916jnrb9.svg"
+									     alt="Sport24"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://www.sovsport.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/b95/ryvbv20xecu2vkzj38xqox1xv5a4er3i.svg"
+									     alt="Советский спорт"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://radiocon.ru/">
+									<img loading="lazy"
+									     src="/upload/iblock/c13/xowrpv5l13dma7t7vtxhhi0jg5x7rq1d.svg"
+									     alt="Континенталь"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://hornews.com/">
+									<img loading="lazy"
+									     src="/upload/iblock/3b3/o6nvqagx76kq4ydbe4x6jlh5a99yz5ti.png"
+									     alt="Хорошие новости"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://bookmaker-ratings.ru/bookmakers-homepage/luchshie-bukmekerskie-kontory/">
+									<img loading="lazy"
+									     src="/upload/iblock/7b2/egusyvy5o8lu39uxpl1jn80cthg2mixx.png"
+									     alt="РБ Спорт"/>
+								</a>
+																														<a id="bx_3946748719_" class="fbs__list-item" target="_blank" rel="nofollow noopener" href="https://2gis.ru/chelyabinsk">
+									<img loading="lazy"
+									     src="/upload/iblock/a9d/it9xm666gakr12fyfv6g04xf66s30t2c.svg"
+									     alt="2 ГИС"/>
+								</a>
+																			</div>
+				</div>
+			</div>
+						</div>
+	</div>
+</footer>
+<div class="popup-notification" id="notification">
+	<div class="popup-notification__title" id="notificationTitle"></div>
+	<div class="popup-notification__text" id="notificationText"></div>
+	<div class="popup-notification__btn">
+		<a class="btn btn--black" href="javascript:void(0)" onclick="$.fancybox.close()">Продолжить</a>
+	</div>
+</div>
+<div class="popup" id="bug">
+	<div class="popup__title">Нашли ошибку?</div>
+	<div class="popup__content">
+		<div class="alert alert-success" style="display: none; color:#000;"></div>
+		<form name="bug" method="POST" enctype="multipart/form-data">
+			<div class="form__inputs">
+				<div class="form__inputs-input">
+					<div class="default-input">
+						<input class="default-input__input default-input__input--file" type="file" name="BUGFILE" accept="jpg, gif, bmp, png, jpeg" id="bugfile"/>
+						<div class="default-input__input-filetext">
+							<input class="default-input__input" type="text" readonly="" placeholder="Прикрепить файл"/>
+							<label class="default-input__label--file" for="bugfile"></label>
+						</div>
+					</div>
+				</div>
+				<div class="form__inputs-input">
+					<div class="default-input">
+						<input class="default-input__input" placeholder="Ваш E-mail" type="email" name="EMAIL">
+						<div class="default-input__error"></div>
+					</div>
+				</div>
+				<div class="form__inputs-input">
+					<div class="default-input">
+						<textarea class="default-input__input" placeholder="Комментарий" required="" name="COMMENT" rows="10"></textarea>
+						<div class="default-input__error"></div>
+					</div>
+				</div>
+			</div>
+			<div class="form__bot">
+				<div class="form__bot-btn">
+					<input class="btn btn--black" type="submit" value="Отправить"/>
+				</div>
+			</div>
+		</form>
+	</div>
+</div>
+<div class="popup-map" id="parking">
+	<a href="/local/templates/hctraktor/img/parking.png" class="popup-map__map fancybox">
+		<img src="/local/templates/hctraktor/img/parking.png" alt="Схема парковок">
+	</a>
+</div>
+
+    <!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/66654916" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika counter -->  <noscript><div><img src="https://mc.yandex.ru/watch/66654916" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika counter -->  <!-- /Yandex.Metrika counter -->
+
+<!-- Yandex.Metrika counter -->
+<noscript><div><img src="https://mc.yandex.ru/watch/90157155" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+    <script>if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script><script src="/bitrix/js/main/core/core.min.js?1768977257242882"></script><script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
+<script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
+</script>
+<script>BX.Runtime.registerExtension({"name":"ui.design-tokens","namespace":"window","loaded":true});</script>
+<script>BX.Runtime.registerExtension({"name":"main.pageobject","namespace":"BX","loaded":true});</script>
+<script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script>
+<script>BX.Runtime.registerExtension({"name":"window","namespace":"window","loaded":true});</script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"HC_TRAKTOR","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1771451941,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"c01846d3f69154911ad22104bb12c7fd"});</script><script src="https://www.google.com/recaptcha/api.js?render=6LdrmLgZAAAAANQXhKdijJBSFdDlsZ9Ibxfzs-kf"></script>
+<script src="https://chel.kassir.ru/start-frame.js"></script>
+<script src="/bitrix/js/main/pageobject/dist/pageobject.bundle.min.js?1756097381531"></script>
+<script src="/bitrix/js/main/core/core_window.min.js?176897725776324"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LdrmLgZAAAAANQXhKdijJBSFdDlsZ9Ibxfzs-kf"></script><script>grecaptcha.ready(function(){grecaptcha.execute("6LdrmLgZAAAAANQXhKdijJBSFdDlsZ9Ibxfzs-kf", {action: "loadpage"}).then(function(token){BX.ajax.post("/local/recaptcha/", {token: token});});});</script><script>const GOOGLE_RECAPTCHA_V3_SITE_KEY = "6LdrmLgZAAAAANQXhKdijJBSFdDlsZ9Ibxfzs-kf";</script>
+<script src="/local/templates/hctraktor/vue-app/build/js/app.js?175681076142160"></script>
+<script src="/local/templates/hctraktor/vue-app/build/js/chunk-vendors.js?1753861455234998"></script>
+<script src="/local/templates/hctraktor/js/vendors.js?1765367912375534"></script>
+<script src="/bitrix/components/bitrix/search.title/script.min.js?17689772476573"></script>
+<script src="/local/templates/hctraktor/js/base.js?176536791217755"></script>
+<script src="/local/templates/hctraktor/js/xpage.js?176536791210936"></script>
+<script src="/local/templates/hctraktor/js/common.js?176536791221034"></script>
+<script src="/local/templates/hctraktor/js/jquery.inputmask.min.js?1595240183138699"></script>
+<script src="/local/templates/hctraktor/js/p-script.js?17345074469796"></script>
+<script src="/local/templates/hctraktor/js/main-page.js?17653679126454"></script>
+<script src="/local/components/xpage/mail.subscribe.form/templates/form/script.js?16037120491798"></script>
+<script src="/local/components/xpage/election/templates/.default/script.js?16142441061553"></script>
+
+<script async src="//www.khl.ru/nav/js/scripts.php?type=khl&lang=ru"></script>
+<script>
+    BX.ready(function () {
+        new JCTitleSearch({
+            'AJAX_PAGE'    : '/',
+            'CONTAINER_ID' : 'title-search',
+            'INPUT_ID'     : 'title-search-input',
+            'MIN_QUERY_LEN': 2,
+        });
+    });
+</script><script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(66654916, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(66654916, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); </script><script type="text/javascript" > (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter6045256 = new Ya.Metrika({ id:6045256, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, ut:"noindex" }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ?
+"https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost +
+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6374645-15");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=90157155', 'ym');
+
+    ym(90157155, 'init', {ssr:true, webvisor:true, clickmap:true, accurateTrackBounce:true, trackLinks:true});
+</script>
+<script>
+    let dealerName = 'YandexTicketsDealer';
+    let dealer = window[dealerName] = window[dealerName] || [];
+    dealer.push(['setDefaultClientKey', '23eb02b9-365e-4b86-a4a1-0bbd1d0641f0']);
+    dealer.push(['setDefaultRegionId', 65]);
+    (function () {
+        let rnd = '?' + new Date().getTime() * Math.random();
+        let script = document.createElement('script');
+        let target = document.getElementsByTagName('script')[0];
+        script.async = true;
+        script.src = 'https://widget.afisha.yandex.ru/dealer/dealer.js' + rnd;
+        target.parentNode.insertBefore(script, target);
+    })();
+
+    function getCookieData(name) {
+        let pairs = document.cookie.split("; "),
+            count = pairs.length, parts;
+        while (count--) {
+            parts = pairs[count].split("=");
+            if (parts[0] === name)
+                return parts[1];
+        }
+        return false;
+    }
+
+    YandexTicketsDealer.push(['addEventListener', 'salecomplete', function (data) {
+        let fd = new FormData();
+        fd.append('orderId', data.order.extOrders[0].orderNumber);
+        fd.append('khl_id', getCookieData('khl_id'));
+        fetch('https://my.hctraktor.org/api/order/create/', {
+            method: 'POST',
+            body: fd,
+        });
+    }]);
+</script>
+</body>
+    </html>

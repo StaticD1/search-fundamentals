@@ -1,0 +1,1514 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="shortcut icon" href="/local/templates/russwimming/favicon.ico?1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="/local/templates/russwimming/plugins/font-awesome/css/font-awesome.min.css?169329288631000" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/normalize.css?16932928867719" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/style.css?174662502765323" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/style-1560.css?169329288610513" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/style-1440.css?169329288610811" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/style-960.css?16932928868086" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/style-730.css?170170152912245" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/style-480.css?17404074756431" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/css/style-374.css?1693292886607" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/russwimming/plugins/tiny-slider/tiny-slider.min.css?16932928862099" type="text/css"  data-template-style="true"  rel="stylesheet" />
+    <title>Федерация водных видов спорта России</title>
+
+    
+
+
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" data-skip-moving="true">
+          (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+          (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+          ym(35428685, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true
+          });
+        </script>
+
+        <!-- /Yandex.Metrika counter -->
+
+    
+</head>
+
+<body class="body">
+
+
+
+
+
+
+
+<div class="main">
+
+    <svg class="visually-hidden" viewBox="0 0 634 193" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <clipPath id="wave-old">
+            <path d="M0 39.0482C0 39.0482 155.495 -36.9156 354.165 39.0496C552.836 115.015 634 0 634 0V193H0V39.0482Z" fill="#00A4D3" fill-opacity="0.2"/>
+        </clipPath>
+    </svg>
+
+    <svg class="visually-hidden" viewBox="0 0 634 193" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+            <clipPath id="wave" clipPathUnits="objectBoundingBox">
+                <path d="
+            M0 0.202
+            C0 0.201 0.2452 -0.1912 0.55862 0.20232
+            C0.8720 0.595932 1 0 1 0
+            V1
+            H0
+            V0.20232
+            Z" fill="#00A4D3" fill-opacity="0.2"/>
+            </clipPath>
+        </defs>
+    </svg>
+
+    <svg class="visually-hidden" viewBox="0 0 1639 290" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <clipPath id="wave-2">
+            <path d="M0 21.51C0 21.51 243.778 93.6013 819.106 21.51C1394.43 -50.5812 1638.21 81.646 1638.21 81.646V289.56H0V173.751V21.51Z" fill="#00A4D3" fill-opacity="0.9"/>
+        </clipPath>
+    </svg>
+
+    <section class="aside">
+        <a class="logo aside__logo" href="/">
+
+            <img class="logo__img" src="/local/templates/russwimming/img/logo_2026.png" alt="Логотип ВФП" width="200" height="148">
+            <img class="logo__mobile" src="/local/templates/russwimming/img/logo_2026_small.png" alt="Логотип ВФП" width="70">
+                    </a>
+        <div class="aside__content">
+            <nav class="navigation js-navigation">
+                <div class="navigation__icon-container">
+                    <img class="navigation__icon" src="/local/templates/russwimming/img/wave-aside.svg" width="300" height="358" alt="Волна">
+                </div>
+                <ul class="navigation__list">
+                    <li class="navigation__item js-has-drop-menu navigation__item--active">
+                        <a class="navigation__link" href="#">
+                            <div class="navigation__wrapper">О федерации</div>
+                        </a>
+                        <ul class="drop-menu js-drop-menu">
+                            <li class="drop-menu__item drop-menu__item--active">
+                                <a class="drop-menu__link" href="/direction">Руководство</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/dev-committees">Комитеты по развитию</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/working">Рабочие органы</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/federations">Региональные федерации плавания</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/documents">Документы</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" target="_blank" href="/dev-map">Карта развития</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="navigation__item">
+                        <a class="navigation__link" href="/programs">
+                            <div class="navigation__wrapper">Программы</div>
+                        </a>
+                    </li>
+                    <li class="navigation__item">
+                        <a class="navigation__link" href="/competitions">
+                            <div class="navigation__wrapper">Календарь соревнований</div>
+                        </a>
+                    </li>
+                    <li class="navigation__item">
+                        <a class="navigation__link" href="https://rsf.lsport.net/Page/1b14ace6-9f40-4e87-ab31-40d7592a0268" target="_blank">
+                            <div class="navigation__wrapper">Всероссийский рейтинг</div>
+                        </a>
+                    </li>
+                    <li class="navigation__item js-has-drop-menu">
+                        <a class="navigation__link" href="#">
+                            <div class="navigation__wrapper">Профессионалам</div>
+                        </a>
+                        <ul class="drop-menu js-drop-menu">
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/antidoping">Антидопинг</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/records">Рекорды</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/world-aquatics-points">Таблица очков World Aquatics</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/national-team/documents">Национальная команда</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/members/documents">Спортсменам и тренерам</a>
+                            </li>
+                            <li>
+                                <a class="drop-menu__link" href="/referees/documents">Судьям</a>
+                            </li>
+                            <li>
+                                <a class="drop-menu__link" href="https://rsf.lsport.net/Page/ef47523f-4cc9-49a2-ad28-d8ef73555c17" target="_blank">Реестр судей</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/training-bases">Тренировочные базы</a>
+                            </li>
+                                                    </ul>
+                    </li>
+                    <li class="navigation__item js-has-drop-menu">
+                        <a class="navigation__link">
+                            <div class="navigation__wrapper">Медиа</div>
+                        </a>
+                        <ul class="drop-menu js-drop-menu">
+                            <li class="drop-menu__item js-has-drop-menu">
+                                <a class="drop-menu__link">Новости</a>
+                                <ul class="drop-menu js-drop-menu">
+                                    <li class="drop-menu__item">
+                                        <a class="drop-menu__link" href="/press/news/?heading=accreditations">Аккредитация СМИ</a>
+                                    </li>
+                                    <li class="drop-menu__item">
+                                        <a class="drop-menu__link" href="/press/news/?heading=leads">Анонсы</a>
+                                    </li>
+                                    <li class="drop-menu__item">
+                                        <a class="drop-menu__link" href="/press/news/?heading=press">Пресс-релизы</a>
+                                    </li>
+                                    <li class="drop-menu__item">
+                                        <a class="drop-menu__link" href="/press/news/?heading=interviews">Интервью</a>
+                                    </li>
+                                    <li class="drop-menu__item">
+                                        <a class="drop-menu__link" href="/press/media-review/">Обзор СМИ</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/press/">Пресс-центр</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/press/translations/">Трансляции</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/press/info/">Пресс-кит</a>
+                            </li>
+                            <li>
+                                <a class="drop-menu__link" href="/press/aquatica/">Онлайн-издания</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/press/photos/">Фотогалерея</a>
+                            </li>
+                            <li class="drop-menu__item">
+                                <a class="drop-menu__link" href="/press/videos/">Видеогалерея</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="navigation__item">
+                        <a class="navigation__link" href="https://allswim.ru/catalog/vfp/" target="_blank">
+                            <div class="navigation__wrapper">Сувенирная продукция</div>
+                        </a>
+                    </li>
+                                        <li class="navigation__item">
+                        <a class="navigation__link" href="/contacts">
+                            <div class="navigation__wrapper">Контакты</div>
+                        </a>
+                    </li>
+                </ul>
+                            </nav>
+            <div class="aside-search">
+                <form id="w0" class="aside-search__form" action="/search" method="get">
+                    <input class="aside-search__input" name="q" type="text" placeholder="Поиск">
+                    <button class="aside-search__button" type="submit">
+                        <svg class="aside-search__icon" width="18" height="18"><use xlink:href="/local/templates/russwimming/img/sprite.svg#search"></use></svg>
+                    </button>
+                </form>        </div>
+            <div class="aside__socials">
+                <ul class="socials">
+                    <!--<li class="socials__item">
+                        <a class="socials__link" href="" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/img/sprite.svg#inst-square"></use></svg>
+                        </a>
+                    </li>-->
+                    <!--<li class="socials__item">
+                        <a class="socials__link" href="" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/img/sprite.svg#fb-square"></use></svg>
+                        </a>
+                    </li>-->
+                    <li class="socials__item">
+                        <a class="socials__link" href="https://t.me/rus_aquatics" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#tg-square"></use></svg>
+                        </a>
+                    </li>
+
+                    <li class="socials__item">
+                        <a class="socials__link" href="https://rutube.ru/channel/24808063/" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#rt-square"></use></svg>
+                        </a>
+                    </li>
+
+                    <li class="socials__item">
+                        <a class="socials__link" href="https://vk.com/rusaquatics_waterpolo" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        </a>
+                    </li>
+
+                    <li class="socials__item">
+                        <a class="socials__link" href="https://vk.com/rusaquatics_artswim" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        </a>
+                    </li>
+
+                    <li class="socials__item">
+                        <a class="socials__link" href="https://vk.com/rusaquatics_swim" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        </a>
+                    </li>
+
+                    <li class="socials__item">
+                        <a class="socials__link" href="https://vk.com/rusaquatics_diving" target="_blank">
+                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        </a>
+                    </li>
+
+
+
+                </ul>
+                <!--    <ul class="social">-->
+                <!--        --><!--            <li class="social__item social__item--vk">-->
+                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                <!--                    <svg class="svg-icon--vk" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+                <!--                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"-->
+                <!--                         enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                <!--                        <g><g id="e6c6b53d3c8160b22dad35a0f710525a"><path d="M985.9,763.3c-11.3,12.8-41.5,15.6-41.5,15.6h-161c0,0-22.5,5.3-62.3-36.4c-27.4-28.6-55.5-70.8-77.9-88.3c-13.4-10.5-26-5.2-26-5.2s-23.5,1.1-26,26c-4.4,43.6-10.4,67.5-10.4,67.5s-2.9,18.4-10.4,26c-8,8-20.8,10.4-20.8,10.4S327.4,829,154.9,550.3C30.4,349.3,14.7,290.7,14.7,290.7s-10.6-14.2,0-31.2c11.1-17.9,26-15.6,26-15.6h145.4c0,0,16.1,1.7,26,10.4c10.8,9.5,15.6,26,15.6,26s31.9,77.1,67.5,135c49.3,80.1,72.7,72.7,72.7,72.7s42.5-11.8,15.6-192.2c-3.7-24.9-51.9-31.2-51.9-31.2s-0.4-21.5,10.4-31.2c12.4-11,26-10.4,26-10.4s21.6-3.8,98.7-5.2c39-0.7,67.5,0,67.5,0s19-0.6,41.5,15.6c10.9,7.8,10.4,26,10.4,26s-4.6,130.1,0,197.4c2,28.9,15.6,31.2,15.6,31.2s14.6,11.3,72.7-72.7c36.8-53.2,67.5-129.8,67.5-129.8s7.6-21.9,15.6-31.2c7.6-8.9,20.8-10.4,20.8-10.4h187c0,0,11.5-0.4,15.6,10.4c3.7,9.9,0,31.2,0,31.2s-2,23.5-20.8,51.9C915.7,404.5,830.1,514,830.1,514s-6.4,14.9-5.2,26c1.4,12.2,10.4,20.8,10.4,20.8s64.5,58.4,109.1,109.1c24.1,27.4,41.5,62.3,41.5,62.3S995.1,752.9,985.9,763.3z"></path></g></g>-->
+                <!--                    </svg>-->
+                <!--                    <span class="visually-hidden">Вконтакте</span>-->
+                <!--                </a>-->
+                <!--            </li>-->
+                <!--        --><!--        --><!--            <li class="social__item social__item--fb">-->
+                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                <!--                    <svg class="svg-icon--fb" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                <!--                        <g><g transform="translate(0.000000,437.000000) scale(0.100000,-0.100000)"><path d="M5374.2,4245.3c-872.1-112.4-1438.5-640.6-1629.6-1515c-36-168.6-47.2-323.7-56.2-914.8l-13.5-714.8l-474.3-4.5l-474.3-6.7l-6.7-858.6l-4.5-860.9h483.3h483.3v-2450v-2450h1022.7h1022.7v2450v2450h685.5h685.5l9,51.7c6.7,27,42.7,368.6,80.9,757.5c38.2,388.8,76.4,755.2,83.2,815.9l13.5,105.6h-780h-779.9l6.7,591.1c6.7,669.8,18,712.5,182.1,820.4l89.9,60.7l627.1,6.7l624.9,6.8v842.9V4270l-869.9-2.2C5904.7,4265.5,5450.7,4256.5,5374.2,4245.3z"></path></g></g>-->
+                <!--                    </svg>-->
+                <!--                    <span class="visually-hidden">Фейсбук</span>-->
+                <!--                </a>-->
+                <!--            </li>-->
+                <!--        --><!--        --><!--            <li class="social__item social__item--instagram">-->
+                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                <!--                    <svg class="svg-icon--instagram" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+                <!--                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"-->
+                <!--                         enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                <!--                        <g><path d="M759.4,10H240.6C113.8,10,10,113.8,10,240.6v518.8C10,886.2,113.8,990,240.6,990h518.8C886.2,990,990,886.2,990,759.4V240.6C990,113.8,886.2,10,759.4,10z M932.4,759.4c0,95.3-77.6,172.9-172.9,172.9H240.6c-95.3,0-172.9-77.6-172.9-172.9V413.5h184.9c-16.5,35.2-26.3,74-26.3,115.3c0,151,122.8,273.8,273.8,273.8s273.8-122.8,273.8-273.8c0-41.3-9.9-80.1-26.3-115.3h184.9V759.4L932.4,759.4z M716.2,528.8C716.2,648,619.2,745,500,745s-216.2-97-216.2-216.2c0-119.2,97-216.2,216.2-216.2S716.2,409.6,716.2,528.8z M710.5,355.9C660.3,294.8,585.1,255,500,255s-160.3,39.8-210.5,100.9H67.6V240.6c0-95.3,77.6-172.9,172.9-172.9h518.8c95.3,0,172.9,77.6,172.9,172.9v115.3H710.5z M843.2,166.9v74.8c0,17.2-14.1,31.3-31.2,31.3h-78.9c-17.3-0.1-31.4-14.1-31.4-31.3v-74.8c0-17.2,14.1-31.3,31.4-31.3H812C829.2,135.6,843.2,149.7,843.2,166.9z"></path></g>-->
+                <!--                    </svg>-->
+                <!--                    <span class="visually-hidden">Инстаграм</span>-->
+                <!--                </a>-->
+                <!--            </li>-->
+                <!--        --><!--        --><!--            <li class="social__item social__item--youtube">-->
+                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                <!--                    <svg class="svg-icon--youtube" width="20" height="20" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+                <!--                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"-->
+                <!--                         enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                <!--                        <g><g transform="translate(0.000000,228.000000) scale(0.100000,-0.100000)"><path d="M2952.4,909.6c-971.8-32.5-1569.8-81.3-1787.6-146.3c-490.8-146.3-793-539.5-923-1199.3C76.1-1274.4,50.1-3569,193.1-4726c91-734.6,334.8-1186.3,757.3-1391c403-198.3,1342.3-260,4033.4-263.3c1823.3,0,3139.6,39,3623.9,113.8c705.3,110.5,1082.3,594.8,1199.3,1540.6c143,1157,117,3451.6-48.8,4290.1c-126.7,656.5-416,1036.8-906.8,1196C8393.1,909.6,5292.5,987.6,2952.4,909.6z M5367.2-1833.5c799.5-477.8,1452.8-880.8,1452.8-893.8c0-13-653.3-416-1452.8-893.8c-802.8-481-1488.5-893.8-1527.5-919.8l-74.7-45.5v1859v1859.1l74.7-45.5C3878.7-939.7,4564.5-1352.5,5367.2-1833.5z"></path></g></g>-->
+                <!--                    </svg>-->
+                <!--                    <span class="visually-hidden">Ютуб</span>-->
+                <!--                </a>-->
+                <!--            </li>-->
+                <!--        --><!--        --><!--            <li class="social__item social__item--telegram">-->
+                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                <!--                    <svg class="svg-icon-telegram" width="16" height="16" viewBox="0 -31 512 512" xmlns="http://www.w3.org/2000/svg"><path d="m211 270-40.917969 43.675781 10.917969 76.324219 120-90zm0 0" fill="#c5c5c5"/><path d="m0 180 121 60 90 30 210 180 91-450zm0 0" fill="#ffffff"/><path d="m121 240 60 150 30-120 210-180zm0 0" fill="#ddd"/></svg>-->
+                <!--                    <span class="visually-hidden">Телеграм</span>-->
+                <!--                </a>-->
+                <!--            </li>-->
+                <!--        --><!--        --><!--            <li class="social__item social__item--ok">-->
+                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                <!--                    <svg class="svg-icon-ok" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 95.481 95.481"><g fill="#FFF"><path d="M43.041 67.254c-7.402-.772-14.076-2.595-19.79-7.064-.709-.556-1.441-1.092-2.088-1.713-2.501-2.402-2.753-5.153-.774-7.988 1.693-2.426 4.535-3.075 7.489-1.682.572.27 1.117.607 1.639.969 10.649 7.317 25.278 7.519 35.967.329 1.059-.812 2.191-1.474 3.503-1.812 2.551-.655 4.93.282 6.299 2.514 1.564 2.549 1.544 5.037-.383 7.016-2.956 3.034-6.511 5.229-10.461 6.761-3.735 1.448-7.826 2.177-11.875 2.661.611.665.899.992 1.281 1.376 5.498 5.524 11.02 11.025 16.5 16.566 1.867 1.888 2.257 4.229 1.229 6.425-1.124 2.4-3.64 3.979-6.107 3.81-1.563-.108-2.782-.886-3.865-1.977-4.149-4.175-8.376-8.273-12.441-12.527-1.183-1.237-1.752-1.003-2.796.071-4.174 4.297-8.416 8.528-12.683 12.735-1.916 1.889-4.196 2.229-6.418 1.15-2.362-1.145-3.865-3.556-3.749-5.979.08-1.639.886-2.891 2.011-4.014 5.441-5.433 10.867-10.88 16.295-16.322.359-.362.694-.746 1.217-1.305z"/><path d="M47.55 48.329c-13.205-.045-24.033-10.992-23.956-24.218C23.67 10.739 34.505-.037 47.84 0c13.362.036 24.087 10.967 24.02 24.478-.068 13.199-10.971 23.897-24.31 23.851zm12.001-24.186c-.023-6.567-5.253-11.795-11.807-11.801-6.609-.007-11.886 5.316-11.835 11.943.049 6.542 5.324 11.733 11.896 11.709 6.552-.023 11.768-5.285 11.746-11.851z"/></g></svg>-->
+                <!--                    <span class="visually-hidden">Одноклассники</span>-->
+                <!--                </a>-->
+                <!--            </li>-->
+                <!--        --><!--    </ul>-->
+            </div>
+        </div>
+        <button class="aside__hamburger js-hamburger"><span></span></button>
+    </section>
+
+    <div class="main-content">
+
+        
+<section class="partners">
+    <ul class="partners__list">
+                <li class="partners__item"> <a class="partners__link" href="https://www.uralchem.ru/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/efd/ps208h677q736bz1k8u62006el42b4gu/75_50_1/Uralchem_gpoup4.jpg" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="https://www.madwave.ru/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/d76/6t9b89too2cx17tq4tsrkvg92kytvrbm/75_50_1/620e1c4f6d855.jpg" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="https://www.bwt.ru/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/0b2/o3miyk4ybx9v5r08xuhcau32cewrmvo7/75_50_1/bwt_new.jpg" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="https://www.scf-group.com/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/28f/o4if3axaft34rexff9b6nxw45eh7p12a/75_50_1/61f2fc929bf1a.jpg" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="http://www.himsintez.ru/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/c6d/cnajqg980jm6oelcpurwrrp3ihoylf5s/75_50_1/himsintez_logo_3.png" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="http://www.minsport.gov.ru/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/86d/wauiu9bewar7a5rt4fh8sv85lpf7zndh/75_50_1/Logo_MR_krest_1.png" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="https://www.sport-teams.ru/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/dc3/g8re6mm0qkkwv8uis1xr51o360p97prr/75_50_1/64a6a1b88bfeb.jpg" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="https://www.fina.org/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/52f/flrzcwdmfresf4qvauef2t7pok2ucf61/75_50_1/63d44683b95c1.jpg" height="50" class="partners__img"> </a> </li>
+                <li class="partners__item"> <a class="partners__link" href="http://www.len.eu/" target="_blank"> <img width="75" alt="Логотип партнера" src="/upload/resize_cache/iblock/946/mpucgz0w58moid5f1gikgeb6rpftxaam/75_50_1/EAquatics_Logo10.jpg" height="50" class="partners__img"> </a> </li>
+            </ul>
+    <br>
+</section>
+
+
+
+
+
+
+
+
+        
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section class="news-slider" style="background: rgba(0,0,0,.5)">
+
+    
+    <div class="top container">
+
+        <ul class="top__contacts">
+    <li class="top__contacts-item">
+        <a class="top__contacts-link" href="tel: +7(495)637-01-67">
+            <div class="top__contacts-picture">
+                <svg class="top__contacts-icon" width="16" height="15"><use xlink:href="/local/templates/russwimming/img/sprite.svg#phone"></use></svg>
+            </div>
+            <div class="top__contacts-text">+7 (495) 637-01-67</div>
+        </a>
+    </li>
+    <li class="top__contacts-item">
+        <a class="top__contacts-link" href="mailto: office@russwimming.ru">
+            <div class="top__contacts-picture">
+                <svg class="top__contacts-icon" width="16" height="16"><use xlink:href="/local/templates/russwimming/img/sprite.svg#mail"></use></svg>
+            </div>
+            <div class="top__contacts-text">office@russwimming.ru</div>
+        </a>
+    </li>
+</ul>
+
+<a class="button button--red" data-toggle="modal" href="#newsletter">Подписаться на новости</a>
+
+
+    </div>
+
+    <div class="news-slider__controls js-slider-controls" aria-label="Carousel Navigation" tabindex="0">
+        <a class="news-slider__arrow news-slider__arrow--left" data-controls="next" tabindex="-1">
+            <svg class="news-slider__arrow-icon" width="17" height="31"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-thin"></use></svg>
+        </a>
+        <a class="news-slider__arrow news-slider__arrow--right" data-controls="prev" tabindex="-1">
+            <svg class="news-slider__arrow-icon" width="17" height="31"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-thin"></use></svg>
+        </a>
+    </div>
+
+    <ul class="news-slider__list js-tiny-slider"
+        data-controls = "true"
+        data-controls-container = ".js-slider-controls"
+        data-items = "1"
+        data-autoplay = "false"
+        data-autoplay-timeout = "4000"
+        data-speed = "500"
+        data-mouse-drag = "true"
+        data-loop = "true"
+    >
+        
+        <li class="news-slider__item" style="background-image: url('/upload/resize_cache/iblock/982/dlxyx8npv8i022x5x5bky4ny2rvw62u5/1920_1920_1/PR_AS_14_15.jpg'); max-width: ">
+            <a class="news-slider__link" href="/press/news/27876/">
+                <div class="news-slider__title">
+                    Первенство России по синхронному плаванию среди юношей стартует в Чехове                 </div>
+                            </a>
+        </li>
+
+        
+        <li class="news-slider__item" style="background-image: url('/upload/resize_cache/iblock/7c7/rcnczgslb8p0oacy3ljpe9kwyiwazqca/1920_1920_1/Web_logo.png'); max-width: ">
+            <a class="news-slider__link" href="/press/news/27874/">
+                <div class="news-slider__title">
+                    Ольга Брусникина и Светлана Древаль избраны в составы технических комитетов World Aquatics                </div>
+                            </a>
+        </li>
+
+        
+        <li class="news-slider__item" style="background-image: url('/upload/iblock/90c/yrdqe19g0cy45rlaqajulyrs12lgfzrv/ASWC_1.png'); max-width: ">
+            <a class="news-slider__link" href="/press/news/27873/">
+                <div class="news-slider__title">
+                    Майя Дорошко и Александра Шмидт — победители первого этапа Кубка мира по синхронному плаванию 2026 года                 </div>
+                            </a>
+        </li>
+
+        
+        <li class="news-slider__item" style="background-image: url('/upload/iblock/197/25h3h70cknhnfqrk3hlk0qgr5udjgx2v/Water-ball.jpg'); max-width: ">
+            <a class="news-slider__link" href="/press/news/27870/">
+                <div class="news-slider__title">
+                    Жеребьевка первенств Европы по водному поло среди юниорок и юниоров до 21 года                </div>
+                            </a>
+        </li>
+
+        
+        <li class="news-slider__item" style="background-image: url('/upload/iblock/4c0/giraw9omm8wj422wtdmgqwjvbqn5w1c3/RSC_2.jpeg'); max-width: ">
+            <a class="news-slider__link" href="/press/news/27869/">
+                <div class="news-slider__title">
+                    Обнинск примет второй этап Кубка России по плаванию                </div>
+                            </a>
+        </li>
+
+        
+    </ul>
+
+
+    <div class="links">
+        
+
+    <ul class="links__list">
+
+        
+            <li class="links__item">
+                <a class="links__link" href="/press/translations/">
+                    <img class="links__img" src="/upload/iblock/646/2ooph71610rxgd01soww9vomyj776quf/links_broadcasts.png" width="140" height="134" alt="Трансляции соревнований">
+                    <p class="links__text">Трансляции соревнований</p>
+                </a>
+            </li>
+
+        
+            <li class="links__item">
+                <a class="links__link" href="https://russwimming.ru/press/aquatica/">
+                    <img class="links__img" src="/upload/resize_cache/iblock/1c0/askz186n7t4e0lq40t0bibldeak54f4x/142_135_2/akvatika_banner.png" width="140" height="134" alt="Акватика">
+                    <p class="links__text">Акватика</p>
+                </a>
+            </li>
+
+        
+            <li class="links__item">
+                <a class="links__link" href="/antidoping/">
+                    <img class="links__img" src="/upload/resize_cache/iblock/125/iccust96w70xt6rffknhm01x16kzzbfz/142_135_2/antidoping_oblozhka.png" width="140" height="134" alt="Антидопинг">
+                    <p class="links__text">Антидопинг</p>
+                </a>
+            </li>
+
+        
+            <li class="links__item">
+                <a class="links__link" href="https://allswim.ru/catalog/vfp/">
+                    <img class="links__img" src="/upload/iblock/60b/ozxfkas52aoc7wq731pdy7dvm8s7mgyh/suveniry_banner1.jpeg" width="140" height="134" alt="Официальная сувенирная продукция">
+                    <p class="links__text">Официальная сувенирная продукция</p>
+                </a>
+            </li>
+
+        
+    </ul>
+
+
+
+
+
+
+
+
+    </div>
+
+
+</section>
+
+
+
+<div class="content">
+
+    
+
+
+<section class="main-calendar">
+    <div class="block">
+        <div class="block__header">Календарь соревнований</div>
+        <div class="block__body block__body--white block__body--radius-bottom">
+            <ul class="main-calendar__list">
+
+                
+                    
+                        <li class="main-calendar__item main-calendar__item--big">
+                            <a class="main-calendar__link" href="/competitions/kubok-rossii-po-plavaniyu-1-y-etap-2026/">
+                                <picture class="main-calendar__picture">
+                                    <source srcset="/upload/resize_cache/iblock/2b5/rxbowl683qg7uwy2fhmqoxc91dyf9lq2/450_300_2/KR2026_swim1etap_baner.png 1x, /upload/resize_cache/iblock/2b5/rxbowl683qg7uwy2fhmqoxc91dyf9lq2/900_600_2/KR2026_swim1etap_baner.png 2x" media="(max-width: 480px)">
+                                    <img class="main-calendar__img" src="/upload/resize_cache/iblock/331/sebxghcgbpqpzrpecq5wofhj4jifcmi0/1320_290_2/KR2026_swim1etap_baner1.png" width="1320" height="290" alt="">
+                                </picture>
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/chempionat-rossii-po-vodnomu-polo-sredi-zhenskikh-komand-sezon-2025-2026/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/88d/zvlvo8zh7mo2x9rib1nb3igs1fdg33vg/450_300_2/4Rwp_2025_2026_zhen1.png" srcset="/upload/resize_cache/iblock/88d/zvlvo8zh7mo2x9rib1nb3igs1fdg33vg/900_600_2/4Rwp_2025_2026_zhen1.png 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/chempionat-rossii-po-vodnomu-polo-sredi-muzhskikh-komand-sezon-2025-2026/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/778/wlj0r953yd6ixrg4sf6pu71p7e6m23of/450_300_2/4Rwp_2025_2026_man.png" srcset="/upload/resize_cache/iblock/778/wlj0r953yd6ixrg4sf6pu71p7e6m23of/900_600_2/4Rwp_2025_2026_man.png 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/kubok-rossii-po-plavaniyu-2-y-etap-2026/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/b23/jaim669nnfvjiel76i3asivmepr7d8ih/450_300_2/KR2026_swim2etap_baner.png" srcset="/upload/resize_cache/iblock/b23/jaim669nnfvjiel76i3asivmepr7d8ih/900_600_2/KR2026_swim2etap_baner.png 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/vserossiyskie-sorevnovaniya-po-plavaniyu-vserossiyskaya-matchevaya-vstrecha-2026-2/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/bb1/9c763cowulqsabwvbx4wf0rbs9is2be7/450_300_2/vmv2026_msc.png" srcset="/upload/iblock/bb1/9c763cowulqsabwvbx4wf0rbs9is2be7/vmv2026_msc.png 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/pervenstvo-severo-zapadnogo-federalnogo-okruga-po-vodnomu-polo-sredi-devushek-do-17-let/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/ce6/r72klk9g2ih9h9i81uxem0ic7wp5afz0/450_300_2/PRszfo2026_wp_dev17.png" srcset="/upload/resize_cache/iblock/ce6/r72klk9g2ih9h9i81uxem0ic7wp5afz0/900_600_2/PRszfo2026_wp_dev17.png 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/vserossiyskie-sorevnovaniya-po-pryzhkam-v-vodu-lastochki-zhiguley-2026/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/f66/b54edgjmso32pxz2vzj56hpx86gm0oxg/450_300_2/lastochki_zhigulej_2026.png" srcset="/upload/resize_cache/iblock/f66/b54edgjmso32pxz2vzj56hpx86gm0oxg/900_600_2/lastochki_zhigulej_2026.png 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/pervenstvo-rossii-po-sinkhronnomu-plavaniyu-sredi-yunoshey-13-16-let-i-devushek-13-15-let/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/589/4w6q4wzrre6twf7bj64xflzlthps50vc/450_300_2/PR2026_chehov.jpg" srcset="/upload/resize_cache/iblock/589/4w6q4wzrre6twf7bj64xflzlthps50vc/900_600_2/PR2026_chehov.jpg 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+                    
+                        <li class="main-calendar__item">
+                            <a class="main-calendar__link" href="/competitions/vserossiyskie-sorevnovaniya-po-plavaniyu-med-veyv-klassik-2-etap-2026/">
+                                <img class="main-calendar__img" src="/upload/resize_cache/iblock/8d8/7fu3vgfm8ylr0apod8k0ky2oj0j6vzg9/450_300_2/MWCL_march_2026.png" srcset="/upload/iblock/8d8/7fu3vgfm8ylr0apod8k0ky2oj0j6vzg9/MWCL_march_2026.png 2x" width="450" height="300" alt="">
+                            </a>
+                        </li>
+
+                    
+
+                
+            </ul>
+            <a class="link" href="/competitions/">
+                <span class="link__text">Весь календарь</span>
+                <svg class="link__icon" width="50" height="8"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-long"></use></svg>
+            </a>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+<section class="promo">
+    <div class="block">
+        <section class="slider slider--news js-slider">
+            <ul class="slider__list js-tiny-slider"
+                data-nav-container=".js-slider-nav-news"
+                data-controls="false"
+                data-nav="true"
+                data-items="3"
+                data-gutter="40"
+                data-start-index="0"
+                data-loop="true"
+                data-autoplay="true"
+                data-autoplay-timeout = "8000"
+                data-swipe-angle="false"
+                data-speed="500"
+                data-touch="true"
+                data-mouse-drag="true"
+                data-responsive='{
+                               "320": {
+                                   "items": "1",
+                                   "gutter": "15"
+                               },
+                               "680": {
+                                   "items": "2"
+                               },
+                               "960": {
+                                   "items": "3",
+                                   "gutter": "20"
+                               },
+                               "1900": {
+                                   "gutter": "40"
+                               }
+                            }'
+            >
+                <li class="slider__item">
+                    <div class="promo__column promo__column--news">
+                        <div class="block__header block__header--left">Новости</div>
+                        <div class="block__body block__body--white block__body--radius-bottom promo__body">
+
+                            
+
+<ul class="promo__list" data-empty="Блок новостей пуст">
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="/press/news/27876/" >
+
+                                    <img class="promo__img" src="/upload/resize_cache/iblock/982/dlxyx8npv8i022x5x5bky4ny2rvw62u5/114_114_2/PR_AS_14_15.jpg" width="114" height="114" alt="Фото новости">
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        18.02.2026                    </div>
+                    <div class="promo__text">
+                        Первенство России по синхронному плаванию среди юношей стартует в Чехове                     </div>
+                </div>
+            </a>
+        </li>
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="/press/news/27874/" >
+
+                                    <img class="promo__img" src="/upload/resize_cache/iblock/7c7/rcnczgslb8p0oacy3ljpe9kwyiwazqca/114_114_2/Web_logo.png" width="114" height="114" alt="Фото новости">
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        17.02.2026                    </div>
+                    <div class="promo__text">
+                        Ольга Брусникина и Светлана Древаль избраны в составы технических комитетов World Aquatics                    </div>
+                </div>
+            </a>
+        </li>
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="/press/news/27873/" >
+
+                                    <img class="promo__img" src="/upload/resize_cache/iblock/90c/yrdqe19g0cy45rlaqajulyrs12lgfzrv/114_114_2/ASWC_1.png" width="114" height="114" alt="Фото новости">
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        17.02.2026                    </div>
+                    <div class="promo__text">
+                        Майя Дорошко и Александра Шмидт — победители первого этапа Кубка мира по синхронному плаванию 2026 года                     </div>
+                </div>
+            </a>
+        </li>
+
+    
+</ul>
+
+
+
+
+
+
+
+                            <a class="link promo__link " href="/press/news/?heading=news">
+                                <span class="link__text">Смотреть все</span>
+                                <svg class="link__icon" width="50" height="8"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-long"></use></svg>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="slider__item">
+                    <div class="promo__column">
+                        <div class="block__header block__header--left">Важное</div>
+                        <div class="block__body block__body--white block__body--radius-bottom promo__body">
+
+
+                            
+
+<ul class="promo__list" data-empty="Блок новостей пуст">
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="/press/news/27703/" >
+
+                                    <img class="promo__img" src="/upload/resize_cache/iblock/e02/2ybjqfwma5kuwiuibr6fiqolgf3wi87r/114_114_2/Vekovishev.jpg" width="114" height="114" alt="Фото новости">
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        26.01.2026                    </div>
+                    <div class="promo__text">
+                        World Aquatics ратифицировала юниорский рекорд мира Григория Вековищева                    </div>
+                </div>
+            </a>
+        </li>
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="/press/news/27640/" >
+
+                                    <img class="promo__img" src="/upload/resize_cache/iblock/81a/vs2am114qx7zq9hrtm38cs7axno74ob4/114_114_2/Romashina.PNG" width="114" height="114" alt="Фото новости">
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        13.01.2026                    </div>
+                    <div class="promo__text">
+                        Светлана Ромашина назначена главным тренером сборной России по синхронному плаванию                     </div>
+                </div>
+            </a>
+        </li>
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="/press/news/27638/" >
+
+                                    <img class="promo__img" src="/upload/resize_cache/iblock/4dc/tae51qqsru5cdp1kq63vp9jjhhn9ijou/114_114_2/EFI_5569.jpeg" width="114" height="114" alt="Фото новости">
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        06.01.2026                    </div>
+                    <div class="promo__text">
+                        Сербские специалисты возглавят подготовку сборных команд России по водному поло                    </div>
+                </div>
+            </a>
+        </li>
+
+    
+</ul>
+
+
+
+
+
+
+
+                            <a class="link promo__link " href="/press/news/?heading=events">
+                                <span class="link__text">Смотреть все</span>
+                                <svg class="link__icon" width="50" height="8"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-long"></use></svg>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+                <li class="slider__item">
+                    <div class="promo__column">
+                        <div class="block__header block__header--left">Обзор СМИ</div>
+                        <div class="block__body block__body--white block__body--radius-bottom promo__body">
+
+                            
+
+<ul class="promo__list" data-empty="Блок новостей пуст">
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="https://tulapressa.ru/2026/01/v-tulu-s-master-klassom-priexala-dvukratnaya-chempionka-mira-sinxronnogo-plavaniya-anastasiya-baxtyreva/?utm_source=yxnews&utm_medium=desktop&utm_referrer=https%3A%2F%2Fdzen.ru%2Fnews%2Finstory%2Fadb7da76-738e-5a1e-8898-ff31e7da27ee"  target="_blank" >
+
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        15.01.2026                    </div>
+                    <div class="promo__text">
+                        В Тулу с мастер-классами приехала двукратная чемпионка мира по синхронному плаванию Анастасия Бахтырева                    </div>
+                </div>
+            </a>
+        </li>
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="https://www.s-bc.ru/articles/swim-social/?erid=2W5zFHRZgv4"  target="_blank" >
+
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        23.12.2025                    </div>
+                    <div class="promo__text">
+                        S-bc.ru Обучение под заказ                     </div>
+                </div>
+            </a>
+        </li>
+
+    
+        <li class="promo__item">
+            <a class="promo__link" href="https://matchtv.ru/swimming/matchtvnews_NI2277604_Malo_chto_mozhet_vyzvat_takije_emocii_Korotyshkin__o_vozvrashhenii_na_mirovuju_arenu_i_planah_na_2026_j"  target="_blank" >
+
+                
+
+                <div class="promo__content">
+                    <div class="promo__date">
+                        16.12.2025                    </div>
+                    <div class="promo__text">
+                        Matchtv.ru «Мало что может вызвать такие эмоции». Коротышкин — о возвращении на мировую арену и планах на 2026-й                    </div>
+                </div>
+            </a>
+        </li>
+
+    
+</ul>
+
+
+
+
+
+
+
+                            <a class="link promo__link " href="/press/media-review/">
+                                <span class="link__text">Смотреть все</span>
+                                <svg class="link__icon" width="50" height="8"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-long"></use></svg>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <ul class="slider__nav js-slider-nav-news">
+                <li class="slider__nav-item"></li>
+                <li class="slider__nav-item"></li>
+                <li class="slider__nav-item"></li>
+            </ul>
+        </section>
+    </div>
+</section>
+    
+
+
+<section class="birthday" data-birthday="">
+    <div class="block">
+        <div class="block__header">Поздравляем с днём рождения!</div>
+        <div class="block__body block__body--white block__body--radius-bottom">
+
+
+            <ul class="birthday__list">
+
+                
+                    <li class="birthday__item">
+                        <div class="birthday__link">
+                            <img class="birthday__img" src="/upload/resize_cache/iblock/6b6/ht3i1dbhtrxxwtalwviwx827rsfhngd7/200_200_2/fvvsr_logo_1.png" width="150" height="150" alt="Фото персоны">
+                            <div class="birthday__content">
+                                <div class="birthday__title">Кунаков Юрий Александрович</div>
+                                <div class="birthday__text">Серебряный призер Олимпийских игр по прыжкам в воду </div>
+                            </div>
+                        </div>
+                    </li>
+
+                
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+    
+
+
+
+    <section class="main-media">
+    <div class="block">
+        <div class="block__header">Медиа</div>
+        <div class="block__body block__body--white block__body--radius-bottom">
+            <ul class="main-media__list">
+                <li class="main-media__block photos">
+                    <div class="main-media__top">
+                        <div class="main-media__title">Фотогалерея</div>
+                        <a class="link" href="/press/photos/">
+                            <span class="link__text">Вce фото</span>
+                            <svg class="link__icon" width="50" height="8"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-long"></use></svg>
+                        </a>
+                    </div>
+
+                    
+
+                    
+<ul class="main-media__photos-list">
+
+    
+    <li class="photos__item">
+        <a class="photos__link" href="/press/photos/27817/">
+            <picture class="photos__picture">
+                <source srcset="/upload/resize_cache/iblock/c8c/1ozv7n0htt0gljniy9mmgav0xb6v7jo8/462_260_2/ziFFyrOqlb8_JbgYHqws1rj3_D4I5hf1hVv47wqbSLg3wfWG1GlBzhbv_qwMTJi9eOvCJ7BuDTNiEKU5k9JOpumJ.jpg" media="(max-width: 490px)">
+                <source srcset="/upload/resize_cache/iblock/c8c/1ozv7n0htt0gljniy9mmgav0xb6v7jo8/646_364_2/ziFFyrOqlb8_JbgYHqws1rj3_D4I5hf1hVv47wqbSLg3wfWG1GlBzhbv_qwMTJi9eOvCJ7BuDTNiEKU5k9JOpumJ.jpg" media="(max-width: 650px)">
+                <img class="photos__img" src="/upload/resize_cache/iblock/c8c/1ozv7n0htt0gljniy9mmgav0xb6v7jo8/462_260_2/ziFFyrOqlb8_JbgYHqws1rj3_D4I5hf1hVv47wqbSLg3wfWG1GlBzhbv_qwMTJi9eOvCJ7BuDTNiEKU5k9JOpumJ.jpg" alt="Фото альбома">
+            </picture>
+            <div class="photos__content">
+                <h3 class="photos__title">Кубок России по прыжкам в воду 2026</h3>
+            </div>
+        </a>
+    </li>
+
+    
+    <li class="photos__item">
+        <a class="photos__link" href="/press/photos/27722/">
+            <picture class="photos__picture">
+                <source srcset="/upload/resize_cache/iblock/2e3/sd341z611qqkc66ei2x4n4rkjt10ac30/462_260_2/m8xhlE8Mxrwemzbdoqpe_jNVKkEUBWb06BxIuoPn7vrQVL8W2Dh0cWTWJOzNr2YjRYNB9lH362JcCBV7KsvMMgXi.jpg" media="(max-width: 490px)">
+                <source srcset="/upload/resize_cache/iblock/2e3/sd341z611qqkc66ei2x4n4rkjt10ac30/646_364_2/m8xhlE8Mxrwemzbdoqpe_jNVKkEUBWb06BxIuoPn7vrQVL8W2Dh0cWTWJOzNr2YjRYNB9lH362JcCBV7KsvMMgXi.jpg" media="(max-width: 650px)">
+                <img class="photos__img" src="/upload/resize_cache/iblock/2e3/sd341z611qqkc66ei2x4n4rkjt10ac30/462_260_2/m8xhlE8Mxrwemzbdoqpe_jNVKkEUBWb06BxIuoPn7vrQVL8W2Dh0cWTWJOzNr2YjRYNB9lH362JcCBV7KsvMMgXi.jpg" alt="Фото альбома">
+            </picture>
+            <div class="photos__content">
+                <h3 class="photos__title">Первенство России по синхронному плаванию среди юниоров и юниорок 2026</h3>
+            </div>
+        </a>
+    </li>
+
+    
+</ul>
+
+
+
+
+
+
+
+                </li>
+                <li class="main-media__block videos">
+                    <div class="main-media__top">
+                        <div class="main-media__title">Видеогалерея</div>
+                        <a class="link" href="/press/videos/">
+                            <span class="link__text">Вce видео</span>
+                            <svg class="link__icon" width="50" height="8"><use xlink:href="/local/templates/russwimming/img/sprite.svg#arrow-long"></use></svg>
+                        </a>
+                    </div>
+
+                    
+                    
+
+<ul class="main-media__videos-list">
+
+    
+    <li class="videos__item">
+        <a class="videos__link" href="/press/videos/27702/">
+            <picture class="videos__picture">
+                <source srcset="/upload/resize_cache/iblock/ecd/x6mj12n88j8de9lafi5qfege62tl0vbo/462_260_2/kr2026pryzhki_baner_2.jpg" media="(max-width: 480px)">
+                <img class="videos__img" src="/upload/resize_cache/iblock/ecd/x6mj12n88j8de9lafi5qfege62tl0vbo/646_364_2/kr2026pryzhki_baner_2.jpg" width="675" height="380" alt="Превью видео">
+            </picture>
+            <div class="videos__content">
+                <div class="videos__info">
+                    <h3 class="videos__title">Кубок России по прыжкам в воду 2026. День 6</h3>
+                    <div class="videos__text"></div>
+                </div>
+            </div>
+        </a>
+    </li>
+
+    
+    <li class="videos__item">
+        <a class="videos__link" href="/press/videos/27701/">
+            <picture class="videos__picture">
+                <source srcset="/upload/resize_cache/iblock/ecd/x6mj12n88j8de9lafi5qfege62tl0vbo/462_260_2/kr2026pryzhki_baner_2.jpg" media="(max-width: 480px)">
+                <img class="videos__img" src="/upload/resize_cache/iblock/ecd/x6mj12n88j8de9lafi5qfege62tl0vbo/646_364_2/kr2026pryzhki_baner_2.jpg" width="675" height="380" alt="Превью видео">
+            </picture>
+            <div class="videos__content">
+                <div class="videos__info">
+                    <h3 class="videos__title">Кубок России по прыжкам в воду 2026. День 5</h3>
+                    <div class="videos__text"></div>
+                </div>
+            </div>
+        </a>
+    </li>
+
+    
+</ul>
+
+
+
+
+
+
+
+
+
+
+                </li>
+            </ul>
+        </div>
+    </div>
+</section>
+    
+
+
+
+    <section class="socials-main">
+    <div class="block">
+        <ul class="socials-main__list">
+            <!--<li class="socials-main__item socials-main__item--fb">
+                <a class="socials-main__link" href="" target="_blank">
+                    <img class="socials-main__img" src="/img/socials/socials-bg-1.png" width="374" height="374" alt="">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag"></div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/img/sprite.svg#fb-square"></use></svg>
+                        <div class="socials-main__text"></div>
+                    </div>
+                </a>
+            </li>-->
+            <!--<li class="socials-main__item socials-main__item--inst">
+                <a class="socials-main__link" href="" target="_blank">
+                    <img class="socials-main__img" src="/img/socials/socials-bg-2.png" width="374" height="374" alt="">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag"></div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/img/sprite.svg#inst-square"></use></svg>
+                        <div class="socials-main__text"></div>
+                    </div>
+                </a>
+            </li>-->
+            <li class="socials-main__item socials-main__item--tg">
+                <a class="socials-main__link" href="https://t.me/rus_aquatics" target="_blank">
+                    <img class="socials-main__img" src="/local/templates/russwimming/img/socials/socials-bg-2.png" width="374" height="374" alt="Картинка из соц.сети">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag">@rus_aquatics</div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/local/templates/russwimming/img/sprite.svg#tg-square"></use></svg>
+                        <div class="socials-main__text">Подпишитесь на нас в Телеграм-канале</div>
+                    </div>
+                </a>
+            </li>
+            <li class="socials-main__item socials-main__item--rutube">
+                <a class="socials-main__link" href="https://rutube.ru/channel/24808063/" target="_blank">
+                    <img class="socials-main__img" src="/local/templates/russwimming/img/socials/socials-bg-5.png" width="374" height="374" alt="Картинка из соц.сети">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag">@24808063</div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/local/templates/russwimming/img/sprite.svg#rt-square"></use></svg>
+                        <div class="socials-main__text">Подпишитесь на нас в Rutube</div>
+                    </div>
+                </a>
+            </li>
+            <li class="socials-main__item socials-main__item--vk">
+                <a class="socials-main__link" href="https://vk.com/rusaquatics_waterpolo" target="_blank">
+                    <img class="socials-main__img" src="/local/templates/russwimming/img/socials/socials-bg-1.png" width="374" height="374" alt="Картинка из соц.сети">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag">@rusaquatics_waterpolo</div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        <div class="socials-main__text">Подпишитесь на водное поло в VK</div>
+                    </div>
+                </a>
+            </li>
+            <li class="socials-main__item socials-main__item--vk">
+                <a class="socials-main__link" href="https://vk.com/rusaquatics_artswim" target="_blank">
+                    <img class="socials-main__img" src="/local/templates/russwimming/img/socials/socials-bg-3.png" width="374" height="374" alt="Картинка из соц.сети">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag">@rusaquatics_artswim</div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        <div class="socials-main__text">Подпишитесь на синхронное плавание в VK</div>
+                    </div>
+                </a>
+            </li>
+            <li class="socials-main__item socials-main__item--vk">
+                <a class="socials-main__link" href="https://vk.com/rusaquatics_swim" target="_blank">
+                    <img class="socials-main__img" src="/local/templates/russwimming/img/socials/socials-bg-4.png" width="374" height="374" alt="Картинка из соц.сети">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag">@rusaquatics_swim</div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        <div class="socials-main__text">Подпишитесь на плавание в VK</div>
+                    </div>
+                </a>
+            </li>
+
+            <li class="socials-main__item socials-main__item--vk">
+                <a class="socials-main__link" href="https://vk.com/rusaquatics_diving" target="_blank">
+                    <img class="socials-main__img" src="/local/templates/russwimming/img/socials/socials-bg-6.jpg" width="374" height="374" alt="">
+                    <div class="socials-main__content">
+                        <div class="socials-main__tag">@rusaquatics_diving</div>
+                        <svg class="socials-main__icon" width="101" height="101"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                        <div class="socials-main__text">Подпишитесь на прыжки в воду в VK</div>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>
+
+    
+
+
+
+    
+    
+
+
+<section class="sponsors">
+    <div class="block">
+        <div class="block__header">Партнеры и спонсоры</div>
+        <div class="block__body block__body--white block__body--radius-bottom">
+            <ul class="sponsors__list">
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="https://www.uralchem.ru/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/efd/ps208h677q736bz1k8u62006el42b4gu/150_100_1/Uralchem_gpoup4.jpg" width="150" height="100" alt="Уралхим">
+                        <div class="sponsors__text">Генеральный спонсор ФВВСР</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="https://www.madwave.ru/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/d76/6t9b89too2cx17tq4tsrkvg92kytvrbm/150_100_1/620e1c4f6d855.jpg" width="150" height="100" alt="Mad Wave">
+                        <div class="sponsors__text">Спонсор ФВВСР</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="https://www.bwt.ru/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/0b2/o3miyk4ybx9v5r08xuhcau32cewrmvo7/150_100_1/bwt_new.jpg" width="150" height="100" alt="BWT">
+                        <div class="sponsors__text">Спонсор ФВВСР</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="https://www.scf-group.com/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/28f/o4if3axaft34rexff9b6nxw45eh7p12a/150_100_1/61f2fc929bf1a.jpg" width="150" height="100" alt="Совкомфлот">
+                        <div class="sponsors__text">Спонсор ФВВСР</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="http://www.himsintez.ru/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/c6d/cnajqg980jm6oelcpurwrrp3ihoylf5s/150_100_1/himsintez_logo_3.png" width="150" height="100" alt="Химсинтез">
+                        <div class="sponsors__text">Спонсор ФВВСР</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="http://www.minsport.gov.ru/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/86d/wauiu9bewar7a5rt4fh8sv85lpf7zndh/150_100_1/Logo_MR_krest_1.png" width="150" height="100" alt="Министерство спорта России">
+                        <div class="sponsors__text">Министерство спорта России</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="https://www.sport-teams.ru/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/dc3/g8re6mm0qkkwv8uis1xr51o360p97prr/150_100_1/64a6a1b88bfeb.jpg" width="150" height="100" alt="ЦСП">
+                        <div class="sponsors__text">Центр спортивной подготовки сборных команд России</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="https://www.fina.org/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/52f/flrzcwdmfresf4qvauef2t7pok2ucf61/150_100_1/63d44683b95c1.jpg" width="150" height="100" alt="Международная федерация водных видов спорта">
+                        <div class="sponsors__text">Международная федерация водных видов спорта</div>
+                    </a>
+                </li>
+
+                
+                <li class="sponsors__item">
+                    <a class="sponsors__link" href="http://www.len.eu/" target="_blank">
+                        <img class="sponsors__img" src="/upload/resize_cache/iblock/946/mpucgz0w58moid5f1gikgeb6rpftxaam/150_100_1/EAquatics_Logo10.jpg" width="150" height="100" alt="Европейская федерация водных видов спорта">
+                        <div class="sponsors__text">Европейская федерация водных видов спорта</div>
+                    </a>
+                </li>
+
+                
+            </ul>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+        <footer class="footer">
+            <div class="footer__wrapper">
+                <img class="footer__icon" src="/local/templates/russwimming/img/wave-footer.svg" width="1617" height="192" alt="Волна">
+                <div class="footer__container">
+                    <ul class="footer__navigation">
+                        <li class="footer__column hide-1200">
+                            <div class="footer__block">
+                                <div class="footer__item footer__title">О федерации</div>
+                                <a class="footer__item" href="/direction">Руководство</a>
+                                <a class="footer__item" href="/working">Рабочие органы</a>
+                                <a class="footer__item" href="/federations">Региональные федерации плавания</a>
+                                <a class="footer__item" href="/documents">Документы</a>
+                                <a class="footer__item" href="/dev-map">Карта развития</a>
+                            </div>
+                                                    </li>
+                        <li class="footer__column hide-1200">
+                            <div class="footer__block">
+                                <a class="footer__item footer__title" href="/competitions">Календарь соревнований</a>
+                            </div>
+                            <div class="footer__block">
+                                <a class="footer__item footer__title" href="https://rsf.lsport.net/Page/1b14ace6-9f40-4e87-ab31-40d7592a0268">Всероссийский рейтинг</a>
+                            </div>
+                            <div class="footer__block">
+                                <div class="footer__item footer__title">Профессионалам</div>
+                                <a class="footer__item" href="/antidoping">Антидопинг</a>
+                                <a class="footer__item" href="/records">Рекорды</a>
+                                <a class="footer__item" href="/world-aquatics-points">Таблица очков World Aquatics</a>
+                                <a class="footer__item" href="/national-team/swimming">Национальная команда</a>
+                                <a class="footer__item" href="/members/documents">Спортсменам и тренерам</a>
+                                <a class="footer__item" href="/referees/documents">Судьям</a>
+                                <a class="footer__item" href="/training-bases">Тренировочные базы</a>
+                                                            </div>
+                        </li>
+                        <li class="footer__column hide-1200">
+                            <div class="footer__block">
+                                <a class="footer__item footer__title" href="/programs">Программы</a>
+                            </div>
+                            <div class="footer__block">
+                                <a class="footer__item footer__title" href="https://allswim.ru/catalog/vfp/" target="_blank">Сувенирная продукция</a>
+                            </div>
+                            <div class="footer__block">
+                                <a class="footer__item footer__title" href="/press">Пресс-центр</a>
+                                <a class="footer__item" href="/press">Новости</a>
+                                <a class="footer__item" href="/press/media-review">Обзор СМИ</a>
+                                <a class="footer__item" href="/press/translations">Трансляции</a>
+                                <a class="footer__item" href="/press/info">Пресс-кит</a>
+                                <a class="footer__item" href="/press/aquatica">Онлайн-издания</a>
+                                <a class="footer__item" href="/press/photos">Фотогалерея</a>
+                                <a class="footer__item" href="/press/videos">Видеогалерея</a>
+                            </div>
+                        </li>
+                        <li class="footer__column hide-1200">
+                            <div class="footer__block">
+                                <a class="footer__item footer__title" href="/contacts">Контакты</a>
+                            </div>
+                            <div class="footer__item">Адрес: 119991, г. Москва, Лужнецкая набережная, д. 8.</div>
+                            <a class="footer__item" href="tel: +7(495)637-01-67">Телефон: +7 (495) 637-01-67</a>
+                            <a class="footer__item" href="mailto: office@russwimming.ru">E-mail: office@russwimming.ru</a>
+                        </li>
+                        <li class="footer__column footer__column--mobile">
+                            <div class="footer__socials">
+                                <ul class="socials">
+                                    <!--<li class="socials__item">
+                                        <a class="socials__link" href="" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/img/sprite.svg#inst-square"></use></svg>
+                                        </a>
+                                    </li>-->
+                                    <!--<li class="socials__item">
+                                        <a class="socials__link" href="" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/img/sprite.svg#fb-square"></use></svg>
+                                        </a>
+                                    </li>-->
+                                    <li class="socials__item">
+                                        <a class="socials__link" href="https://t.me/rus_aquatics" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#tg-square"></use></svg>
+                                        </a>
+                                    </li>
+                                    <li class="socials__item">
+                                        <a class="socials__link" href="https://rutube.ru/channel/24808063/" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#rt-square"></use></svg>
+                                        </a>
+                                    </li>
+
+                                    <li class="socials__item">
+                                        <a class="socials__link" href="https://vk.com/rusaquatics_waterpolo" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                                        </a>
+                                    </li>
+
+                                    <li class="socials__item">
+                                        <a class="socials__link" href="https://vk.com/rusaquatics_artswim" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                                        </a>
+                                    </li>
+
+                                    <li class="socials__item">
+                                        <a class="socials__link" href="https://vk.com/rusaquatics_swim" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                                        </a>
+                                    </li>
+
+                                    <li class="socials__item">
+                                        <a class="socials__link" href="https://vk.com/rusaquatics_diving" target="_blank">
+                                            <svg class="socials__icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#vk-square"></use></svg>
+                                        </a>
+                                    </li>
+
+
+                                    
+                                </ul>
+                                <!--    <ul class="social">-->
+                                <!--        --><!--            <li class="social__item social__item--vk">-->
+                                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                                <!--                    <svg class="svg-icon--vk" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+                                <!--                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"-->
+                                <!--                         enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                                <!--                        <g><g id="e6c6b53d3c8160b22dad35a0f710525a"><path d="M985.9,763.3c-11.3,12.8-41.5,15.6-41.5,15.6h-161c0,0-22.5,5.3-62.3-36.4c-27.4-28.6-55.5-70.8-77.9-88.3c-13.4-10.5-26-5.2-26-5.2s-23.5,1.1-26,26c-4.4,43.6-10.4,67.5-10.4,67.5s-2.9,18.4-10.4,26c-8,8-20.8,10.4-20.8,10.4S327.4,829,154.9,550.3C30.4,349.3,14.7,290.7,14.7,290.7s-10.6-14.2,0-31.2c11.1-17.9,26-15.6,26-15.6h145.4c0,0,16.1,1.7,26,10.4c10.8,9.5,15.6,26,15.6,26s31.9,77.1,67.5,135c49.3,80.1,72.7,72.7,72.7,72.7s42.5-11.8,15.6-192.2c-3.7-24.9-51.9-31.2-51.9-31.2s-0.4-21.5,10.4-31.2c12.4-11,26-10.4,26-10.4s21.6-3.8,98.7-5.2c39-0.7,67.5,0,67.5,0s19-0.6,41.5,15.6c10.9,7.8,10.4,26,10.4,26s-4.6,130.1,0,197.4c2,28.9,15.6,31.2,15.6,31.2s14.6,11.3,72.7-72.7c36.8-53.2,67.5-129.8,67.5-129.8s7.6-21.9,15.6-31.2c7.6-8.9,20.8-10.4,20.8-10.4h187c0,0,11.5-0.4,15.6,10.4c3.7,9.9,0,31.2,0,31.2s-2,23.5-20.8,51.9C915.7,404.5,830.1,514,830.1,514s-6.4,14.9-5.2,26c1.4,12.2,10.4,20.8,10.4,20.8s64.5,58.4,109.1,109.1c24.1,27.4,41.5,62.3,41.5,62.3S995.1,752.9,985.9,763.3z"></path></g></g>-->
+                                <!--                    </svg>-->
+                                <!--                    <span class="visually-hidden">Вконтакте</span>-->
+                                <!--                </a>-->
+                                <!--            </li>-->
+                                <!--        --><!--        --><!--            <li class="social__item social__item--fb">-->
+                                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                                <!--                    <svg class="svg-icon--fb" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                                <!--                        <g><g transform="translate(0.000000,437.000000) scale(0.100000,-0.100000)"><path d="M5374.2,4245.3c-872.1-112.4-1438.5-640.6-1629.6-1515c-36-168.6-47.2-323.7-56.2-914.8l-13.5-714.8l-474.3-4.5l-474.3-6.7l-6.7-858.6l-4.5-860.9h483.3h483.3v-2450v-2450h1022.7h1022.7v2450v2450h685.5h685.5l9,51.7c6.7,27,42.7,368.6,80.9,757.5c38.2,388.8,76.4,755.2,83.2,815.9l13.5,105.6h-780h-779.9l6.7,591.1c6.7,669.8,18,712.5,182.1,820.4l89.9,60.7l627.1,6.7l624.9,6.8v842.9V4270l-869.9-2.2C5904.7,4265.5,5450.7,4256.5,5374.2,4245.3z"></path></g></g>-->
+                                <!--                    </svg>-->
+                                <!--                    <span class="visually-hidden">Фейсбук</span>-->
+                                <!--                </a>-->
+                                <!--            </li>-->
+                                <!--        --><!--        --><!--            <li class="social__item social__item--instagram">-->
+                                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                                <!--                    <svg class="svg-icon--instagram" width="18" height="18" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+                                <!--                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"-->
+                                <!--                         enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                                <!--                        <g><path d="M759.4,10H240.6C113.8,10,10,113.8,10,240.6v518.8C10,886.2,113.8,990,240.6,990h518.8C886.2,990,990,886.2,990,759.4V240.6C990,113.8,886.2,10,759.4,10z M932.4,759.4c0,95.3-77.6,172.9-172.9,172.9H240.6c-95.3,0-172.9-77.6-172.9-172.9V413.5h184.9c-16.5,35.2-26.3,74-26.3,115.3c0,151,122.8,273.8,273.8,273.8s273.8-122.8,273.8-273.8c0-41.3-9.9-80.1-26.3-115.3h184.9V759.4L932.4,759.4z M716.2,528.8C716.2,648,619.2,745,500,745s-216.2-97-216.2-216.2c0-119.2,97-216.2,216.2-216.2S716.2,409.6,716.2,528.8z M710.5,355.9C660.3,294.8,585.1,255,500,255s-160.3,39.8-210.5,100.9H67.6V240.6c0-95.3,77.6-172.9,172.9-172.9h518.8c95.3,0,172.9,77.6,172.9,172.9v115.3H710.5z M843.2,166.9v74.8c0,17.2-14.1,31.3-31.2,31.3h-78.9c-17.3-0.1-31.4-14.1-31.4-31.3v-74.8c0-17.2,14.1-31.3,31.4-31.3H812C829.2,135.6,843.2,149.7,843.2,166.9z"></path></g>-->
+                                <!--                    </svg>-->
+                                <!--                    <span class="visually-hidden">Инстаграм</span>-->
+                                <!--                </a>-->
+                                <!--            </li>-->
+                                <!--        --><!--        --><!--            <li class="social__item social__item--youtube">-->
+                                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                                <!--                    <svg class="svg-icon--youtube" width="20" height="20" version="1.1" xmlns="http://www.w3.org/2000/svg"-->
+                                <!--                         xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000"-->
+                                <!--                         enable-background="new 0 0 1000 1000" xml:space="preserve">-->
+                                <!--                        <g><g transform="translate(0.000000,228.000000) scale(0.100000,-0.100000)"><path d="M2952.4,909.6c-971.8-32.5-1569.8-81.3-1787.6-146.3c-490.8-146.3-793-539.5-923-1199.3C76.1-1274.4,50.1-3569,193.1-4726c91-734.6,334.8-1186.3,757.3-1391c403-198.3,1342.3-260,4033.4-263.3c1823.3,0,3139.6,39,3623.9,113.8c705.3,110.5,1082.3,594.8,1199.3,1540.6c143,1157,117,3451.6-48.8,4290.1c-126.7,656.5-416,1036.8-906.8,1196C8393.1,909.6,5292.5,987.6,2952.4,909.6z M5367.2-1833.5c799.5-477.8,1452.8-880.8,1452.8-893.8c0-13-653.3-416-1452.8-893.8c-802.8-481-1488.5-893.8-1527.5-919.8l-74.7-45.5v1859v1859.1l74.7-45.5C3878.7-939.7,4564.5-1352.5,5367.2-1833.5z"></path></g></g>-->
+                                <!--                    </svg>-->
+                                <!--                    <span class="visually-hidden">Ютуб</span>-->
+                                <!--                </a>-->
+                                <!--            </li>-->
+                                <!--        --><!--        --><!--            <li class="social__item social__item--telegram">-->
+                                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                                <!--                    <svg class="svg-icon-telegram" width="16" height="16" viewBox="0 -31 512 512" xmlns="http://www.w3.org/2000/svg"><path d="m211 270-40.917969 43.675781 10.917969 76.324219 120-90zm0 0" fill="#c5c5c5"/><path d="m0 180 121 60 90 30 210 180 91-450zm0 0" fill="#ffffff"/><path d="m121 240 60 150 30-120 210-180zm0 0" fill="#ddd"/></svg>-->
+                                <!--                    <span class="visually-hidden">Телеграм</span>-->
+                                <!--                </a>-->
+                                <!--            </li>-->
+                                <!--        --><!--        --><!--            <li class="social__item social__item--ok">-->
+                                <!--                <a class="social__link" href="--><!--" target="_blank">-->
+                                <!--                    <svg class="svg-icon-ok" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 95.481 95.481"><g fill="#FFF"><path d="M43.041 67.254c-7.402-.772-14.076-2.595-19.79-7.064-.709-.556-1.441-1.092-2.088-1.713-2.501-2.402-2.753-5.153-.774-7.988 1.693-2.426 4.535-3.075 7.489-1.682.572.27 1.117.607 1.639.969 10.649 7.317 25.278 7.519 35.967.329 1.059-.812 2.191-1.474 3.503-1.812 2.551-.655 4.93.282 6.299 2.514 1.564 2.549 1.544 5.037-.383 7.016-2.956 3.034-6.511 5.229-10.461 6.761-3.735 1.448-7.826 2.177-11.875 2.661.611.665.899.992 1.281 1.376 5.498 5.524 11.02 11.025 16.5 16.566 1.867 1.888 2.257 4.229 1.229 6.425-1.124 2.4-3.64 3.979-6.107 3.81-1.563-.108-2.782-.886-3.865-1.977-4.149-4.175-8.376-8.273-12.441-12.527-1.183-1.237-1.752-1.003-2.796.071-4.174 4.297-8.416 8.528-12.683 12.735-1.916 1.889-4.196 2.229-6.418 1.15-2.362-1.145-3.865-3.556-3.749-5.979.08-1.639.886-2.891 2.011-4.014 5.441-5.433 10.867-10.88 16.295-16.322.359-.362.694-.746 1.217-1.305z"/><path d="M47.55 48.329c-13.205-.045-24.033-10.992-23.956-24.218C23.67 10.739 34.505-.037 47.84 0c13.362.036 24.087 10.967 24.02 24.478-.068 13.199-10.971 23.897-24.31 23.851zm12.001-24.186c-.023-6.567-5.253-11.795-11.807-11.801-6.609-.007-11.886 5.316-11.835 11.943.049 6.542 5.324 11.733 11.896 11.709 6.552-.023 11.768-5.285 11.746-11.851z"/></g></svg>-->
+                                <!--                    <span class="visually-hidden">Одноклассники</span>-->
+                                <!--                </a>-->
+                                <!--            </li>-->
+                                <!--        --><!--    </ul>-->
+                            </div>
+                            <a class="button button--red" data-toggle="modal" href="#newsletter">Подписаться на новости</a>
+                        </li>
+                    </ul>
+                    <div class="footer__bottom">
+                        <div class="footer__bottom-block footer__bottom-block--rights">
+                            <div class="footer__bottom-text">Copyright © 2013-2026&nbsp;Федерация водных видов спорта России.</div>
+                            <div class="footer__bottom-text">При использовании информации с сайта ссылка на источник обязательна.</div>
+                        </div>
+                        <div class="footer__bottom-block">
+                            Сайт создан компанией
+                            <a class="footer__link" href="https://sommet.ru/" target="_blank">Соммет</a><br><br>
+
+                                                        <div>
+
+                                <!-- Yandex.Metrika informer -->
+                                <a href="https://metrika.yandex.ru/stat/?id=35428685&amp;from=informer"
+                                   target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/35428685/3_0_FFFFFFFF_EFEFEFFF_0_pageviews"
+                                                                       style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="35428685" data-lang="ru" /></a>
+                                <noscript><div><img src="https://mc.yandex.ru/watch/35428685" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+                                <!-- /Yandex.Metrika informer -->
+
+                            </div>
+                            
+                        </div>
+
+
+
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+
+</div>
+
+<div class="modal modal--default js-modal" id="newsletter" role="dialog" tabindex="-1" aria-labelledby="newsletter-title" aria-hidden="true">
+    <button class="modal__close js-modal-close">
+        <svg class="modal__close-icon" width="24" height="24"><use xlink:href="/local/templates/russwimming/img/sprite.svg#close"></use></svg>
+    </button>
+    <div class="modal__container">
+        <h3 class="modal__title">Рассылка ВФП</h3>
+
+        <p class="modal__text">Будьте в курсе последних новостей нашего сайта!</p>
+
+        <form id="newsletter-form" class="form modal-form" action="/" method="post">
+
+            <div class="form__group field-newsletter-email required">
+
+                <input type="email" id="newsletter-email" class="form__input" name="Newsletter[email]" required placeholder="e-mail" aria-required="true">
+
+                <div class="form__error"></div>
+
+
+            </div>
+            <button type="submit" class="button button--red modal-form__button">Подписаться на новости</button>
+        </form>
+    </div>
+</div>
+
+<div class="overlay js-overlay"></div>
+
+
+
+<script src="/bitrix/js/main/jquery/jquery-1.12.4.min.js?168172539697163"></script>
+
+
+<script src="/local/templates/russwimming/plugins/jquery.nicescroll/jquery.nicescroll.min.js?169329288660014"></script>
+<script src="/local/templates/russwimming/plugins/jquery.cookie/jquery.cookie.js?16932928863121"></script>
+<script src="/local/templates/russwimming/plugins/jquery.samselect/jquery.samselect.js?169329288614992"></script>
+<script src="/local/templates/russwimming/js/scripts.js?171230590230956"></script>
+<script src="/local/templates/russwimming/plugins/tiny-slider/tiny-slider.min.js?169329288631742"></script>
+<script>var _ba = _ba || []; _ba.push(["aid", "b122c73aa18d6d5b350aa3ca3a64f487"]); _ba.push(["host", "russwimming.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+</body>
+</html>
